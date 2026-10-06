@@ -1,0 +1,1953 @@
+{
+  "shelf": "stiralnye-mashiny",
+  "slug": "stiralnaya-mashina-vard-vwf514b",
+  "product": {
+    "id": "696047",
+    "article": "160592",
+    "slug": "stiralnaya-mashina-vard-vwf514b",
+    "hasSmartInstallments": false,
+    "isActive": true,
+    "name": {
+      "default": "VARD VWF514B",
+      "full": "Стиральная машина VARD VWF514B",
+      "pseudo": null,
+      "spare": null,
+      "fullWithoutSection": "VARD VWF514B",
+      "section": "Стиральная машина",
+      "__typename": "ProductName"
+    },
+    "price": {
+      "default": 119990,
+      "marketing": null,
+      "old": null,
+      "__typename": "ProductPrice"
+    },
+    "benefit": null,
+    "specifications": {
+      "short": [
+        {
+          "name": "Установка",
+          "value": "отдельностоящая",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Максимальная загрузка белья",
+          "value": "10 кг",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Максимальная скорость отжима",
+          "value": "до 1400 об/мин",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Количество программ",
+          "value": "12",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Глубина",
+          "value": "57 см",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "__typename": "ProductV2Specifications"
+    },
+    "labels": [
+      {
+        "name": "Бонусы Спасибо",
+        "type": "sberspasibo",
+        "items": [
+          {
+            "description": "",
+            "name": "Этот товар можно оплатить бонусами Спасибо от СберБанка",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Акция",
+        "type": "special_offer",
+        "items": [
+          {
+            "description": "",
+            "name": "Уход за одеждой",
+            "url": "/action/ukhod-za-odezhdoy/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Доверьте стирку технике VARD",
+            "url": "/action/doverte-stirku-tekhnike-vard/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "5 000 бонусов за покупки",
+            "url": "/action/5-000-bonusov-za-pokupki/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      }
+    ],
+    "labelsV2": [
+      {
+        "id": "8",
+        "name": "Бонусы Спасибо",
+        "code": "sberspasibo",
+        "mainColor": "#0C9C0C",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#0C9C0C",
+        "altTextColor": "#FFFFFF",
+        "borderAndTextColor": "#0C9C0C",
+        "items": [
+          {
+            "id": "15106",
+            "text": "Этот товар можно оплатить бонусами Спасибо от СберБанка ",
+            "buttonText": "Подробнее",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      },
+      {
+        "id": "5",
+        "name": "Выгода",
+        "code": "vygoda",
+        "mainColor": "#fd9600",
+        "mainTextColor": "#ffffff",
+        "altColor": "#fd9600",
+        "altTextColor": "#ffffff",
+        "borderAndTextColor": "#fd9600",
+        "items": [
+          {
+            "id": "162474",
+            "text": "Выгода 20% при покупке комплекта из стиральной и сушильной машины",
+            "buttonText": "Подробнее",
+            "url": "/action/doverte-stirku-tekhnike-vard/",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      }
+    ],
+    "status": {
+      "id": "IN_STOCK",
+      "name": "В наличии",
+      "type": "POSITIVE",
+      "__typename": "ProductStatus"
+    },
+    "brand": {
+      "code": "vard",
+      "id": "660301",
+      "name": "VARD",
+      "src": "https://cdn1.technopark.ru/technopark/photos_resized/section_brand_300_100/300_100/660301/1_660301.png",
+      "slug": "vard",
+      "sections": [
+        {
+          "name": "Холодильники VARD",
+          "url": "/holodilniki/vard/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1082649532/technopark/photos_resized/product/120_120/684588/1_684588.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/820846387/technopark/photos_resized/product/120_120/684588/2_684588.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/931191594/technopark/photos_resized/product/120_120/684588/3_684588.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1372507314/technopark/photos_resized/product/120_120/684588/4_684588.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1578542793/technopark/photos_resized/product/120_120/684588/5_684588.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2689729186/technopark/photos_resized/product/120_120/684588/6_684588.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3601950800/technopark/photos_resized/product/120_120/684588/7_684588.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1337473514/technopark/photos_resized/product/120_120/684588/8_684588.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2943209716/technopark/photos_resized/product/120_120/684588/9_684588.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1170799929/technopark/photos_resized/product/120_120/684588/10_684588.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2799410399/technopark/photos_resized/product/120_120/684588/11_684588.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2896910348/technopark/photos_resized/product/120_120/684588/12_684588.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3685509274/technopark/photos_resized/product/120_120/684588/13_684588.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2766110224/technopark/photos_resized/product/120_120/684588/14_684588.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Духовые шкафы VARD",
+          "url": "/vstraivaemye-duhovye-shkafy/vard/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1669992445/technopark/photos_resized/product/120_120/795725/1_795725.jpg?timestamp=2025-12-02_15-09-18",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/441890649/technopark/photos_resized/product/120_120/795725/2_795725.jpg?timestamp=2025-12-02_15-09-16",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/751540538/technopark/photos_resized/product/120_120/795725/3_795725.jpg?timestamp=2025-12-02_15-09-15",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1540139436/technopark/photos_resized/product/120_120/795725/4_795725.jpg?timestamp=2025-12-02_15-09-15",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1834059727/technopark/photos_resized/product/120_120/795725/5_795725.jpg?timestamp=2025-12-02_15-09-16",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2978888780/technopark/photos_resized/product/120_120/795725/6_795725.jpg?timestamp=2025-12-02_15-09-32",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3090706535/technopark/photos_resized/product/120_120/795725/7_795725.jpg?timestamp=2025-12-02_15-09-34",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/921802926/technopark/photos_resized/product/120_120/795725/8_795725.jpg?timestamp=2025-12-02_15-09-34",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2828340493/technopark/photos_resized/product/120_120/795725/9_795725.jpg?timestamp=2025-12-02_15-09-35",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/832330935/technopark/photos_resized/product/120_120/795725/10_795725.jpg?timestamp=2025-12-02_15-09-35",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3939952735/technopark/photos_resized/product/120_120/795725/11_795725.jpg?timestamp=2025-12-02_15-09-52",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2053764558/technopark/photos_resized/product/120_120/795725/12_795725.jpg?timestamp=2025-12-02_15-09-53",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Холодильники встраиваемые VARD",
+          "url": "/vstraivaemye-holodilniki/vard/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/12842881/technopark/photos_resized/product/120_120/773844/1_773844.jpg?timestamp=2025-04-30_13-22-22",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3919598260/technopark/photos_resized/product/120_120/773844/2_773844.jpg?timestamp=2025-04-30_13-22-24",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1860171350/technopark/photos_resized/product/120_120/773844/3_773844.jpg?timestamp=2025-04-30_13-22-25",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/236486579/technopark/photos_resized/product/120_120/773844/4_773844.jpg?timestamp=2025-04-30_13-22-25",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4006450861/technopark/photos_resized/product/120_120/773844/5_773844.jpg?timestamp=2025-04-30_13-22-22",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/232716107/technopark/photos_resized/product/120_120/773844/6_773844.jpg?timestamp=2025-04-30_13-22-39",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2319903620/technopark/photos_resized/product/120_120/773844/7_773844.jpg?timestamp=2025-04-30_13-22-42",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4010802330/technopark/photos_resized/product/120_120/773844/8_773844.jpg?timestamp=2025-04-30_13-22-56",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/337804839/technopark/photos_resized/product/120_120/773844/9_773844.jpg?timestamp=2025-04-30_13-22-41",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/16883126/technopark/photos_resized/product/120_120/773844/10_773844.jpg?timestamp=2025-04-30_13-22-55",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1902864697/technopark/photos_resized/product/120_120/773844/11_773844.jpg?timestamp=2025-04-30_13-22-58",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/494111265/technopark/photos_resized/product/120_120/773844/12_773844.jpg?timestamp=2025-04-30_13-22-38",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1786034871/technopark/photos_resized/product/120_120/773844/13_773844.jpg?timestamp=2025-04-30_13-22-38",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1038907142/technopark/photos_resized/product/120_120/773844/14_773844.jpg?timestamp=2025-04-30_13-22-52",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Винные шкафы встраиваемые VARD",
+          "url": "/vstraivaemye-vinnye-shkafy/vard/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1722766999/technopark/photos_resized/product/120_120/687998/1_687998.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2530722531/technopark/photos_resized/product/120_120/687998/2_687998.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2941456005/technopark/photos_resized/product/120_120/687998/3_687998.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/266244953/technopark/photos_resized/product/120_120/687998/4_687998.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/145971008/technopark/photos_resized/product/120_120/687998/5_687998.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2142529494/technopark/photos_resized/product/120_120/687998/6_687998.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3058188228/technopark/photos_resized/product/120_120/687998/7_687998.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Кофемашины встраиваемые VARD",
+          "url": "/vstraivaemye-kofemashiny/vard/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2736750422/technopark/photos_resized/product/120_120/835870/1_835870.jpg?timestamp=2026-07-02_14-40-31",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/974532332/technopark/photos_resized/product/120_120/835870/2_835870.jpg?timestamp=2026-07-02_14-40-31",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2919399324/technopark/photos_resized/product/120_120/835870/3_835870.jpg?timestamp=2026-07-02_14-40-38",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2842672005/technopark/photos_resized/product/120_120/835870/4_835870.jpg?timestamp=2026-07-02_14-40-39",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2863215485/technopark/photos_resized/product/120_120/835870/5_835870.jpg?timestamp=2026-07-02_14-40-32",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1197595305/technopark/photos_resized/product/120_120/835870/6_835870.jpg?timestamp=2026-07-02_14-40-39",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2698639278/technopark/photos_resized/product/120_120/835870/7_835870.jpg?timestamp=2026-07-02_14-40-40",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1292967546/technopark/photos_resized/product/120_120/835870/8_835870.jpg?timestamp=2026-07-02_14-40-31",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1031531253/technopark/photos_resized/product/120_120/835870/9_835870.jpg?timestamp=2026-07-02_14-40-31",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Посудомоечные машины встраиваемые VARD",
+          "url": "/vstraivaemye-posudomoechnye-mashiny/vard/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/442207959/technopark/photos_resized/product/120_120/806443/1_806443.jpg?timestamp=2025-10-17_10-56-01",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1950846720/technopark/photos_resized/product/120_120/806443/2_806443.jpg?timestamp=2025-10-17_10-55-58",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2057045810/technopark/photos_resized/product/120_120/806443/3_806443.jpg?timestamp=2025-10-17_10-56-00",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2828547203/technopark/photos_resized/product/120_120/806443/4_806443.jpg?timestamp=2025-10-17_10-56-16",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2636393013/technopark/photos_resized/product/120_120/806443/5_806443.jpg?timestamp=2025-10-17_10-56-00",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/922525984/technopark/photos_resized/product/120_120/806443/6_806443.jpg?timestamp=2025-10-17_10-56-15",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/228276132/technopark/photos_resized/product/120_120/806443/7_806443.jpg?timestamp=2025-10-17_10-56-00",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Сушильные машины VARD",
+          "url": "/sushilnye-mashiny/vard/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2973225850/technopark/photos_resized/product/120_120/696279/1_696279.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Все аксессуары VARD",
+          "url": "/aksessuary-krupnaya-bytovaya-tehnika/vard/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2308760494/technopark/photos_resized/product/120_120/693370/1_693370.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Стиральные машины с сушкой VARD",
+          "url": "/stiralno-sushilnye-mashiny/vard/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2535721918/technopark/photos_resized/product/120_120/748642/1_748642.jpg?timestamp=2024-10-01_09-28-17",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2012340896/technopark/photos_resized/product/120_120/748642/2_748642.jpg?timestamp=2024-10-01_09-28-18",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3880714033/technopark/photos_resized/product/120_120/748642/3_748642.jpg?timestamp=2024-10-01_09-28-17",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3760405288/technopark/photos_resized/product/120_120/748642/4_748642.jpg?timestamp=2024-10-01_09-28-16",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1141238293/technopark/photos_resized/product/120_120/748642/5_748642.jpg?timestamp=2024-10-01_09-28-42",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/329066404/technopark/photos_resized/product/120_120/748642/6_748642.jpg?timestamp=2024-10-01_09-28-29",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2118626955/technopark/photos_resized/product/120_120/748642/7_748642.jpg?timestamp=2024-10-01_09-28-17",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/53500622/technopark/photos_resized/product/120_120/748642/8_748642.jpg?timestamp=2024-10-01_09-28-30",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3980278754/technopark/photos_resized/product/120_120/748642/9_748642.jpg?timestamp=2024-10-01_09-28-31",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2367556138/technopark/photos_resized/product/120_120/748642/10_748642.jpg?timestamp=2024-10-01_09-28-35",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3569022852/technopark/photos_resized/product/120_120/748642/11_748642.jpg?timestamp=2024-10-01_09-28-41",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2587429748/technopark/photos_resized/product/120_120/748642/12_748642.jpg?timestamp=2024-10-01_09-28-30",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        }
+      ],
+      "__typename": "Brand"
+    },
+    "section": {
+      "slug": "stiralnye-mashiny",
+      "id": "898",
+      "name": "Стиральные машины",
+      "parents": [
+        {
+          "id": "877",
+          "name": "Крупная бытовая",
+          "depth": 1,
+          "__typename": "SectionTreeItem"
+        },
+        {
+          "id": "898",
+          "name": "Стиральные машины",
+          "depth": 2,
+          "__typename": "SectionTreeItem"
+        }
+      ],
+      "__typename": "Section"
+    },
+    "media": {
+      "gallery": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/696047/1_696047.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/696047/2_696047.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/696047/3_696047.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/696047/4_696047.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/696047/5_696047.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/696047/6_696047.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/696047/7_696047.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/696047/8_696047.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/696047/9_696047.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "interior": [],
+      "video": [],
+      "vkVideo": {
+        "path": "https://vk.com/video_ext.php?oid=-72424652&id=456239874&hd=3&hash=c623ac2998f2d088",
+        "height": 900,
+        "width": 1600,
+        "__typename": "Video"
+      },
+      "view3d": [],
+      "listing": {
+        "default": [
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/696047/1_696047.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/696047/2_696047.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/696047/3_696047.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/696047/4_696047.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/696047/5_696047.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/696047/6_696047.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/696047/7_696047.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/696047/8_696047.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/696047/9_696047.jpg",
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "ProductListing"
+      },
+      "__typename": "ProductV2Media"
+    },
+    "modifications": {
+      "bigBrother": null,
+      "groups": [
+        {
+          "name": "Цвет",
+          "items": [
+            {
+              "value": "белый",
+              "product": {
+                "slug": "stiralnaya-mashina-vard-vwf514",
+                "article": "160328",
+                "name": {
+                  "default": "VARD VWF514",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "IN_STOCK",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/695325/1_695325.jpg?timestamp=2024-09-26_11-16-44",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/695325/2_695325.jpg?timestamp=2024-09-26_11-16-59",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/695325/3_695325.jpg?timestamp=2024-09-26_11-16-43",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/695325/4_695325.jpg?timestamp=2024-09-26_11-16-42",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/695325/5_695325.jpg?timestamp=2024-09-26_11-16-46",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/695325/6_695325.jpg?timestamp=2024-09-26_11-16-49",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/695325/7_695325.jpg?timestamp=2024-09-26_11-17-03",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/695325/8_695325.jpg?timestamp=2024-09-26_11-17-07",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/695325/9_695325.jpg?timestamp=2024-09-26_11-16-59",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/695325/10_695325.jpg?timestamp=2024-09-26_11-17-18",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/695325/11_695325.jpg?timestamp=2024-09-26_11-17-21",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/695325/12_695325.jpg?timestamp=2024-09-26_11-17-02",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/695325/13_695325.jpg?timestamp=2024-09-26_11-17-17",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/695325/14_695325.jpg?timestamp=2024-09-26_11-17-18",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            },
+            {
+              "value": "серый",
+              "product": {
+                "slug": "stiralnaya-mashina-vard-vwf514b",
+                "article": "160592",
+                "name": {
+                  "default": "VARD VWF514B",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "IN_STOCK",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/696047/1_696047.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/696047/2_696047.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/696047/3_696047.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/696047/4_696047.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/696047/5_696047.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/696047/6_696047.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/696047/7_696047.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/696047/8_696047.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/696047/9_696047.jpg",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            }
+          ],
+          "__typename": "ProductV2ModificationGroup"
+        }
+      ],
+      "__typename": "ProductModifications"
+    },
+    "description": {
+      "hasDescription": false,
+      "type": "DEFAULT",
+      "__typename": "ProductDescription"
+    },
+    "collection": {
+      "id": "696047",
+      "products": {
+        "pagination": {
+          "total": 0,
+          "__typename": "Pagination"
+        },
+        "__typename": "ProductV2Pagination"
+      },
+      "__typename": "ProductCollection"
+    },
+    "similar": {
+      "pagination": {
+        "total": 20,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "related": {
+      "pagination": {
+        "total": 20,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "accessories": [
+      {
+        "products": {
+          "pagination": {
+            "total": 19,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      }
+    ],
+    "rating": {
+      "average": 5,
+      "canRate": false,
+      "total": {
+        "all": 3,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 3,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "reviews": {
+      "total": 3,
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "totalRecommendations": 1,
+      "__typename": "ProductReviews"
+    },
+    "bestCredit": {
+      "monthPayment": 5000,
+      "type": "DEFERRED_PAYMENT",
+      "__typename": "ProductBestCredit"
+    },
+    "isSpare": false,
+    "isService": false,
+    "isVipService": false,
+    "isGiftBonusCard": false,
+    "canBuy": true,
+    "canPayOnline": true,
+    "canRequestPrice": false,
+    "canShowPrice": true,
+    "canSubscribe": false,
+    "needPrepaymentForDelivery": false,
+    "needPrepaymentForPreorder": false,
+    "isSberSpasiboPayAvailable": true,
+    "isYandexPayAllowed": false,
+    "yandexSplit": {
+      "payments": [
+        {
+          "amount": 0,
+          "date": "2026-08-17T08:59:41+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 10001,
+          "date": "2026-08-31T08:59:41+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 9999,
+          "date": "2026-09-14T08:59:41+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 9999,
+          "date": "2026-09-28T08:59:41+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 9999,
+          "date": "2026-10-12T08:59:41+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 9999,
+          "date": "2026-10-26T08:59:41+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 9999,
+          "date": "2026-11-09T08:59:41+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 9999,
+          "date": "2026-11-23T08:59:41+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 9999,
+          "date": "2026-12-07T08:59:41+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 9999,
+          "date": "2026-12-21T08:59:41+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 9999,
+          "date": "2027-01-04T08:59:41+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 9999,
+          "date": "2027-01-18T08:59:41+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 9999,
+          "date": "2027-02-01T08:59:41+0300",
+          "__typename": "YandexSplitPayment"
+        }
+      ],
+      "firstPayment": 0,
+      "restPayment": 119990,
+      "description": "https://yandex.ru/support/split/",
+      "maxAmount": 295000,
+      "__typename": "YandexSplit"
+    },
+    "seo": {
+      "description": "Стиральная машина VARD VWF514B: купить в интернет-магазине Технопарк с расширенной гарантией и бесплатной доставкой по РФ. Подробные характеристики товара с отзывами реальных покупателей.",
+      "text": "Вы можете купить стиральную машину VARD VWF514B с доставкой по Москве по низкой цене. В интернет-магазине Technopark.ru осуществляется продажа стиральной машины VARD VWF514B на выгодных условиях.",
+      "textHidden": "",
+      "title": "Стиральная машина VARD VWF514B - купить в Москве в интернет-магазине Технопарк",
+      "__typename": "SeoData"
+    },
+    "breadcrumbs": [
+      {
+        "name": "Главная",
+        "url": "/",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Крупная бытовая техника",
+        "url": "/krupnaya-bytovaya-tehnika/",
+        "options": [
+          {
+            "name": "Центр инноваций",
+            "url": "/tovary-iz-budushchego/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Смартфоны и гаджеты",
+            "url": "/smartfony-i-gadzhety/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Компьютеры и ноутбуки",
+            "url": "/kompyutery-i-noutbuki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Климатическая техника",
+            "url": "/klimaticheskaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Техника для кухни",
+            "url": "/dlya-kuhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Бытовая техника для дома",
+            "url": "/dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для красоты и здоровья",
+            "url": "/krasota-i-zdorovye/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Спортивные товары",
+            "url": "/trenazhery-dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Телевизоры Аудио Hi-Fi",
+            "url": "/audio-video-foto/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для сада, дома и ремонта",
+            "url": "/dlya-sada-doma-i-remonta/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посуда",
+            "url": "/posuda/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Детские товары",
+            "url": "/detskie-tovary/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для гейминга",
+            "url": "/gaming/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Плоттеры и услуги розницы",
+            "url": "//",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Запасные части",
+            "url": "/zapasnie-chasti/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Стиральные машины",
+        "url": "/stiralnye-mashiny/",
+        "options": [
+          {
+            "name": "Встраиваемые варочные панели",
+            "url": "/vstraivaemye-varochnye-poverhnosti/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные плиты",
+            "url": "/plity/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Холодильники",
+            "url": "/holodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые духовые шкафы",
+            "url": "/vstraivaemye-duhovye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вытяжки для кухни",
+            "url": "/vytyazhki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посудомоечные машины",
+            "url": "/posudomoechnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые холодильники",
+            "url": "/vstraivaemye-holodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые винные шкафы",
+            "url": "/vstraivaemye-vinnye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые вытяжки для кухни",
+            "url": "/vstraivaemye-vytyazhki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые кофемашины",
+            "url": "/vstraivaemye-kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые морозильные камеры",
+            "url": "/vstraivaemye-morozilnye-kamery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые пароварки",
+            "url": "/vstraivaemye-parovarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые посудомоечные машины",
+            "url": "/vstraivaemye-posudomoechnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые стиральные машины",
+            "url": "/vstraivaemye-stiralnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Сушильные машины для белья",
+            "url": "/sushilnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые микроволновые печи",
+            "url": "/vstraivaemye-mikrovolnovye-pechi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Морозильные камеры",
+            "url": "/morozilnye-kamery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Винные шкафы",
+            "url": "/vinnye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые шкафы для подогрева",
+            "url": "/shkafy-dlya-podogreva-posudy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Стиральные машины с функцией сушки (2 в 1)",
+            "url": "/stiralno-sushilnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые вакууматоры",
+            "url": "/vakuumatory/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Измельчители пищевых отходов",
+            "url": "/vstraivaemye-izmelchiteli-pischevyh-othodov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Автохолодильники",
+            "url": "/avtoholodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для крупной бытовой техники",
+            "url": "/aksessuary-krupnaya-bytovaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для холодильников",
+            "url": "/aksessuary-krupnaya-bytovaya-tehnika/filt_naznachenie-k_holodilnikam/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для автохолодильников",
+            "url": "/aksessuary-dlya-avtokholodilnikov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Хьюмидоры",
+            "url": "/khyumidory/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Стиральные машины VARD",
+        "url": "/stiralnye-mashiny/vard/",
+        "options": [
+          {
+            "name": "LG",
+            "url": "/stiralnye-mashiny/lg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Electrolux",
+            "url": "/stiralnye-mashiny/electrolux/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Haier",
+            "url": "/stiralnye-mashiny/haier/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Korting",
+            "url": "/stiralnye-mashiny/korting/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Samsung",
+            "url": "/stiralnye-mashiny/samsung/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Bosch",
+            "url": "/stiralnye-mashiny/bosch/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Indesit",
+            "url": "/stiralnye-mashiny/indesit/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Midea",
+            "url": "/stiralnye-mashiny/midea/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Maunfeld",
+            "url": "/stiralnye-mashiny/maunfeld/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Beko",
+            "url": "/stiralnye-mashiny/beko/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Candy",
+            "url": "/stiralnye-mashiny/candy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Asko",
+            "url": "/stiralnye-mashiny/asko/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "AEG",
+            "url": "/stiralnye-mashiny/aeg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Hotpoint",
+            "url": "/stiralnye-mashiny/hotpoint/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Gorenje",
+            "url": "/stiralnye-mashiny/gorenje/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Schulthess",
+            "url": "/stiralnye-mashiny/schulthess/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Kuppersberg",
+            "url": "/stiralnye-mashiny/kuppersberg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Toshiba",
+            "url": "/stiralnye-mashiny/toshiba/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Miele",
+            "url": "/stiralnye-mashiny/miele/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Hisense",
+            "url": "/stiralnye-mashiny/hisense/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Smeg",
+            "url": "/stiralnye-mashiny/smeg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Whirlpool",
+            "url": "/stiralnye-mashiny/whirlpool/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Panasonic",
+            "url": "/stiralnye-mashiny/panasonic/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "V-ZUG",
+            "url": "/stiralnye-mashiny/v_zug/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Kuppersbusch",
+            "url": "/stiralnye-mashiny/kuppersbusch/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Roborock",
+            "url": "/stiralnye-mashiny/roborock/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Casarte",
+            "url": "/stiralnye-mashiny/casarte/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Siemens",
+            "url": "/stiralnye-mashiny/siemens/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "TCL",
+            "url": "/stiralnye-mashiny/tcl/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Brandt",
+            "url": "/stiralnye-mashiny/brandt/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Viomi",
+            "url": "/stiralnye-mashiny/viomi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Hyundai",
+            "url": "/stiralnye-mashiny/hyundai/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Dreame",
+            "url": "/stiralnye-mashiny/dreame/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "VARD VWF514B",
+        "url": "stiralnaya-mashina-vard-vwf514b",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      }
+    ],
+    "isArchive": false,
+    "__typename": "ProductV2",
+    "isSberPayOneClickAllowed": false,
+    "isTinkoffPayOneClickAllowed": false,
+    "bonus": null
+  },
+  "details": {
+    "description": "",
+    "descriptionType": "DEFAULT",
+    "descriptionBarcode": "4607097711190",
+    "descriptionBrand": "VARD",
+    "specifications": {
+      "short": [
+        {
+          "name": "Установка",
+          "value": "отдельностоящая",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Максимальная загрузка белья",
+          "value": "10 кг",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Максимальная скорость отжима",
+          "value": "до 1400 об/мин",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Количество программ",
+          "value": "12",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Глубина",
+          "value": "57 см",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "barcode": "4607097711190",
+      "country": "Китай",
+      "full": [
+        {
+          "name": "Основные характеристики",
+          "list": [
+            {
+              "name": "Установка",
+              "value": "отдельностоящая",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Конструкция стиральной машины",
+              "value": "полноразмерная",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество барабанов",
+              "value": "1",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип двигателя",
+              "value": "инверторный",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Основной барабан",
+          "list": [
+            {
+              "name": "Тип загрузки",
+              "value": "фронтальная",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Поверхность барабана",
+              "value": "соты",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная загрузка белья",
+              "value": "10 кг",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная скорость отжима",
+              "value": "до 1400 об/мин",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Класс стирки",
+              "value": "A",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Класс отжима",
+              "value": "A",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Уровень шума при стирке",
+              "value": "62 дБ",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Уровень шума при отжиме",
+              "value": "72 дБ",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Управление",
+          "list": [
+            {
+              "name": "Тип управления",
+              "value": "электронное",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Переключатели",
+              "value": "сенсорные",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Размещение панели управления",
+              "value": "вертикальное",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество программ",
+              "value": "12",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Программы",
+              "value": "смешанные ткани, быстрая 15 мин, хлопок, шёлк, шерсть, детские вещи, куртки, антиаллергия, полоскание + отжим, отжим, быстрая 45 мин",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Программа очистки барабана",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дополнительные программы",
+              "value": "ополаскивание, тихий режим, UV луч",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Функция пар",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Температурные режимы",
+          "list": [
+            {
+              "name": "Регулировка температуры стирки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество температурных режимов",
+              "value": "6",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Минимальная температура воды",
+              "value": "20 °С",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная температура воды",
+              "value": "95 °С",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Дисплей",
+          "list": [
+            {
+              "name": "Цифровой дисплей",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип дисплея",
+              "value": "LED",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Таймер",
+          "list": [
+            {
+              "name": "Таймер отсрочки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальное время отсрочки стирки",
+              "value": "24 ч",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Индикация",
+          "list": [
+            {
+              "name": "Индикация времени до конца программы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация температуры",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация скорости отжима",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация блокировки дверцы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация ошибок",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация включения/паузы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация выбора дополнительных функций",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация времени отложенного старта",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Отжим",
+          "list": [
+            {
+              "name": "Регулировка скорости отжима",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автоматический контроль загрузки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Защита и безопасность",
+          "list": [
+            {
+              "name": "Защита от детей",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Защита от протечек",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Система защиты от протечек",
+              "value": "частичная",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Блокировка люка во время работы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Контроль пенообразования",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Энергопотребление",
+          "list": [
+            {
+              "name": "Класс энергопотребления",
+              "value": "A+",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Энергопотребление за цикл",
+              "value": "1.1 кВт/ч",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Напряжение",
+              "value": "220 В",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Особенности конструкции",
+          "list": [
+            {
+              "name": "Подсветка барабана",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автоматический дозатор моющего средства",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Направление открывания люка",
+              "value": "влево",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Диаметр загрузочного люка",
+              "value": "36 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автоматическое открытие двери",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Регулируемые ножки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Прорезиненные ножки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Дополнительные функции",
+          "list": [
+            {
+              "name": "Самодиагностика",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автобаланс",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автовзвешивание белья",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дополнительная информация",
+              "value": "возможность изменения времени программ, конструкция барабана DrumSafe",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Цвет и материал",
+          "list": [
+            {
+              "name": "Цвет",
+              "value": "серый",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет дверцы люка",
+              "value": "чёрный, медный",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал бака",
+              "value": "пластик",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Комплектация",
+          "list": [
+            {
+              "name": "Шланг подачи воды",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Сливной шланг",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Сетевой кабель",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Гаечный ключ",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Заглушка",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Инструкция",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Размеры и вес",
+          "list": [
+            {
+              "name": "Высота",
+              "value": "85 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ширина",
+              "value": "59.5 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Глубина",
+              "value": "57 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вес",
+              "value": "81 кг",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        }
+      ],
+      "grossWeight": "84",
+      "netWeight": "81",
+      "height": "0.8",
+      "instructionUrl": "https://storage.yandexcloud.net/technopark.instructions/696047/instruction/instruction-stiralnaya-mashina-vard-vwf514b.pdf",
+      "length": "0.7",
+      "schemeUrl": null,
+      "warranty": "24",
+      "width": "0.7",
+      "__typename": "ProductV2Specifications"
+    },
+    "certificates": ["https://www.technopark.ru/bipublic/Cert/IG0G15DFG4NG11.pdf"],
+    "isManufacturerCountry": false,
+    "isSellerWarranty": false,
+    "reviews": {
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "total": 3,
+      "totalRecommendations": 1,
+      "__typename": "ProductReviews"
+    },
+    "rating": {
+      "average": 5,
+      "canRate": false,
+      "total": {
+        "all": 3,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 3,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "isLoading": false
+  },
+  "shots": [
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/696047/1_696047.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/696047/1_696047.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/696047/2_696047.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/696047/2_696047.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/696047/3_696047.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/696047/3_696047.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/696047/4_696047.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/696047/4_696047.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/696047/5_696047.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/696047/5_696047.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/696047/6_696047.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/696047/6_696047.jpg"
+    ]
+  ],
+  "photos": [
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/stiralnaya-mashina-vard-vwf514b-1.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/stiralnaya-mashina-vard-vwf514b-2.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/stiralnaya-mashina-vard-vwf514b-3.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/stiralnaya-mashina-vard-vwf514b-4.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/stiralnaya-mashina-vard-vwf514b-5.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/stiralnaya-mashina-vard-vwf514b-6.jpg"
+  ]
+}

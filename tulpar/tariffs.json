@@ -1,0 +1,528 @@
+{
+  "routes": [
+    {
+      "key": "bishkek",
+      "city": "Бишкек",
+      "name": {
+        "ru": "По Бишкеку",
+        "en": "Around Bishkek"
+      },
+      "tiers": [
+        {
+          "upTo": 1,
+          "price": 150
+        },
+        {
+          "upTo": 5,
+          "price": 200
+        },
+        {
+          "upTo": 10,
+          "price": 280
+        },
+        {
+          "upTo": 20,
+          "price": 380
+        }
+      ],
+      "extraPerKg": 15,
+      "volumeDivisor": 5000,
+      "daysMin": 0,
+      "daysMax": 1,
+      "insurance": 0.5
+    },
+    {
+      "key": "bishkek-suburbs",
+      "city": "Бишкек",
+      "name": {
+        "ru": "Пригороды Бишкека",
+        "en": "Bishkek suburbs"
+      },
+      "tiers": [
+        {
+          "upTo": 5,
+          "price": 320
+        },
+        {
+          "upTo": 10,
+          "price": 420
+        },
+        {
+          "upTo": 20,
+          "price": 560
+        }
+      ],
+      "extraPerKg": 20,
+      "volumeDivisor": 5000,
+      "daysMin": 0,
+      "daysMax": 1,
+      "insurance": 0.5
+    },
+    {
+      "key": "bishkek-osh",
+      "city": "Ош",
+      "name": {
+        "ru": "Бишкек — Ош",
+        "en": "Bishkek — Osh"
+      },
+      "tiers": [
+        {
+          "upTo": 5,
+          "price": 350
+        },
+        {
+          "upTo": 10,
+          "price": 500
+        },
+        {
+          "upTo": 30,
+          "price": 900
+        }
+      ],
+      "extraPerKg": 25,
+      "volumeDivisor": 5000,
+      "daysMin": 1,
+      "daysMax": 2,
+      "insurance": 0.8,
+      "departs": [
+        2,
+        5
+      ],
+      "insuranceMin": 50,
+      "insuranceFrom": 3000
+    },
+    {
+      "key": "bishkek-almaty",
+      "city": "Алматы",
+      "name": {
+        "ru": "Бишкек — Алматы",
+        "en": "Bishkek — Almaty"
+      },
+      "tiers": [
+        {
+          "upTo": 5,
+          "price": 600
+        },
+        {
+          "upTo": 10,
+          "price": 850
+        },
+        {
+          "upTo": 30,
+          "price": 1500
+        }
+      ],
+      "extraPerKg": 40,
+      "volumeDivisor": 5000,
+      "daysMin": 1,
+      "daysMax": 2,
+      "insurance": 1,
+      "departs": [
+        3
+      ]
+    },
+    {
+      "key": "bishkek-tashkent",
+      "city": "Ташкент",
+      "name": {
+        "ru": "Бишкек — Ташкент",
+        "en": "Bishkek — Tashkent"
+      },
+      "tiers": [
+        {
+          "upTo": 5,
+          "price": 900
+        },
+        {
+          "upTo": 10,
+          "price": 1300
+        },
+        {
+          "upTo": 30,
+          "price": 2400
+        }
+      ],
+      "extraPerKg": 65,
+      "volumeDivisor": 5000,
+      "insurance": 1,
+      "legs": [
+        {
+          "to": "Шымкент",
+          "days": 1,
+          "name": {
+            "ru": "Шымкент",
+            "en": "Shymkent"
+          }
+        },
+        {
+          "to": "Ташкент",
+          "days": 1,
+          "name": {
+            "ru": "Ташкент",
+            "en": "Tashkent"
+          }
+        }
+      ],
+      "departs": [
+        4
+      ]
+    },
+    {
+      "key": "guangzhou-road",
+      "city": "Бишкек",
+      "name": {
+        "ru": "Гуанчжоу — Бишкек, авто",
+        "en": "Guangzhou — Bishkek, by road"
+      },
+      "currency": "USD",
+      "density": [
+        {
+          "from": 0,
+          "price": 330,
+          "per": "m3"
+        },
+        {
+          "from": 100,
+          "price": 3.2,
+          "per": "kg"
+        },
+        {
+          "from": 200,
+          "price": 2.7,
+          "per": "kg"
+        },
+        {
+          "from": 400,
+          "price": 2.3,
+          "per": "kg"
+        }
+      ],
+      "insurance": 2,
+      "legs": [
+        {
+          "to": "Кашгар",
+          "days": 8,
+          "name": {
+            "ru": "Кашгар",
+            "en": "Kashgar"
+          }
+        },
+        {
+          "to": "Бишкек",
+          "days": 8,
+          "name": {
+            "ru": "Бишкек",
+            "en": "Bishkek"
+          }
+        }
+      ],
+      "minPrice": 5,
+      "weightStep": 0.5
+    },
+    {
+      "key": "guangzhou-air",
+      "city": "Бишкек",
+      "name": {
+        "ru": "Гуанчжоу — Бишкек, авиа",
+        "en": "Guangzhou — Bishkek, by air"
+      },
+      "currency": "USD",
+      "extraPerKg": 9.5,
+      "volumeDivisor": 6000,
+      "daysMin": 5,
+      "daysMax": 8,
+      "insurance": 1.5
+    }
+  ],
+  "storage": {
+    "receive": 5,
+    "pick": 40,
+    "pack": 30,
+    "keep": 2
+  },
+  "delivery": {
+    "attempts": 3,
+    "holdDays": 7,
+    "storageFreeDays": 5,
+    "storagePerDay": 30
+  },
+  "carriage": {
+    "returnShare": 50
+  },
+  "cargo": {
+    "prefix": "TLP",
+    "combine": true,
+    "depots": [
+      {
+        "name": {
+          "ru": "Склад в Гуанчжоу",
+          "en": "Guangzhou warehouse"
+        },
+        "note": {
+          "ru": "Код в строке получателя и в адресе: по нему посылку узнают на приёмке.",
+          "en": "The code goes into the consignee line and the address: that is how the parcel is recognised at intake."
+        },
+        "consignee": "图尔帕 {code}",
+        "phone": "+86 20 3871 4406",
+        "region": "广东省 广州市 白云区",
+        "address": "石井街道 石沙路 168号 B栋 3号仓 {code}",
+        "zip": "510430",
+        "route": "guangzhou-road"
+      }
+    ],
+    "unknownDays": 60,
+    "repackFee": 150,
+    "returnFee": 500,
+    "disposeFee": 200,
+    "holdAnswerDays": 14,
+    "layouts": [
+      {
+        "name": "Taobao",
+        "fields": [
+          {
+            "label": "收货人",
+            "value": "{consignee}"
+          },
+          {
+            "label": "手机号码",
+            "value": "{phone}"
+          },
+          {
+            "label": "所在地区",
+            "value": "{region}"
+          },
+          {
+            "label": "详细地址",
+            "value": "{address}"
+          },
+          {
+            "label": "邮政编码",
+            "value": "{zip}"
+          }
+        ]
+      },
+      {
+        "name": "Pinduoduo",
+        "fields": [
+          {
+            "label": "收货人",
+            "value": "{consignee}"
+          },
+          {
+            "label": "手机号码",
+            "value": "{phone}"
+          },
+          {
+            "label": "所在地区",
+            "value": "{region}"
+          },
+          {
+            "label": "详细地址",
+            "value": "{address}"
+          }
+        ]
+      },
+      {
+        "name": "1688",
+        "fields": [
+          {
+            "label": "收货人",
+            "value": "{consignee}"
+          },
+          {
+            "label": "所在地区",
+            "value": "{region}"
+          },
+          {
+            "label": "详细地址",
+            "value": "{address}"
+          },
+          {
+            "label": "邮编",
+            "value": "{zip}"
+          },
+          {
+            "label": "手机",
+            "value": "{phone}"
+          }
+        ]
+      }
+    ]
+  },
+  "restrictions": [
+    {
+      "kind": "banned",
+      "name": {
+        "ru": "Оружие, боеприпасы и их части",
+        "en": "Weapons, ammunition and their parts"
+      },
+      "note": {
+        "ru": "Включая пневматику, арбалеты, прицелы и макеты.",
+        "en": "Including air guns, crossbows, scopes and replicas."
+      },
+      "words": [
+        "нож",
+        "оружие",
+        "патрон",
+        "knife",
+        "weapon"
+      ]
+    },
+    {
+      "kind": "banned",
+      "name": {
+        "ru": "Горючие жидкости и аэрозоли",
+        "en": "Flammable liquids and aerosols"
+      },
+      "note": {
+        "ru": "Растворители, краска в баллонах, газ для зажигалок, лак для волос.",
+        "en": "Solvents, spray paint, lighter gas, hairspray."
+      },
+      "words": [
+        "аэрозоль",
+        "лак для волос",
+        "бензин",
+        "зажигалк",
+        "aerosol",
+        "lighter",
+        "spray"
+      ]
+    },
+    {
+      "kind": "banned",
+      "name": {
+        "ru": "Лекарства и биодобавки",
+        "en": "Medicines and supplements"
+      },
+      "note": {
+        "ru": "Без разрешения на ввоз граница их не пропускает.",
+        "en": "The border does not let them through without an import permit."
+      },
+      "words": [
+        "лекарств",
+        "таблетк",
+        "витамин",
+        "бад",
+        "medicine",
+        "pills",
+        "vitamin"
+      ]
+    },
+    {
+      "kind": "banned",
+      "name": {
+        "ru": "Копии известных марок",
+        "en": "Copies of well-known brands"
+      },
+      "note": {
+        "ru": "Партию задерживает таможня вместе со всем, что едет рядом.",
+        "en": "Customs holds the lot together with everything travelling beside it."
+      },
+      "words": [
+        "реплика",
+        "копия",
+        "replica",
+        "copy"
+      ]
+    },
+    {
+      "kind": "banned",
+      "name": {
+        "ru": "Наличные деньги и ценные бумаги",
+        "en": "Cash and securities"
+      },
+      "words": [
+        "наличные",
+        "деньги",
+        "cash"
+      ]
+    },
+    {
+      "kind": "surcharge",
+      "basis": "weight",
+      "surcharge": 15000,
+      "name": {
+        "ru": "Аккумуляторы и пауэрбанки",
+        "en": "Batteries and power banks"
+      },
+      "note": {
+        "ru": "Едут отдельным местом в несгораемой таре.",
+        "en": "Travel as a separate package in fireproof packing."
+      },
+      "words": [
+        "power bank",
+        "powerbank",
+        "павербанк",
+        "пауэрбанк",
+        "аккумулятор",
+        "батаре",
+        "battery"
+      ]
+    },
+    {
+      "kind": "surcharge",
+      "basis": "percent",
+      "surcharge": 25,
+      "name": {
+        "ru": "Жидкости и косметика",
+        "en": "Liquids and cosmetics"
+      },
+      "note": {
+        "ru": "Каждый флакон запаивается в плёнку, коробка получает вкладыш.",
+        "en": "Every bottle is sealed in film and the box is given an insert."
+      },
+      "words": [
+        "духи",
+        "парфюм",
+        "крем",
+        "шампун",
+        "косметик",
+        "perfume",
+        "cream",
+        "shampoo"
+      ]
+    },
+    {
+      "kind": "surcharge",
+      "basis": "sum",
+      "surcharge": 50000,
+      "name": {
+        "ru": "Стекло, керамика и зеркала",
+        "en": "Glass, ceramics and mirrors"
+      },
+      "note": {
+        "ru": "Обрешётка входит в надбавку.",
+        "en": "The crate is included in the surcharge."
+      },
+      "words": [
+        "стекл",
+        "зеркал",
+        "керамик",
+        "ваза",
+        "glass",
+        "mirror",
+        "ceramic"
+      ]
+    },
+    {
+      "kind": "surcharge",
+      "basis": "percent",
+      "surcharge": 15,
+      "name": {
+        "ru": "Магниты и динамики",
+        "en": "Magnets and loudspeakers"
+      },
+      "note": {
+        "ru": "В авиапартию не берутся вовсе, только авто.",
+        "en": "Never taken by air, road only."
+      },
+      "words": [
+        "магнит",
+        "динамик",
+        "колонк",
+        "magnet",
+        "speaker"
+      ]
+    }
+  ]
+}

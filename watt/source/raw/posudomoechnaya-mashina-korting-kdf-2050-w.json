@@ -1,0 +1,1423 @@
+{
+  "shelf": "posudomoechnye-mashiny",
+  "slug": "posudomoechnaya-mashina-korting-kdf-2050-w",
+  "product": {
+    "id": "92062",
+    "article": "69564",
+    "slug": "posudomoechnaya-mashina-korting-kdf-2050-w",
+    "hasSmartInstallments": false,
+    "isActive": true,
+    "name": {
+      "default": "Korting KDF 2050 W",
+      "full": "Посудомоечная машина Korting KDF 2050 W",
+      "pseudo": null,
+      "spare": null,
+      "fullWithoutSection": "Korting KDF 2050 W",
+      "section": "Посудомоечная машина",
+      "__typename": "ProductName"
+    },
+    "price": {
+      "default": 27990,
+      "marketing": null,
+      "old": null,
+      "__typename": "ProductPrice"
+    },
+    "benefit": null,
+    "specifications": {
+      "short": [
+        {
+          "name": "Вид сушки",
+          "value": "конденсационный",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Загрузка",
+          "value": "6 комплектов",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Количество программ",
+          "value": "7",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Высота",
+          "value": "43.8 см",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Ширина",
+          "value": "55 см",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "__typename": "ProductV2Specifications"
+    },
+    "labels": [
+      {
+        "name": "Бонусы Спасибо",
+        "type": "sberspasibo",
+        "items": [
+          {
+            "description": "",
+            "name": "Этот товар можно оплатить бонусами Спасибо от СберБанка",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Рассрочка",
+        "type": "deferred_payment",
+        "items": [
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-6",
+            "url": "/posudomoechnaya-mashina-korting-kdf-2050-w/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-12",
+            "url": "/posudomoechnaya-mashina-korting-kdf-2050-w/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-18",
+            "url": "/posudomoechnaya-mashina-korting-kdf-2050-w/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-24",
+            "url": "/posudomoechnaya-mashina-korting-kdf-2050-w/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      }
+    ],
+    "labelsV2": [
+      {
+        "id": "14",
+        "name": "-15% на технику",
+        "code": "15-na-tekhniku",
+        "mainColor": "#F54B4B",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#FFFFFF",
+        "altTextColor": "#F54B4B",
+        "borderAndTextColor": "#F54B4B",
+        "items": [
+          {
+            "id": "155725",
+            "text": "Выгода при покупке крупной бытовой техники",
+            "buttonText": "Подробнее",
+            "url": "/action/vygoda-pri-pokupke-krupnoy-bytovoy-tekhniki/",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      },
+      {
+        "id": "8",
+        "name": "Бонусы Спасибо",
+        "code": "sberspasibo",
+        "mainColor": "#0C9C0C",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#0C9C0C",
+        "altTextColor": "#FFFFFF",
+        "borderAndTextColor": "#0C9C0C",
+        "items": [
+          {
+            "id": "33851",
+            "text": "Этот товар можно оплатить бонусами Спасибо от СберБанка ",
+            "buttonText": "Подробнее",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      }
+    ],
+    "status": {
+      "id": "IN_STOCK",
+      "name": "В наличии",
+      "type": "POSITIVE",
+      "__typename": "ProductStatus"
+    },
+    "brand": {
+      "code": "korting",
+      "id": "47549",
+      "name": "Korting",
+      "src": "https://cdn1.technopark.ru/technopark/photos_resized/section_brand_300_100/300_100/47549/1_47549.png",
+      "slug": "korting",
+      "sections": [
+        {
+          "name": "Мясорубки Korting",
+          "url": "/myasorubki/korting/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3116987752/technopark/photos_resized/product/120_120/771250/1_771250.jpg?timestamp=2024-12-12_12-21-17",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Чайники электрические Korting",
+          "url": "/chayniki/korting/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/4143473430/technopark/photos_resized/product/120_120/766258/1_766258.jpg?timestamp=2024-11-06_09-21-54",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3301835156/technopark/photos_resized/product/120_120/766258/2_766258.jpg?timestamp=2024-11-06_09-21-41",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1521128503/technopark/photos_resized/product/120_120/766258/3_766258.jpg?timestamp=2024-11-06_09-21-40",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3030709531/technopark/photos_resized/product/120_120/766258/4_766258.jpg?timestamp=2024-11-06_09-21-40",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3282290061/technopark/photos_resized/product/120_120/766258/5_766258.jpg?timestamp=2024-11-06_09-21-40",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/853474214/technopark/photos_resized/product/120_120/766258/6_766258.jpg?timestamp=2024-11-06_09-21-40",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Вытяжки Korting",
+          "url": "/vytyazhki/korting/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2628935577/technopark/photos_resized/product/120_120/230841/1_230841.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1976695468/technopark/photos_resized/product/120_120/230841/2_230841.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Кухонные комбайны Korting",
+          "url": "/kuhonnye-kombayny/korting/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1738089723/technopark/photos_resized/product/120_120/766167/1_766167.jpg?timestamp=2024-11-05_11-13-03",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1437550201/technopark/photos_resized/product/120_120/766167/2_766167.jpg?timestamp=2024-11-05_11-12-56",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/513942642/technopark/photos_resized/product/120_120/766167/3_766167.jpg?timestamp=2024-11-05_11-13-07",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2369521974/technopark/photos_resized/product/120_120/766167/4_766167.jpg?timestamp=2024-11-05_11-12-52",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/324574357/technopark/photos_resized/product/120_120/766167/5_766167.jpg?timestamp=2024-11-05_11-12-52",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1664247834/technopark/photos_resized/product/120_120/766167/6_766167.jpg?timestamp=2024-11-05_11-12-51",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1891509669/technopark/photos_resized/product/120_120/766167/7_766167.jpg?timestamp=2024-11-05_11-13-10",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4156653895/technopark/photos_resized/product/120_120/766167/8_766167.jpg?timestamp=2024-11-05_11-13-05",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1858654461/technopark/photos_resized/product/120_120/766167/9_766167.jpg?timestamp=2024-11-05_11-13-06",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Холодильники встраиваемые Korting",
+          "url": "/vstraivaemye-holodilniki/korting/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/573002804/technopark/photos_resized/product/120_120/812295/0_812295.jpg?timestamp=2025-12-07_17-52-40",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/847915358/technopark/photos_resized/product/120_120/812295/1_812295.jpg?timestamp=2025-12-07_17-52-41",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Вытяжки встраиваемые Korting",
+          "url": "/vstraivaemye-vytyazhki/korting/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/472104590/technopark/photos_resized/product/120_120/831800/1_831800.jpg?timestamp=2026-05-22_12-17-21",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1797557784/technopark/photos_resized/product/120_120/831800/2_831800.jpg?timestamp=2026-05-22_12-17-21",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Сушильные машины Korting",
+          "url": "/sushilnye-mashiny/korting/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2888198546/technopark/photos_resized/product/120_120/802312/1_802312.jpg?timestamp=2025-09-09_15-26-55",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3152466145/technopark/photos_resized/product/120_120/802312/2_802312.jpg?timestamp=2025-09-09_15-26-54",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Мультипекари Korting",
+          "url": "/sendvichnitsi/korting/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3921891571/technopark/photos_resized/product/120_120/770949/1_770949.jpg?timestamp=2024-12-10_09-50-47",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2327990766/technopark/photos_resized/product/120_120/770949/2_770949.jpg?timestamp=2024-12-10_09-51-05",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1892286793/technopark/photos_resized/product/120_120/770949/3_770949.jpg?timestamp=2024-12-10_09-50-49",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4199488844/technopark/photos_resized/product/120_120/770949/4_770949.jpg?timestamp=2024-12-10_09-51-19",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2159187261/technopark/photos_resized/product/120_120/770949/5_770949.jpg?timestamp=2024-12-10_09-50-51",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4040712626/technopark/photos_resized/product/120_120/770949/6_770949.jpg?timestamp=2024-12-10_09-50-51",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2540842062/technopark/photos_resized/product/120_120/770949/7_770949.jpg?timestamp=2024-12-10_09-50-49",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Кофемашины Korting",
+          "url": "/kofemashiny/korting/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1869054709/technopark/photos_resized/product/120_120/783907/1_783907.jpg?timestamp=2025-03-17_10-41-57",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2759360517/technopark/photos_resized/product/120_120/783907/2_783907.jpg?timestamp=2025-03-17_10-42-11",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2024225670/technopark/photos_resized/product/120_120/783907/3_783907.jpg?timestamp=2025-03-17_10-41-57",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2410834923/technopark/photos_resized/product/120_120/783907/4_783907.jpg?timestamp=2025-03-17_10-41-56",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2916011054/technopark/photos_resized/product/120_120/783907/5_783907.jpg?timestamp=2025-03-17_10-42-12",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/408990307/technopark/photos_resized/product/120_120/783907/6_783907.jpg?timestamp=2025-03-17_10-41-57",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2296360946/technopark/photos_resized/product/120_120/783907/7_783907.jpg?timestamp=2025-03-17_10-41-56",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3033922927/technopark/photos_resized/product/120_120/783907/8_783907.jpg?timestamp=2025-03-17_10-42-10",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3548360851/technopark/photos_resized/product/120_120/783907/9_783907.jpg?timestamp=2025-03-17_10-42-11",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2114491816/technopark/photos_resized/product/120_120/783907/10_783907.jpg?timestamp=2025-03-17_10-42-26",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4077385113/technopark/photos_resized/product/120_120/783907/11_783907.jpg?timestamp=2025-03-17_10-42-15",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/393826406/technopark/photos_resized/product/120_120/783907/12_783907.jpg?timestamp=2025-03-17_10-42-23",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1618895088/technopark/photos_resized/product/120_120/783907/13_783907.jpg?timestamp=2025-03-17_10-42-22",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4185338186/technopark/photos_resized/product/120_120/783907/14_783907.jpg?timestamp=2025-03-17_10-42-23",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        }
+      ],
+      "__typename": "Brand"
+    },
+    "section": {
+      "slug": "posudomoechnye-mashiny",
+      "id": "920",
+      "name": "Посудомоечные машины",
+      "parents": [
+        {
+          "id": "877",
+          "name": "Крупная бытовая",
+          "depth": 1,
+          "__typename": "SectionTreeItem"
+        },
+        {
+          "id": "920",
+          "name": "Посудомоечные машины",
+          "depth": 2,
+          "__typename": "SectionTreeItem"
+        }
+      ],
+      "__typename": "Section"
+    },
+    "media": {
+      "gallery": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/92062/1_92062.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/92062/1_92062.jpg?timestamp=2024-11-18_10-05-20",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/92062/2_92062.jpg?timestamp=2024-11-18_10-05-11",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/92062/2_92062.jpg?timestamp=2024-11-18_10-05-25",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/92062/3_92062.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/92062/3_92062.jpg?timestamp=2024-11-18_10-05-25",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/92062/4_92062.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/92062/4_92062.jpg",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "interior": [],
+      "video": [],
+      "vkVideo": null,
+      "view3d": [],
+      "listing": {
+        "default": [
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/92062/1_92062.jpg?timestamp=2024-11-18_10-05-15",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/92062/2_92062.jpg?timestamp=2024-11-18_10-05-15",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/92062/3_92062.jpg?timestamp=2024-11-18_10-05-15",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/92062/4_92062.jpg?timestamp=2024-11-18_10-05-15",
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "ProductListing"
+      },
+      "__typename": "ProductV2Media"
+    },
+    "modifications": {
+      "bigBrother": null,
+      "groups": [
+        {
+          "name": "Цвет",
+          "items": [
+            {
+              "value": "белый",
+              "product": {
+                "slug": "posudomoechnaya-mashina-korting-kdf-2050-w",
+                "article": "69564",
+                "name": {
+                  "default": "Korting KDF 2050 W",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "IN_STOCK",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/92062/1_92062.jpg?timestamp=2024-11-18_10-05-15",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/92062/2_92062.jpg?timestamp=2024-11-18_10-05-15",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/92062/3_92062.jpg?timestamp=2024-11-18_10-05-15",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/92062/4_92062.jpg?timestamp=2024-11-18_10-05-15",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            },
+            {
+              "value": "серебристый",
+              "product": {
+                "slug": "posudomoechnaya-mashina-korting-kdf-2050-s",
+                "article": "83240",
+                "name": {
+                  "default": "Korting KDF 2050 S",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "NOT_AVAILABLE",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/113179/1_113179.jpg?timestamp=2024-11-18_09-12-34",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/113179/2_113179.jpg?timestamp=2024-11-18_09-12-34",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/113179/3_113179.jpg?timestamp=2024-11-18_09-12-34",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/113179/4_113179.jpg?timestamp=2024-11-18_09-12-34",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/113179/5_113179.jpg?timestamp=2024-11-18_09-12-34",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            }
+          ],
+          "__typename": "ProductV2ModificationGroup"
+        }
+      ],
+      "__typename": "ProductModifications"
+    },
+    "description": {
+      "hasDescription": false,
+      "type": "DEFAULT",
+      "__typename": "ProductDescription"
+    },
+    "collection": {
+      "id": "92062",
+      "products": {
+        "pagination": {
+          "total": 0,
+          "__typename": "Pagination"
+        },
+        "__typename": "ProductV2Pagination"
+      },
+      "__typename": "ProductCollection"
+    },
+    "similar": {
+      "pagination": {
+        "total": 19,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "related": {
+      "pagination": {
+        "total": 20,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "accessories": [
+      {
+        "products": {
+          "pagination": {
+            "total": 16,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      }
+    ],
+    "rating": {
+      "average": 5,
+      "canRate": false,
+      "total": {
+        "all": 3,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 3,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "reviews": {
+      "total": 3,
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "bestCredit": {
+      "monthPayment": 1167,
+      "type": "DEFERRED_PAYMENT",
+      "__typename": "ProductBestCredit"
+    },
+    "isSpare": false,
+    "isService": false,
+    "isVipService": false,
+    "isGiftBonusCard": false,
+    "canBuy": true,
+    "canPayOnline": true,
+    "canRequestPrice": false,
+    "canShowPrice": true,
+    "canSubscribe": false,
+    "needPrepaymentForDelivery": true,
+    "needPrepaymentForPreorder": false,
+    "isSberSpasiboPayAvailable": true,
+    "isYandexPayAllowed": false,
+    "yandexSplit": {
+      "payments": [
+        {
+          "amount": 0,
+          "date": "2026-08-17T09:00:39+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2338,
+          "date": "2026-08-31T09:00:39+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2332,
+          "date": "2026-09-14T09:00:39+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2332,
+          "date": "2026-09-28T09:00:39+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2332,
+          "date": "2026-10-12T09:00:39+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2332,
+          "date": "2026-10-26T09:00:39+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2332,
+          "date": "2026-11-09T09:00:39+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2332,
+          "date": "2026-11-23T09:00:39+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2332,
+          "date": "2026-12-07T09:00:39+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2332,
+          "date": "2026-12-21T09:00:39+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2332,
+          "date": "2027-01-04T09:00:39+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2332,
+          "date": "2027-01-18T09:00:39+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2332,
+          "date": "2027-02-01T09:00:39+0300",
+          "__typename": "YandexSplitPayment"
+        }
+      ],
+      "firstPayment": 0,
+      "restPayment": 27990,
+      "description": "https://yandex.ru/support/split/",
+      "maxAmount": 295000,
+      "__typename": "YandexSplit"
+    },
+    "seo": {
+      "description": "Посудомоечная машина Korting KDF 2050 W: купить в интернет-магазине Технопарк с расширенной гарантией и бесплатной доставкой по РФ. Подробные характеристики товара с отзывами реальных покупателей.",
+      "text": "Вы можете купить посудомоечную машину Korting KDF 2050 W с доставкой по Москве по низкой цене. В интернет-магазине Technopark.ru осуществляется продажа посудомоечной машины Korting KDF 2050 W на выгодных условиях.",
+      "textHidden": "",
+      "title": "Посудомоечная машина Korting KDF 2050 W - купить в Москве в интернет-магазине Технопарк",
+      "__typename": "SeoData"
+    },
+    "breadcrumbs": [
+      {
+        "name": "Главная",
+        "url": "/",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Крупная бытовая техника",
+        "url": "/krupnaya-bytovaya-tehnika/",
+        "options": [
+          {
+            "name": "Центр инноваций",
+            "url": "/tovary-iz-budushchego/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Смартфоны и гаджеты",
+            "url": "/smartfony-i-gadzhety/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Компьютеры и ноутбуки",
+            "url": "/kompyutery-i-noutbuki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Климатическая техника",
+            "url": "/klimaticheskaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Техника для кухни",
+            "url": "/dlya-kuhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Бытовая техника для дома",
+            "url": "/dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для красоты и здоровья",
+            "url": "/krasota-i-zdorovye/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Спортивные товары",
+            "url": "/trenazhery-dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Телевизоры Аудио Hi-Fi",
+            "url": "/audio-video-foto/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для сада, дома и ремонта",
+            "url": "/dlya-sada-doma-i-remonta/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посуда",
+            "url": "/posuda/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Детские товары",
+            "url": "/detskie-tovary/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для гейминга",
+            "url": "/gaming/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Плоттеры и услуги розницы",
+            "url": "//",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Запасные части",
+            "url": "/zapasnie-chasti/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Посудомоечные машины",
+        "url": "/posudomoechnye-mashiny/",
+        "options": [
+          {
+            "name": "Стиральные машины",
+            "url": "/stiralnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые варочные панели",
+            "url": "/vstraivaemye-varochnye-poverhnosti/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные плиты",
+            "url": "/plity/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Холодильники",
+            "url": "/holodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые духовые шкафы",
+            "url": "/vstraivaemye-duhovye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вытяжки для кухни",
+            "url": "/vytyazhki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые холодильники",
+            "url": "/vstraivaemye-holodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые винные шкафы",
+            "url": "/vstraivaemye-vinnye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые вытяжки для кухни",
+            "url": "/vstraivaemye-vytyazhki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые кофемашины",
+            "url": "/vstraivaemye-kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые морозильные камеры",
+            "url": "/vstraivaemye-morozilnye-kamery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые пароварки",
+            "url": "/vstraivaemye-parovarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые посудомоечные машины",
+            "url": "/vstraivaemye-posudomoechnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые стиральные машины",
+            "url": "/vstraivaemye-stiralnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Сушильные машины для белья",
+            "url": "/sushilnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые микроволновые печи",
+            "url": "/vstraivaemye-mikrovolnovye-pechi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Морозильные камеры",
+            "url": "/morozilnye-kamery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Винные шкафы",
+            "url": "/vinnye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые шкафы для подогрева",
+            "url": "/shkafy-dlya-podogreva-posudy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Стиральные машины с функцией сушки (2 в 1)",
+            "url": "/stiralno-sushilnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые вакууматоры",
+            "url": "/vakuumatory/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Измельчители пищевых отходов",
+            "url": "/vstraivaemye-izmelchiteli-pischevyh-othodov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Автохолодильники",
+            "url": "/avtoholodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для крупной бытовой техники",
+            "url": "/aksessuary-krupnaya-bytovaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для холодильников",
+            "url": "/aksessuary-krupnaya-bytovaya-tehnika/filt_naznachenie-k_holodilnikam/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для автохолодильников",
+            "url": "/aksessuary-dlya-avtokholodilnikov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Хьюмидоры",
+            "url": "/khyumidory/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Посудомоечные машины Korting",
+        "url": "/posudomoechnye-mashiny/korting/",
+        "options": [
+          {
+            "name": "Midea",
+            "url": "/posudomoechnye-mashiny/midea/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Maunfeld",
+            "url": "/posudomoechnye-mashiny/maunfeld/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Bosch",
+            "url": "/posudomoechnye-mashiny/bosch/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Beko",
+            "url": "/posudomoechnye-mashiny/beko/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Electrolux",
+            "url": "/posudomoechnye-mashiny/electrolux/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Toshiba",
+            "url": "/posudomoechnye-mashiny/toshiba/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Hotpoint",
+            "url": "/posudomoechnye-mashiny/hotpoint/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Asko",
+            "url": "/posudomoechnye-mashiny/asko/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Korting KDF 2050 W",
+        "url": "posudomoechnaya-mashina-korting-kdf-2050-w",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      }
+    ],
+    "isArchive": false,
+    "__typename": "ProductV2",
+    "isSberPayOneClickAllowed": false,
+    "isTinkoffPayOneClickAllowed": false,
+    "bonus": null
+  },
+  "details": {
+    "description": "",
+    "descriptionType": "DEFAULT",
+    "descriptionBarcode": "4620766485581",
+    "descriptionBrand": "Korting",
+    "specifications": {
+      "short": [
+        {
+          "name": "Вид сушки",
+          "value": "конденсационный",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Загрузка",
+          "value": "6 комплектов",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Количество программ",
+          "value": "7",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Высота",
+          "value": "43.8 см",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Ширина",
+          "value": "55 см",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "barcode": "4620766485581",
+      "country": "Китай",
+      "full": [
+        {
+          "name": "Основные характеристики",
+          "list": [
+            {
+              "name": "Установка",
+              "value": "отдельностоящая",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Конструкция",
+              "value": "компактная",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вид сушки",
+              "value": "конденсационный",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Загрузка",
+              "value": "6 комплектов",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Управление",
+          "list": [
+            {
+              "name": "Тип управления",
+              "value": "электронное",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Переключатели",
+              "value": "сенсорные",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество программ",
+              "value": "7",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Программы",
+              "value": "программа \"быстрая мойка\", стекло, 90 минут, нормальная, самоочистка",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Экономичная программа",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Интенсивная мойка",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Класс мойки",
+              "value": "A",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Класс сушки",
+              "value": "A",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Дисплей",
+          "list": [
+            {
+              "name": "Цифровой дисплей",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Функции дисплея",
+              "value": "отображение длительности программы",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Таймер",
+          "list": [
+            {
+              "name": "Таймер отсрочки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальное время отсрочки",
+              "value": "24 ч",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Индикация",
+          "list": [
+            {
+              "name": "Индикация режимов работы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Звуковой сигнал завершения программы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Отключение звукового сигнала",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикатор отсутствия соли",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикатор отсутствия ополаскивателя",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Защита и безопасность",
+          "list": [
+            {
+              "name": "Защита от протечек",
+              "value": "полная",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Технология защиты от протечки",
+              "value": "Аquа-Соntrоl",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Энергопотребление",
+          "list": [
+            {
+              "name": "Класс энергопотребления",
+              "value": "A+",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная потребляемая мощность",
+              "value": "1300 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Энергопотребление за цикл",
+              "value": "0.61 кВт/ч",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Отделения",
+          "list": [
+            {
+              "name": "Количество корзин",
+              "value": "1",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Особенности конструкции",
+          "list": [
+            {
+              "name": "Проточный водонагреватель",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество разбрызгивателей",
+              "value": "1",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Уровень шума",
+              "value": "49 дБ",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Расход воды за цикл",
+              "value": "6.5 л",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Использование средств 3 в 1",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Цвет и материал",
+          "list": [
+            {
+              "name": "Цвет",
+              "value": "белый",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Комплектация",
+          "list": [
+            {
+              "name": "Съемная корзина для столовых приборов",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Заливной шланг",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Сливной шланг",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Инструкция",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Размеры и вес",
+          "list": [
+            {
+              "name": "Высота",
+              "value": "43.8 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ширина",
+              "value": "55 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Глубина",
+              "value": "50 см",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        }
+      ],
+      "grossWeight": "24.62",
+      "netWeight": "22.12",
+      "height": "0.51",
+      "instructionUrl": null,
+      "length": "0.56",
+      "schemeUrl": null,
+      "warranty": "12",
+      "width": "0.61",
+      "__typename": "ProductV2Specifications"
+    },
+    "certificates": ["https://www.technopark.ru/bipublic/Cert/IG0G15BFS3CNFE.pdf"],
+    "isManufacturerCountry": false,
+    "isSellerWarranty": false,
+    "reviews": {
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "total": 3,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "rating": {
+      "average": 5,
+      "canRate": false,
+      "total": {
+        "all": 3,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 3,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "isLoading": false
+  },
+  "shots": [
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/92062/1_92062.jpg?timestamp=2024-11-18_10-05-20",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/92062/1_92062.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/92062/1_92062.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/92062/2_92062.jpg?timestamp=2024-11-18_10-05-25",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/92062/2_92062.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/92062/2_92062.jpg?timestamp=2024-11-18_10-05-11"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/92062/3_92062.jpg?timestamp=2024-11-18_10-05-25",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/92062/3_92062.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/92062/3_92062.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/92062/4_92062.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/92062/4_92062.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/92062/4_92062.jpg"
+    ]
+  ],
+  "photos": [
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/posudomoechnaya-mashina-korting-kdf-2050-w-1.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/posudomoechnaya-mashina-korting-kdf-2050-w-2.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/posudomoechnaya-mashina-korting-kdf-2050-w-3.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/posudomoechnaya-mashina-korting-kdf-2050-w-4.jpg"
+  ]
+}

@@ -1,0 +1,1883 @@
+{
+  "shelf": "konditsionery",
+  "slug": "konditsioner-aqua-aqi-25fis1r3-b-towada-inverter-832994",
+  "product": {
+    "id": "832994",
+    "article": "198244",
+    "slug": "konditsioner-aqua-aqi-25fis1r3-b-towada-inverter-832994",
+    "hasSmartInstallments": false,
+    "isActive": true,
+    "name": {
+      "default": "AQUA AQI-25FIS1/R3-B Towada Inverter",
+      "full": "Кондиционер AQUA AQI-25FIS1/R3-B Towada Inverter",
+      "pseudo": null,
+      "spare": null,
+      "fullWithoutSection": "AQUA AQI-25FIS1/R3-B Towada Inverter",
+      "section": "Кондиционер",
+      "__typename": "ProductName"
+    },
+    "price": {
+      "default": 66500,
+      "marketing": null,
+      "old": null,
+      "__typename": "ProductPrice"
+    },
+    "benefit": null,
+    "specifications": {
+      "short": [
+        {
+          "name": "Тип",
+          "value": "сплит-система",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Площадь помещения",
+          "value": "25 кв.м",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Мощность в режиме охлаждения",
+          "value": "2.6 кВт",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Мощность в режиме обогрева",
+          "value": "3.0 кВт",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "__typename": "ProductV2Specifications"
+    },
+    "labels": [
+      {
+        "name": "Бонусы Спасибо",
+        "type": "sberspasibo",
+        "items": [
+          {
+            "description": "",
+            "name": "Этот товар можно оплатить бонусами Спасибо от СберБанка",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Новинка",
+        "type": "new",
+        "items": null,
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Акция",
+        "type": "special_offer",
+        "items": [
+          {
+            "description": "",
+            "name": "5 000 бонусов за покупки",
+            "url": "/action/5-000-bonusov-za-pokupki/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      }
+    ],
+    "labelsV2": [
+      {
+        "id": "2",
+        "name": "Новинка",
+        "code": "novinka",
+        "mainColor": "#02b513",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#02b513",
+        "altTextColor": "#ffffff",
+        "borderAndTextColor": "#02b513",
+        "items": [
+          {
+            "id": "130344",
+            "text": "Новинка",
+            "__typename": "ProductLabelTextItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      },
+      {
+        "id": "8",
+        "name": "Бонусы Спасибо",
+        "code": "sberspasibo",
+        "mainColor": "#0C9C0C",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#0C9C0C",
+        "altTextColor": "#FFFFFF",
+        "borderAndTextColor": "#0C9C0C",
+        "items": [
+          {
+            "id": "5859",
+            "text": "Этот товар можно оплатить бонусами Спасибо от СберБанка ",
+            "buttonText": "Подробнее",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      }
+    ],
+    "status": {
+      "id": "IN_STOCK",
+      "name": "В наличии",
+      "type": "POSITIVE",
+      "__typename": "ProductStatus"
+    },
+    "brand": {
+      "code": "aqua",
+      "id": "832947",
+      "name": "AQUA",
+      "src": "https://cdn1.technopark.ru/technopark/photos_resized/section_brand_300_100/300_100/832947/1_832947.png?timestamp=2026-06-04_12-19-20",
+      "slug": "aqua",
+      "sections": [],
+      "__typename": "Brand"
+    },
+    "section": {
+      "slug": "konditsionery",
+      "id": "880",
+      "name": "Все кондиционеры",
+      "parents": [
+        {
+          "id": "878",
+          "name": "Климат",
+          "depth": 1,
+          "__typename": "SectionTreeItem"
+        },
+        {
+          "id": "880",
+          "name": "Все кондиционеры",
+          "depth": 2,
+          "__typename": "SectionTreeItem"
+        }
+      ],
+      "__typename": "Section"
+    },
+    "media": {
+      "gallery": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/832994/1_832994.jpg?timestamp=2026-06-04_18-24-51",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/832994/1_832994.jpg?timestamp=2026-06-04_18-22-47",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/832994/2_832994.jpg?timestamp=2026-06-04_18-24-51",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/832994/2_832994.jpg?timestamp=2026-06-04_18-22-47",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/832994/3_832994.jpg?timestamp=2026-06-04_18-24-51",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/832994/3_832994.jpg?timestamp=2026-06-04_18-22-48",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/832994/4_832994.jpg?timestamp=2026-06-04_18-24-51",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/832994/4_832994.jpg?timestamp=2026-06-04_18-22-48",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/832994/5_832994.jpg?timestamp=2026-06-04_18-24-57",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/832994/5_832994.jpg?timestamp=2026-06-04_18-22-47",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/832994/6_832994.jpg?timestamp=2026-06-04_18-24-51",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/832994/6_832994.jpg?timestamp=2026-06-04_18-22-49",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/832994/7_832994.jpg?timestamp=2026-06-04_18-24-58",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/832994/7_832994.jpg?timestamp=2026-06-04_18-22-49",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/832994/8_832994.jpg?timestamp=2026-06-04_18-24-58",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/832994/8_832994.jpg?timestamp=2026-06-04_18-22-49",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/832994/9_832994.jpg?timestamp=2026-06-04_18-24-59",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/832994/9_832994.jpg?timestamp=2026-06-04_18-22-49",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "interior": [],
+      "video": [],
+      "vkVideo": null,
+      "view3d": [],
+      "listing": {
+        "default": [
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832994/1_832994.jpg?timestamp=2026-06-04_18-24-53",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832994/2_832994.jpg?timestamp=2026-06-04_18-24-53",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832994/3_832994.jpg?timestamp=2026-06-04_18-24-54",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832994/4_832994.jpg?timestamp=2026-06-04_18-24-54",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832994/5_832994.jpg?timestamp=2026-06-04_18-24-59",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832994/6_832994.jpg?timestamp=2026-06-04_18-24-53",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832994/7_832994.jpg?timestamp=2026-06-04_18-25-00",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832994/8_832994.jpg?timestamp=2026-06-04_18-25-00",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832994/9_832994.jpg?timestamp=2026-06-04_18-25-01",
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "ProductListing"
+      },
+      "__typename": "ProductV2Media"
+    },
+    "modifications": {
+      "bigBrother": {
+        "id": "832992",
+        "article": "198246",
+        "benefit": null,
+        "name": {
+          "default": "AQUA AQI-35FIS1/R3-B Towada Inverter",
+          "pseudo": null,
+          "fullWithoutSection": "AQUA AQI-35FIS1/R3-B Towada Inverter",
+          "full": "Кондиционер AQUA AQI-35FIS1/R3-B Towada Inverter",
+          "section": "Кондиционер",
+          "__typename": "ProductName"
+        },
+        "slug": "konditsioner-aqua-aqi-35fis1r3-b-towada-inverter-832992",
+        "price": {
+          "default": 75600,
+          "marketing": null,
+          "old": null,
+          "__typename": "ProductPrice"
+        },
+        "media": {
+          "listing": {
+            "default": [
+              {
+                "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832992/1_832992.jpg?timestamp=2026-06-04_18-16-06",
+                "__typename": "Image"
+              },
+              {
+                "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832992/2_832992.jpg?timestamp=2026-06-04_18-16-06",
+                "__typename": "Image"
+              },
+              {
+                "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832992/3_832992.jpg?timestamp=2026-06-04_18-16-06",
+                "__typename": "Image"
+              },
+              {
+                "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832992/4_832992.jpg?timestamp=2026-06-04_18-16-07",
+                "__typename": "Image"
+              },
+              {
+                "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832992/5_832992.jpg?timestamp=2026-06-04_18-16-12",
+                "__typename": "Image"
+              },
+              {
+                "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832992/6_832992.jpg?timestamp=2026-06-04_18-16-06",
+                "__typename": "Image"
+              },
+              {
+                "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832992/7_832992.jpg?timestamp=2026-06-04_18-16-13",
+                "__typename": "Image"
+              },
+              {
+                "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832992/8_832992.jpg?timestamp=2026-06-04_18-16-12",
+                "__typename": "Image"
+              },
+              {
+                "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832992/9_832992.jpg?timestamp=2026-06-04_18-16-13",
+                "__typename": "Image"
+              }
+            ],
+            "transparent": [],
+            "__typename": "ProductListing"
+          },
+          "__typename": "ProductV2Media"
+        },
+        "labelsV2": [
+          {
+            "name": "Новинка",
+            "code": "novinka",
+            "mainColor": "#02b513",
+            "mainTextColor": "#FFFFFF",
+            "altColor": "#02b513",
+            "altTextColor": "#ffffff",
+            "borderAndTextColor": "#02b513",
+            "items": [
+              {
+                "text": "Новинка",
+                "__typename": "ProductLabelTextItem"
+              }
+            ],
+            "__typename": "ProductLabelV2"
+          },
+          {
+            "name": "Бонусы Спасибо",
+            "code": "sberspasibo",
+            "mainColor": "#0C9C0C",
+            "mainTextColor": "#FFFFFF",
+            "altColor": "#0C9C0C",
+            "altTextColor": "#FFFFFF",
+            "borderAndTextColor": "#0C9C0C",
+            "items": [
+              {
+                "text": "Этот товар можно оплатить бонусами Спасибо от СберБанка ",
+                "buttonText": "Подробнее",
+                "url": "/support/pay/#sber",
+                "__typename": "ProductLabelTextAndButtonItem"
+              }
+            ],
+            "__typename": "ProductLabelV2"
+          }
+        ],
+        "canBuy": true,
+        "canRequestPrice": false,
+        "canSubscribe": false,
+        "isArchive": false,
+        "isService": false,
+        "isVipService": false,
+        "canShowPrice": true,
+        "status": {
+          "id": "IN_STOCK",
+          "name": "В наличии",
+          "type": "POSITIVE",
+          "__typename": "ProductStatus"
+        },
+        "__typename": "ProductV2",
+        "yandexSplit": null,
+        "brand": {
+          "id": "832947",
+          "name": "AQUA",
+          "__typename": "Brand"
+        }
+      },
+      "groups": [
+        {
+          "name": "Обслуживаемая площадь",
+          "items": [
+            {
+              "value": "25",
+              "product": {
+                "slug": "konditsioner-aqua-aqi-25fis1r3-b-towada-inverter-832994",
+                "article": "198244",
+                "name": {
+                  "default": "AQUA AQI-25FIS1/R3-B Towada Inverter",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "IN_STOCK",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832994/1_832994.jpg?timestamp=2026-06-04_18-24-53",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832994/2_832994.jpg?timestamp=2026-06-04_18-24-53",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832994/3_832994.jpg?timestamp=2026-06-04_18-24-54",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832994/4_832994.jpg?timestamp=2026-06-04_18-24-54",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832994/5_832994.jpg?timestamp=2026-06-04_18-24-59",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832994/6_832994.jpg?timestamp=2026-06-04_18-24-53",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832994/7_832994.jpg?timestamp=2026-06-04_18-25-00",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832994/8_832994.jpg?timestamp=2026-06-04_18-25-00",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832994/9_832994.jpg?timestamp=2026-06-04_18-25-01",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            },
+            {
+              "value": "35",
+              "product": {
+                "slug": "konditsioner-aqua-aqi-35fis1r3-b-towada-inverter-832992",
+                "article": "198246",
+                "name": {
+                  "default": "AQUA AQI-35FIS1/R3-B Towada Inverter",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "IN_STOCK",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832992/1_832992.jpg?timestamp=2026-06-04_18-16-06",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832992/2_832992.jpg?timestamp=2026-06-04_18-16-06",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832992/3_832992.jpg?timestamp=2026-06-04_18-16-06",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832992/4_832992.jpg?timestamp=2026-06-04_18-16-07",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832992/5_832992.jpg?timestamp=2026-06-04_18-16-12",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832992/6_832992.jpg?timestamp=2026-06-04_18-16-06",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832992/7_832992.jpg?timestamp=2026-06-04_18-16-13",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832992/8_832992.jpg?timestamp=2026-06-04_18-16-12",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832992/9_832992.jpg?timestamp=2026-06-04_18-16-13",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            },
+            {
+              "value": "50",
+              "product": {
+                "slug": "konditsioner-aqua-aqi-50fis1r3-b-towada-inverter-832991",
+                "article": "198248",
+                "name": {
+                  "default": "AQUA AQI-50FIS1/R3-B Towada Inverter",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "IN_STOCK",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832991/1_832991.jpg?timestamp=2026-06-04_18-01-46",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832991/2_832991.jpg?timestamp=2026-06-04_18-01-46",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832991/3_832991.jpg?timestamp=2026-06-04_18-01-46",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832991/4_832991.jpg?timestamp=2026-06-04_18-01-52",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832991/5_832991.jpg?timestamp=2026-06-04_18-01-45",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832991/6_832991.jpg?timestamp=2026-06-04_18-01-45",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832991/7_832991.jpg?timestamp=2026-06-04_18-01-52",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832991/8_832991.jpg?timestamp=2026-06-04_18-01-52",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832991/9_832991.jpg?timestamp=2026-06-04_18-01-53",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            }
+          ],
+          "__typename": "ProductV2ModificationGroup"
+        },
+        {
+          "name": "Цвет",
+          "items": [
+            {
+              "value": "белый",
+              "product": {
+                "slug": "konditsioner-aqua-aqi-25fis1r3-w-towada-inverter-832982",
+                "article": "198243",
+                "name": {
+                  "default": "AQUA AQI-25FIS1/R3-W Towada Inverter",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "IN_STOCK",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832982/1_832982.jpg?timestamp=2026-06-04_16-15-47",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832982/2_832982.jpg?timestamp=2026-06-04_16-15-53",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832982/3_832982.jpg?timestamp=2026-06-04_16-15-48",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832982/4_832982.jpg?timestamp=2026-06-04_16-15-54",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832982/5_832982.jpg?timestamp=2026-06-04_16-15-56",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832982/6_832982.jpg?timestamp=2026-06-04_16-15-47",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832982/7_832982.jpg?timestamp=2026-06-04_16-15-48",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832982/8_832982.jpg?timestamp=2026-06-04_16-15-48",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832982/9_832982.jpg?timestamp=2026-06-04_16-15-55",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            },
+            {
+              "value": "чёрный",
+              "product": {
+                "slug": "konditsioner-aqua-aqi-25fis1r3-b-towada-inverter-832994",
+                "article": "198244",
+                "name": {
+                  "default": "AQUA AQI-25FIS1/R3-B Towada Inverter",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "IN_STOCK",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832994/1_832994.jpg?timestamp=2026-06-04_18-24-53",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832994/2_832994.jpg?timestamp=2026-06-04_18-24-53",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832994/3_832994.jpg?timestamp=2026-06-04_18-24-54",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832994/4_832994.jpg?timestamp=2026-06-04_18-24-54",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832994/5_832994.jpg?timestamp=2026-06-04_18-24-59",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832994/6_832994.jpg?timestamp=2026-06-04_18-24-53",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832994/7_832994.jpg?timestamp=2026-06-04_18-25-00",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832994/8_832994.jpg?timestamp=2026-06-04_18-25-00",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/832994/9_832994.jpg?timestamp=2026-06-04_18-25-01",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            }
+          ],
+          "__typename": "ProductV2ModificationGroup"
+        }
+      ],
+      "__typename": "ProductModifications"
+    },
+    "description": {
+      "hasDescription": true,
+      "type": "DEFAULT",
+      "__typename": "ProductDescription"
+    },
+    "collection": {
+      "id": "832994",
+      "products": {
+        "pagination": {
+          "total": 0,
+          "__typename": "Pagination"
+        },
+        "__typename": "ProductV2Pagination"
+      },
+      "__typename": "ProductCollection"
+    },
+    "similar": {
+      "pagination": {
+        "total": 20,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "related": {
+      "pagination": {
+        "total": 20,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "accessories": [
+      {
+        "products": {
+          "pagination": {
+            "total": 3,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      }
+    ],
+    "rating": {
+      "average": 0,
+      "canRate": false,
+      "total": {
+        "all": 0,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 0,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "reviews": {
+      "total": 0,
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "bestCredit": null,
+    "isSpare": false,
+    "isService": false,
+    "isVipService": false,
+    "isGiftBonusCard": false,
+    "canBuy": true,
+    "canPayOnline": true,
+    "canRequestPrice": false,
+    "canShowPrice": true,
+    "canSubscribe": false,
+    "needPrepaymentForDelivery": false,
+    "needPrepaymentForPreorder": false,
+    "isSberSpasiboPayAvailable": true,
+    "isYandexPayAllowed": false,
+    "yandexSplit": null,
+    "seo": {
+      "description": "Кондиционер AQUA AQI-25FIS1/R3-B Towada Inverter: купить в интернет-магазине Технопарк с расширенной гарантией и бесплатной доставкой по РФ. Подробные характеристики товара с отзывами реальных покупателей.",
+      "text": "Вы можете купить кондиционер AQUA AQI-25FIS1/R3-B Towada Inverter с доставкой по Москве по низкой цене. В интернет-магазине Technopark.ru осуществляется продажа кондиционера AQUA AQI-25FIS1/R3-B Towada Inverter на выгодных условиях.",
+      "textHidden": "",
+      "title": "Кондиционер AQUA AQI-25FIS1/R3-B Towada Inverter - купить в Москве в интернет-магазине Технопарк",
+      "__typename": "SeoData"
+    },
+    "breadcrumbs": [
+      {
+        "name": "Главная",
+        "url": "/",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Климатическая техника",
+        "url": "/klimaticheskaya-tehnika/",
+        "options": [
+          {
+            "name": "Центр инноваций",
+            "url": "/tovary-iz-budushchego/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Смартфоны и гаджеты",
+            "url": "/smartfony-i-gadzhety/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Компьютеры и ноутбуки",
+            "url": "/kompyutery-i-noutbuki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Крупная бытовая техника",
+            "url": "/krupnaya-bytovaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Техника для кухни",
+            "url": "/dlya-kuhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Бытовая техника для дома",
+            "url": "/dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для красоты и здоровья",
+            "url": "/krasota-i-zdorovye/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Спортивные товары",
+            "url": "/trenazhery-dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Телевизоры Аудио Hi-Fi",
+            "url": "/audio-video-foto/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для сада, дома и ремонта",
+            "url": "/dlya-sada-doma-i-remonta/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посуда",
+            "url": "/posuda/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Детские товары",
+            "url": "/detskie-tovary/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для гейминга",
+            "url": "/gaming/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Плоттеры и услуги розницы",
+            "url": "//",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Запасные части",
+            "url": "/zapasnie-chasti/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Кондиционеры",
+        "url": "/konditsionery/",
+        "options": [
+          {
+            "name": "Вентиляторы",
+            "url": "/ventilyatory/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мульти сплит-системы",
+            "url": "/multisplit-sistemy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Водонагреватели",
+            "url": "/vodonagrevateli/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Очиститель воздуха для квартиры и дома",
+            "url": "/ochistiteli-vozduha/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Увлажнители воздуха",
+            "url": "/uvlazhniteli-vozduha/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мойки воздуха",
+            "url": "/moyki-vozduha/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Ионизаторы воздуха",
+            "url": "/ionizatory-vozdukha/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Осушители воздуха",
+            "url": "/osushiteli/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрические обогреватели",
+            "url": "/obogrevateli-i-teplovye-zavesy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Тепловые пушки",
+            "url": "/teplovye-pushki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрические тепловые завесы",
+            "url": "/teplovye-zavesy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Камины",
+            "url": "/elektrokaminy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Метеостанции",
+            "url": "/tsifrovye-meteostantsii/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для очистителей воздуха",
+            "url": "/aksessuary-dlya-ochistiteley-vozduha/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для увлажнителей",
+            "url": "/aksessuary-dlya-uvlazhniteley/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для обогревателей",
+            "url": "/aksessuar-dlya-obogrevateley/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для электрокаминов ",
+            "url": "/aksessuary-dlya-elektrokaminov-/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для вентиляторов",
+            "url": "/aksessuary-dlya-ventilyatorov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для кондиционеров",
+            "url": "/filtry-dlya-klimata/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Кондиционеры AQUA",
+        "url": "/konditsionery/aqua/",
+        "options": [
+          {
+            "name": "QYRON",
+            "url": "/konditsionery/qyron/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Hisense",
+            "url": "/konditsionery/hisense/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "ROYAL Clima",
+            "url": "/konditsionery/royal_clima/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Haier",
+            "url": "/konditsionery/haier/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Funai",
+            "url": "/konditsionery/funai/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Loriot",
+            "url": "/konditsionery/loriot/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Midea",
+            "url": "/konditsionery/midea/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "LG",
+            "url": "/konditsionery/lg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Electrolux",
+            "url": "/konditsionery/electrolux/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Ishimatsu",
+            "url": "/konditsionery/ishimatsu/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Ballu",
+            "url": "/konditsionery/ballu/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Panasonic",
+            "url": "/konditsionery/panasonic/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Casarte",
+            "url": "/konditsionery/casarte/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Mitsubishi Electric",
+            "url": "/konditsionery/mitsubishi_electric/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Pioneer",
+            "url": "/konditsionery/pioneer/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Aurum",
+            "url": "/konditsionery/aurum/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Breeon",
+            "url": "/konditsionery/breeon/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Akai",
+            "url": "/konditsionery/akai/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "AURUS",
+            "url": "/konditsionery/aurus/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Kentatsu",
+            "url": "/konditsionery/kentatsu/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "IGC",
+            "url": "/konditsionery/igc/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Hitachi",
+            "url": "/konditsionery/hitachi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Viomi",
+            "url": "/konditsionery/viomi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Suzuki",
+            "url": "/konditsionery/suzuki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "TCL",
+            "url": "/konditsionery/tcl/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Daikin",
+            "url": "/konditsionery/daikin/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "DAICHI",
+            "url": "/konditsionery/daichi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Samsung",
+            "url": "/konditsionery/samsung/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Dantex",
+            "url": "/konditsionery/dantex/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Bosch",
+            "url": "/konditsionery/bosch/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Mitsubishi Heavy Industries",
+            "url": "/konditsionery/mitsubishi_heavy_industries/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Shivaki",
+            "url": "/konditsionery/shivaki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Primera",
+            "url": "/konditsionery/primera/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "HitAir",
+            "url": "/konditsionery/hitair/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Evapolar",
+            "url": "/konditsionery/evapolar/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Abion",
+            "url": "/konditsionery/abion/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Toshiba",
+            "url": "/konditsionery/toshiba/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Mitsubishi",
+            "url": "/konditsionery/mitsubishi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Zanussi",
+            "url": "/konditsionery/zanussi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Fujiplus",
+            "url": "/konditsionery/fujiplus/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "AQUA AQI-25FIS1/R3-B Towada Inverter",
+        "url": "konditsioner-aqua-aqi-25fis1r3-b-towada-inverter-832994",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      }
+    ],
+    "isArchive": false,
+    "__typename": "ProductV2",
+    "isSberPayOneClickAllowed": false,
+    "isTinkoffPayOneClickAllowed": false,
+    "bonus": null
+  },
+  "details": {
+    "description": "<style> *{box-sizing:border-box;outline:0}body{font-family:'DINPro Technopark',Arial;font-size:14px;font-weight:400;font-display:swap;margin:0;overflow-x:hidden;position:relative;min-height:95vh;-webkit-tap-highlight-color:transparent}body.lock-scroll{overflow:hidden;position:fixed;right:0;left:0;bottom:0}@media (min-width:1192px){body.lock-scroll{position:relative}}@media screen and (max-device-width:480px){body{-webkit-text-size-adjust:none}}.label-for-seo{width:100%}.label-for-seo__span{display:none}a{color:#0093c4;text-decoration:none}.is-visible{display:block!important}.is-hidden{display:none!important}.is-visually-hidden{opacity:0!important;visibility:hidden!important;pointer-events:none!important}.is-link{color:#0093c4}.no-wrap{white-space:nowrap}.container{margin:auto;width:100%}@media (min-width:960px){.container{width:calc(100% - 48px)}}@media (min-width:1482px){.container{max-width:1397px}}.is-overflow-hidden{overflow:hidden}.is-mobile-not{display:none!important}@media (min-width:960px){.is-mobile-not{display:block!important}}@media (min-width:960px){.is-mobile-only{display:none!important}}@media (max-width:959px){.hide-phone{display:none}}@media (min-width:960px) and (max-width:1481px){.hide-tablet{display:none}}.is-hidden{display:none!important}.nowrap-text{white-space:nowrap}.textcenter{text-align:center}ul.list{margin:0;padding:6px 0 18px}@media (min-width:960px){ul.list{padding:6px 0 24px}}ul.list li{font-family:'DINPro Technopark',Arial;font-size:15px;font-weight:400;font-display:swap;color:#fff;line-height:20px;list-style:none;margin:0;padding-left:9px;position:relative}@media (min-width:960px){ul.list li{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:400;font-display:swap;line-height:21px;padding-left:26px}}ul.list>li:before{background-color:#fff;border-radius:50%;content:\"\";display:block;height:3px;left:0;position:absolute;top:10px;width:3px}@media (min-width:960px){ul.list>li:before{border-radius:0;height:1px;width:13px}}ul.list>li>ul{padding:6px 0 6px 15px}@media (min-width:960px){ul.list>li>ul{padding:3px 0 3px 4px}}ul.list>li>ul>li:before{background-color:rgba(255,255,255,.5)}ul.list>li>ul>li>ul{padding:6px 0 0 15px}@media (min-width:960px){ul.list>li>ul>li>ul{padding:3px 0 0 4px}}ul.list>li>ul>li>ul>li:before{background-color:rgba(255,255,255,.2)}ol.list{margin:0;padding:6px 0 18px;counter-reset:list1}@media (min-width:960px){ol.list{padding:6px 0 24px}}ol.list li{font-family:'DINPro Technopark',Arial;font-size:15px;font-weight:400;font-display:swap;color:#fff;line-height:20px;list-style:none;margin:0;padding-left:9px;position:relative}@media (min-width:960px){ol.list li{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:400;font-display:swap;line-height:21px;padding-left:26px}}ol.list>li{padding-left:24px}ol.list>li:before{counter-increment:list1;content:counter(list1) \". \";left:0;position:absolute}ol.list>li>ol{counter-reset:list2;padding:6px 0}@media (min-width:960px){ol.list>li>ol{padding:3px 0}}ol.list>li>ol>li{padding-left:42px}ol.list>li>ol>li:before{counter-increment:list2;content:counter(list1) \".\" counter(list2) \". \"}ol.list>li>ol>li>ol{counter-reset:list3}ol.list>li>ol>li>ol>li:before{counter-increment:list3;content:counter(list1) \".\" counter(list2) \".\" counter(list3) \". \"}ol.list--compact{padding:0}.list--line-interval li:not(:last-child){margin-bottom:1em}input::-ms-clear{display:none}input::-webkit-clear-button{display:none}@media (max-width:767px){.footer{padding-bottom:66px}}.page-container{margin:auto;padding:0 18px;width:100%}@media (min-width:960px){.page-container{padding:0 24px;width:100%}}@media (min-width:1482px){.page-container{width:1481px}}@media (min-width:960px){.page-container--extra-padding{padding:0 42px}}.default-container{width:100%;max-width:1481px;margin:auto;padding:0 12px}@media (min-width:960px){.default-container{padding:0 24px}}button,input,select,textarea{font-family:inherit;font-size:100%;margin:0}textarea{resize:none;overflow:auto}form{margin:0}button{color:inherit}dd,dl,dt{margin:0;padding:0}input[type=search]{-webkit-appearance:none}input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration,input[type=search]::-webkit-search-results-button,input[type=search]::-webkit-search-results-decoration{display:none}input:invalid{box-shadow:none}textarea:invalid{box-shadow:none}svg *{pointer-events:none}.product__desc{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:300;font-display:swap;color:#878787;display:none}.product__desc b{font-family:'DINPro Technopark',Arial;font-size:20px;font-weight:400;font-display:swap;color:#fff}.dyson-v10-picking,.dyson-v10-properties,.dyson-v10-wrapper,.dyson-v10-wrapper .dyson-v10__list span{color:#fff;padding:0 12px}@media (max-width:1154px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:170px}}@media (max-width:1100px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:270px}}@media (max-width:960px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:27px}}.dyson-v10-first-row li.dyson-v10-item{max-width:calc(100% / 3 - 10);padding-right:5px}@media (max-width:959px){.dyson-v10-first-row{flex-direction:column;align-items:flex-start}.dyson-v10-first-row li.dyson-v10-item{max-width:none}}@media (min-width:960px) and (max-width:1303px){.dyson-v10-first-row{flex-direction:column;align-items:flex-start}.dyson-v10-first-row li.dyson-v10-item{max-width:none}}.dyson-v10-chapter{text-align:center!important}.dyson-v10__list li.dyson-v10__list-item{background-size:contain;background-position:left} </style> <p>Флагманская серия кондиционеров AQUA Towada Inverter — воплощение природной гармонии и передовых технологий. Серия получила своё название в честь живописного озера Товада, которое называют голубой жемчужиной острова Хонсю: так же изящно и впечатляюще эти кондиционеры впишутся в ваше пространство. Внутренний блок оснащён мощной УФ‑лампой для эффективной стерилизации воздуха — она уничтожает бактерии и вирусы, обеспечивая здоровую атмосферу в помещении. ЭКО‑датчик отслеживает состояние среды, а функция самоочистки предотвращает накопление загрязнений внутри устройства, поддерживая его гигиеничность и эффективность.</p>      <h2>Особенности</h2>  <ul class=\"list\">    <li><b>Обогрев при низких температурах</b><br/>  Возможность работы кондиционера на обогрев при низких температурах наружного воздуха позволяет существенно сократить расходы на электроэнергию, поддерживая идеальный уровень комфорта. Сплит-система может использоваться в режиме нагрева при температуре наружного воздуха до -20 °С</li>      <li><b>Датчик присутствия</b><br/>  Благодаря двум встроенным модулям датчик присутствия контролирует одновременно две зоны под углом до 120 ° и на расстоянии до 6 метров. Датчик автоматически анализирует положение людей в помещении, а затем направляет поток воздуха, следуя за человеком или избегая его, в зависимости от настроек</li>      <li><b>Самоочистка</b><br/>  Система автоматически удаляет загрязнения с теплообменника: замораживая и размораживая влагу на испарителе, она отслаивает грязь за счёт расширения льда, поддерживая гигиеничность и эффективность работы кондиционера</li>      <li><b>Aильтрация воздуха</b><br/>  В кондиционере установлена многоступенчатая система фильтрации. Она задерживает крупные частицы, нейтрализует микробы и очищает воздух на молекулярном уровне</li>      <li><b>Ионизация воздуха</b><br/>  Fresh AQUA — это встроенный генератор ионов премиум-класса, который превращает кондиционер в настоящую климатическую станцию. Он не просто охлаждает, а создает безупречный микроклимат для здоровья всей семьи</li>      <li><b>Умное управление через Wi‑Fi</b><br/>  Встроенный модуль позволяет дистанционно контролировать кондиционер через мобильное приложение evo — вы можете включать, выключать и настраивать режимы из любой точки, где есть интернет</li>      <li><b>Технология I‑Feel</b><br/>  Датчик температуры в пульте измеряет микроклимат непосредственно рядом с вами, оптимизируя работу кондиционера для максимального комфорта и поддержания заданной температуры в вашей зоне</li>      <li><b>Бесшумная работа</b><br/>  Особая конструкция вентилятора обеспечивает комфортный воздушный поток при минимальном уровне шума — всего 36 дБ во внутреннем блоке и 52 дБ во внешнем, что делает кондиционер идеальным для спальни или детской комнаты</li>      <li><b>Воздушный поток с эффектом Коанда</b><br/>  Спиральное распределение воздуха равномерно наполняет помещение прохладой или теплом, избегая прямого попадания на пользователя и создавая мягкий, обволакивающий микроклимат</li>      <li><b>Предотвращение теплового удара</b><br/>  Встроенный датчик контролирует температуру в помещении. Если температура воздуха достигнет критических значений кондиционер включится автоматически</li>      <li><b>Защита от плесени</b><br/>  Осушение теплообменника после отключения кондиционера предотвращает образование плесени</li>      <li><b>Удобство и надёжность</b><br/>  Авторестарт после перебоев питания, таймер включения/выключения, самодиагностика неисправностей, блокировка пульта ДУ и LED‑дисплей на корпусе и пульте с индикацией всех параметров (температуры, режима работы, неисправности, таймера и другие) обеспечивают простоту и безопасность эксплуатации</li>    </ul>  ",
+    "descriptionType": "DEFAULT",
+    "descriptionBarcode": "2401100095640",
+    "descriptionBrand": "AQUA",
+    "specifications": {
+      "short": [
+        {
+          "name": "Тип",
+          "value": "сплит-система",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Площадь помещения",
+          "value": "25 кв.м",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Мощность в режиме охлаждения",
+          "value": "2.6 кВт",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Мощность в режиме обогрева",
+          "value": "3.0 кВт",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "barcode": "2401100095640",
+      "country": "Китай",
+      "full": [
+        {
+          "name": "Основные характеристики",
+          "list": [
+            {
+              "name": "Тип",
+              "value": "сплит-система",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Размещение внутреннего блока",
+              "value": "настенный",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Инверторная технология",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Площадь помещения",
+              "value": "25 кв.м",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип хладагента",
+              "value": "R-32",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Серия",
+              "value": "Towada",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Производительность",
+          "list": [
+            {
+              "name": "Мощность в режиме охлаждения",
+              "value": "2.6 кВт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Мощность в режиме обогрева",
+              "value": "3.0 кВт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Расход воздуха внутреннего блока",
+              "value": "610 м3/ч",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Осушение",
+              "value": "1.2 л/ч",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Основные режимы",
+          "list": [
+            {
+              "name": "Охлаждение",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Обогрев",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Осушение воздуха",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автоматический режим",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вентиляция",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ночной режим",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тихий режим",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Функции",
+          "list": [
+            {
+              "name": "Таймер включения",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Таймер выключения",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Авторестарт",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ионизация воздуха",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Обогрев при низких температурах",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Самоочистка",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Самодиагностика неисправностей",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Экономичный режим",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Блокировка пульта ДУ",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Турбо режим",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Регулировка воздушного потока",
+          "list": [
+            {
+              "name": "Количество скоростей",
+              "value": "3",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автоматическое распределение воздушных потоков",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Регулировка силы воздушного потока",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Управление направлением воздушного потока (вверх/вниз)",
+              "value": "с пульта",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Управление направлением воздушного потока (влево/вправо)",
+              "value": "с пульта",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Уровень шума",
+          "list": [
+            {
+              "name": "Максимальный уровень шума внутреннего блока",
+              "value": "38 дБ",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальный уровень шума внешнего блока",
+              "value": "49 дБ",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Фильтрация",
+          "list": [
+            {
+              "name": "Фильтрация воздуха",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Фильтр грубой очистки (сетчатый)",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Комбинированный фильтр",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Особенности",
+          "list": [
+            {
+              "name": "Тепловой насос",
+              "value": "нет",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Датчики",
+              "value": "температуры, присутствия",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Комфортное воздухораспределение",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Поддержание температуры в месте нахождения пульта",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Бесшумная работа",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дополнительная информация",
+              "value": "воздушный поток с эффектом Коанда, предотвращение теплового удара, защита от образования плесени, УФ-лампа",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Управление",
+          "list": [
+            {
+              "name": "Управление",
+              "value": "электронное, кнопочное",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Пульт ДУ",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Управление со смартфона",
+              "value": "да, подключение через Wi-Fi модуль",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Wi-Fi модуль",
+              "value": "встроенный",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Поддержка приложений",
+              "value": "evo",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Дисплей",
+          "list": [
+            {
+              "name": "Тип дисплея",
+              "value": "LED",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Расположение дисплея",
+              "value": "корпус, пульт",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Индикация",
+          "list": [
+            {
+              "name": "Индикация включения",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация режима работы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация температуры",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация неисправности",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Звуковые сигналы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дополнительная индикация",
+              "value": "блокировки, таймера, времени, скорости вращения вентилятора, качания заслонок",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Температурный режим работы",
+          "list": [
+            {
+              "name": "Минимальная рабочая температура при охлаждении",
+              "value": "-20 °C",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная рабочая температура при охлаждении",
+              "value": "43 °C",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Минимальная рабочая температура при обогреве",
+              "value": "-20 °C",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная рабочая температура при обогреве",
+              "value": "24 °C",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Фреоновые магистрали",
+          "list": [
+            {
+              "name": "Максимальный перепад высоты магистрали",
+              "value": "10 м",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная длина магистрали",
+              "value": "20 м",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Диаметр жидкостной трубы",
+              "value": "6.35 мм",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Диаметр газовой трубы",
+              "value": "9.52 мм",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Электропитание",
+          "list": [
+            {
+              "name": "Потребляемая мощность при охлаждении",
+              "value": "650 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Потребляемая мощность при обогреве",
+              "value": "810 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Класс энергоэффективности",
+              "value": "A+++",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Рабочий ток при охлаждении",
+              "value": "2.9 A",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Рабочий ток при обогреве",
+              "value": "3.6 A",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Рабочее напряжение",
+              "value": "230 B",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Рабочая частота",
+              "value": "50 Гц",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Режим энергосбережения",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Корпус",
+          "list": [
+            {
+              "name": "Цвет",
+              "value": "чёрный",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет внешнего блока",
+              "value": "белый",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Комплектация",
+          "list": [
+            {
+              "name": "Пульт ДУ",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Инструкция",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Размеры и вес",
+          "list": [
+            {
+              "name": "Высота внутреннего блока",
+              "value": "29.2 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ширина внутреннего блока",
+              "value": "81 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Глубина внутреннего блока",
+              "value": "20 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вес внутреннего блока",
+              "value": "8.8 кг",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Высота внешнего блока",
+              "value": "54.9 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ширина внешнего блока",
+              "value": "75.3 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Глубина внешнего блока",
+              "value": "27.5 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вес внешнего блока",
+              "value": "22.4 кг",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        }
+      ],
+      "grossWeight": "35.9",
+      "netWeight": "31.2",
+      "height": "0.61",
+      "instructionUrl": "https://storage.yandexcloud.net/technopark.instructions/832994/instruction/instrukciya-konditsioner-aqua-aqi-25fis1r3-b-towada-inverter-832994.pdf",
+      "length": "0.88",
+      "schemeUrl": null,
+      "warranty": "36",
+      "width": "0.52",
+      "__typename": "ProductV2Specifications"
+    },
+    "certificates": [
+      "https://www.technopark.ru/bipublic/Cert/IG0G15C47JU36K.pdf",
+      "https://www.technopark.ru/bipublic/Cert/IG0G15C47M6A7K.pdf"
+    ],
+    "isManufacturerCountry": false,
+    "isSellerWarranty": false,
+    "reviews": {
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "total": 0,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "rating": {
+      "average": 0,
+      "canRate": false,
+      "total": {
+        "all": 0,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 0,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "isLoading": false
+  },
+  "shots": [
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/832994/1_832994.jpg?timestamp=2026-06-04_18-22-47",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/832994/1_832994.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/832994/1_832994.jpg?timestamp=2026-06-04_18-24-51"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/832994/2_832994.jpg?timestamp=2026-06-04_18-22-47",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/832994/2_832994.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/832994/2_832994.jpg?timestamp=2026-06-04_18-24-51"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/832994/3_832994.jpg?timestamp=2026-06-04_18-22-48",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/832994/3_832994.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/832994/3_832994.jpg?timestamp=2026-06-04_18-24-51"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/832994/4_832994.jpg?timestamp=2026-06-04_18-22-48",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/832994/4_832994.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/832994/4_832994.jpg?timestamp=2026-06-04_18-24-51"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/832994/5_832994.jpg?timestamp=2026-06-04_18-22-47",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/832994/5_832994.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/832994/5_832994.jpg?timestamp=2026-06-04_18-24-57"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/832994/6_832994.jpg?timestamp=2026-06-04_18-22-49",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/832994/6_832994.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/832994/6_832994.jpg?timestamp=2026-06-04_18-24-51"
+    ]
+  ],
+  "photos": [
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/konditsioner-aqua-aqi-25fis1r3-b-towada-inverter-832994-1.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/konditsioner-aqua-aqi-25fis1r3-b-towada-inverter-832994-2.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/konditsioner-aqua-aqi-25fis1r3-b-towada-inverter-832994-3.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/konditsioner-aqua-aqi-25fis1r3-b-towada-inverter-832994-4.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/konditsioner-aqua-aqi-25fis1r3-b-towada-inverter-832994-5.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/konditsioner-aqua-aqi-25fis1r3-b-towada-inverter-832994-6.jpg"
+  ]
+}

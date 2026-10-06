@@ -1,0 +1,1630 @@
+{
+  "shelf": "posudomoechnye-mashiny",
+  "slug": "posudomoechnaya-mashina-toshiba-dw-14f6b-ru-818408",
+  "product": {
+    "id": "818408",
+    "article": "192742",
+    "slug": "posudomoechnaya-mashina-toshiba-dw-14f6b-ru-818408",
+    "hasSmartInstallments": false,
+    "isActive": true,
+    "name": {
+      "default": "Toshiba DW-14F6(B)-RU",
+      "full": "Посудомоечная машина Toshiba DW-14F6(B)-RU",
+      "pseudo": null,
+      "spare": null,
+      "fullWithoutSection": "Toshiba DW-14F6(B)-RU",
+      "section": "Посудомоечная машина",
+      "__typename": "ProductName"
+    },
+    "price": {
+      "default": 55990,
+      "marketing": null,
+      "old": 60990,
+      "__typename": "ProductPrice"
+    },
+    "benefit": 5000,
+    "specifications": {
+      "short": [
+        {
+          "name": "Вид сушки",
+          "value": "конденсационный",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Загрузка",
+          "value": "14 комплектов",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Количество программ",
+          "value": "8",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Высота",
+          "value": "84.5 см",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Ширина",
+          "value": "59.8 см",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "__typename": "ProductV2Specifications"
+    },
+    "labels": [
+      {
+        "name": "Бонусы Спасибо",
+        "type": "sberspasibo",
+        "items": [
+          {
+            "description": "",
+            "name": "Этот товар можно оплатить бонусами Спасибо от СберБанка",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Выгодное предложение",
+        "type": "special_offer",
+        "items": [
+          {
+            "description": "",
+            "name": "Техника и электроника",
+            "url": "/action/vygodnaya-tsena/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Рассрочка",
+        "type": "deferred_payment",
+        "items": [
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-6",
+            "url": "/posudomoechnaya-mashina-toshiba-dw-14f6b-ru-818408/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-12",
+            "url": "/posudomoechnaya-mashina-toshiba-dw-14f6b-ru-818408/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-18",
+            "url": "/posudomoechnaya-mashina-toshiba-dw-14f6b-ru-818408/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-24",
+            "url": "/posudomoechnaya-mashina-toshiba-dw-14f6b-ru-818408/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      }
+    ],
+    "labelsV2": [
+      {
+        "id": "14",
+        "name": "-15% на технику",
+        "code": "15-na-tekhniku",
+        "mainColor": "#F54B4B",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#FFFFFF",
+        "altTextColor": "#F54B4B",
+        "borderAndTextColor": "#F54B4B",
+        "items": [
+          {
+            "id": "155966",
+            "text": "Выгода при покупке крупной бытовой техники",
+            "buttonText": "Подробнее",
+            "url": "/action/vygoda-pri-pokupke-krupnoy-bytovoy-tekhniki/",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      },
+      {
+        "id": "8",
+        "name": "Бонусы Спасибо",
+        "code": "sberspasibo",
+        "mainColor": "#0C9C0C",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#0C9C0C",
+        "altTextColor": "#FFFFFF",
+        "borderAndTextColor": "#0C9C0C",
+        "items": [
+          {
+            "id": "34100",
+            "text": "Этот товар можно оплатить бонусами Спасибо от СберБанка ",
+            "buttonText": "Подробнее",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      },
+      {
+        "id": "5",
+        "name": "Выгода",
+        "code": "vygoda",
+        "mainColor": "#fd9600",
+        "mainTextColor": "#ffffff",
+        "altColor": "#fd9600",
+        "altTextColor": "#ffffff",
+        "borderAndTextColor": "#fd9600",
+        "items": [
+          {
+            "id": "2169",
+            "text": "Выгодное предложение",
+            "buttonText": "Подробнее",
+            "url": "/action/vygodnaya-tsena/",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      }
+    ],
+    "status": {
+      "id": "IN_STOCK",
+      "name": "В наличии",
+      "type": "POSITIVE",
+      "__typename": "ProductStatus"
+    },
+    "brand": {
+      "code": "toshiba",
+      "id": "40314",
+      "name": "Toshiba",
+      "src": "https://cdn1.technopark.ru/technopark/photos_resized/section_brand_300_100/300_100/40314/1_40314.png",
+      "slug": "toshiba",
+      "sections": [
+        {
+          "name": "Все кондиционеры Toshiba",
+          "url": "/konditsionery/toshiba/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2214215489/technopark/photos_resized/product/120_120/638315/1_638315.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4110225367/technopark/photos_resized/product/120_120/638315/2_638315.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/452161275/technopark/photos_resized/product/120_120/638315/3_638315.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1937943349/technopark/photos_resized/product/120_120/638315/4_638315.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2477849094/technopark/photos_resized/product/120_120/638315/5_638315.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Стиральные машины Toshiba",
+          "url": "/stiralnye-mashiny/toshiba/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3780080227/technopark/photos_resized/product/120_120/817992/1_817992.jpg?timestamp=2026-01-22_16-34-22",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1911582706/technopark/photos_resized/product/120_120/817992/2_817992.jpg?timestamp=2026-01-22_16-34-22",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3260308266/technopark/photos_resized/product/120_120/817992/3_817992.jpg?timestamp=2026-01-22_16-34-26",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/116875108/technopark/photos_resized/product/120_120/817992/4_817992.jpg?timestamp=2026-01-22_16-34-22",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2521318133/technopark/photos_resized/product/120_120/817992/5_817992.jpg?timestamp=2026-01-22_16-34-22",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1391150779/technopark/photos_resized/product/120_120/817992/6_817992.jpg?timestamp=2026-01-22_16-34-26",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3886186715/technopark/photos_resized/product/120_120/817992/7_817992.jpg?timestamp=2026-01-22_16-34-26",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4032969128/technopark/photos_resized/product/120_120/817992/8_817992.jpg?timestamp=2026-01-22_16-34-30",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3169134487/technopark/photos_resized/product/120_120/817992/9_817992.jpg?timestamp=2026-01-22_16-34-26",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Микроволновые печи Toshiba",
+          "url": "/mikrovolnovye-pechi/toshiba/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3487541443/technopark/photos_resized/product/120_120/820197/1_820197.jpg?timestamp=2026-02-11_09-52-50",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/830256261/technopark/photos_resized/product/120_120/820197/2_820197.jpg?timestamp=2026-02-11_09-52-49",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/677873092/technopark/photos_resized/product/120_120/820197/3_820197.jpg?timestamp=2026-02-11_09-52-50",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/567396847/technopark/photos_resized/product/120_120/820197/4_820197.jpg?timestamp=2026-02-11_09-52-50",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3101202517/technopark/photos_resized/product/120_120/820197/5_820197.jpg?timestamp=2026-02-11_09-52-50",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Чайники электрические Toshiba",
+          "url": "/chayniki/toshiba/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3023335978/technopark/photos_resized/product/120_120/821316/1_821316.jpg?timestamp=2026-02-17_13-18-48",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2905555819/technopark/photos_resized/product/120_120/821316/2_821316.jpg?timestamp=2026-02-17_13-18-48",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2650438411/technopark/photos_resized/product/120_120/821316/3_821316.jpg?timestamp=2026-02-17_13-18-52",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3274916540/technopark/photos_resized/product/120_120/821316/4_821316.jpg?timestamp=2026-02-17_13-18-48",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3009001011/technopark/photos_resized/product/120_120/821316/5_821316.jpg?timestamp=2026-02-17_13-18-48",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1513755398/technopark/photos_resized/product/120_120/821316/6_821316.jpg?timestamp=2026-02-17_13-18-48",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Мультиварки Toshiba",
+          "url": "/multivarki/toshiba/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/317252899/technopark/photos_resized/product/120_120/819157/1_819157.jpg?timestamp=2026-02-02_11-28-24",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3945151868/technopark/photos_resized/product/120_120/819157/2_819157.jpg?timestamp=2026-02-02_11-28-26",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2346824857/technopark/photos_resized/product/120_120/819157/3_819157.jpg?timestamp=2026-02-02_11-28-24",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2358014080/technopark/photos_resized/product/120_120/819157/4_819157.jpg?timestamp=2026-02-02_11-28-25",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3378158265/technopark/photos_resized/product/120_120/819157/5_819157.jpg?timestamp=2026-02-02_11-28-29",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4242965519/technopark/photos_resized/product/120_120/819157/6_819157.jpg?timestamp=2026-02-02_11-28-24",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3641729022/technopark/photos_resized/product/120_120/819157/7_819157.jpg?timestamp=2026-02-02_11-28-29",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3193809455/technopark/photos_resized/product/120_120/819157/8_819157.jpg?timestamp=2026-02-02_11-28-29",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Внешние жесткие диски Toshiba",
+          "url": "/zhestkie-diski-i-setevye-nakopiteli/toshiba/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3604529693/technopark/photos_resized/product/120_120/752754/1_752754.jpg?timestamp=2024-08-08_14-57-19",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1369925375/technopark/photos_resized/product/120_120/752754/2_752754.jpg?timestamp=2024-08-08_14-57-24",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3844447068/technopark/photos_resized/product/120_120/752754/3_752754.jpg?timestamp=2024-08-08_14-57-18",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/187431536/technopark/photos_resized/product/120_120/752754/4_752754.jpg?timestamp=2024-08-08_14-57-17",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/43890267/technopark/photos_resized/product/120_120/752754/5_752754.jpg?timestamp=2024-08-08_14-57-18",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2619251669/technopark/photos_resized/product/120_120/752754/6_752754.jpg?timestamp=2024-08-08_14-57-14",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Посудомоечные машины встраиваемые Toshiba",
+          "url": "/vstraivaemye-posudomoechnye-mashiny/toshiba/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/4115568865/technopark/photos_resized/product/120_120/818815/1_818815.jpg?timestamp=2026-01-29_10-24-39",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/625887647/technopark/photos_resized/product/120_120/818815/2_818815.jpg?timestamp=2026-01-29_10-24-40",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4062403832/technopark/photos_resized/product/120_120/818815/3_818815.jpg?timestamp=2026-01-29_10-24-39",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3158775845/technopark/photos_resized/product/120_120/818815/4_818815.jpg?timestamp=2026-01-29_10-24-40",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1710327152/technopark/photos_resized/product/120_120/818815/5_818815.jpg?timestamp=2026-01-29_10-24-39",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Сушильные машины Toshiba",
+          "url": "/sushilnye-mashiny/toshiba/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3709675741/technopark/photos_resized/product/120_120/835619/1_835619.jpg?timestamp=2026-07-01_14-35-12",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1132051838/technopark/photos_resized/product/120_120/835619/2_835619.jpg?timestamp=2026-07-01_14-35-12",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/962825506/technopark/photos_resized/product/120_120/835619/3_835619.jpg?timestamp=2026-07-01_14-35-09",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1315225012/technopark/photos_resized/product/120_120/835619/4_835619.jpg?timestamp=2026-07-01_14-35-09",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2691357848/technopark/photos_resized/product/120_120/835619/5_835619.jpg?timestamp=2026-07-01_14-35-09",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/307158753/technopark/photos_resized/product/120_120/835619/6_835619.jpg?timestamp=2026-07-01_14-35-10",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3614305294/technopark/photos_resized/product/120_120/835619/7_835619.jpg?timestamp=2026-07-01_14-35-09",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Стиральные машины с сушкой Toshiba",
+          "url": "/stiralno-sushilnye-mashiny/toshiba/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3552748703/technopark/photos_resized/product/120_120/818098/1_818098.jpg?timestamp=2026-01-23_10-22-04",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1141931287/technopark/photos_resized/product/120_120/818098/2_818098.jpg?timestamp=2026-01-23_10-22-03",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2455288426/technopark/photos_resized/product/120_120/818098/3_818098.jpg?timestamp=2026-01-23_10-22-04",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/857165185/technopark/photos_resized/product/120_120/818098/4_818098.jpg?timestamp=2026-01-23_10-22-03",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2854100027/technopark/photos_resized/product/120_120/818098/5_818098.jpg?timestamp=2026-01-23_10-22-03",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4070519695/technopark/photos_resized/product/120_120/818098/6_818098.jpg?timestamp=2026-01-23_10-22-06",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        }
+      ],
+      "__typename": "Brand"
+    },
+    "section": {
+      "slug": "posudomoechnye-mashiny",
+      "id": "920",
+      "name": "Посудомоечные машины",
+      "parents": [
+        {
+          "id": "877",
+          "name": "Крупная бытовая",
+          "depth": 1,
+          "__typename": "SectionTreeItem"
+        },
+        {
+          "id": "920",
+          "name": "Посудомоечные машины",
+          "depth": 2,
+          "__typename": "SectionTreeItem"
+        }
+      ],
+      "__typename": "Section"
+    },
+    "media": {
+      "gallery": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/818408/1_818408.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/818408/2_818408.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/818408/3_818408.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/818408/4_818408.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/818408/5_818408.jpg?timestamp=2026-01-26_16-02-25",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/818408/6_818408.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/818408/7_818408.jpg?timestamp=2026-01-26_16-02-25",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/818408/8_818408.jpg?timestamp=2026-01-26_16-02-26",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "interior": [],
+      "video": [],
+      "vkVideo": null,
+      "view3d": [],
+      "listing": {
+        "default": [
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/818408/1_818408.jpg?timestamp=2026-01-26_16-02-23",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/818408/2_818408.jpg?timestamp=2026-01-26_16-02-22",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/818408/3_818408.jpg?timestamp=2026-01-26_16-02-22",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/818408/4_818408.jpg?timestamp=2026-01-26_16-02-23",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/818408/5_818408.jpg?timestamp=2026-01-26_16-02-26",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/818408/6_818408.jpg?timestamp=2026-01-26_16-02-23",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/818408/7_818408.jpg?timestamp=2026-01-26_16-02-27",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/818408/8_818408.jpg?timestamp=2026-01-26_16-02-26",
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "ProductListing"
+      },
+      "__typename": "ProductV2Media"
+    },
+    "modifications": {
+      "bigBrother": null,
+      "groups": [],
+      "__typename": "ProductModifications"
+    },
+    "description": {
+      "hasDescription": true,
+      "type": "RICH",
+      "__typename": "ProductDescription"
+    },
+    "collection": {
+      "id": "818408",
+      "products": {
+        "pagination": {
+          "total": 0,
+          "__typename": "Pagination"
+        },
+        "__typename": "ProductV2Pagination"
+      },
+      "__typename": "ProductCollection"
+    },
+    "similar": {
+      "pagination": {
+        "total": 20,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "related": {
+      "pagination": {
+        "total": 19,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "accessories": [
+      {
+        "products": {
+          "pagination": {
+            "total": 16,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      }
+    ],
+    "rating": {
+      "average": 0,
+      "canRate": false,
+      "total": {
+        "all": 0,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 0,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "reviews": {
+      "total": 0,
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "bestCredit": {
+      "monthPayment": 2333,
+      "type": "DEFERRED_PAYMENT",
+      "__typename": "ProductBestCredit"
+    },
+    "isSpare": false,
+    "isService": false,
+    "isVipService": false,
+    "isGiftBonusCard": false,
+    "canBuy": true,
+    "canPayOnline": true,
+    "canRequestPrice": false,
+    "canShowPrice": true,
+    "canSubscribe": false,
+    "needPrepaymentForDelivery": false,
+    "needPrepaymentForPreorder": false,
+    "isSberSpasiboPayAvailable": true,
+    "isYandexPayAllowed": false,
+    "yandexSplit": {
+      "payments": [
+        {
+          "amount": 0,
+          "date": "2026-08-17T09:00:14+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4675,
+          "date": "2026-08-31T09:00:14+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4665,
+          "date": "2026-09-14T09:00:14+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4665,
+          "date": "2026-09-28T09:00:14+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4665,
+          "date": "2026-10-12T09:00:14+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4665,
+          "date": "2026-10-26T09:00:14+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4665,
+          "date": "2026-11-09T09:00:14+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4665,
+          "date": "2026-11-23T09:00:14+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4665,
+          "date": "2026-12-07T09:00:14+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4665,
+          "date": "2026-12-21T09:00:14+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4665,
+          "date": "2027-01-04T09:00:14+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4665,
+          "date": "2027-01-18T09:00:14+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4665,
+          "date": "2027-02-01T09:00:14+0300",
+          "__typename": "YandexSplitPayment"
+        }
+      ],
+      "firstPayment": 0,
+      "restPayment": 55990,
+      "description": "https://yandex.ru/support/split/",
+      "maxAmount": 295000,
+      "__typename": "YandexSplit"
+    },
+    "seo": {
+      "description": "Посудомоечная машина Toshiba DW-14F6(B)-RU: купить в интернет-магазине Технопарк с расширенной гарантией и бесплатной доставкой по РФ. Подробные характеристики товара с отзывами реальных покупателей.",
+      "text": "Вы можете купить посудомоечную машину Toshiba DW-14F6(B)-RU с доставкой по Москве по низкой цене. В интернет-магазине Technopark.ru осуществляется продажа посудомоечной машины Toshiba DW-14F6(B)-RU на выгодных условиях.",
+      "textHidden": "",
+      "title": "Посудомоечная машина Toshiba DW-14F6(B)-RU - купить в Москве в интернет-магазине Технопарк",
+      "__typename": "SeoData"
+    },
+    "breadcrumbs": [
+      {
+        "name": "Главная",
+        "url": "/",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Крупная бытовая техника",
+        "url": "/krupnaya-bytovaya-tehnika/",
+        "options": [
+          {
+            "name": "Центр инноваций",
+            "url": "/tovary-iz-budushchego/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Смартфоны и гаджеты",
+            "url": "/smartfony-i-gadzhety/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Компьютеры и ноутбуки",
+            "url": "/kompyutery-i-noutbuki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Климатическая техника",
+            "url": "/klimaticheskaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Техника для кухни",
+            "url": "/dlya-kuhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Бытовая техника для дома",
+            "url": "/dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для красоты и здоровья",
+            "url": "/krasota-i-zdorovye/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Спортивные товары",
+            "url": "/trenazhery-dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Телевизоры Аудио Hi-Fi",
+            "url": "/audio-video-foto/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для сада, дома и ремонта",
+            "url": "/dlya-sada-doma-i-remonta/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посуда",
+            "url": "/posuda/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Детские товары",
+            "url": "/detskie-tovary/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для гейминга",
+            "url": "/gaming/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Плоттеры и услуги розницы",
+            "url": "//",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Запасные части",
+            "url": "/zapasnie-chasti/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Посудомоечные машины",
+        "url": "/posudomoechnye-mashiny/",
+        "options": [
+          {
+            "name": "Стиральные машины",
+            "url": "/stiralnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые варочные панели",
+            "url": "/vstraivaemye-varochnye-poverhnosti/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные плиты",
+            "url": "/plity/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Холодильники",
+            "url": "/holodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые духовые шкафы",
+            "url": "/vstraivaemye-duhovye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вытяжки для кухни",
+            "url": "/vytyazhki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые холодильники",
+            "url": "/vstraivaemye-holodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые винные шкафы",
+            "url": "/vstraivaemye-vinnye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые вытяжки для кухни",
+            "url": "/vstraivaemye-vytyazhki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые кофемашины",
+            "url": "/vstraivaemye-kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые морозильные камеры",
+            "url": "/vstraivaemye-morozilnye-kamery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые пароварки",
+            "url": "/vstraivaemye-parovarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые посудомоечные машины",
+            "url": "/vstraivaemye-posudomoechnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые стиральные машины",
+            "url": "/vstraivaemye-stiralnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Сушильные машины для белья",
+            "url": "/sushilnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые микроволновые печи",
+            "url": "/vstraivaemye-mikrovolnovye-pechi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Морозильные камеры",
+            "url": "/morozilnye-kamery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Винные шкафы",
+            "url": "/vinnye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые шкафы для подогрева",
+            "url": "/shkafy-dlya-podogreva-posudy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Стиральные машины с функцией сушки (2 в 1)",
+            "url": "/stiralno-sushilnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые вакууматоры",
+            "url": "/vakuumatory/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Измельчители пищевых отходов",
+            "url": "/vstraivaemye-izmelchiteli-pischevyh-othodov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Автохолодильники",
+            "url": "/avtoholodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для крупной бытовой техники",
+            "url": "/aksessuary-krupnaya-bytovaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для холодильников",
+            "url": "/aksessuary-krupnaya-bytovaya-tehnika/filt_naznachenie-k_holodilnikam/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для автохолодильников",
+            "url": "/aksessuary-dlya-avtokholodilnikov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Хьюмидоры",
+            "url": "/khyumidory/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Посудомоечные машины Toshiba",
+        "url": "/posudomoechnye-mashiny/toshiba/",
+        "options": [
+          {
+            "name": "Korting",
+            "url": "/posudomoechnye-mashiny/korting/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Midea",
+            "url": "/posudomoechnye-mashiny/midea/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Maunfeld",
+            "url": "/posudomoechnye-mashiny/maunfeld/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Bosch",
+            "url": "/posudomoechnye-mashiny/bosch/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Beko",
+            "url": "/posudomoechnye-mashiny/beko/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Electrolux",
+            "url": "/posudomoechnye-mashiny/electrolux/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Hotpoint",
+            "url": "/posudomoechnye-mashiny/hotpoint/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Asko",
+            "url": "/posudomoechnye-mashiny/asko/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Toshiba DW-14F6(B)-RU",
+        "url": "posudomoechnaya-mashina-toshiba-dw-14f6b-ru-818408",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      }
+    ],
+    "isArchive": false,
+    "__typename": "ProductV2",
+    "isSberPayOneClickAllowed": false,
+    "isTinkoffPayOneClickAllowed": false,
+    "bonus": null
+  },
+  "details": {
+    "description": "<div id=\"stream24-inpage\"></div> <script> (function (w, d, s, o) {   var f = d.getElementsByTagName(s)[0];   var j = d.createElement(s);   w.TTLStreamReady = new Promise((resolve) => {     j.async = true;     j.src = 'https://content.24ttl.stream/widget.js';     f.parentNode.insertBefore(j, f);     j.onload = function () {       w.ttlStream = new TTLStream(o);       resolve(w.ttlStream);     };   }); })(window, document, 'script', {}); </script> <script> var styleElement = document.createElement('style');  styleElement.innerHTML = \"body #stream24-inpage #stream-container *{ font-family: 'DINPro Technopark' !important; }\"; document.getElementsByTagName(\"head\")[0].appendChild(styleElement);  TTLStreamReady.then(() => {   ttlStream.findAndInsert({     el: '#stream24-inpage',     brand: 'toshiba',     productId: '2401100090805',     retailerDomain: 'www.technopark.ru',     templateType: 'master_template',     resultType: 'html',     contentType: 'minisite'   }); }); </script>",
+    "descriptionType": "RICH_STREAM_24",
+    "descriptionBarcode": "2401100090805",
+    "descriptionBrand": "Toshiba",
+    "specifications": {
+      "short": [
+        {
+          "name": "Вид сушки",
+          "value": "конденсационный",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Загрузка",
+          "value": "14 комплектов",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Количество программ",
+          "value": "8",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Высота",
+          "value": "84.5 см",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Ширина",
+          "value": "59.8 см",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "barcode": "2401100090805",
+      "country": "Китай",
+      "full": [
+        {
+          "name": "Основные характеристики",
+          "list": [
+            {
+              "name": "Установка",
+              "value": "отдельностоящая",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Конструкция",
+              "value": "полноразмерная",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вид сушки",
+              "value": "конденсационный",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Загрузка",
+              "value": "14 комплектов",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип двигателя",
+              "value": "инверторный",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Управление",
+          "list": [
+            {
+              "name": "Тип управления",
+              "value": "электронное",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Переключатели",
+              "value": "сенсорные",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество программ",
+              "value": "8",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Программы",
+              "value": "авто, гигиеническая, быстрая, 3 программы доступны в приложении (стекло, 90 мин, автоочистка)",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Экономичная программа",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Интенсивная мойка",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дополнительные программы",
+              "value": "стерилизация УФ-излучением, турбо+, 1 программа доступна в приложении (интенсивная мойка)",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Класс мойки",
+              "value": "A",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Класс сушки",
+              "value": "A",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Управление c мобильного устройства",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Поддержка мобильного приложения",
+              "value": "TSmartLife",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Поддержка Wi-Fi",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Температурные режимы",
+          "list": [
+            {
+              "name": "Температурные режимы",
+              "value": "45, 50, 55-65, 72 °С",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная температура воды",
+              "value": "72 °С",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество температурных режимов",
+              "value": "4",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Дисплей",
+          "list": [
+            {
+              "name": "Цифровой дисплей",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип дисплея",
+              "value": "LED",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Функции дисплея",
+              "value": "индикация, отображение длительности программы, программирование отсрочки включения, отображение кодов ошибок, отображение включения Wi-Fi",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Таймер",
+          "list": [
+            {
+              "name": "Таймер отсрочки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальное время отсрочки",
+              "value": "24 ч",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Индикация",
+          "list": [
+            {
+              "name": "Индикация режимов работы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет индикации",
+              "value": "белый",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Звуковой сигнал завершения программы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация времени до конца программы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикатор отсутствия соли",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикатор отсутствия ополаскивателя",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Защита и безопасность",
+          "list": [
+            {
+              "name": "Защита от протечек",
+              "value": "полная",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Технология защиты от протечки",
+              "value": "AquaStop",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Энергопотребление",
+          "list": [
+            {
+              "name": "Класс энергопотребления",
+              "value": "A",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная потребляемая мощность",
+              "value": "2100 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Энергопотребление за цикл",
+              "value": "0.747 кВт/ч",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Напряжение",
+              "value": "220-240 В",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Отделения",
+          "list": [
+            {
+              "name": "Количество корзин",
+              "value": "3",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Регулировка высоты корзины",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество уровней регулировки по высоте",
+              "value": "2",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Корзина для столовых приборов",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Полка для чашек",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Складные держатели",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Комфорт использования",
+          "list": [
+            {
+              "name": "Регулировка жёсткости воды",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Особенности конструкции",
+          "list": [
+            {
+              "name": "Верхний разбрызгиватель",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество разбрызгивателей",
+              "value": "3",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество уровней разбрызгивания воды",
+              "value": "3",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Электроника регенерирования",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автоотключение",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Возможность сокращения программы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автоматическое открывание дверцы в конце мойки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Продолжительность нормативного цикла",
+              "value": "235 мин",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Уровень шума",
+              "value": "44 дБ",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Расход воды за цикл",
+              "value": "9.8 л",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество зон подачи воды",
+              "value": "3",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Использование средств 3 в 1",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дополнительная информация",
+              "value": "выбор зоны мойки (верхняя корзина, нижняя корзина)",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Цвет и материал",
+          "list": [
+            {
+              "name": "Материал корпуса",
+              "value": "металл",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал внутренней камеры",
+              "value": "нержавеющая сталь",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал коромысла",
+              "value": "пластик",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет",
+              "value": "чёрный",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Комплектация",
+          "list": [
+            {
+              "name": "Воронка для засыпания соли",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Заливной шланг",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Сливной шланг",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Инструкция",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Размеры и вес",
+          "list": [
+            {
+              "name": "Высота",
+              "value": "84.5 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ширина",
+              "value": "59.8 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Глубина",
+              "value": "60 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Глубина с открытой дверкой",
+              "value": "117.5 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Высота встраивания",
+              "value": "820 мм",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ширина встраивания",
+              "value": "600 мм",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Глубина встраивания",
+              "value": "560 мм",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вес",
+              "value": "51 кг",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        }
+      ],
+      "grossWeight": "55",
+      "netWeight": "51",
+      "height": "0.9",
+      "instructionUrl": "https://storage.yandexcloud.net/technopark.instructions/818408/instruction/instrukciya-posudomoechnaya-mashina-toshiba-dw-14f6b-ru-818408.pdf",
+      "length": "0.65",
+      "schemeUrl": null,
+      "warranty": "24",
+      "width": "0.65",
+      "__typename": "ProductV2Specifications"
+    },
+    "certificates": ["https://www.technopark.ru/bipublic/Cert/1O8093IFTHKFH8.pdf"],
+    "isManufacturerCountry": false,
+    "isSellerWarranty": false,
+    "reviews": {
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "total": 0,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "rating": {
+      "average": 0,
+      "canRate": false,
+      "total": {
+        "all": 0,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 0,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "isLoading": false
+  },
+  "shots": [
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/818408/1_818408.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/818408/1_818408.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/818408/2_818408.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/818408/2_818408.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/818408/3_818408.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/818408/3_818408.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/818408/4_818408.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/818408/4_818408.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/818408/5_818408.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/818408/5_818408.jpg?timestamp=2026-01-26_16-02-25"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/818408/6_818408.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/818408/6_818408.jpg"
+    ]
+  ],
+  "photos": [
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/posudomoechnaya-mashina-toshiba-dw-14f6b-ru-818408-1.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/posudomoechnaya-mashina-toshiba-dw-14f6b-ru-818408-2.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/posudomoechnaya-mashina-toshiba-dw-14f6b-ru-818408-3.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/posudomoechnaya-mashina-toshiba-dw-14f6b-ru-818408-4.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/posudomoechnaya-mashina-toshiba-dw-14f6b-ru-818408-5.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/posudomoechnaya-mashina-toshiba-dw-14f6b-ru-818408-6.jpg"
+  ]
+}

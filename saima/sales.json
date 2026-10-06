@@ -1,0 +1,861 @@
+{
+  "people": [
+    {
+      "key": "meerim",
+      "name": "Мээрим Калыкова",
+      "phone": "+996 706 254 831",
+      "email": "meerim.kalykova@gmail.com",
+      "address": "Бишкек, мкр. Улан 3, дом 14, кв. 56"
+    },
+    {
+      "key": "ilya",
+      "name": "Илья Бородин",
+      "phone": "+996 551 903 476",
+      "email": "ilya.borodin@yandex.ru",
+      "address": "Бишкек, ул. Панфилова 88, кв. 37",
+      "kept": true
+    },
+    {
+      "key": "ksenia",
+      "name": "Ксения Астахова",
+      "phone": "+996 701 736 528",
+      "email": "k.astakhova@yandex.ru",
+      "address": "Бишкек, ул. Горького 27, кв. 13",
+      "kept": true
+    },
+    {
+      "key": "marion",
+      "name": "Marion Lefèvre",
+      "phone": "+996 772 305 681",
+      "email": "marion.lefevre@gmail.com",
+      "address": "Bishkek, Panfilov St 231, apt. 17",
+      "kept": true
+    },
+    {
+      "key": "aisuluu",
+      "name": "Айсулуу Бакирова",
+      "phone": "+996 705 926 143",
+      "email": "aisuluu.bakirova@gmail.com",
+      "address": "Бишкек, ул. Московская 172, кв. 5"
+    },
+    {
+      "key": "nurgul",
+      "name": "Нургуль Ташматова",
+      "phone": "+996 772 640 318",
+      "email": "nurgul.tashmatova@gmail.com",
+      "address": "Ош, ул. Курманжан Датка 271, бутик «Ак Шоола»"
+    }
+  ],
+  "appeals": [
+    {
+      "person": "ilya",
+      "form": "request",
+      "days": 49,
+      "at": [
+        11,
+        30
+      ],
+      "file": {
+        "field": "patterns",
+        "name": "lekala-hudi.png",
+        "title": "PATTERN",
+        "rows": [
+          "HOODIE OVERSIZE",
+          "S-XL, 300 PCS"
+        ]
+      },
+      "answers": {
+        "source": "patterns",
+        "model": "Худи оверсайз, капюшон на подкладке",
+        "complexity": "medium",
+        "quantity": 300,
+        "fabric": "mine",
+        "deadline": "normal",
+        "sizes": "S–XL, по 75 штук",
+        "company": "ОсОО «Кыргыз Мерч»",
+        "comment": "Лекала прикладываю. Ткань привезём — футер трёхнитка с начёсом. Нужен образец до запуска."
+      },
+      "talk": [
+        {
+          "by": "staff",
+          "text": "Илья, здравствуйте! Лекала получили, по ним берёмся. Триста штук на футере — две недели с момента утверждения образца. Образец шьём за три дня, стоит как одна единица тиража."
+        },
+        {
+          "by": "guest",
+          "text": "Ткань завезём в пятницу. Образец обязателен, да."
+        },
+        {
+          "by": "note",
+          "text": "Постоянный клиент с прошлого года. Лекала в архиве, снимать заново не нужно."
+        }
+      ],
+      "status": "open",
+      "assign": true,
+      "order": {
+        "lines": [
+          {
+            "item": "hudi",
+            "qty": 300
+          }
+        ],
+        "after": 6,
+        "say": "Тираж по лекалам клиента, образец утверждён, ткань заказчика.",
+        "partner": "Айгерим Сыдыкова",
+        "steps": [
+          {
+            "do": "correct",
+            "how": "price",
+            "say": "Посчитали тираж на ткани заказчика, цену вписали в заказ"
+          },
+          {
+            "do": "status",
+            "to": "confirmed",
+            "say": "Образец утвердили, запускаем крой"
+          },
+          {
+            "do": "receipt"
+          },
+          {
+            "do": "confirm",
+            "say": "Предоплата по счёту пришла полностью"
+          }
+        ],
+        "files": [
+          {
+            "name": "pravka-lekala-kapyushon.png",
+            "caption": "Правка лекала: капюшон глубже на 2 см, подкладка по лицевому краю",
+            "title": "PATTERN FIX",
+            "rows": [
+              "HOOD +2 CM DEEPER",
+              "LINING ALONG THE FACE EDGE",
+              "APPROVED BY CLIENT"
+            ]
+          },
+          {
+            "name": "foto-obrazca.png",
+            "caption": "Образец, утверждённый заказчиком",
+            "title": "APPROVED SAMPLE",
+            "rows": [
+              "SIZE M",
+              "CLIENT FABRIC, FLEECE 320 G",
+              "SHOT AT THE WORKSHOP"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "person": "ilya",
+      "form": "chat",
+      "days": 45,
+      "at": [
+        10,
+        20
+      ],
+      "answers": {
+        "question": "Образец готов? Хотим посмотреть до пятницы."
+      },
+      "talk": [
+        {
+          "by": "staff",
+          "text": "Готов, фото на почте. Живьём можно посмотреть в цеху хоть сегодня."
+        },
+        {
+          "by": "guest",
+          "text": "Посмотрели. Капюшон сидит мелко, и карман сантиметра на три ниже, чем на лекалах."
+        },
+        {
+          "by": "staff",
+          "text": "Карман наша ошибка — закройщик сместил. Капюшон по вашим лекалам, но могу поднять посадку на два сантиметра, если скажете. Второй образец за наш счёт."
+        },
+        {
+          "by": "guest",
+          "text": "Поднимайте. И карман на место."
+        },
+        {
+          "by": "staff",
+          "text": "Второй образец готов, обе правки внесены. Утверждаете — запускаем тираж в понедельник."
+        },
+        {
+          "by": "guest",
+          "text": "Утверждаю. Запускайте."
+        },
+        {
+          "by": "note",
+          "text": "Второй образец не считаем — карман наш промах."
+        }
+      ],
+      "status": "done",
+      "assign": true
+    },
+    {
+      "person": "meerim",
+      "form": "request",
+      "days": 42,
+      "at": [
+        15,
+        20
+      ],
+      "answers": {
+        "source": "collection",
+        "model": "Платье-миди с поясом",
+        "complexity": "simple",
+        "quantity": 60,
+        "fabric": "ours",
+        "deadline": "rush",
+        "sizes": "42–50",
+        "company": "Магазин «Айым»",
+        "comment": "Беру из вашей коллекции, но хочу другой цвет — терракота. Возможно?"
+      },
+      "talk": [
+        {
+          "by": "staff",
+          "text": "Мээрим, по коллекции цвет меняем от 50 штук — вы проходите. Терракоту подберём из того, что есть у поставщика, пришлю фото образцов ткани. Срочный пошив — плюс 15% и десять дней вместо двух недель."
+        },
+        {
+          "by": "guest",
+          "text": "Хорошо, ждём фото."
+        },
+        {
+          "by": "guest",
+          "text": "Фото ткани так и не пришли. Мне цвет утверждать надо, у меня витрина стоит."
+        }
+      ],
+      "status": "open",
+      "assign": true,
+      "order": {
+        "estimate": true,
+        "after": 1,
+        "steps": [
+          {
+            "do": "correct",
+            "how": "price",
+            "say": "Раскроили по вашей ткани и посчитали точно: вышло внутри вилки, которую вы видели в расчёте"
+          },
+          {
+            "do": "status",
+            "to": "confirmed",
+            "say": "Тираж подтверждён, шьём"
+          },
+          {
+            "do": "receipt"
+          },
+          {
+            "do": "confirm",
+            "say": "Предоплата пришла"
+          }
+        ]
+      }
+    },
+    {
+      "person": "ksenia",
+      "form": "request",
+      "days": 28,
+      "at": [
+        13,
+        45
+      ],
+      "file": {
+        "field": "patterns",
+        "name": "obrazec-bluza.png",
+        "title": "SAMPLE",
+        "rows": [
+          "BLOUSE WITH FLOUNCE",
+          "OWN, TO COPY"
+        ]
+      },
+      "answers": {
+        "source": "sample",
+        "model": "Блуза с воланом по образцу",
+        "complexity": "complex",
+        "quantity": 40,
+        "fabric": "unsure",
+        "deadline": "normal",
+        "sizes": "42–48",
+        "comment": "Фото прикладываю. Есть блуза, которая мне нравится — хочу такую же, но из другой ткани. Ткань подберите сами."
+      },
+      "talk": [
+        {
+          "by": "staff",
+          "text": "Ксения, по фото видно фасон, но лекала снимаем только с вещи. Привозите оригинал — снятие входит в стоимость от 30 единиц."
+        },
+        {
+          "by": "guest",
+          "text": "Привезу. А ткань?"
+        },
+        {
+          "by": "staff",
+          "text": "Под волан хорошо идёт вискозный поплин — покажем три варианта, когда приедете."
+        },
+        {
+          "by": "guest",
+          "text": "Договорились, буду в четверг."
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "person": "aisuluu",
+      "form": "chat",
+      "days": 21,
+      "at": [
+        10,
+        15
+      ],
+      "answers": {
+        "question": "Добрый день. Минимальный тираж какой? Хочу попробовать с малого, дальше видно будет."
+      },
+      "talk": [
+        {
+          "by": "guest",
+          "text": "Меня к вам направили из шоурума «Ала-Тоо Маркет», сказали, шьёте небольшие тиражи."
+        },
+        {
+          "by": "staff",
+          "text": "Айсулуу, от 30 единиц одной модели. Меньше берём только по своим лекалам и по штучной цене — экономики в этом мало, честно говорю."
+        },
+        {
+          "by": "guest",
+          "text": "А почему так? Тридцать и десять — какая разница цеху."
+        },
+        {
+          "by": "staff",
+          "text": "Раскрой и настройка машин одинаковые на любой тираж. На тридцати они размазываются, на десяти сидят в каждой единице — и вы платите за них, а не за пошив."
+        },
+        {
+          "by": "guest",
+          "text": "Понятно. Тогда тридцать."
+        },
+        {
+          "by": "staff",
+          "text": "Оформила тридцать футболок, счёт в переписке. От шоурума вам привет."
+        }
+      ],
+      "status": "done",
+      "order": {
+        "lines": [
+          {
+            "item": "futbolka",
+            "qty": 30
+          }
+        ],
+        "after": 1,
+        "say": "Пробный тираж, клиентку привёл шоурум.",
+        "partner": "Ала-Тоо Маркет",
+        "steps": [
+          {
+            "do": "status",
+            "to": "confirmed"
+          },
+          {
+            "do": "receipt"
+          },
+          {
+            "do": "confirm",
+            "say": "Оплату по QR получили"
+          },
+          {
+            "do": "status",
+            "to": "done",
+            "say": "Тираж забрали со склада"
+          }
+        ]
+      }
+    },
+    {
+      "person": "marion",
+      "form": "request",
+      "days": 16,
+      "at": [
+        10,
+        40
+      ],
+      "locale": "en",
+      "answers": {
+        "source": "collection",
+        "model": "Linen shirt",
+        "complexity": "simple",
+        "quantity": 120,
+        "fabric": "ours",
+        "deadline": "normal",
+        "sizes": "S–XL",
+        "company": "Atelier Lefèvre",
+        "comment": "I sell online in France. I need consistent sizing and a label of my own sewn in."
+      },
+      "talk": [
+        {
+          "by": "staff",
+          "text": "Hello, Marion! We can sew in your own label — send them and we put them in the neck. Sizing is consistent within a run; we send you a size chart with the actual measurements before we cut."
+        },
+        {
+          "by": "guest",
+          "text": "Perfect. Labels will arrive by post next week. Does the chart come in centimetres?"
+        },
+        {
+          "by": "staff",
+          "text": "Centimetres, and the shoulder, chest and length for every size. If something has to move, it is easier before the cut than after."
+        },
+        {
+          "by": "guest",
+          "text": "Understood, thank you."
+        }
+      ],
+      "status": "open",
+      "assign": true
+    },
+    {
+      "person": "aisuluu",
+      "form": "chat",
+      "days": 10,
+      "at": [
+        16,
+        50
+      ],
+      "answers": {
+        "question": "Заказ на 200 футболок — у вас на складе столько нет, я смотрела. Отшиваете под заказ?"
+      },
+      "talk": [
+        {
+          "by": "staff",
+          "text": "Отшиваем. На складе лежит то, что готово к отгрузке сегодня; всё сверх этого шьётся под заказ. Оформляйте — заказ станет сметой, мы посчитаем срок и цену и вернёмся с точными числами."
+        },
+        {
+          "by": "guest",
+          "text": "То есть сумма в корзине не окончательная?"
+        },
+        {
+          "by": "staff",
+          "text": "Не окончательная, и мы её не поднимем молча: пересчитаем, покажем и попросим согласовать."
+        }
+      ],
+      "status": "open"
+    },
+    {
+      "person": "ksenia",
+      "form": "chat",
+      "days": 8,
+      "at": [
+        9,
+        25
+      ],
+      "answers": {
+        "question": "Образец привезла в цех, отдала на проходной. Дошёл?"
+      },
+      "talk": [
+        {
+          "by": "staff",
+          "text": "Дошёл, лежит у закройщика. Лекала снимем сегодня, фото ткани пришлю завтра."
+        },
+        {
+          "by": "guest",
+          "text": "Спасибо."
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "person": "ilya",
+      "form": "chat",
+      "days": 3,
+      "at": [
+        20,
+        5
+      ],
+      "answers": {
+        "question": "Часть тиража хотим перенести на следующий месяц. Пересчитаете?"
+      }
+    },
+    {
+      "person": "aisuluu",
+      "form": "request",
+      "days": 1,
+      "at": [
+        12,
+        30
+      ],
+      "answers": {
+        "source": "collection",
+        "model": "Сарафан льняной",
+        "complexity": "simple",
+        "quantity": 30,
+        "fabric": "ours",
+        "deadline": "normal",
+        "sizes": "42–48",
+        "comment": "Пробный тираж, как договаривались. Дальше посмотрим по продажам."
+      }
+    }
+  ],
+  "orders": [
+    {
+      "person": "nurgul",
+      "days": 35,
+      "at": [
+        10,
+        10
+      ],
+      "lines": [
+        {
+          "item": "longsliv",
+          "qty": 50
+        }
+      ],
+      "zone": 2,
+      "answers": {
+        "fulfilment": "delivery",
+        "measurements": "S–XL, лонгсливы поровну."
+      },
+      "steps": [
+        {
+          "do": "correct",
+          "how": "price",
+          "say": "Чего не хватило на складе, дошили и вписали цену"
+        },
+        {
+          "do": "status",
+          "to": "confirmed",
+          "say": "Первая партия для бутика в Оше"
+        },
+        {
+          "do": "confirm",
+          "say": "Предоплата пришла переводом"
+        }
+      ],
+      "carry": {
+        "to": "handed",
+        "after": 4,
+        "weights": [
+          8.2,
+          8.0
+        ],
+        "ride": "saima-osh-first"
+      }
+    },
+    {
+      "person": "ksenia",
+      "days": 33,
+      "at": [
+        12,
+        20
+      ],
+      "lines": [
+        {
+          "item": "rubashka-oversize",
+          "qty": 14
+        }
+      ],
+      "answers": {
+        "fulfilment": "delivery",
+        "measurements": "Мерки сняты с четырнадцати человек, список у мастера."
+      },
+      "steps": [
+        {
+          "do": "status",
+          "to": "confirmed",
+          "say": "Мерки сняли, запустили в работу"
+        },
+        {
+          "do": "confirm",
+          "say": "Оплатил переводом"
+        },
+        {
+          "do": "ship",
+          "say": "Готово, передали курьеру"
+        },
+        {
+          "do": "status",
+          "to": "done",
+          "say": "Получили, вышивка без замечаний"
+        }
+      ],
+      "zone": 1
+    },
+    {
+      "person": "ksenia",
+      "days": 26,
+      "at": [
+        10,
+        45
+      ],
+      "lines": [
+        {
+          "item": "bluza-volan",
+          "qty": 40
+        }
+      ],
+      "answers": {
+        "fulfilment": "pickup",
+        "measurements": "42–48, по десять штук."
+      },
+      "steps": [
+        {
+          "do": "status",
+          "to": "confirmed",
+          "say": "Лекала сняли с образца"
+        },
+        {
+          "do": "correct",
+          "how": "raise",
+          "say": "Клиент добавил ещё одну единицу для витрины"
+        },
+        {
+          "do": "confirm",
+          "say": "Доплату перевела в тот же день"
+        }
+      ]
+    },
+    {
+      "person": "aisuluu",
+      "days": 20,
+      "at": [
+        17,
+        30
+      ],
+      "lines": [
+        {
+          "item": "top-bazovyj",
+          "qty": 30
+        }
+      ],
+      "answers": {
+        "fulfilment": "pickup",
+        "measurements": "S–L, поровну."
+      },
+      "steps": [
+        {
+          "do": "status",
+          "to": "confirmed",
+          "say": "Пробный тираж на тридцать"
+        },
+        {
+          "do": "receipt"
+        }
+      ]
+    },
+    {
+      "person": "marion",
+      "days": 15,
+      "at": [
+        9,
+        50
+      ],
+      "locale": "en",
+      "lines": [
+        {
+          "item": "rubashka-len",
+          "qty": 120
+        }
+      ],
+      "answers": {
+        "fulfilment": "delivery",
+        "measurements": "S–XL, thirty each. Own labels, sewn into the neck."
+      },
+      "steps": [
+        {
+          "do": "correct",
+          "how": "price",
+          "say": "Priced after the fabric was confirmed and the labels arrived"
+        },
+        {
+          "do": "status",
+          "to": "confirmed",
+          "say": "Confirmed, cutting starts Monday"
+        },
+        {
+          "do": "confirm",
+          "say": "Prepayment received"
+        },
+        {
+          "do": "ship",
+          "say": "Sewn and handed to the shipping company"
+        }
+      ],
+      "zone": 1
+    },
+    {
+      "person": "nurgul",
+      "days": 12,
+      "at": [
+        11,
+        30
+      ],
+      "lines": [
+        {
+          "item": "svitshot",
+          "qty": 40
+        },
+        {
+          "item": "futbolka",
+          "qty": 60
+        }
+      ],
+      "zone": 2,
+      "answers": {
+        "fulfilment": "delivery",
+        "measurements": "S–XL, свитшоты по десять, футболки по пятнадцать на размер."
+      },
+      "steps": [
+        {
+          "do": "correct",
+          "how": "price",
+          "say": "Чего не хватило на складе, дошили и вписали цену"
+        },
+        {
+          "do": "status",
+          "to": "confirmed",
+          "say": "Партия для бутика в Оше, отправляем сборным рейсом"
+        },
+        {
+          "do": "confirm",
+          "say": "Предоплата пришла переводом"
+        }
+      ],
+      "carry": {
+        "to": "handed",
+        "after": 5,
+        "weights": [
+          9.6,
+          9.4,
+          9.4,
+          8.8
+        ],
+        "ride": "saima-osh"
+      }
+    },
+    {
+      "person": "aisuluu",
+      "days": 9,
+      "at": [
+        13,
+        40
+      ],
+      "lines": [
+        {
+          "item": "bluza-shelk",
+          "qty": 200
+        }
+      ],
+      "answers": {
+        "fulfilment": "pickup",
+        "measurements": "Ростовка 42–52, по сорок штук."
+      },
+      "steps": [
+        {
+          "do": "correct",
+          "how": "price",
+          "say": "Двухсот на складе не было — посчитали пошив под заказ, срок три недели"
+        },
+        {
+          "do": "status",
+          "to": "confirmed",
+          "say": "Клиент согласовал срок и сумму"
+        }
+      ]
+    },
+    {
+      "person": "ilya",
+      "days": 7,
+      "at": [
+        11,
+        10
+      ],
+      "lines": [
+        {
+          "item": "plate-trikotazh",
+          "qty": 50
+        }
+      ],
+      "answers": {
+        "fulfilment": "delivery",
+        "measurements": "42–50."
+      },
+      "steps": [
+        {
+          "do": "confirm",
+          "say": "Оплатил вперёд, как обычно"
+        },
+        {
+          "do": "correct",
+          "how": "lower",
+          "say": "Часть тиража перенесли на следующий месяц — пересчитали в минус"
+        }
+      ],
+      "zone": 1
+    },
+    {
+      "person": "meerim",
+      "days": 5,
+      "at": [
+        16,
+        50
+      ],
+      "lines": [
+        {
+          "item": "yubka-midi",
+          "qty": 40
+        }
+      ],
+      "answers": {
+        "fulfilment": "pickup",
+        "measurements": "42–48."
+      },
+      "steps": [
+        {
+          "do": "status",
+          "to": "confirmed",
+          "say": "Второй заказ подряд, работаем"
+        }
+      ]
+    },
+    {
+      "person": "ksenia",
+      "days": 3,
+      "at": [
+        14,
+        25
+      ],
+      "lines": [
+        {
+          "item": "bluza-poplin",
+          "qty": 35
+        }
+      ],
+      "answers": {
+        "fulfilment": "pickup",
+        "measurements": "42–48."
+      },
+      "steps": [
+        {
+          "do": "status",
+          "to": "canceled",
+          "say": "Клиент отложил до следующего сезона"
+        }
+      ]
+    },
+    {
+      "person": "aisuluu",
+      "days": 1,
+      "at": [
+        19,
+        20
+      ],
+      "lines": [
+        {
+          "item": "sarafan",
+          "qty": 30
+        }
+      ],
+      "answers": {
+        "fulfilment": "pickup",
+        "measurements": "44–48, по десять."
+      }
+    }
+  ],
+  "cards": [
+    {
+      "name": "Жанара Калыкова",
+      "phone": "+996 706 254 831",
+      "note": "Сестра Мээрим, ведёт второй магазин на Ошском. Звонит с того же номера, заказы оформлять на неё отдельно.",
+      "days": 6
+    }
+  ]
+}

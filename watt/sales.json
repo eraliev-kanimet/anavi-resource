@@ -1,0 +1,734 @@
+{
+  "people": [
+    {
+      "key": "ruslan",
+      "name": "Руслан Асаналиев",
+      "phone": "+996 777 130 495",
+      "email": "ruslan.asanaliev@gmail.com",
+      "address": "Бишкек, ул. Суюмбаева 140, кв. 22"
+    },
+    {
+      "key": "anna",
+      "name": "Анна Рудакова",
+      "phone": "+996 554 762 018",
+      "email": "anna.rudakova@gmail.com",
+      "address": "Бишкек, ул. Исанова 79, кв. 48"
+    },
+    {
+      "key": "temirlan",
+      "name": "Темирлан Ырысов",
+      "phone": "+996 703 587 240",
+      "email": "temirlan.yrysov@gmail.com",
+      "address": "Бишкек, ул. Байтик Баатыра 21, кв. 6"
+    },
+    {
+      "key": "cholpon",
+      "name": "Чолпон Эсенгулова",
+      "phone": "+996 775 049 163",
+      "email": "cholpon.esen@gmail.com",
+      "address": "Бишкек, мкр. Джал 15, кв. 84"
+    },
+    {
+      "key": "david",
+      "name": "David Whitmore",
+      "phone": "+996 700 964 215",
+      "email": "d.whitmore@altyn-logistics.com",
+      "address": "Bishkek, Erkindik Blvd 12, apt. 5",
+      "kept": true
+    }
+  ],
+  "announcements": [
+    {
+      "text": "Привезли холодильники Bosch серии 4 — три модели, все с гарантией два года. Старые цены до конца недели.",
+      "days": 2,
+      "term": 7,
+      "action": {
+        "kind": "category",
+        "target": "holodilniki",
+        "label": "Холодильники"
+      }
+    }
+  ],
+  "appeals": [
+    {
+      "person": "ruslan",
+      "form": "contact",
+      "days": 50,
+      "at": [
+        20,
+        10
+      ],
+      "subject": {
+        "type": "product",
+        "slug": "holodilnik-gorenje-nrb620e61w4wfe-791444"
+      },
+      "answers": {
+        "message": "Ниша под холодильник 60 на 65, высота 200. Этот влезет и останется ли зазор для вентиляции?"
+      },
+      "talk": [
+        {
+          "by": "staff",
+          "text": "Руслан, здравствуйте! Встанет: ширина 60 ровно, высота 185, сверху останется пятнадцать сантиметров. Сзади нужно 5 см до стены — это обязательно, иначе компрессор перегревается."
+        },
+        {
+          "by": "guest",
+          "text": "А 60 ровно в 60 ровно — это не впритык? Боюсь, боками зацепит."
+        },
+        {
+          "by": "staff",
+          "text": "Впритык. Померьте нишу в трёх местах — стены редко бывают параллельными, и решает самое узкое."
+        },
+        {
+          "by": "guest",
+          "text": "Померил в трёх: 61, 61.5 и 61. Значит, сантиметр в запасе."
+        },
+        {
+          "by": "staff",
+          "text": "Тогда встанет спокойно. Дверь по умолчанию открывается вправо, при необходимости перевешиваем — скажите заранее, сделаем до отгрузки."
+        },
+        {
+          "by": "guest",
+          "text": "Вправо и нужно. Оформляю."
+        }
+      ],
+      "status": "done",
+      "assign": true
+    },
+    {
+      "person": "cholpon",
+      "form": "contact",
+      "days": 22,
+      "at": [
+        9,
+        15
+      ],
+      "answers": {
+        "topic": "delivery",
+        "message": "Живу в Канте. Возите ли туда крупную технику и сколько стоит подъём на третий этаж без лифта?"
+      },
+      "talk": [
+        {
+          "by": "staff",
+          "text": "Чолпон, в Кант возим по средам и субботам, доставка 800 сом. Подъём без лифта — 200 сом за этаж на единицу, то есть 600 за холодильник на третий."
+        },
+        {
+          "by": "guest",
+          "text": "Хорошо, оформляю на субботу."
+        },
+        {
+          "by": "guest",
+          "text": "Приехали. В дверной проём не проходит — холодильник шире на пару сантиметров."
+        },
+        {
+          "by": "guest",
+          "text": "Ребята уехали, холодильник стоит на площадке. Что теперь?"
+        },
+        {
+          "by": "staff",
+          "text": "Дверь с петель снимается — на панельных проёмах это даёт три-четыре сантиметра и почти всегда решает. Пришлём ребят с инструментом, отдельно платить не нужно."
+        },
+        {
+          "by": "guest",
+          "text": "Сняли, прошёл. Стоит на кухне."
+        }
+      ],
+      "status": "done",
+      "assign": true
+    },
+    {
+      "person": "anna",
+      "form": "contact",
+      "days": 43,
+      "at": [
+        14,
+        25
+      ],
+      "answers": {
+        "topic": "install",
+        "message": "Стиральную машину подключаете? У меня старая стоит, надо снять и поставить новую."
+      },
+      "talk": [
+        {
+          "by": "staff",
+          "text": "Анна, подключаем: снять старую, поставить новую, подключить к воде и канализации, прогнать первый цикл. Отдельная услуга, 1 500 сом, мастер приезжает вместе с доставкой."
+        },
+        {
+          "by": "guest",
+          "text": "А старую куда денете? Выносить самой?"
+        },
+        {
+          "by": "staff",
+          "text": "Выносим на площадку бесплатно, дальше по договорённости — можем забрать на утилизацию, если она совсем нерабочая."
+        },
+        {
+          "by": "guest",
+          "text": "Забирайте. Записывайте с подключением."
+        }
+      ],
+      "status": "done",
+      "assign": true
+    },
+    {
+      "person": "anna",
+      "form": "chat",
+      "days": 9,
+      "at": [
+        11,
+        50
+      ],
+      "answers": {
+        "question": "Кофеварку отменила. Когда вернутся деньги?"
+      },
+      "talk": [
+        {
+          "by": "staff",
+          "text": "Анна, возврат на карту идёт до пяти рабочих дней — банк, не мы. Если через пять не придут, напишите сюда, будем поднимать платёж."
+        },
+        {
+          "by": "guest",
+          "text": "Приняла."
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "person": "temirlan",
+      "form": "request",
+      "days": 36,
+      "at": [
+        17,
+        40
+      ],
+      "subject": {
+        "type": "product",
+        "slug": "konditsioner-midea-msag4w-09n8c2s-persona-invert"
+      },
+      "answers": {
+        "when": 3,
+        "comment": "Комната 22 квадрата, второй этаж, окна на юг. Этот потянет и делаете ли монтаж?"
+      },
+      "talk": [
+        {
+          "by": "staff",
+          "text": "Темирлан, на 22 квадрата с южной стороной девятка с запасом — эта модель как раз. Монтаж наш, 4 500 сом со штроблением, трасса до трёх метров включена."
+        },
+        {
+          "by": "guest",
+          "text": "Трасса будет метра четыре. Доплата большая?"
+        },
+        {
+          "by": "staff",
+          "text": "Каждый метр сверх трёх — 600 сом. То есть плюс 600, итого 5 100 за монтаж."
+        },
+        {
+          "by": "guest",
+          "text": "Нормально. А штробить обязательно? Стены только покрасили."
+        },
+        {
+          "by": "staff",
+          "text": "Не обязательно — можно в коробе по стене, дешевле на тысячу и без пыли. Выглядит хуже, решать вам."
+        },
+        {
+          "by": "guest",
+          "text": "Тогда короб. Оформляю."
+        }
+      ],
+      "status": "open",
+      "assign": true
+    },
+    {
+      "person": "cholpon",
+      "form": "chat",
+      "days": 29,
+      "at": [
+        19,
+        20
+      ],
+      "answers": {
+        "question": "Здравствуйте! Взяла у вас пылесос Dyson месяц назад, перестал держать зарядку. Что делать?"
+      },
+      "talk": [
+        {
+          "by": "staff",
+          "text": "Чолпон, это гарантийный случай. Привозите в сервис на Ахунбаева вместе с чеком — или заберём курьером, если неудобно ехать. Подменный дадим на время ремонта."
+        },
+        {
+          "by": "guest",
+          "text": "Заберите, пожалуйста. Дома с двенадцати до шести."
+        },
+        {
+          "by": "note",
+          "text": "Забрали, отправили в сервис. Подменный выдан. Срок по гарантии — до 14 дней."
+        }
+      ],
+      "status": "open",
+      "assign": true
+    },
+    {
+      "person": "david",
+      "form": "contact",
+      "days": 18,
+      "at": [
+        10,
+        30
+      ],
+      "locale": "en",
+      "answers": {
+        "topic": "wholesale",
+        "message": "We are equipping a staff kitchen in a new warehouse: two fridges, a microwave and a couple of kettles. Do you give a price for a set and can you invoice a company?"
+      },
+      "talk": [
+        {
+          "by": "staff",
+          "text": "Good morning, David! Yes — a set like that goes at our corporate price and we invoice companies with a contract. Delivery and setup on site are included above 150 000 som."
+        },
+        {
+          "by": "guest",
+          "text": "Good. The kitchen is on the second floor and the goods lift is out of service until October."
+        },
+        {
+          "by": "staff",
+          "text": "Then we carry them up — no charge on a set this size. Two people, so tell us a day when the corridor is clear."
+        },
+        {
+          "by": "guest",
+          "text": "Received, thank you. We will confirm the models this week."
+        }
+      ],
+      "status": "open",
+      "assign": true
+    },
+    {
+      "person": "cholpon",
+      "form": "question",
+      "days": 6,
+      "at": [
+        10,
+        30
+      ],
+      "answers": {
+        "question": "Можно ли ставить стиральную машину на ламинат без подставок?"
+      },
+      "talk": [
+        {
+          "by": "staff",
+          "text": "Можно, если пол ровный и машина выставлена по уровню. На ламинате она скользит на отжиме сильнее, чем на плитке, поэтому советуем резиновые подставки под ножки: они гасят вибрацию и не дают машине уходить.\n\nТранспортировочные болты перед первым запуском нужно снять обязательно — без этого не помогут никакие подставки."
+        }
+      ],
+      "status": "done",
+      "assign": true
+    },
+    {
+      "person": "ruslan",
+      "form": "chat",
+      "days": 5,
+      "at": [
+        21,
+        15
+      ],
+      "answers": {
+        "question": "Чайник Smeg — он правда такой шумный, как пишут?"
+      },
+      "talk": [
+        {
+          "by": "staff",
+          "text": "Руслан, он не тише других, металлический корпус звенит. Зато закипает быстро и держит температуру."
+        },
+        {
+          "by": "guest",
+          "text": "Переживу. Беру."
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "person": "anna",
+      "form": "request",
+      "days": 4,
+      "at": [
+        13,
+        5
+      ],
+      "answers": {
+        "when": 2,
+        "comment": "Нужна микроволновка встраиваемая, размеры ниши пришлю. И чтобы гриль был."
+      }
+    },
+    {
+      "person": "david",
+      "form": "question",
+      "days": 4,
+      "at": [
+        21,
+        10
+      ],
+      "locale": "en",
+      "answers": {
+        "question": "Will a 60 cm built-in oven fit a cabinet niche that is 56 cm wide and 59 cm high?"
+      },
+      "talk": [
+        {
+          "by": "staff",
+          "text": "Yes. A 60 cm built-in oven is 59.5 cm across the FRONT, but its body is 55–56 cm wide and 57–59 cm high — the niche it needs is 56 by 59, which is exactly yours. Leave 5 cm behind it for the cable and the air."
+        }
+      ],
+      "status": "done",
+      "assign": true
+    },
+    {
+      "person": "temirlan",
+      "form": "chat",
+      "days": 1,
+      "at": [
+        9,
+        40
+      ],
+      "answers": {
+        "question": "Когда сможет приехать монтажник? На этой неделе есть окна?"
+      }
+    }
+  ],
+  "orders": [
+    {
+      "person": "ruslan",
+      "days": 46,
+      "at": [
+        12,
+        30
+      ],
+      "lines": [
+        {
+          "item": "holodilnik-gorenje-nrb620e61w4wfe-791444"
+        }
+      ],
+      "answers": {
+        "fulfilment": "delivery",
+        "courier": "Пятый этаж, лифт грузовой работает.",
+        "comment": "Ниша 61 см, дверь пусть открывается вправо."
+      },
+      "steps": [
+        {
+          "do": "status",
+          "to": "confirmed",
+          "say": "Размеры сверили, подтвердил"
+        },
+        {
+          "do": "ship",
+          "say": "Погрузили, водитель позвонит за час"
+        },
+        {
+          "do": "status",
+          "to": "done",
+          "say": "Занесли, встал в нишу"
+        }
+      ]
+    },
+    {
+      "person": "anna",
+      "days": 41,
+      "at": [
+        16,
+        40
+      ],
+      "lines": [
+        {
+          "item": "stiralnaya-mashina-vard-vwf514b"
+        },
+        {
+          "item": "shlang-zalivnoy-3-m",
+          "qty": 1
+        },
+        {
+          "item": "antivibratsionnye-podstavki",
+          "qty": 1
+        }
+      ],
+      "answers": {
+        "fulfilment": "delivery",
+        "courier": "Домофон 48.",
+        "comment": "С подключением, старую забрать. Шланг нужен длинный: кран за стояком."
+      },
+      "steps": [
+        {
+          "do": "status",
+          "to": "confirmed",
+          "say": "Мастер выедет вместе с доставкой"
+        },
+        {
+          "do": "status",
+          "to": "done",
+          "say": "Подключили, первый цикл прогнали при клиенте"
+        }
+      ]
+    },
+    {
+      "person": "anna",
+      "days": 34,
+      "at": [
+        19,
+        0
+      ],
+      "lines": [
+        {
+          "item": "posudomoechnaya-mashina-korting-kdf-45240-s"
+        }
+      ],
+      "answers": {
+        "fulfilment": "delivery",
+        "courier": "Домофон 48, лифт есть."
+      },
+      "steps": [
+        {
+          "do": "status",
+          "to": "confirmed",
+          "say": "Подтвердила"
+        },
+        {
+          "do": "status",
+          "to": "done",
+          "say": "Доставлено"
+        }
+      ]
+    },
+    {
+      "person": "cholpon",
+      "days": 30,
+      "at": [
+        14,
+        20
+      ],
+      "lines": [
+        {
+          "item": "pylesos-dyson-cinetic-big-ball-absolute-2-824005"
+        }
+      ],
+      "answers": {
+        "fulfilment": "pickup",
+        "comment": "Заберу сама в зале."
+      },
+      "steps": [
+        {
+          "do": "status",
+          "to": "confirmed",
+          "say": "Забрала в тот же день"
+        },
+        {
+          "do": "status",
+          "to": "done",
+          "say": "Выдано. Через месяц пришла по гарантии — забрали в сервис"
+        }
+      ]
+    },
+    {
+      "person": "cholpon",
+      "days": 22,
+      "at": [
+        10,
+        50
+      ],
+      "lines": [
+        {
+          "item": "holodilnik-midea-mdrf705bie70"
+        }
+      ],
+      "answers": {
+        "fulfilment": "delivery",
+        "courier": "Кант, третий этаж, лифта нет.",
+        "comment": "Подъём оплачу отдельно."
+      },
+      "steps": [
+        {
+          "do": "status",
+          "to": "confirmed",
+          "say": "Подтвердила, везём в субботу"
+        },
+        {
+          "do": "ship",
+          "say": "Погрузили"
+        },
+        {
+          "do": "status",
+          "to": "done",
+          "say": "В проём не проходил — сняли дверь с петель, занесли"
+        }
+      ]
+    },
+    {
+      "person": "temirlan",
+      "days": 17,
+      "at": [
+        21,
+        15
+      ],
+      "lines": [
+        {
+          "item": "konditsioner-midea-msag4w-09n8c2s-persona-invert"
+        }
+      ],
+      "answers": {
+        "fulfilment": "delivery",
+        "comment": "С монтажом, трасса около четырёх метров."
+      },
+      "steps": [
+        {
+          "do": "status",
+          "to": "confirmed",
+          "say": "Монтажник согласован на пятницу"
+        }
+      ]
+    },
+    {
+      "person": "david",
+      "days": 13,
+      "at": [
+        9,
+        25
+      ],
+      "locale": "en",
+      "lines": [
+        {
+          "item": "mikrovolnovaya-pech-brayer-br2506-797818"
+        },
+        {
+          "item": "chaynik-bork-k516",
+          "qty": 2
+        }
+      ],
+      "answers": {
+        "fulfilment": "delivery",
+        "courier": "Warehouse on the airport road, ask for the office manager.",
+        "comment": "Staff kitchen, first part of the set."
+      },
+      "steps": [
+        {
+          "do": "status",
+          "to": "confirmed",
+          "say": "Confirmed by email, invoice issued"
+        },
+        {
+          "do": "status",
+          "to": "done",
+          "say": "Delivered and unpacked on site"
+        }
+      ]
+    },
+    {
+      "person": "anna",
+      "days": 9,
+      "at": [
+        17,
+        55
+      ],
+      "lines": [
+        {
+          "item": "kofevarka-brayer-br1122"
+        }
+      ],
+      "answers": {
+        "fulfilment": "pickup"
+      },
+      "steps": [
+        {
+          "do": "status",
+          "to": "canceled",
+          "say": "Передумала, взяла другую модель в другом месте"
+        }
+      ]
+    },
+    {
+      "person": "temirlan",
+      "days": 7,
+      "at": [
+        13,
+        20
+      ],
+      "lines": [
+        {
+          "item": "duhovoy-shkaf-gorenje-bpsa6747dgwi"
+        },
+        {
+          "item": "kabel-pvs-3x4-3-m",
+          "qty": 1
+        },
+        {
+          "item": "rozetka-silovaya-32a",
+          "qty": 1
+        },
+        {
+          "item": "ochistitel-duhovki-500-ml",
+          "qty": 1
+        }
+      ],
+      "answers": {
+        "fulfilment": "delivery",
+        "courier": "Новостройка, лифт грузовой работает.",
+        "comment": "Шкаф встраиваемый, кабеля в комплекте нет — добавил ваш."
+      },
+      "steps": [
+        {
+          "do": "status",
+          "to": "confirmed",
+          "say": "Кабель и розетку положили в одну коробку со шкафом"
+        },
+        {
+          "do": "confirm",
+          "say": "Оплата переводом"
+        },
+        {
+          "do": "status",
+          "to": "done",
+          "say": "Доставили, электрик заказчика подключил в тот же день"
+        }
+      ]
+    },
+    {
+      "person": "ruslan",
+      "days": 5,
+      "at": [
+        20,
+        10
+      ],
+      "lines": [
+        {
+          "item": "chaynik-smeg-klf04wheu"
+        }
+      ],
+      "answers": {
+        "fulfilment": "delivery",
+        "courier": "После 19:00."
+      },
+      "steps": [
+        {
+          "do": "status",
+          "to": "confirmed",
+          "say": "Подтвердил"
+        }
+      ]
+    },
+    {
+      "person": "cholpon",
+      "days": 2,
+      "at": [
+        12,
+        40
+      ],
+      "lines": [
+        {
+          "item": "mikrovolnovaya-pech-maunfeld-mfsmo207-sgb"
+        }
+      ],
+      "answers": {
+        "fulfilment": "pickup",
+        "comment": "Заберу в субботу."
+      }
+    }
+  ],
+  "cards": [
+    {
+      "name": "Гульмира Асаналиева",
+      "phone": "+996 777 130 495",
+      "note": "Жена Руслана, звонит с его номера про доставку. Технику выбирает он, принимает она.",
+      "days": 8
+    }
+  ]
+}

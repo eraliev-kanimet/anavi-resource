@@ -1,0 +1,653 @@
+{
+  "people": [
+    {
+      "key": "artem",
+      "name": "Артём Селиванов",
+      "phone": "+996 710 293 654",
+      "email": "artem.selivanov@gmail.com",
+      "address": "Бишкек, ул. Жукеева-Пудовкина 77, кв. 9"
+    },
+    {
+      "key": "maksim",
+      "name": "Максим Дорошенко",
+      "phone": "+996 553 470 926",
+      "email": "m.doroshenko@mail.ru",
+      "address": "Бишкек, ул. Абдрахманова 148, кв. 32"
+    },
+    {
+      "key": "nurzat",
+      "name": "Нурзат Асылбекова",
+      "phone": "+996 779 615 082",
+      "email": "nurzat.asylbekova@gmail.com",
+      "address": "Бишкек, мкр. Тунгуч 12, кв. 58"
+    },
+    {
+      "key": "olga",
+      "name": "Ольга Пирогова",
+      "phone": "+996 553 902 187",
+      "email": "olga.pirogova@yandex.ru",
+      "address": "Бишкек, ул. Киевская 218, кв. 26"
+    },
+    {
+      "key": "david",
+      "name": "David Whitmore",
+      "phone": "+996 700 964 215",
+      "email": "d.whitmore@altyn-logistics.com",
+      "address": "Bishkek, Erkindik Blvd 12, apt. 5"
+    }
+  ],
+  "appeals": [
+    {
+      "person": "artem",
+      "form": "podbor",
+      "days": 52,
+      "at": [
+        21,
+        30
+      ],
+      "answers": {
+        "purpose": "games",
+        "budget": "100-150",
+        "games": [
+          "shooters",
+          "online"
+        ],
+        "weight": "no",
+        "comment": "Играю в шутеры, ноут будет стоять на столе. Сейчас на старом всё лагает в CS."
+      },
+      "talk": [
+        {
+          "by": "staff",
+          "text": "Артём, здравствуйте! В ваш бюджет из игровых берём Legion Pro 5 16IRX9 и TUF Gaming A15. У Legion экран лучше и охлаждение тише, TUF дешевле тысяч на пятнадцать."
+        },
+        {
+          "by": "guest",
+          "text": "А по FPS в CS сильно разница будет?"
+        },
+        {
+          "by": "staff",
+          "text": "В CS обе выдадут больше, чем покажет экран — упрётесь в матрицу, а не в железо. Разница почувствуется в тяжёлых играх и в том, как громко ноут при этом шумит."
+        },
+        {
+          "by": "guest",
+          "text": "А TUF сильно шумит? Ноут в спальне стоять будет."
+        },
+        {
+          "by": "staff",
+          "text": "Под нагрузкой слышно, да — вентиляторы там проще. Legion в этом заметно тише, за это и переплата."
+        },
+        {
+          "by": "guest",
+          "text": "Понял. Подумаю — сумма великовата выходит."
+        }
+      ],
+      "status": "done",
+      "assign": true
+    },
+    {
+      "person": "maksim",
+      "form": "chat",
+      "days": 45,
+      "at": [
+        10,
+        15
+      ],
+      "answers": {
+        "question": "Здравствуйте! Гарантия на батарею такая же, год?"
+      },
+      "talk": [
+        {
+          "by": "guest",
+          "text": "И ещё: чек нужен для бухгалтерии, электронный подойдёт?"
+        },
+        {
+          "by": "staff",
+          "text": "Максим, здравствуйте. На батарею шесть месяцев — это ограничение производителя, не наше. Электронный чек пришлём на почту в день покупки, он полноценный."
+        },
+        {
+          "by": "guest",
+          "text": "Шесть, понял. Спасибо."
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "person": "artem",
+      "form": "podbor",
+      "days": 40,
+      "at": [
+        19,
+        15
+      ],
+      "answers": {
+        "purpose": "games",
+        "budget": "100-150",
+        "games": [
+          "shooters",
+          "online"
+        ],
+        "weight": "no",
+        "comment": "Пару недель назад присматривался к Legion Pro 5. Собрал сумму. Он ещё есть?"
+      },
+      "talk": [
+        {
+          "by": "staff",
+          "text": "Артём, помню вас. Legion на месте, в чёрном, цена та же. Рассрочка через банк до 12 месяцев без первоначального, если так удобнее."
+        },
+        {
+          "by": "guest",
+          "text": "Без рассрочки возьму. Оформлю на сайте сегодня."
+        }
+      ],
+      "status": "done",
+      "assign": true
+    },
+    {
+      "person": "david",
+      "form": "contact",
+      "days": 39,
+      "at": [
+        9,
+        40
+      ],
+      "locale": "en",
+      "answers": {
+        "topic": "partnership",
+        "message": "We are refreshing the office fleet — around fifteen machines over the next quarter. Do you work with companies on invoice?"
+      },
+      "talk": [
+        {
+          "by": "staff",
+          "text": "Good morning, David. Yes — invoice, contract, delivery to your office and setup on site if you need it. Fifteen units puts you on a corporate price."
+        },
+        {
+          "by": "guest",
+          "text": "Good. What is the lead time if we take ThinkBook 14 across the board?"
+        },
+        {
+          "by": "staff",
+          "text": "Three in stock now, the rest in two to three weeks from the distributor. We usually ship a small batch first so your IT can check the image before the bulk arrives."
+        },
+        {
+          "by": "guest",
+          "text": "Sensible. Send me a quote for three to start, I will confirm the headcount next week."
+        }
+      ],
+      "status": "done",
+      "assign": true
+    },
+    {
+      "person": "olga",
+      "form": "podbor",
+      "days": 31,
+      "at": [
+        16,
+        10
+      ],
+      "answers": {
+        "purpose": "games",
+        "budget": "60-100",
+        "games": [
+          "online",
+          "light"
+        ],
+        "weight": "sometimes",
+        "comment": "Беру сыну на день рождения, ему 14. Сама в этом не разбираюсь совсем."
+      },
+      "talk": [
+        {
+          "by": "staff",
+          "text": "Ольга, здравствуйте! Уточню одно: во что он играет сейчас? От этого зависит, хватит ли встроенной видеокарты или нужна отдельная."
+        },
+        {
+          "by": "guest",
+          "text": "Роблокс и Майнкрафт, ещё что-то с танками. Больше не знаю."
+        },
+        {
+          "by": "staff",
+          "text": "Тогда TUF Gaming A15 с запасом хватит, и он переживёт следующие пару лет игр. В ваш бюджет входит, есть в наличии."
+        },
+        {
+          "by": "guest",
+          "text": "Хорошо. Заказ оформлю сама на сайте, упаковку подарочную сделаете?"
+        },
+        {
+          "by": "staff",
+          "text": "Сделаем, напишите в комментарии к заказу — соберём при выдаче."
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "person": "maksim",
+      "form": "contact",
+      "days": 24,
+      "at": [
+        18,
+        50
+      ],
+      "answers": {
+        "topic": "complaint",
+        "message": "Заказ ждал с утра, привезли на следующий день и никто не позвонил. Отпросился с работы зря."
+      },
+      "talk": [
+        {
+          "by": "staff",
+          "text": "Максим, это наша ошибка: заказ ушёл в неверный маршрутный лист, и мы не предупредили. Разбираемся с курьерской службой."
+        },
+        {
+          "by": "guest",
+          "text": "Разбирайтесь. Мне-то что с этого? День потерян."
+        },
+        {
+          "by": "staff",
+          "text": "Справедливо. Могу дать 5% на следующий заказ — оформлю на ваш номер. Понимаю, что день это не вернёт."
+        },
+        {
+          "by": "guest",
+          "text": "Пусть будет. Но в следующий раз, наверное, посмотрю в другом месте."
+        },
+        {
+          "by": "note",
+          "text": "Разбор с курьерской — заказ ушёл в чужой маршрутный лист. Клиент недоволен и это по делу. Скидку оформил, повторов не допускать."
+        }
+      ],
+      "status": "done",
+      "assign": true
+    },
+    {
+      "person": "nurzat",
+      "form": "contact",
+      "days": 19,
+      "at": [
+        16,
+        40
+      ],
+      "answers": {
+        "topic": "support",
+        "message": "Купила у вас Vivobook. Не могу понять, как включить подсветку клавиатуры — в инструкции нет."
+      },
+      "talk": [
+        {
+          "by": "staff",
+          "text": "Нурзат, это Fn + F7, там значок лампочки. Два уровня яркости, третье нажатие выключает."
+        },
+        {
+          "by": "guest",
+          "text": "Заработало, спасибо!"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "person": "nurzat",
+      "form": "request",
+      "days": 11,
+      "at": [
+        13,
+        25
+      ],
+      "answers": {
+        "when": 3,
+        "comment": "Хочу сдать старый ноут в трейд-ин и доплатить. Он рабочий, 2019 года."
+      },
+      "talk": [
+        {
+          "by": "staff",
+          "text": "Нурзат, трейд-ин у нас есть, но оценку делаем только вживую — по описанию назвать сумму честно не получится."
+        },
+        {
+          "by": "guest",
+          "text": "Понятно. А если оценка не устроит, я ничем не обязана?"
+        },
+        {
+          "by": "staff",
+          "text": "Ничем. Посмотрим, назовём сумму, дальше решаете вы."
+        }
+      ],
+      "status": "open",
+      "assign": true
+    },
+    {
+      "person": "olga",
+      "form": "contact",
+      "days": 8,
+      "at": [
+        11,
+        40
+      ],
+      "answers": {
+        "topic": "consultation",
+        "message": "Нашла ту же модель дешевле на 6 тысяч. Вы цену подвинете? Заказ у вас уже оформлен."
+      },
+      "talk": [
+        {
+          "by": "staff",
+          "text": "Ольга, честно: до этой цены не опустимся. Там серый ввоз — гарантия по чеку магазина, а не сервисная, и в случае чего ноутбук поедет к ним, а не в наш сервис на Киевской."
+        },
+        {
+          "by": "guest",
+          "text": "То есть разница — это гарантия?"
+        },
+        {
+          "by": "staff",
+          "text": "В основном да. Если для вас шесть тысяч важнее сервиса рядом с домом — берите там, обиды не будет. Заказ отменю, чтобы не висел."
+        },
+        {
+          "by": "guest",
+          "text": "Отмените, я подумаю ещё."
+        }
+      ],
+      "status": "open"
+    },
+    {
+      "person": "artem",
+      "form": "chat",
+      "days": 2,
+      "at": [
+        20,
+        55
+      ],
+      "answers": {
+        "question": "Можно докинуть планку памяти в Legion, гарантия не слетит? И у вас это делают или самому?"
+      }
+    }
+  ],
+  "orders": [
+    {
+      "person": "olga",
+      "days": 44,
+      "at": [
+        15,
+        20
+      ],
+      "lines": [
+        {
+          "item": "macbook-pro-16-m4-pro-2024-mx2y3hn-a"
+        }
+      ],
+      "promo": "VEGA10",
+      "answers": {
+        "fulfilment": "pickup",
+        "comment": "Заберу сама, оплата в зале."
+      },
+      "steps": [
+        {
+          "do": "status",
+          "to": "confirmed",
+          "say": "Созвонились, забирает в субботу"
+        },
+        {
+          "do": "status",
+          "to": "done",
+          "say": "Забрала, оформили рассрочку на 12 месяцев"
+        }
+      ]
+    },
+    {
+      "person": "artem",
+      "days": 38,
+      "at": [
+        12,
+        0
+      ],
+      "lines": [
+        {
+          "item": "legion-pro-5-16irx9-83df00e9rk"
+        }
+      ],
+      "answers": {
+        "fulfilment": "delivery",
+        "courier": "Домофон не работает, позвоните — спущусь."
+      },
+      "steps": [
+        {
+          "do": "status",
+          "to": "confirmed",
+          "say": "Подтвердил по телефону"
+        }
+      ],
+      "carry": {
+        "to": "delivered"
+      }
+    },
+    {
+      "person": "nurzat",
+      "days": 31,
+      "at": [
+        18,
+        45
+      ],
+      "lines": [
+        {
+          "item": "m5406wa-vivobook-s14-oled-x1605va-mb875"
+        }
+      ],
+      "promo": "VEGA10",
+      "answers": {
+        "fulfilment": "delivery",
+        "courier": "Второй подъезд, четвёртый этаж."
+      },
+      "steps": [
+        {
+          "do": "status",
+          "to": "confirmed",
+          "say": "Подтвердила"
+        },
+        {
+          "do": "status",
+          "to": "done",
+          "say": "Получила, всё в порядке"
+        }
+      ]
+    },
+    {
+      "person": "maksim",
+      "days": 26,
+      "at": [
+        10,
+        30
+      ],
+      "lines": [
+        {
+          "item": "thinkbook-14-g7-83a100abrm"
+        },
+        {
+          "item": "v15-g4-iru-83d20027rk"
+        }
+      ],
+      "promo": "VEGA10",
+      "answers": {
+        "fulfilment": "delivery",
+        "comment": "Тот самый заказ, который привезли на день позже."
+      },
+      "steps": [
+        {
+          "do": "correct",
+          "how": "remove",
+          "say": "Вторую позицию клиент снял при подтверждении"
+        },
+        {
+          "do": "status",
+          "to": "confirmed",
+          "say": "Подтверждено после звонка"
+        },
+        {
+          "do": "status",
+          "to": "done",
+          "say": "Доставлено с опозданием на сутки, извинились"
+        }
+      ]
+    },
+    {
+      "person": "david",
+      "days": 17,
+      "at": [
+        9,
+        40
+      ],
+      "locale": "en",
+      "lines": [
+        {
+          "item": "thinkbook-14-g6-21kg00b8cd-win11p",
+          "qty": 3
+        }
+      ],
+      "answers": {
+        "fulfilment": "delivery",
+        "courier": "Reception on the ground floor, ask for the office manager.",
+        "comment": "Trial batch of three before the main order."
+      },
+      "steps": [
+        {
+          "do": "status",
+          "to": "confirmed",
+          "say": "Confirmed by email, invoice sent"
+        }
+      ],
+      "carry": {
+        "to": "delivered",
+        "boxes": 2,
+        "collect": true
+      }
+    },
+    {
+      "person": "olga",
+      "days": 9,
+      "at": [
+        11,
+        15
+      ],
+      "lines": [
+        {
+          "item": "fa506ncr-tuf-gaming-a15-fa506ncr-hn044"
+        }
+      ],
+      "answers": {
+        "fulfilment": "pickup",
+        "comment": "Подарок сыну, нужна упаковка."
+      },
+      "steps": [
+        {
+          "do": "status",
+          "to": "canceled",
+          "say": "Нашла дешевле в другом месте, отменила"
+        }
+      ]
+    },
+    {
+      "person": "david",
+      "days": 4,
+      "at": [
+        10,
+        20
+      ],
+      "lines": [
+        {
+          "item": "v15-g4-iru-83d20027rk",
+          "qty": 2
+        }
+      ],
+      "answers": {
+        "fulfilment": "pickup",
+        "comment": "Two more while the budget for the rest is signed. Same configuration, invoice to the company."
+      },
+      "steps": [
+        {
+          "do": "correct",
+          "how": "discount",
+          "say": "Corporate price held from the trial batch"
+        },
+        {
+          "do": "status",
+          "to": "confirmed",
+          "say": "Invoice issued, awaiting bank transfer"
+        },
+        {
+          "do": "status",
+          "to": "done",
+          "say": "Collected from the warehouse"
+        }
+      ],
+      "locale": "en"
+    },
+    {
+      "person": "nurzat",
+      "days": 1,
+      "at": [
+        11,
+        30
+      ],
+      "lines": [
+        {
+          "item": "ux3405ma-zenbook-14-oled-m5406wa-pp086w"
+        }
+      ],
+      "answers": {
+        "fulfilment": "delivery",
+        "comment": "Второй, дочери — школа перевела часть занятий в онлайн."
+      },
+      "steps": [
+        {
+          "do": "status",
+          "to": "confirmed",
+          "say": "Подтвердила, ждёт"
+        }
+      ],
+      "carry": {
+        "to": "road"
+      }
+    },
+    {
+      "person": "artem",
+      "days": 1,
+      "at": [
+        19,
+        10
+      ],
+      "lines": [
+        {
+          "item": "x1605va-vivobook-16-ux3405ma-qd379w"
+        }
+      ],
+      "answers": {
+        "fulfilment": "delivery",
+        "courier": "После 19:00, до этого не будет никого."
+      },
+      "steps": [
+        {
+          "do": "status",
+          "to": "confirmed",
+          "say": "Подтвердил"
+        }
+      ],
+      "carry": {
+        "to": "packed"
+      }
+    },
+    {
+      "person": "nurzat",
+      "days": 1,
+      "at": [
+        21,
+        5
+      ],
+      "lines": [
+        {
+          "item": "ideapad-pro-5-14imh9-x1605va-mb693"
+        }
+      ],
+      "answers": {
+        "fulfilment": "pickup"
+      }
+    }
+  ],
+  "cards": [
+    {
+      "name": "Эркин Дорошенко",
+      "phone": "+996 553 470 926",
+      "note": "Отец Максима, звонит с его номера по поводу гарантии на старую покупку. Оформлять отдельно.",
+      "days": 6
+    }
+  ]
+}

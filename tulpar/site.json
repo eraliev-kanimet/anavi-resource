@@ -1,0 +1,1571 @@
+{
+  "org": {
+    "name": "Тулпар",
+    "tagline": {
+      "ru": "Склад, курьеры и рейсы для тех, кто торгует",
+      "en": "Warehouse, couriers and line-haul for people who trade"
+    },
+    "about": {
+      "ru": "Логистический оператор в Бишкеке. Храним чужой товар и собираем по нему заказы, развозим их по городу своими курьерами, отправляем сборные рейсы в Ош, Алматы и Ташкент и возим посылки из Гуанчжоу.",
+      "en": "A logistics operator in Bishkek. We keep other people’s goods and pick orders from them, deliver around the city with our own couriers, run groupage trips to Osh, Almaty and Tashkent and carry parcels from Guangzhou."
+    },
+    "phone": "+996 312 97 55 10",
+    "email": "hello@tulpar.kg",
+    "slug": "demo12"
+  },
+  "places": [
+    {
+      "key": "warehouse",
+      "image": "places/warehouse",
+      "name": {
+        "ru": "Склад на Льва Толстого",
+        "en": "Lev Tolstoy warehouse"
+      },
+      "address": {
+        "ru": "Бишкек, ул. Льва Толстого 126/4",
+        "en": "126/4 Lev Tolstoy St, Bishkek"
+      },
+      "hours": {
+        "ru": "Пн–Сб 8:00–20:00",
+        "en": "Mon–Sat 8:00–20:00"
+      },
+      "phone": "+996 312 97 55 10",
+      "note": {
+        "ru": "Приёмка поставок и отправлений на рейс. Въезд для фур с южной стороны, рампа на шесть ворот.",
+        "en": "Intake of supplies and of shipments for line-haul. Trucks enter from the south side; the dock has six doors."
+      },
+      "lat": 42.8585,
+      "lng": 74.576,
+      "isPickup": true
+    },
+    {
+      "key": "point-centre",
+      "image": "places/point-centre",
+      "name": {
+        "ru": "Пункт выдачи в центре",
+        "en": "City-centre pick-up point"
+      },
+      "address": {
+        "ru": "Бишкек, ул. Киевская 95",
+        "en": "95 Kievskaya St, Bishkek"
+      },
+      "hours": {
+        "ru": "Ежедневно 9:00–21:00",
+        "en": "Daily 9:00–21:00"
+      },
+      "phone": "+996 312 97 55 11",
+      "note": {
+        "ru": "Выдача посылок карго и заказов магазинов. Оплата наличными и переводом.",
+        "en": "Cargo parcels and shop orders are handed out here. Cash or transfer."
+      },
+      "lat": 42.876,
+      "lng": 74.599,
+      "isPickup": true
+    },
+    {
+      "key": "point-south",
+      "image": "places/point-south",
+      "name": {
+        "ru": "Пункт выдачи в Асанбае",
+        "en": "Asanbay pick-up point"
+      },
+      "address": {
+        "ru": "Бишкек, мкр. Асанбай 12/1",
+        "en": "12/1 Asanbay district, Bishkek"
+      },
+      "hours": {
+        "ru": "Ежедневно 10:00–21:00",
+        "en": "Daily 10:00–21:00"
+      },
+      "phone": "+996 312 97 55 12",
+      "note": {
+        "ru": "Первый этаж жилого дома, вход с улицы. Крупные места сюда не привозим, их выдаёт склад.",
+        "en": "Ground floor of an apartment block, street entrance. Bulky packages are not brought here; the warehouse hands them out."
+      },
+      "lat": 42.819,
+      "lng": 74.623,
+      "isPickup": true
+    },
+    {
+      "key": "osh",
+      "image": "places/osh",
+      "name": {
+        "ru": "Склад в Оше",
+        "en": "Osh depot"
+      },
+      "address": {
+        "ru": "Ош, ул. Масалиева 48",
+        "en": "48 Masaliev St, Osh"
+      },
+      "hours": {
+        "ru": "Пн–Сб 9:00–19:00",
+        "en": "Mon–Sat 9:00–19:00"
+      },
+      "phone": "+996 3222 7 14 60",
+      "note": {
+        "ru": "Сюда приходят рейсы из Бишкека. Выдача со склада или доставка по Ошу курьером.",
+        "en": "Trips from Bishkek arrive here. Collect at the depot or have a courier bring it around Osh."
+      },
+      "lat": 40.514,
+      "lng": 72.804,
+      "isPickup": true
+    },
+    {
+      "key": "guangzhou",
+      "image": "places/guangzhou",
+      "name": {
+        "ru": "Склад в Гуанчжоу",
+        "en": "Guangzhou warehouse"
+      },
+      "address": {
+        "ru": "Гуанчжоу, район Байюнь, Шиша-лу 168, корпус B",
+        "en": "Building B, 168 Shisha Rd, Baiyun District, Guangzhou"
+      },
+      "hours": {
+        "ru": "Пн–Сб 9:00–18:00 по Пекину",
+        "en": "Mon–Sat 9:00–18:00 Beijing time"
+      },
+      "phone": "+86 20 3871 4406",
+      "note": {
+        "ru": "Сюда продавцы присылают посылки с вашим кодом. Самовывоза нет, склад только принимает.",
+        "en": "Sellers send parcels marked with your code here. No collection: the warehouse only takes in."
+      },
+      "lat": 23.201,
+      "lng": 113.233,
+      "isPickup": false
+    }
+  ],
+  "pages": [
+    {
+      "key": "home",
+      "slug": "",
+      "title": {
+        "ru": "Тулпар",
+        "en": "Tulpar"
+      },
+      "seoTitle": {
+        "ru": "Тулпар — склад, курьеры и перевозки в Бишкеке",
+        "en": "Tulpar — warehouse, couriers and freight in Bishkek"
+      },
+      "description": {
+        "ru": "Ответственное хранение и сборка заказов, курьерская доставка по Бишкеку, сборные рейсы в Ош, Алматы и Ташкент, карго из Гуанчжоу.",
+        "en": "Storage and order picking, courier delivery around Bishkek, groupage trips to Osh, Almaty and Tashkent, cargo from Guangzhou."
+      },
+      "hero": {
+        "layout": "cover",
+        "images": [
+          "hero/warehouse",
+          "hero/road",
+          "hero/dock"
+        ],
+        "eyebrow": {
+          "ru": "Логистический оператор, Бишкек",
+          "en": "Logistics operator, Bishkek"
+        },
+        "title": {
+          "ru": "Храним ваш товар, собираем по нему заказы и довозим их до двери, а что едет из Оша, Ташкента или Гуанчжоу, видно в одном кабинете",
+          "en": "We keep your stock, pick your orders and bring them to the door, and whatever is on its way from Osh, Tashkent or Guangzhou shows in one back office"
+        },
+        "subtitle": {
+          "ru": "Один договор, один счёт в конце месяца и номер отправления, по которому покупатель сам видит, где его коробка.",
+          "en": "One agreement, one bill at the end of the month and a tracking number your customer can follow without calling anyone."
+        },
+        "primary": {
+          "ru": "Рассчитать доставку",
+          "en": "Get a quote"
+        },
+        "secondary": {
+          "ru": "Тарифы",
+          "en": "Tariffs"
+        }
+      },
+      "tracking": {
+        "eyebrow": {
+          "ru": "Отслеживание",
+          "en": "Tracking"
+        },
+        "title": {
+          "ru": "Где моя посылка",
+          "en": "Where is my parcel"
+        },
+        "text": {
+          "ru": "Номер отправления стоит в письме и на наклейке. По нему видно каждую отметку: принято, в пути, на пункте, вручено.",
+          "en": "The tracking number is in the letter and on the label. It shows every mark: taken in, on the road, at the point, handed over."
+        }
+      },
+      "services": {
+        "title": {
+          "ru": "Что мы делаем",
+          "en": "What we do"
+        },
+        "items": [
+          {
+            "image": "services/fulfilment",
+            "page": "fulfilment",
+            "title": {
+              "ru": "Фулфилмент",
+              "en": "Fulfilment"
+            },
+            "text": {
+              "ru": "Принимаем поставку, раскладываем по ячейкам, собираем и упаковываем каждый заказ вашего магазина.",
+              "en": "We take in your supply, put it away by bin, then pick and pack every order your shop receives."
+            }
+          },
+          {
+            "image": "services/storage",
+            "page": "fulfilment",
+            "title": {
+              "ru": "Ответственное хранение",
+              "en": "Storage"
+            },
+            "text": {
+              "ru": "Товар остаётся вашим и стоит в вашем кабинете отдельной строкой остатка. Платите за позиции, которые лежат, по дням.",
+              "en": "The goods stay yours and show in your own back office as a separate stock line. You pay by the day for the items on the shelf."
+            }
+          },
+          {
+            "image": "services/courier",
+            "page": "courier",
+            "title": {
+              "ru": "Курьерская доставка",
+              "en": "Courier delivery"
+            },
+            "text": {
+              "ru": "Развозим по Бишкеку в день заказа или на следующий. Принимаем оплату у двери и отдаём её магазину с отчётом.",
+              "en": "Around Bishkek the same day or the next. We collect payment at the door and pass it to the shop with a report."
+            }
+          },
+          {
+            "image": "services/freight",
+            "page": "freight",
+            "title": {
+              "ru": "Перевозки между городами",
+              "en": "Line-haul"
+            },
+            "text": {
+              "ru": "Сборные рейсы в Ош, Алматы и Ташкент по расписанию. От коробки до полной фуры.",
+              "en": "Scheduled groupage trips to Osh, Almaty and Tashkent. From one box to a full truck."
+            }
+          },
+          {
+            "image": "services/cargo",
+            "page": "cargo",
+            "title": {
+              "ru": "Карго из Китая",
+              "en": "Cargo from China"
+            },
+            "text": {
+              "ru": "Личный код и адрес склада в Гуанчжоу. Взвешиваем, объединяем посылки и выдаём в Бишкеке.",
+              "en": "A personal code and a warehouse address in Guangzhou. We weigh, combine parcels and hand them out in Bishkek."
+            }
+          },
+          {
+            "image": "services/packing",
+            "page": "fulfilment",
+            "title": {
+              "ru": "Упаковка и маркировка",
+              "en": "Packing and labelling"
+            },
+            "text": {
+              "ru": "Коробка по размеру, наполнитель, наклейка с номером. Хрупкое уходит в обрешётке.",
+              "en": "A box of the right size, filler, a label with the number. Fragile things travel in a crate."
+            }
+          }
+        ]
+      },
+      "numbers": {
+        "title": {
+          "ru": "Как это устроено",
+          "en": "How it works"
+        },
+        "items": [
+          {
+            "title": {
+              "ru": "4 200 м² склада",
+              "en": "4,200 m² of warehouse"
+            },
+            "text": {
+              "ru": "Высотные стеллажи, мелкоячеистая зона и отдельный карантин.",
+              "en": "High-bay racking, a small-parts zone and a separate quarantine."
+            }
+          },
+          {
+            "title": {
+              "ru": "3 круга в день",
+              "en": "3 rounds a day"
+            },
+            "text": {
+              "ru": "Курьеры выезжают в девять, в час и в пять.",
+              "en": "Couriers leave at nine, at one and at five."
+            }
+          },
+          {
+            "title": {
+              "ru": "4 рейса в неделю",
+              "en": "4 trips a week"
+            },
+            "text": {
+              "ru": "Ош по вторникам и пятницам, Алматы по средам, Ташкент по четвергам.",
+              "en": "Osh on Tuesdays and Fridays, Almaty on Wednesdays, Tashkent on Thursdays."
+            }
+          },
+          {
+            "title": {
+              "ru": "Один счёт в месяц",
+              "en": "One bill a month"
+            },
+            "text": {
+              "ru": "Каждая строка счёта открывается до операции, за которую она начислена.",
+              "en": "Every line of the bill opens down to the operation it was charged for."
+            }
+          }
+        ]
+      },
+      "works": {
+        "title": {
+          "ru": "Чей товар у нас на полках",
+          "en": "Whose goods are on our shelves"
+        }
+      },
+      "posts": {
+        "title": {
+          "ru": "Новости и разборы",
+          "en": "News and guides"
+        }
+      },
+      "faq": {
+        "title": {
+          "ru": "Частые вопросы",
+          "en": "Common questions"
+        }
+      },
+      "cta": {
+        "title": {
+          "ru": "Расскажите, что нужно возить",
+          "en": "Tell us what needs carrying"
+        },
+        "text": {
+          "ru": "Ответим в рабочий день и назовём цену по сетке, без «от» и звёздочек.",
+          "en": "We answer within a working day and quote from the tariff, no asterisks."
+        },
+        "label": {
+          "ru": "Оставить заявку",
+          "en": "Send a request"
+        }
+      }
+    },
+    {
+      "key": "fulfilment",
+      "slug": "fulfilment",
+      "title": {
+        "ru": "Фулфилмент",
+        "en": "Fulfilment"
+      },
+      "seoTitle": {
+        "ru": "Фулфилмент для интернет-магазина — Тулпар",
+        "en": "Fulfilment for online shops — Tulpar"
+      },
+      "description": {
+        "ru": "Приёмка, хранение, сборка, упаковка и возвраты для интернет-магазина. Остаток виден в вашем кабинете, начисления открываются до строки.",
+        "en": "Receiving, storage, picking, packing and returns for an online shop. Stock shows in your back office and every charge opens down to its line."
+      },
+      "hero": {
+        "layout": "plain",
+        "images": [
+          "services/fulfilment"
+        ],
+        "eyebrow": {
+          "ru": "Склад",
+          "en": "Warehouse"
+        },
+        "title": {
+          "ru": "Ваш магазин продаёт, склад делает всё остальное",
+          "en": "Your shop sells, the warehouse does the rest"
+        },
+        "subtitle": {
+          "ru": "Заказ с вашего сайта приходит кладовщику заданием. Через час коробка стоит у ворот, а покупатель получил номер отправления.",
+          "en": "An order from your site reaches the storekeeper as a task. An hour later the box stands at the dock and the customer has a tracking number."
+        }
+      },
+      "steps": {
+        "title": {
+          "ru": "Путь товара по складу",
+          "en": "How goods move through the warehouse"
+        },
+        "items": [
+          {
+            "image": "fulfilment/receiving",
+            "title": {
+              "ru": "Приёмка поставки",
+              "en": "Receiving"
+            },
+            "text": {
+              "ru": "Вы объявляете поставку заранее: что едет и сколько. Мы пересчитываем по факту, и расхождение видно обеим сторонам до подписи.",
+              "en": "You announce a supply in advance: what is coming and how many. We count what arrived, and both sides see any difference before signing."
+            }
+          },
+          {
+            "image": "fulfilment/scanning",
+            "title": {
+              "ru": "Штрихкод на каждой единице",
+              "en": "A barcode on every unit"
+            },
+            "text": {
+              "ru": "Товар без кода получает нашу наклейку. Дальше его узнаёт сканер, а не память кладовщика.",
+              "en": "Goods without a code get our label. From then on the scanner recognises them, not the storekeeper’s memory."
+            }
+          },
+          {
+            "image": "fulfilment/shelving",
+            "title": {
+              "ru": "Ячейка хранения",
+              "en": "A bin"
+            },
+            "text": {
+              "ru": "У каждой позиции свой адрес на полке. Сборщик идёт по списку в порядке ячеек и не возвращается.",
+              "en": "Every item has an address on the shelf. The picker walks the list in bin order and never doubles back."
+            }
+          },
+          {
+            "image": "fulfilment/picking",
+            "title": {
+              "ru": "Сборка заказа",
+              "en": "Picking"
+            },
+            "text": {
+              "ru": "Каждая строка заказа подтверждается сканером. Чужой товар в коробку попасть не может: система его не примет.",
+              "en": "Each line of an order is confirmed by scanner. The wrong item cannot get into the box: the system refuses it."
+            }
+          },
+          {
+            "image": "services/packing",
+            "title": {
+              "ru": "Упаковка",
+              "en": "Packing"
+            },
+            "text": {
+              "ru": "Коробка по размеру, место взвешено и измерено. Эти числа уходят в отправление, по ним считается доставка.",
+              "en": "A box of the right size, weighed and measured. Those figures go into the shipment and the delivery is priced by them."
+            }
+          },
+          {
+            "image": "fulfilment/handover",
+            "title": {
+              "ru": "Передача курьеру",
+              "en": "Handover"
+            },
+            "text": {
+              "ru": "Курьер принимает места по акту, сканируя каждое. С этой минуты за коробку отвечает он.",
+              "en": "The courier takes the packages against an act, scanning each. From that minute the box is his responsibility."
+            }
+          }
+        ]
+      },
+      "charges": {
+        "title": {
+          "ru": "За что вы платите",
+          "en": "What you pay for"
+        },
+        "text": {
+          "ru": "Четыре ставки и ни одной скрытой: приёмка единицы, сборка заказа, упаковка места и хранение позиции в сутки. Счёт выставляется за месяц, и под каждой суммой лежит список операций.",
+          "en": "Four rates and none hidden: receiving a unit, picking an order, packing a package and keeping an item per day. The bill covers a month, and a list of operations stands under every sum."
+        }
+      },
+      "cta": {
+        "title": {
+          "ru": "Перевезти склад к нам",
+          "en": "Move your stock to us"
+        },
+        "text": {
+          "ru": "Напишите, что продаёте и сколько заказов в месяц. Посчитаем, во что обойдётся месяц работы.",
+          "en": "Tell us what you sell and how many orders a month. We will work out what a month costs."
+        },
+        "label": {
+          "ru": "Заявка на фулфилмент",
+          "en": "Request fulfilment"
+        },
+        "form": "fulfilment"
+      },
+      "more": {
+        "title": {
+          "ru": "Что ещё делает склад",
+          "en": "What else the warehouse does"
+        },
+        "items": [
+          {
+            "image": "fulfilment/returns",
+            "title": {
+              "ru": "Возвраты",
+              "en": "Returns"
+            },
+            "text": {
+              "ru": "Вернувшееся осматриваем: целое возвращается на полку, повреждённое уходит в карантин с фотографией.",
+              "en": "What comes back is inspected: sound goods return to the shelf, damaged ones go to quarantine with a photograph."
+            }
+          },
+          {
+            "image": "fulfilment/quarantine",
+            "title": {
+              "ru": "Карантин",
+              "en": "Quarantine"
+            },
+            "text": {
+              "ru": "Брак и пересорт стоят отдельно и не продаются. Что с ними делать, решаете вы: вернуть в продажу, забрать или списать.",
+              "en": "Defects and mix-ups stand apart and are not sold. You decide what happens: back on sale, taken away or written off."
+            }
+          },
+          {
+            "image": "fulfilment/count",
+            "title": {
+              "ru": "Пересчёт",
+              "en": "Recount"
+            },
+            "text": {
+              "ru": "Раз в квартал пересчитываем зону целиком, а позицию по вашей просьбе в любой день. Результат приходит вам документом.",
+              "en": "Once a quarter we recount a whole zone, and any single item on request. The result reaches you as a document."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "key": "courier",
+      "slug": "courier",
+      "title": {
+        "ru": "Курьерская доставка",
+        "en": "Courier delivery"
+      },
+      "seoTitle": {
+        "ru": "Курьерская доставка по Бишкеку — Тулпар",
+        "en": "Courier delivery in Bishkek — Tulpar"
+      },
+      "description": {
+        "ru": "Доставка заказов по Бишкеку в день заказа: три круга в день, вручение по коду, оплата при получении, возвраты.",
+        "en": "Same-day delivery around Bishkek: three rounds a day, handover by code, payment on delivery, returns."
+      },
+      "hero": {
+        "layout": "plain",
+        "images": [
+          "services/courier"
+        ],
+        "eyebrow": {
+          "ru": "По городу",
+          "en": "In the city"
+        },
+        "title": {
+          "ru": "Три круга в день по всему Бишкеку",
+          "en": "Three rounds a day across Bishkek"
+        },
+        "subtitle": {
+          "ru": "Заказ, собранный до полудня, покупатель получает в тот же день. Он видит на странице заказа, кто едет и когда.",
+          "en": "An order packed before noon reaches the customer the same day. The order page shows who is coming and when."
+        }
+      },
+      "features": {
+        "title": {
+          "ru": "Как работает служба",
+          "en": "How the service works"
+        },
+        "items": [
+          {
+            "image": "courier/sorting",
+            "title": {
+              "ru": "Раскладка по районам",
+              "en": "Sorting by district"
+            },
+            "text": {
+              "ru": "Утром диспетчер раскладывает отправления по районам и окнам. Курьер получает готовый круг, а не пачку адресов.",
+              "en": "In the morning the dispatcher sorts shipments by district and time window. A courier is given a finished round, not a stack of addresses."
+            }
+          },
+          {
+            "image": "courier/van-load",
+            "title": {
+              "ru": "Погрузка по акту",
+              "en": "Loading against an act"
+            },
+            "text": {
+              "ru": "Каждое место сканируется при погрузке. Что уехало с кем, известно до коробки.",
+              "en": "Every package is scanned as it is loaded. Who left with what is known down to the box."
+            }
+          },
+          {
+            "image": "courier/door",
+            "title": {
+              "ru": "Вручение по коду",
+              "en": "Handover by code"
+            },
+            "text": {
+              "ru": "Покупатель называет код из письма. Нет кода, нет вручения: чужому человеку посылку не отдадут.",
+              "en": "The customer says the code from the letter. No code, no handover: the parcel is not given to a stranger."
+            }
+          },
+          {
+            "image": "courier/cash",
+            "title": {
+              "ru": "Оплата у двери",
+              "en": "Payment at the door"
+            },
+            "text": {
+              "ru": "Курьер принимает деньги за заказ и сдаёт их в кассу в тот же вечер. Магазину они уходят с отчётом по каждому отправлению.",
+              "en": "The courier takes payment for the order and hands it to the till that evening. The shop receives it with a report for every shipment."
+            }
+          },
+          {
+            "image": "courier/scooter",
+            "title": {
+              "ru": "Повторная попытка",
+              "en": "A second attempt"
+            },
+            "text": {
+              "ru": "Не застали — договариваемся заново. Три попытки, затем семь дней на пункте, и только потом возврат отправителю.",
+              "en": "Nobody home — we arrange again. Three attempts, then seven days at the point, and only then a return to the sender."
+            }
+          }
+        ]
+      },
+      "cta": {
+        "title": {
+          "ru": "Подключить доставку магазину",
+          "en": "Connect delivery to your shop"
+        },
+        "text": {
+          "ru": "Если ваш магазин работает на Anavi, заказы приходят к нам сами. Если нет, передавайте их списком.",
+          "en": "If your shop runs on Anavi, orders reach us by themselves. If not, hand them over as a list."
+        },
+        "label": {
+          "ru": "Рассчитать доставку",
+          "en": "Get a quote"
+        },
+        "form": "calc"
+      }
+    },
+    {
+      "key": "freight",
+      "slug": "freight",
+      "title": {
+        "ru": "Перевозки",
+        "en": "Line-haul"
+      },
+      "seoTitle": {
+        "ru": "Грузоперевозки Бишкек — Ош, Алматы, Ташкент — Тулпар",
+        "en": "Freight Bishkek — Osh, Almaty, Tashkent — Tulpar"
+      },
+      "description": {
+        "ru": "Сборные и выделенные рейсы из Бишкека в Ош, Алматы и Ташкент по расписанию. Страхование груза, отслеживание по номеру.",
+        "en": "Scheduled groupage and dedicated trips from Bishkek to Osh, Almaty and Tashkent. Cargo insurance, tracking by number."
+      },
+      "hero": {
+        "layout": "plain",
+        "images": [
+          "services/freight"
+        ],
+        "eyebrow": {
+          "ru": "Между городами",
+          "en": "Between cities"
+        },
+        "title": {
+          "ru": "Рейсы в Ош, Алматы и Ташкент по расписанию",
+          "en": "Scheduled trips to Osh, Almaty and Tashkent"
+        },
+        "subtitle": {
+          "ru": "Машина уходит в свой день, полная она или нет. Сдали груз до шести вечера накануне, он едет этим рейсом.",
+          "en": "The truck leaves on its day, full or not. Hand the load in before six the evening before and it rides this trip."
+        }
+      },
+      "features": {
+        "title": {
+          "ru": "Как едет груз",
+          "en": "How a load travels"
+        },
+        "items": [
+          {
+            "image": "freight/pallets",
+            "title": {
+              "ru": "Приём на складе",
+              "en": "Intake at the warehouse"
+            },
+            "text": {
+              "ru": "Взвешиваем и измеряем каждое место при вас. Цена считается по большему из двух весов: фактическому и объёмному.",
+              "en": "We weigh and measure each package in front of you. The price is read at the greater of two weights: actual and volumetric."
+            }
+          },
+          {
+            "image": "freight/forklift",
+            "title": {
+              "ru": "Погрузка",
+              "en": "Loading"
+            },
+            "text": {
+              "ru": "Что погружено и что осталось, записано по каждому месту. Не уехавшее стоит с причиной и уходит следующим рейсом.",
+              "en": "What was loaded and what stayed is written down per package. Anything left behind has a reason and goes on the next trip."
+            }
+          },
+          {
+            "image": "freight/truck-dock",
+            "title": {
+              "ru": "Сборный или выделенный",
+              "en": "Groupage or dedicated"
+            },
+            "text": {
+              "ru": "Сборный рейс считается по сетке. Машина целиком под ваш груз считается отдельно, и цену вы видите до отправки.",
+              "en": "A groupage trip is priced by the tariff. A whole truck for your load is priced separately, and you see the figure before it leaves."
+            }
+          },
+          {
+            "image": "freight/pass",
+            "title": {
+              "ru": "Дорога",
+              "en": "On the road"
+            },
+            "text": {
+              "ru": "Выезд, граница и прибытие отмечаются на рейсе и сразу видны в каждом отправлении, которое на нём едет.",
+              "en": "Departure, border and arrival are marked on the trip and show at once in every shipment riding it."
+            }
+          },
+          {
+            "image": "freight/terminal",
+            "title": {
+              "ru": "Перегрузка",
+              "en": "Transhipment"
+            },
+            "text": {
+              "ru": "В Ташкент груз идёт через Шымкент со сменой машины. Номер отправления остаётся одним на весь путь.",
+              "en": "To Tashkent a load goes through Shymkent and changes trucks. The tracking number stays the same all the way."
+            }
+          },
+          {
+            "image": "freight/rail",
+            "title": {
+              "ru": "Страхование",
+              "en": "Insurance"
+            },
+            "text": {
+              "ru": "Объявите ценность груза, и он едет застрахованным на эту сумму. Претензия открывается в кабинете, с фотографиями.",
+              "en": "Declare the worth of the load and it travels insured for that sum. A claim is opened in the back office, with photographs."
+            }
+          }
+        ]
+      },
+      "schedule": {
+        "title": {
+          "ru": "Расписание рейсов",
+          "en": "Trip schedule"
+        }
+      },
+      "cta": {
+        "title": {
+          "ru": "Узнать цену рейса",
+          "en": "Price a trip"
+        },
+        "text": {
+          "ru": "Назовите направление, вес и размеры. Калькулятор посчитает по той же сетке, что и диспетчер.",
+          "en": "Give the direction, the weight and the sizes. The calculator reads the same tariff the dispatcher does."
+        },
+        "label": {
+          "ru": "Рассчитать",
+          "en": "Calculate"
+        },
+        "form": "calc"
+      }
+    },
+    {
+      "key": "cargo",
+      "slug": "cargo",
+      "title": {
+        "ru": "Карго из Китая",
+        "en": "Cargo from China"
+      },
+      "seoTitle": {
+        "ru": "Карго из Китая в Бишкек — Тулпар",
+        "en": "Cargo from China to Bishkek — Tulpar"
+      },
+      "description": {
+        "ru": "Доставка посылок из Гуанчжоу в Бишкек: личный код, адрес склада, взвешивание, объединение посылок, выкуп по ссылке, выдача по коду.",
+        "en": "Parcels from Guangzhou to Bishkek: a personal code, a warehouse address, weighing, combining parcels, buying by link, handover by code."
+      },
+      "hero": {
+        "layout": "plain",
+        "images": [
+          "services/cargo"
+        ],
+        "eyebrow": {
+          "ru": "Гуанчжоу — Бишкек",
+          "en": "Guangzhou — Bishkek"
+        },
+        "title": {
+          "ru": "Покупаете в Китае, получаете в Бишкеке",
+          "en": "Buy in China, collect in Bishkek"
+        },
+        "subtitle": {
+          "ru": "Вы получаете код и адрес нашего склада в Гуанчжоу. Продавец шлёт посылку туда, дальше она едет к вам, и каждая отметка видна в кабинете.",
+          "en": "You are given a code and the address of our Guangzhou warehouse. The seller ships there, the parcel travels on to you, and every mark shows in your account."
+        }
+      },
+      "code": {
+        "eyebrow": {
+          "ru": "Шаг первый",
+          "en": "Step one"
+        },
+        "title": {
+          "ru": "Ваш код и адрес склада",
+          "en": "Your code and the warehouse address"
+        },
+        "text": {
+          "ru": "Войдите, и код появится здесь. Скопируйте адрес в форму магазина как есть: код стоит в двух строках, по нему посылку узнают.",
+          "en": "Sign in and the code appears here. Paste the address into the shop’s form as it is: the code stands in two lines, and the parcel is recognised by it."
+        }
+      },
+      "parcels": {
+        "eyebrow": {
+          "ru": "Шаг второй",
+          "en": "Step two"
+        },
+        "title": {
+          "ru": "Мои посылки",
+          "en": "My parcels"
+        },
+        "text": {
+          "ru": "Добавьте трек-номер китайской доставки сразу после покупки. Тогда посылку ждут, и она не окажется в неопознанных.",
+          "en": "Add the Chinese tracking number right after you buy. Then the parcel is expected and does not end up among the unidentified."
+        }
+      },
+      "steps": {
+        "title": {
+          "ru": "Что происходит с посылкой",
+          "en": "What happens to a parcel"
+        },
+        "items": [
+          {
+            "image": "cargo/china",
+            "title": {
+              "ru": "Склад в Гуанчжоу",
+              "en": "The Guangzhou warehouse"
+            },
+            "text": {
+              "ru": "Принимает шесть дней в неделю. Адрес один для всех, различает клиентов только код.",
+              "en": "Takes in six days a week. One address for everybody; only the code tells clients apart."
+            }
+          },
+          {
+            "image": "cargo/intake",
+            "title": {
+              "ru": "Приёмка",
+              "en": "Intake"
+            },
+            "text": {
+              "ru": "Посылку сканируют, находят владельца по коду или треку, и вам приходит уведомление. Без кода и трека она ждёт среди неопознанных.",
+              "en": "The parcel is scanned, its owner found by code or tracking number, and you are notified. Without either it waits among the unidentified."
+            }
+          },
+          {
+            "image": "cargo/weighing",
+            "title": {
+              "ru": "Взвешивание",
+              "en": "Weighing"
+            },
+            "text": {
+              "ru": "Вес и размеры снимаются на складе, цена считается по плотности груза. Число вы видите до отправки, а не при выдаче.",
+              "en": "Weight and sizes are taken at the warehouse and the price is read by density. You see the figure before departure, not at handover."
+            }
+          },
+          {
+            "image": "cargo/consolidation",
+            "title": {
+              "ru": "Объединение",
+              "en": "Combining"
+            },
+            "text": {
+              "ru": "Несколько посылок одного клиента складываем в одну коробку: меньше объёма, меньше цена. Можно попросить не объединять.",
+              "en": "Several parcels of one client go into one box: less volume, a lower price. You may ask us not to combine."
+            }
+          },
+          {
+            "image": "cargo/sacks",
+            "title": {
+              "ru": "Отправка",
+              "en": "Departure"
+            },
+            "text": {
+              "ru": "Мешки и коробки уходят машиной дважды в неделю и идут шестнадцать–двадцать два дня через Кашгар.",
+              "en": "Sacks and cartons leave by truck twice a week and take sixteen to twenty-two days through Kashgar."
+            }
+          },
+          {
+            "image": "cargo/handout",
+            "title": {
+              "ru": "Выдача",
+              "en": "Handover"
+            },
+            "text": {
+              "ru": "В Бишкеке посылка ждёт на пункте пять дней бесплатно. Называете код клиента и ПИН, платите за доставку и забираете.",
+              "en": "In Bishkek the parcel waits at the point five days free. Say your client code and PIN, pay the carriage and take it."
+            }
+          }
+        ]
+      },
+      "buyout": {
+        "title": {
+          "ru": "Выкуп по ссылке",
+          "en": "Buying by link"
+        },
+        "text": {
+          "ru": "Нет карты, которую принимает китайский магазин? Пришлите ссылку на товар. Мы назовём цену с доставкой, выкупим после оплаты, и товар сам появится в «Моих посылках».",
+          "en": "No card a Chinese shop accepts? Send a link to the item. We quote a price with carriage, buy it once you have paid, and the item appears in “My parcels” by itself."
+        }
+      },
+      "restrictions": {
+        "title": {
+          "ru": "Что нельзя и что дороже",
+          "en": "What we refuse and what costs more"
+        },
+        "text": {
+          "ru": "Запрещённое на рейс не уходит: посылка задерживается в Гуанчжоу, и вы решаете, вернуть её продавцу или утилизировать.",
+          "en": "Banned goods do not leave: the parcel is held in Guangzhou and you decide whether it goes back to the seller or is disposed of."
+        }
+      },
+      "cta": {
+        "title": {
+          "ru": "Посчитать посылку",
+          "en": "Price a parcel"
+        },
+        "text": {
+          "ru": "Вес и три размера: калькулятор покажет плотность, ступень тарифа и сумму.",
+          "en": "Weight and three sizes: the calculator shows the density, the tariff step and the sum."
+        },
+        "label": {
+          "ru": "Рассчитать",
+          "en": "Calculate"
+        },
+        "form": "calc"
+      },
+      "more": {
+        "title": {
+          "ru": "Когда посылке нужно больше",
+          "en": "When a parcel needs more"
+        },
+        "items": [
+          {
+            "image": "cargo/crating",
+            "title": {
+              "ru": "Обрешётка",
+              "en": "Crating"
+            },
+            "text": {
+              "ru": "Стекло, керамика и техника в тонкой коробке едут в деревянной раме. Надбавка названа в списке заранее.",
+              "en": "Glass, ceramics and appliances in thin boxes travel in a wooden frame. The surcharge is named in the list beforehand."
+            }
+          },
+          {
+            "image": "cargo/air",
+            "title": {
+              "ru": "Авиа, когда нужно быстро",
+              "en": "Air when it is urgent"
+            },
+            "text": {
+              "ru": "Авиапартия считается за килограмм, с объёмным весом по делителю 6000. Магниты и динамики в неё не берут.",
+              "en": "An air lot is priced per kilogram, with volumetric weight at a divisor of 6000. Magnets and loudspeakers are not taken."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "key": "tariffs",
+      "slug": "tariffs",
+      "title": {
+        "ru": "Тарифы",
+        "en": "Tariffs"
+      },
+      "seoTitle": {
+        "ru": "Тарифы на доставку и хранение — Тулпар",
+        "en": "Delivery and storage tariffs — Tulpar"
+      },
+      "description": {
+        "ru": "Сетка тарифов: доставка по Бишкеку, рейсы в Ош, Алматы и Ташкент, карго из Гуанчжоу, фулфилмент и хранение.",
+        "en": "The tariff grid: delivery around Bishkek, trips to Osh, Almaty and Tashkent, cargo from Guangzhou, fulfilment and storage."
+      },
+      "hero": {
+        "layout": "plain",
+        "images": [],
+        "eyebrow": {
+          "ru": "Сетка",
+          "en": "The grid"
+        },
+        "title": {
+          "ru": "Цены, по которым считает диспетчер",
+          "en": "The prices the dispatcher counts by"
+        },
+        "subtitle": {
+          "ru": "Одна сетка на сайте, в калькуляторе и в кабинете. Другой у нас нет.",
+          "en": "One grid on the site, in the calculator and in the back office. We have no other."
+        }
+      },
+      "weight": {
+        "title": {
+          "ru": "Как считается вес",
+          "en": "How weight is counted"
+        },
+        "text": {
+          "ru": "Тариф читается по большему из двух весов. Фактический показывают весы. Объёмный получается из размеров: длина × ширина × высота в сантиметрах, делённые на 5000 для авто и на 6000 для авиа. Коробка подушек занимает место в кузове, а не его грузоподъёмность.",
+          "en": "The tariff is read at the greater of two weights. The actual one is what the scales say. The volumetric one comes from the sizes: length × width × height in centimetres, divided by 5000 for road and 6000 for air. A box of pillows takes room in the truck, not its payload."
+        }
+      },
+      "density": {
+        "title": {
+          "ru": "Карго считается по плотности",
+          "en": "Cargo is priced by density"
+        },
+        "text": {
+          "ru": "Плотность — это килограммы на кубометр. Тяжёлый и компактный груз считается за килограмм, лёгкий и объёмный — за кубометр. Ступень, на которую попала посылка, видна в расчёте.",
+          "en": "Density is kilograms per cubic metre. Heavy compact loads are priced per kilogram, light bulky ones per cubic metre. The step a parcel fell on shows in the calculation."
+        }
+      },
+      "cta": {
+        "title": {
+          "ru": "Посчитать своё",
+          "en": "Price your own"
+        },
+        "text": {
+          "ru": "Калькулятор считает по этой сетке и заканчивается заявкой.",
+          "en": "The calculator reads this grid and ends in a request."
+        },
+        "label": {
+          "ru": "Открыть калькулятор",
+          "en": "Open the calculator"
+        },
+        "form": "calc"
+      },
+      "grid": {
+        "title": {
+          "ru": "Доставка, рейсы и карго",
+          "en": "Delivery, trips and cargo"
+        }
+      },
+      "storage": {
+        "title": {
+          "ru": "Фулфилмент и хранение",
+          "en": "Fulfilment and storage"
+        }
+      }
+    },
+    {
+      "key": "points",
+      "slug": "points",
+      "title": {
+        "ru": "Пункты выдачи",
+        "en": "Pick-up points"
+      },
+      "seoTitle": {
+        "ru": "Пункты выдачи и склады — Тулпар",
+        "en": "Pick-up points and warehouses — Tulpar"
+      },
+      "description": {
+        "ru": "Адреса и часы работы склада и пунктов выдачи Тулпара в Бишкеке и Оше, склад в Гуанчжоу.",
+        "en": "Addresses and opening hours of Tulpar’s warehouse and pick-up points in Bishkek and Osh, and the Guangzhou warehouse."
+      },
+      "hero": {
+        "layout": "plain",
+        "images": [],
+        "eyebrow": {
+          "ru": "Адреса",
+          "en": "Addresses"
+        },
+        "title": {
+          "ru": "Где забрать и куда привезти",
+          "en": "Where to collect and where to bring"
+        },
+        "subtitle": {
+          "ru": "Посылки выдают два пункта в Бишкеке и склад в Оше. Груз на рейс принимает склад на Льва Толстого.",
+          "en": "Parcels are handed out at two points in Bishkek and the depot in Osh. Loads for a trip are taken in at the Lev Tolstoy warehouse."
+        }
+      },
+      "addresses": {
+        "title": {
+          "ru": "Все точки",
+          "en": "All locations"
+        }
+      },
+      "bring": {
+        "title": {
+          "ru": "Что взять с собой",
+          "en": "What to bring"
+        },
+        "text": {
+          "ru": "За заказом магазина — код из письма. За посылкой карго — код клиента и ПИН из кабинета. Документы не нужны: посылку отдают тому, кто знает код.",
+          "en": "For a shop order — the code from the letter. For a cargo parcel — your client code and the PIN from your account. No papers needed: the parcel goes to whoever knows the code."
+        }
+      }
+    },
+    {
+      "key": "news",
+      "slug": "news",
+      "title": {
+        "ru": "Новости",
+        "en": "News"
+      },
+      "seoTitle": {
+        "ru": "Новости и разборы — Тулпар",
+        "en": "News and guides — Tulpar"
+      },
+      "description": {
+        "ru": "Новые направления, сезонные изменения и разборы: объёмный вес, упаковка хрупкого, документы на груз.",
+        "en": "New directions, seasonal changes and guides: volumetric weight, packing fragile goods, cargo papers."
+      },
+      "hero": {
+        "layout": "plain",
+        "images": [],
+        "eyebrow": {
+          "ru": "Блог",
+          "en": "Blog"
+        },
+        "title": {
+          "ru": "Новости и разборы",
+          "en": "News and guides"
+        },
+        "subtitle": {
+          "ru": "Пишем, когда меняется расписание или сетка, и разбираем вопросы, которые диспетчеру задают чаще всего.",
+          "en": "We write when the schedule or the grid changes, and work through the questions dispatchers hear most."
+        }
+      }
+    },
+    {
+      "key": "help",
+      "slug": "help",
+      "title": {
+        "ru": "База знаний",
+        "en": "Help centre"
+      },
+      "seoTitle": {
+        "ru": "База знаний — Тулпар",
+        "en": "Help centre — Tulpar"
+      },
+      "description": {
+        "ru": "Ответы на вопросы о хранении, курьерской доставке, перевозках между городами и карго из Китая.",
+        "en": "Answers about storage, courier delivery, line-haul and cargo from China."
+      },
+      "hero": {
+        "layout": "plain",
+        "images": [],
+        "eyebrow": {
+          "ru": "Вопросы и ответы",
+          "en": "Questions and answers"
+        },
+        "title": {
+          "ru": "База знаний",
+          "en": "Help centre"
+        },
+        "subtitle": {
+          "ru": "Четыре раздела по четырём услугам. Не нашли ответ — напишите в окно в углу.",
+          "en": "Four sections for four services. No answer here — write in the corner window."
+        }
+      }
+    }
+  ],
+  "forms": [
+    {
+      "slug": "request",
+      "core": "request",
+      "name": {
+        "ru": "Заявка",
+        "en": "Request"
+      },
+      "success": {
+        "ru": "Заявка у нас. Ответим в рабочий день по телефону или здесь, в переписке.",
+        "en": "We have your request. We will answer within a working day, by phone or here."
+      },
+      "fields": [
+        {
+          "key": "comment",
+          "type": "textarea",
+          "label": {
+            "ru": "Что нужно сделать",
+            "en": "What needs doing"
+          },
+          "placeholder": {
+            "ru": "Что везём, откуда и куда, сколько примерно",
+            "en": "What, from where to where, roughly how much"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "chat",
+      "widget": true,
+      "name": {
+        "ru": "Вопрос оператору",
+        "en": "Ask the operator"
+      },
+      "success": {
+        "ru": "Вопрос получили, отвечаем прямо здесь.",
+        "en": "We have your question and will answer right here."
+      },
+      "fields": [
+        {
+          "key": "question",
+          "type": "textarea",
+          "label": {
+            "ru": "Вопрос",
+            "en": "Question"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "calc",
+      "name": {
+        "ru": "Расчёт доставки",
+        "en": "Delivery quote"
+      },
+      "success": {
+        "ru": "Заявка принята. Диспетчер подтвердит цену и скажет, когда привозить груз.",
+        "en": "Request taken. The dispatcher will confirm the price and say when to bring the load."
+      },
+      "steps": [
+        {
+          "key": "load",
+          "title": {
+            "ru": "Что везём",
+            "en": "The load"
+          },
+          "fields": [
+            {
+              "key": "route",
+              "type": "select",
+              "role": "route",
+              "label": {
+                "ru": "Направление",
+                "en": "Direction"
+              }
+            },
+            {
+              "key": "weight",
+              "type": "number",
+              "role": "weight",
+              "label": {
+                "ru": "Вес одного места, кг",
+                "en": "Weight of one box, kg"
+              }
+            },
+            {
+              "key": "length",
+              "type": "number",
+              "role": "length",
+              "label": {
+                "ru": "Длина, см",
+                "en": "Length, cm"
+              }
+            },
+            {
+              "key": "width",
+              "type": "number",
+              "role": "width",
+              "label": {
+                "ru": "Ширина, см",
+                "en": "Width, cm"
+              }
+            },
+            {
+              "key": "height",
+              "type": "number",
+              "role": "height",
+              "label": {
+                "ru": "Высота, см",
+                "en": "Height, cm"
+              }
+            },
+            {
+              "key": "places",
+              "type": "number",
+              "role": "places",
+              "label": {
+                "ru": "Сколько таких мест",
+                "en": "How many such boxes"
+              },
+              "placeholder": {
+                "ru": "1",
+                "en": "1"
+              }
+            },
+            {
+              "key": "contents",
+              "type": "text",
+              "label": {
+                "ru": "Что внутри",
+                "en": "What is inside"
+              },
+              "placeholder": {
+                "ru": "Одежда, запчасти, посуда",
+                "en": "Clothing, spare parts, tableware"
+              }
+            }
+          ]
+        },
+        {
+          "key": "recipient",
+          "title": {
+            "ru": "Кому везём",
+            "en": "The recipient"
+          },
+          "fields": [
+            {
+              "key": "recipient-name",
+              "type": "text",
+              "role": "recipient_name",
+              "label": {
+                "ru": "Получатель",
+                "en": "Recipient"
+              }
+            },
+            {
+              "key": "recipient-phone",
+              "type": "phone",
+              "role": "recipient_phone",
+              "label": {
+                "ru": "Телефон получателя",
+                "en": "Recipient’s phone"
+              }
+            },
+            {
+              "key": "recipient-address",
+              "type": "text",
+              "role": "recipient_address",
+              "label": {
+                "ru": "Адрес получателя",
+                "en": "Recipient’s address"
+              }
+            },
+            {
+              "key": "recipient-district",
+              "type": "select",
+              "role": "district",
+              "label": {
+                "ru": "Район получателя",
+                "en": "Recipient’s district"
+              }
+            },
+            {
+              "key": "recipient-email",
+              "type": "email",
+              "role": "recipient_email",
+              "label": {
+                "ru": "Почта получателя, чтобы сообщить о посылке",
+                "en": "Recipient’s email, to tell them about the parcel"
+              }
+            }
+          ]
+        },
+        {
+          "key": "sender",
+          "title": {
+            "ru": "Как с вами связаться",
+            "en": "How to reach you"
+          },
+          "fields": [
+            {
+              "key": "name",
+              "type": "text",
+              "role": "name",
+              "label": {
+                "ru": "Как вас зовут",
+                "en": "Your name"
+              }
+            },
+            {
+              "key": "phone",
+              "type": "phone",
+              "role": "phone",
+              "label": {
+                "ru": "Телефон",
+                "en": "Phone"
+              }
+            },
+            {
+              "key": "address",
+              "type": "text",
+              "role": "address",
+              "label": {
+                "ru": "Откуда забрать",
+                "en": "Where to collect it"
+              }
+            },
+            {
+              "key": "comment",
+              "type": "textarea",
+              "label": {
+                "ru": "Комментарий",
+                "en": "Comment"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "fulfilment",
+      "name": {
+        "ru": "Заявка на фулфилмент",
+        "en": "Fulfilment request"
+      },
+      "success": {
+        "ru": "Спасибо. Посчитаем месяц работы и пришлём расчёт.",
+        "en": "Thank you. We will work out a month of service and send the figures."
+      },
+      "steps": [
+        {
+          "key": "contact",
+          "title": {
+            "ru": "Кто вы",
+            "en": "About you"
+          },
+          "fields": [
+            {
+              "key": "name",
+              "type": "text",
+              "role": "name",
+              "label": {
+                "ru": "Как вас зовут",
+                "en": "Your name"
+              }
+            },
+            {
+              "key": "phone",
+              "type": "phone",
+              "role": "phone",
+              "label": {
+                "ru": "Телефон",
+                "en": "Phone"
+              }
+            },
+            {
+              "key": "company",
+              "type": "text",
+              "label": {
+                "ru": "Магазин или компания",
+                "en": "Shop or company"
+              }
+            }
+          ]
+        },
+        {
+          "key": "goods",
+          "title": {
+            "ru": "Что храним",
+            "en": "The goods"
+          },
+          "fields": [
+            {
+              "key": "goods",
+              "type": "text",
+              "label": {
+                "ru": "Что продаёте",
+                "en": "What you sell"
+              }
+            },
+            {
+              "key": "items",
+              "type": "number",
+              "label": {
+                "ru": "Сколько наименований",
+                "en": "How many items"
+              }
+            },
+            {
+              "key": "orders",
+              "type": "number",
+              "label": {
+                "ru": "Заказов в месяц",
+                "en": "Orders a month"
+              }
+            },
+            {
+              "key": "comment",
+              "type": "textarea",
+              "label": {
+                "ru": "Что ещё важно",
+                "en": "Anything else"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "staff": [
+    {
+      "login": "tulpar-manager",
+      "role": "manager",
+      "name": "Алтынай Кубатова",
+      "title": {
+        "ru": "Менеджер по работе с клиентами",
+        "en": "Client manager"
+      }
+    },
+    {
+      "login": "tulpar-store",
+      "role": "storekeeper",
+      "name": "Улан Бообеков",
+      "title": {
+        "ru": "Кладовщик",
+        "en": "Storekeeper"
+      }
+    },
+    {
+      "login": "tulpar-desk",
+      "role": "dispatcher",
+      "name": "Назира Токтогулова",
+      "title": {
+        "ru": "Диспетчер",
+        "en": "Dispatcher"
+      }
+    },
+    {
+      "login": "tulpar-courier-1",
+      "role": "courier",
+      "name": "Эрлан Садыков",
+      "title": {
+        "ru": "Курьер",
+        "en": "Courier"
+      }
+    },
+    {
+      "login": "tulpar-courier-2",
+      "role": "courier",
+      "name": "Бекзат Жаныбеков",
+      "title": {
+        "ru": "Курьер",
+        "en": "Courier"
+      }
+    },
+    {
+      "login": "tulpar-courier-3",
+      "role": "courier",
+      "name": "Адилет Мусаев",
+      "title": {
+        "ru": "Курьер",
+        "en": "Courier"
+      }
+    }
+  ],
+  "menu": {
+    "header": [
+      "fulfilment",
+      "courier",
+      "freight",
+      "cargo",
+      "tariffs",
+      "points"
+    ],
+    "footer": [
+      "news",
+      "help"
+    ],
+    "action": {
+      "form": "calc",
+      "label": {
+        "ru": "Рассчитать",
+        "en": "Get a quote"
+      }
+    }
+  }
+}

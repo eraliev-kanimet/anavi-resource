@@ -1,0 +1,1945 @@
+{
+  "shelf": "chayniki",
+  "slug": "chaynik-kitchenaid-5kek1522ebk",
+  "product": {
+    "id": "516938",
+    "article": "129460",
+    "slug": "chaynik-kitchenaid-5kek1522ebk",
+    "hasSmartInstallments": false,
+    "isActive": true,
+    "name": {
+      "default": "KitchenAid 5KEK1522EBK",
+      "full": "Чайник KitchenAid 5KEK1522EBK",
+      "pseudo": null,
+      "spare": null,
+      "fullWithoutSection": "KitchenAid 5KEK1522EBK",
+      "section": "Чайник",
+      "__typename": "ProductName"
+    },
+    "price": {
+      "default": 21890,
+      "marketing": null,
+      "old": null,
+      "__typename": "ProductPrice"
+    },
+    "benefit": null,
+    "specifications": {
+      "short": [
+        {
+          "name": "Мощность",
+          "value": "2400 Вт",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Объем",
+          "value": "1.5 л",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Материал корпуса",
+          "value": "металл",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Регулировка температуры",
+          "value": "есть",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "__typename": "ProductV2Specifications"
+    },
+    "labels": [
+      {
+        "name": "Бонусы Спасибо",
+        "type": "sberspasibo",
+        "items": [
+          {
+            "description": "",
+            "name": "Этот товар можно оплатить бонусами Спасибо от СберБанка",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Кредит",
+        "type": "credit",
+        "items": [
+          {
+            "description": "",
+            "name": "Кредит до 1% в месяц",
+            "url": "/chaynik-kitchenaid-5kek1522ebk/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Кредит с переплатой 1% в месяц",
+            "url": "/chaynik-kitchenaid-5kek1522ebk/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      }
+    ],
+    "labelsV2": [
+      {
+        "id": "8",
+        "name": "Бонусы Спасибо",
+        "code": "sberspasibo",
+        "mainColor": "#0C9C0C",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#0C9C0C",
+        "altTextColor": "#FFFFFF",
+        "borderAndTextColor": "#0C9C0C",
+        "items": [
+          {
+            "id": "25907",
+            "text": "Этот товар можно оплатить бонусами Спасибо от СберБанка ",
+            "buttonText": "Подробнее",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      }
+    ],
+    "status": {
+      "id": "IN_STOCK",
+      "name": "В наличии",
+      "type": "POSITIVE",
+      "__typename": "ProductStatus"
+    },
+    "brand": {
+      "code": "kitchenaid",
+      "id": "71196",
+      "name": "KitchenAid",
+      "src": "https://cdn1.technopark.ru/technopark/photos_resized/section_brand_300_100/300_100/71196/1_71196.png",
+      "slug": "kitchenaid",
+      "sections": [
+        {
+          "name": "Кофеварки KitchenAid",
+          "url": "/kofevarki-i-kofemashiny/kitchenaid/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3027757479/technopark/photos_resized/product/120_120/831640/0_831640.jpg?timestamp=2026-05-20_18-28-47",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1141865939/technopark/photos_resized/product/120_120/831640/1_831640.jpg?timestamp=2026-05-20_18-28-47",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/879069532/technopark/photos_resized/product/120_120/831640/2_831640.jpg?timestamp=2026-05-20_18-28-47",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1517914251/technopark/photos_resized/product/120_120/831640/3_831640.jpg?timestamp=2026-05-20_18-28-47",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3890318412/technopark/photos_resized/product/120_120/831640/4_831640.jpg?timestamp=2026-05-20_18-28-48",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2315095451/technopark/photos_resized/product/120_120/831640/5_831640.jpg?timestamp=2026-05-20_18-28-49",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Блендеры KitchenAid",
+          "url": "/blendery/kitchenaid/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/674738051/technopark/photos_resized/product/120_120/214950/1_214950.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3243510454/technopark/photos_resized/product/120_120/214950/2_214950.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/794454938/technopark/photos_resized/product/120_120/214950/3_214950.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1482513164/technopark/photos_resized/product/120_120/214950/4_214950.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3058907680/technopark/photos_resized/product/120_120/214950/5_214950.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Кухонные комбайны KitchenAid",
+          "url": "/kuhonnye-kombayny/kitchenaid/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2640014633/technopark/photos_resized/product/120_120/150400/1_150400.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2013151460/technopark/photos_resized/product/120_120/150400/2_150400.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3048257042/technopark/photos_resized/product/120_120/150400/3_150400.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3061202666/technopark/photos_resized/product/120_120/150400/4_150400.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/233074872/technopark/photos_resized/product/120_120/150400/5_150400.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2061713454/technopark/photos_resized/product/120_120/150400/6_150400.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/735323057/technopark/photos_resized/product/120_120/150400/7_150400.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1557336871/technopark/photos_resized/product/120_120/150400/8_150400.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3931921855/technopark/photos_resized/product/120_120/150400/9_150400.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Миксеры и кухонные машины KitchenAid",
+          "url": "/miksery/kitchenaid/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1300362972/technopark/photos_resized/product/120_120/767478/1_767478.jpg?timestamp=2024-11-15_08-46-23",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1227536957/technopark/photos_resized/product/120_120/767478/2_767478.jpg?timestamp=2024-11-15_08-46-09",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1084028438/technopark/photos_resized/product/120_120/767478/3_767478.jpg?timestamp=2024-11-15_08-46-08",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3230570221/technopark/photos_resized/product/120_120/767478/4_767478.jpg?timestamp=2024-11-15_08-46-07",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1345424252/technopark/photos_resized/product/120_120/767478/5_767478.jpg?timestamp=2024-11-15_08-46-07",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1206989327/technopark/photos_resized/product/120_120/767478/6_767478.jpg?timestamp=2024-11-15_08-46-08",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Тостеры KitchenAid",
+          "url": "/tostery/kitchenaid/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/510119182/technopark/photos_resized/product/120_120/85208/1_85208.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/274464017/technopark/photos_resized/product/120_120/85208/2_85208.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2660373976/technopark/photos_resized/product/120_120/85208/3_85208.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1318241446/technopark/photos_resized/product/120_120/85208/4_85208.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Кофемашины KitchenAid",
+          "url": "/kofemashiny/kitchenaid/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/493056708/technopark/photos_resized/product/120_120/826052/1_826052.jpg?timestamp=2026-03-30_11-40-02",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2060009272/technopark/photos_resized/product/120_120/826052/2_826052.jpg?timestamp=2026-03-30_11-40-02",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2641433151/technopark/photos_resized/product/120_120/826052/3_826052.jpg?timestamp=2026-03-30_11-40-02",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/779719592/technopark/photos_resized/product/120_120/826052/4_826052.jpg?timestamp=2026-03-30_11-40-05",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3933610665/technopark/photos_resized/product/120_120/826052/5_826052.jpg?timestamp=2026-03-30_11-40-02",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/231608238/technopark/photos_resized/product/120_120/826052/6_826052.jpg?timestamp=2026-03-30_11-40-02",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1355345685/technopark/photos_resized/product/120_120/826052/7_826052.jpg?timestamp=2026-03-30_11-40-05",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1501471550/technopark/photos_resized/product/120_120/826052/8_826052.jpg?timestamp=2026-03-30_11-40-05",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Насадки и аксессуары для миксеров KitchenAid",
+          "url": "/dlya-mikserov/kitchenaid/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1412502141/technopark/photos_resized/product/120_120/143003/1_143003.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/590750443/technopark/photos_resized/product/120_120/143003/2_143003.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        }
+      ],
+      "__typename": "Brand"
+    },
+    "section": {
+      "slug": "chayniki",
+      "id": "912",
+      "name": "Чайники электрические",
+      "parents": [
+        {
+          "id": "900",
+          "name": "Для кухни",
+          "depth": 1,
+          "__typename": "SectionTreeItem"
+        },
+        {
+          "id": "912",
+          "name": "Чайники электрические",
+          "depth": 2,
+          "__typename": "SectionTreeItem"
+        }
+      ],
+      "__typename": "Section"
+    },
+    "media": {
+      "gallery": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/516938/1_516938.jpg?timestamp=2025-05-15_12-08-07",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/516938/2_516938.jpg?timestamp=2025-05-15_12-08-07",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/516938/3_516938.jpg?timestamp=2025-05-15_12-08-08",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/516938/4_516938.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "interior": [],
+      "video": [
+        {
+          "id": "M8AFa31nkMg",
+          "duration": 62,
+          "uploadDate": "2021-12-02T13:00:05+0000",
+          "__typename": "YoutubeVideo"
+        }
+      ],
+      "vkVideo": null,
+      "view3d": [],
+      "listing": {
+        "default": [
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/516938/1_516938.jpg?timestamp=2025-05-15_12-08-12",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/516938/2_516938.jpg?timestamp=2025-05-15_12-08-12",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/516938/3_516938.jpg?timestamp=2025-05-15_12-08-12",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/516938/4_516938.jpg?timestamp=2025-05-15_12-08-10",
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "ProductListing"
+      },
+      "__typename": "ProductV2Media"
+    },
+    "modifications": {
+      "bigBrother": null,
+      "groups": [
+        {
+          "name": "Цвет",
+          "items": [
+            {
+              "value": "чёрный",
+              "product": {
+                "slug": "chaynik-kitchenaid-5kek1522ebk",
+                "article": "129460",
+                "name": {
+                  "default": "KitchenAid 5KEK1522EBK",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "IN_STOCK",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/516938/1_516938.jpg?timestamp=2025-05-15_12-08-12",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/516938/2_516938.jpg?timestamp=2025-05-15_12-08-12",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/516938/3_516938.jpg?timestamp=2025-05-15_12-08-12",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/516938/4_516938.jpg?timestamp=2025-05-15_12-08-10",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            },
+            {
+              "value": "антрацит",
+              "product": {
+                "slug": "chaynik-kitchen-aid-5kek1522-chernyy",
+                "article": "48020",
+                "name": {
+                  "default": "KitchenAid 5KEK1522EOB",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "IN_STOCK",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/29353/1_29353.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/29353/2_29353.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/29353/3_29353.jpg",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            },
+            {
+              "value": "бежевый",
+              "product": {
+                "slug": "chaynik-kitchen-aid-5kek1522-kremovyy",
+                "article": "47433",
+                "name": {
+                  "default": "KitchenAid 5KEK1522EAC",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "IN_STOCK",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/48474/1_48474.jpg?timestamp=2025-05-15_12-17-57",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            },
+            {
+              "value": "белый",
+              "product": {
+                "slug": "chaynik-kitchen-aid-5kek1522-moroznyy-zhemchug",
+                "article": "49944",
+                "name": {
+                  "default": "KitchenAid 5KEK1522EFP",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "NOT_AVAILABLE",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/51822/1_51822.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/51822/2_51822.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/51822/3_51822.jpg",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            },
+            {
+              "value": "бордо",
+              "product": {
+                "slug": "chaynik-kitchen-aid-5kek1522-karamelnoe-yabloko",
+                "article": "48019",
+                "name": {
+                  "default": "KitchenAid 5KEK1522ECA",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "NOT_AVAILABLE",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/29350/1_29350.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/29350/2_29350.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/29350/3_29350.jpg",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            },
+            {
+              "value": "зелёный",
+              "product": {
+                "slug": "chaynik-kitchenaid-5kek1522epp",
+                "article": "129461",
+                "name": {
+                  "default": "KitchenAid 5KEK1522EPP",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "IN_STOCK",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/516951/1_516951.jpg",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            },
+            {
+              "value": "красный",
+              "product": {
+                "slug": "chaynik-kitchen-aid-5kek1522-krasnyy",
+                "article": "47432",
+                "name": {
+                  "default": "KitchenAid 5KEK1522EER",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "IN_STOCK",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/29351/1_29351.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/29351/2_29351.jpg",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            },
+            {
+              "value": "серебристый",
+              "product": {
+                "slug": "chaynik-kitchen-aid-5kek1522-serebryanyy-medalon",
+                "article": "47434",
+                "name": {
+                  "default": "KitchenAid 5KEK1522EMS",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "IN_STOCK",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/29352/1_29352.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/29352/2_29352.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/29352/3_29352.jpg?timestamp=2025-06-16_13-32-34",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/29352/4_29352.jpg?timestamp=2025-06-16_13-32-34",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/29352/5_29352.jpg?timestamp=2025-06-16_13-32-34",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/29352/6_29352.jpg?timestamp=2025-06-16_13-32-34",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            },
+            {
+              "value": "серый",
+              "product": {
+                "slug": "chaynik-kitchenaid-5kek1522egr",
+                "article": "165324",
+                "name": {
+                  "default": "KitchenAid 5KEK1522EGR",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "NOT_AVAILABLE",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/722457/1_722457.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/722457/2_722457.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/722457/3_722457.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/722457/4_722457.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/722457/5_722457.jpg",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            },
+            {
+              "value": "синий",
+              "product": {
+                "slug": "chaynik-kitchenaid-5kek1522eib-767477",
+                "article": "176150",
+                "name": {
+                  "default": "KitchenAid 5KEK1522EIB",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "NOT_AVAILABLE",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/767477/1_767477.jpg?timestamp=2024-11-15_09-17-36",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/767477/2_767477.jpg?timestamp=2024-11-15_09-17-36",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/767477/3_767477.jpg?timestamp=2024-11-15_09-17-34",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/767477/4_767477.jpg?timestamp=2024-11-15_09-17-36",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/767477/5_767477.jpg?timestamp=2024-11-15_09-17-35",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/767477/6_767477.jpg?timestamp=2024-11-15_09-17-46",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            },
+            {
+              "value": "фисташковый",
+              "product": {
+                "slug": "chaynik-kitchenaid-5kek1522ept",
+                "article": "163792",
+                "name": {
+                  "default": "KitchenAid 5KEK1522EPT",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "IN_STOCK",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/715828/1_715828.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/715828/2_715828.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/715828/3_715828.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/715828/4_715828.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/715828/5_715828.jpg",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            }
+          ],
+          "__typename": "ProductV2ModificationGroup"
+        }
+      ],
+      "__typename": "ProductModifications"
+    },
+    "description": {
+      "hasDescription": true,
+      "type": "RICH",
+      "__typename": "ProductDescription"
+    },
+    "collection": {
+      "id": "516938",
+      "products": {
+        "pagination": {
+          "total": 0,
+          "__typename": "Pagination"
+        },
+        "__typename": "ProductV2Pagination"
+      },
+      "__typename": "ProductCollection"
+    },
+    "similar": {
+      "pagination": {
+        "total": 34,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "related": {
+      "pagination": {
+        "total": 20,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "accessories": [
+      {
+        "products": {
+          "pagination": {
+            "total": 3,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 1,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 5,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 20,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 11,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 13,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 2,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 17,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 13,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 4,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 2,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 1,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 14,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      }
+    ],
+    "rating": {
+      "average": 0,
+      "canRate": false,
+      "total": {
+        "all": 0,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 0,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "reviews": {
+      "total": 0,
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "bestCredit": {
+      "monthPayment": 682,
+      "type": "CREDIT",
+      "__typename": "ProductBestCredit"
+    },
+    "isSpare": false,
+    "isService": false,
+    "isVipService": false,
+    "isGiftBonusCard": false,
+    "canBuy": true,
+    "canPayOnline": true,
+    "canRequestPrice": false,
+    "canShowPrice": true,
+    "canSubscribe": false,
+    "needPrepaymentForDelivery": false,
+    "needPrepaymentForPreorder": false,
+    "isSberSpasiboPayAvailable": true,
+    "isYandexPayAllowed": false,
+    "yandexSplit": {
+      "payments": [
+        {
+          "amount": 0,
+          "date": "2026-08-17T09:04:39+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1826,
+          "date": "2026-08-31T09:04:39+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1824,
+          "date": "2026-09-14T09:04:39+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1824,
+          "date": "2026-09-28T09:04:39+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1824,
+          "date": "2026-10-12T09:04:39+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1824,
+          "date": "2026-10-26T09:04:39+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1824,
+          "date": "2026-11-09T09:04:39+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1824,
+          "date": "2026-11-23T09:04:39+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1824,
+          "date": "2026-12-07T09:04:39+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1824,
+          "date": "2026-12-21T09:04:39+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1824,
+          "date": "2027-01-04T09:04:39+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1824,
+          "date": "2027-01-18T09:04:39+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1824,
+          "date": "2027-02-01T09:04:39+0300",
+          "__typename": "YandexSplitPayment"
+        }
+      ],
+      "firstPayment": 0,
+      "restPayment": 21890,
+      "description": "https://yandex.ru/support/split/",
+      "maxAmount": 295000,
+      "__typename": "YandexSplit"
+    },
+    "seo": {
+      "description": "Чайник KitchenAid 5KEK1522EBK: купить в интернет-магазине Технопарк с расширенной гарантией и бесплатной доставкой по РФ. Подробные характеристики товара с отзывами реальных покупателей.",
+      "text": "Вы можете купить чайник KitchenAid 5KEK1522EBK с доставкой по Москве по низкой цене. В интернет-магазине Technopark.ru осуществляется продажа чайника KitchenAid 5KEK1522EBK на выгодных условиях.",
+      "textHidden": "",
+      "title": "Чайник KitchenAid 5KEK1522EBK - купить в Москве в интернет-магазине Технопарк",
+      "__typename": "SeoData"
+    },
+    "breadcrumbs": [
+      {
+        "name": "Главная",
+        "url": "/",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Техника для кухни",
+        "url": "/dlya-kuhni/",
+        "options": [
+          {
+            "name": "Центр инноваций",
+            "url": "/tovary-iz-budushchego/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Смартфоны и гаджеты",
+            "url": "/smartfony-i-gadzhety/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Компьютеры и ноутбуки",
+            "url": "/kompyutery-i-noutbuki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Климатическая техника",
+            "url": "/klimaticheskaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Крупная бытовая техника",
+            "url": "/krupnaya-bytovaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Бытовая техника для дома",
+            "url": "/dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для красоты и здоровья",
+            "url": "/krasota-i-zdorovye/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Спортивные товары",
+            "url": "/trenazhery-dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Телевизоры Аудио Hi-Fi",
+            "url": "/audio-video-foto/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для сада, дома и ремонта",
+            "url": "/dlya-sada-doma-i-remonta/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посуда",
+            "url": "/posuda/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Детские товары",
+            "url": "/detskie-tovary/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для гейминга",
+            "url": "/gaming/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Плоттеры и услуги розницы",
+            "url": "//",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Запасные части",
+            "url": "/zapasnie-chasti/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Электрические чайники",
+        "url": "/chayniki/",
+        "options": [
+          {
+            "name": "Аэрогрили",
+            "url": "/aerogrili/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Микроволновые печи",
+            "url": "/mikrovolnovye-pechi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мультиварки",
+            "url": "/multivarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мини-печи",
+            "url": "/mini-pechi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мультишефы BORK",
+            "url": "/multishefy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Миксеры и кухонные машины",
+            "url": "/miksery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрогрили",
+            "url": "/grili/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Уличные грили барбекю",
+            "url": "/ulichnye-grili-barbeku/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Фритюрницы",
+            "url": "/frityurnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Хлебопечки",
+            "url": "/hlebopechki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Пароварки",
+            "url": "/parovarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Настольные плиты",
+            "url": "/induktsionnye-paneli/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мороженицы",
+            "url": "/morozhenitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вакуумные упаковщики (вакууматоры)",
+            "url": "/vakuumnaya-upakovka/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Су виды",
+            "url": "/su-vidy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрические сковороды и воки",
+            "url": "/elektricheskie-skovorody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Автоматические кофемашины",
+            "url": "/kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кофеварки",
+            "url": "/kofevarki-i-kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кофейные станции",
+            "url": "/kofeynye-stantsii/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Капсульные кофемашины",
+            "url": "/kapsulnye-kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Гейзерные кофеварки для дома",
+            "url": "/gejzernye-kofevarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кофемолки",
+            "url": "/kofemolki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вспениватели молока",
+            "url": "/vspenivateli-moloka/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для приготовления кофе",
+            "url": "/prigotovlenie-kofe/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Соковыжималки",
+            "url": "/sokovyzhimalki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Термопоты",
+            "url": "/termopoty/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Декантеры",
+            "url": "/dekantery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кулеры для воды",
+            "url": "/kulery-dlya-vody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Льдогенераторы",
+            "url": "/ledogeneratory/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Системы газации напитков",
+            "url": "/sistema-gazatsii-napitkov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мясорубки",
+            "url": "/myasorubki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Блендеры",
+            "url": "/blendery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные комбайны",
+            "url": "/kuhonnye-kombayny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные измельчители (чопперы)",
+            "url": "/kukhonnye-izmelchiteli/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Ломтерезки",
+            "url": "/lomterezki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Овощерезки",
+            "url": "/elektroterka/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Тостеры",
+            "url": "/tostery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вафельницы",
+            "url": "/vafelnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мультипекари",
+            "url": "/sendvichnitsi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Яйцеварки",
+            "url": "/yaycevarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Блинницы",
+            "url": "/blinnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Йогуртницы",
+            "url": "/yogurtnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Фильтры для воды под мойку",
+            "url": "/filtry-kuvshiny-dlya-ochistki-vody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Фильтры-кувшины для воды",
+            "url": "/filtry-kuvshiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для очистки воды",
+            "url": "/dlya-ochistki-vody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные весы",
+            "url": "/kuhonnye-vesy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Дегидраторы",
+            "url": "/sushki-dlya-ovoschey/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для кухни",
+            "url": "/aksessuary-dlya-kuhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мойки для кухни",
+            "url": "/moyki-dlya-kukhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрошашлычницы",
+            "url": "/shashlychnitsa/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Электрические чайники KitchenAid",
+        "url": "/chayniki/kitchenaid/",
+        "options": [
+          {
+            "name": "BORK",
+            "url": "/chayniki/bork/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "QYRON",
+            "url": "/chayniki/qyron/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Smeg",
+            "url": "/chayniki/smeg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Maunfeld",
+            "url": "/chayniki/maunfeld/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Polaris",
+            "url": "/chayniki/polaris/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Brayer",
+            "url": "/chayniki/brayer/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Endever",
+            "url": "/chayniki/endever/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Tefal",
+            "url": "/chayniki/tefal/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Korting",
+            "url": "/chayniki/korting/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Braun",
+            "url": "/chayniki/braun/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Midea",
+            "url": "/chayniki/midea/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Bosch",
+            "url": "/chayniki/bosch/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "WMF",
+            "url": "/chayniki/wmf/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Zigmund Shtain",
+            "url": "/chayniki/zigmund_shtain/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Kitfort",
+            "url": "/chayniki/kitfort/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Libhof",
+            "url": "/chayniki/libhof/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Delonghi",
+            "url": "/chayniki/delonghi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Electrolux",
+            "url": "/chayniki/electrolux/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "VES",
+            "url": "/chayniki/ves/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Kenwell",
+            "url": "/chayniki/kenwell/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Zwilling",
+            "url": "/chayniki/zwilling/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Atvel",
+            "url": "/chayniki/atvel/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Toshiba",
+            "url": "/chayniki/toshiba/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Moulinex",
+            "url": "/chayniki/moulinex/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Gorenje",
+            "url": "/chayniki/gorenje/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "KitchenAid 5KEK1522EBK",
+        "url": "chaynik-kitchenaid-5kek1522ebk",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      }
+    ],
+    "isArchive": false,
+    "__typename": "ProductV2",
+    "isSberPayOneClickAllowed": false,
+    "isTinkoffPayOneClickAllowed": false,
+    "bonus": null
+  },
+  "details": {
+    "description": "<style> #flix-privacy-policy{display:none}#flix-mbl-page .flix-mbl-images .flixpgw .ps-current .ps-next,#flix-mbl-page .flix-mbl-images .flixpgw .ps-current .ps-prev{z-index:1!important}.flix-mbl-image.flix-mbl-clmn-sm-10{display:flex;flex-direction:column;align-items:center}#flix-akg-inpage .flix-std-row.flix-info-align,#flix-jbl-inpage .flix-std-row.flix-info-align{display:flex;flex-direction:column-reverse;align-items:stretch}#flix-akg-inpage .flix-std-row.flix-info-align .flix-std-clmn-lg-4.flix-std-clmn-xs-12,#flix-jbl-inpage .flix-std-row.flix-info-align .flix-std-clmn-lg-4.flix-std-clmn-xs-12{width:auto}#flix-akg-inpage .flix-std-row.flix-info-align .flix_navigation,#flix-jbl-inpage .flix-std-row.flix-info-align .flix_navigation{max-width:none!important}#flix-akg-inpage .flix-std-row.flix-info-align .inpage_selector_gallery,#flix-jbl-inpage .flix-std-row.flix-info-align .inpage_selector_gallery{display:flex;flex-direction:column}#flix-akg-inpage .flix-std-clmn-lg-8.flix-std-clmn-xs-12.flix-std-info-picture,#flix-jbl-inpage .flix-std-clmn-lg-8.flix-std-clmn-xs-12.flix-std-info-picture{width:100%}#flix-akg-inpage .flix-std-section-title.flix-d-h2,#flix-jbl-inpage .flix-std-section-title.flix-d-h2{margin-left:30px!important;font-family:HelveticaNeueW01-55Roma,Helvetica,sans-serif!important}#flix-akg-inpage .flix-mbl-image.flix-mbl-clmn-sm-10,#flix-jbl-inpage .flix-mbl-image.flix-mbl-clmn-sm-10{text-align:center!important}#flix-akg-inpage .inpage_block_inner.jcarousel-list.jcarousel-list-horizontal,#flix-jbl-inpage .inpage_block_inner.jcarousel-list.jcarousel-list-horizontal{display:flex;flex-direction:row;align-items:center}#flix-akg-inpage .flix-feature-image.flix-box-image,#flix-jbl-inpage .flix-feature-image.flix-box-image{text-align:center}#flix-akg-inpage .inpage_selector_box .flix-std-content,#flix-jbl-inpage .inpage_selector_box .flix-std-content{padding-left:0!important}.product__desc #flix-mbl-page .flix-mbl-catHeader .flix-mbl-opener b:nth-child(2){left:-1px}.product__desc #flix-mbl-page .flix-mbl-catHeader .flix-mbl-opener b:nth-child(3){bottom:-1px}.product__desc #flix-mbl-page .flix-mbl-catHeader .flix-mbl-opener b:nth-child(4){left:-3px}#flix-sony-manual .flix-std-section-title{padding-left:28px!important}.product__desc #flix-sony-inpage{background-color:#fff;color:#000;padding:0 12px}#flix-lg-inpage .flix-headline.flix-d-h2{margin-left:40px!important}#flix-lg-inpage .flix-features{display:flex;justify-content:center;flex-wrap:wrap}#flix-lg-inpage.flix-lg4 .specs-has-bg{background-image:none!important}#flix-Hotpoint-inpage .flix-std-section-title.flix-d-h2{padding-left:15px}#flix-Elux-inpage #flix-std-inpage{padding:0 12px}#flix-Elux-inpage .flix-bar-plus{cursor:pointer}#flix-philips-inpage #flix-std-inpage{background-color:#fff;color:#000;padding:0 12px} </style> <div id=\"flix-inpage\"></div> <script type=\"text/javascript\"         src=\"https://media.flixfacts.com/js/loader.js\"         data-flix-distributor=\"974\"         data-flix-language=\"ru\"         data-flix-brand=\"kitchenaid\"         data-flix-mpn=\"\"         data-flix-ean=\"5413184124373\"         data-flix-inpage=\"flix-inpage\"         data-flix-button-image=\"\"         data-flix-price=\"\"         onload=\"flixJsCallbacks.setLoadCallback(() => { window.hasFlixContent = true })\"         async> </script>",
+    "descriptionType": "RICH_FLIXFACTS",
+    "descriptionBarcode": "5413184124373",
+    "descriptionBrand": "KitchenAid",
+    "specifications": {
+      "short": [
+        {
+          "name": "Мощность",
+          "value": "2400 Вт",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Объем",
+          "value": "1.5 л",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Материал корпуса",
+          "value": "металл",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Регулировка температуры",
+          "value": "есть",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "barcode": "5413184124373",
+      "country": "Китай",
+      "full": [
+        {
+          "name": "Основные характеристики",
+          "list": [
+            {
+              "name": "Мощность",
+              "value": "2400 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Объем",
+              "value": "1.5 л",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал корпуса",
+              "value": "металл",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дополнительный материал",
+              "value": "пластик",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет",
+              "value": "чёрный",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Управление",
+          "list": [
+            {
+              "name": "Подставка с электронным управлением",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Управление",
+              "value": "кнопочное, поворотное, электронное",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Регулировка температуры",
+              "value": "есть",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Функции",
+          "list": [
+            {
+              "name": "Поддержание температуры",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество режимов нагрева",
+              "value": "7",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Минимальная температура нагрева воды",
+              "value": "50 °С",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная температура нагрева воды",
+              "value": "100 °С",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Подогрев до заданной температуры",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Фильтрация",
+          "list": [
+            {
+              "name": "Фильтр от накипи",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Защита и безопасность",
+          "list": [
+            {
+              "name": "Автоотключение при снятии с подставки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автоотключение при закипании",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Звуковой сигнал",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Дополнительные характеристики",
+          "list": [
+            {
+              "name": "Двойные стенки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Бесшумное закипание",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Шкала уровня воды",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикатор включения",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикатор температуры",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вращение на подставке на 360 градусов",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Открывание крышки",
+              "value": "кнопка",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Комплектация",
+          "list": [
+            {
+              "name": "Подставка с отсеком для хранения шнура",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Инструкция",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Питание",
+          "list": [
+            {
+              "name": "Источник питания",
+              "value": "сеть",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Длина сетевого шнура",
+              "value": "1 м",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Размеры и вес",
+          "list": [
+            {
+              "name": "Высота",
+              "value": "20.3 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ширина",
+              "value": "27.2 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Глубина",
+              "value": "24.1 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вес",
+              "value": "1.5 кг",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        }
+      ],
+      "grossWeight": "2.6",
+      "netWeight": "2.2",
+      "height": "0.3",
+      "instructionUrl": "https://storage.yandexcloud.net/technopark.instructions/516938/instruction/instrukciya-chaynik-kitchenaid-5kek1522ebk.pdf",
+      "length": "0.35",
+      "schemeUrl": null,
+      "warranty": "12",
+      "width": "0.35",
+      "__typename": "ProductV2Specifications"
+    },
+    "certificates": ["https://www.technopark.ru/bipublic/Cert/IG0G14MKE5H6N6.pdf"],
+    "isManufacturerCountry": false,
+    "isSellerWarranty": false,
+    "reviews": {
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "total": 0,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "rating": {
+      "average": 0,
+      "canRate": false,
+      "total": {
+        "all": 0,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 0,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "isLoading": false
+  },
+  "shots": [
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/516938/1_516938.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/516938/1_516938.jpg?timestamp=2025-05-15_12-08-07"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/516938/2_516938.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/516938/2_516938.jpg?timestamp=2025-05-15_12-08-07"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/516938/3_516938.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/516938/3_516938.jpg?timestamp=2025-05-15_12-08-08"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/516938/4_516938.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/516938/4_516938.jpg"
+    ]
+  ],
+  "photos": [
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/chaynik-kitchenaid-5kek1522ebk-1.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/chaynik-kitchenaid-5kek1522ebk-2.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/chaynik-kitchenaid-5kek1522ebk-3.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/chaynik-kitchenaid-5kek1522ebk-4.jpg"
+  ]
+}

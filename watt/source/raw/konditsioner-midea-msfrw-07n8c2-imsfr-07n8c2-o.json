@@ -1,0 +1,2186 @@
+{
+  "shelf": "konditsionery",
+  "slug": "konditsioner-midea-msfrw-07n8c2-imsfr-07n8c2-o",
+  "product": {
+    "id": "726997",
+    "article": "167491",
+    "slug": "konditsioner-midea-msfrw-07n8c2-imsfr-07n8c2-o",
+    "hasSmartInstallments": false,
+    "isActive": true,
+    "name": {
+      "default": "Midea MSFRW-07N8C2 Favorite Inverter",
+      "full": "Кондиционер Midea MSFRW-07N8C2 Favorite Inverter",
+      "pseudo": null,
+      "spare": null,
+      "fullWithoutSection": "Midea MSFRW-07N8C2 Favorite Inverter",
+      "section": "Кондиционер",
+      "__typename": "ProductName"
+    },
+    "price": {
+      "default": 34000,
+      "marketing": null,
+      "old": 39990,
+      "__typename": "ProductPrice"
+    },
+    "benefit": 5990,
+    "specifications": {
+      "short": [
+        {
+          "name": "Тип",
+          "value": "сплит-система",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Площадь помещения",
+          "value": "20 кв.м",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Мощность в режиме охлаждения",
+          "value": "2.35 кВт",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Мощность в режиме обогрева",
+          "value": "2.43 кВт",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "__typename": "ProductV2Specifications"
+    },
+    "labels": [
+      {
+        "name": "Бонусы Спасибо",
+        "type": "sberspasibo",
+        "items": [
+          {
+            "description": "",
+            "name": "Этот товар можно оплатить бонусами Спасибо от СберБанка",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Выгодное предложение",
+        "type": "special_offer",
+        "items": [
+          {
+            "description": "",
+            "name": "Техника и электроника",
+            "url": "/action/vygodnaya-tsena/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Оставаться в зоне комфорта",
+            "url": "/action/ostavatsya-v-zone-komforta/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "5 000 бонусов за покупки",
+            "url": "/action/5-000-bonusov-za-pokupki/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Рассрочка",
+        "type": "deferred_payment",
+        "items": [
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-6",
+            "url": "/konditsioner-midea-msfrw-07n8c2-imsfr-07n8c2-o/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-12",
+            "url": "/konditsioner-midea-msfrw-07n8c2-imsfr-07n8c2-o/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-24",
+            "url": "/konditsioner-midea-msfrw-07n8c2-imsfr-07n8c2-o/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-18",
+            "url": "/konditsioner-midea-msfrw-07n8c2-imsfr-07n8c2-o/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      }
+    ],
+    "labelsV2": [
+      {
+        "id": "8",
+        "name": "Бонусы Спасибо",
+        "code": "sberspasibo",
+        "mainColor": "#0C9C0C",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#0C9C0C",
+        "altTextColor": "#FFFFFF",
+        "borderAndTextColor": "#0C9C0C",
+        "items": [
+          {
+            "id": "5043",
+            "text": "Этот товар можно оплатить бонусами Спасибо от СберБанка ",
+            "buttonText": "Подробнее",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      },
+      {
+        "id": "17",
+        "name": "Тройной кэшбэк",
+        "code": "troynoy-keshbek",
+        "mainColor": "#0093C4",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#0093C4",
+        "altTextColor": "#FFFFFF",
+        "borderAndTextColor": "#0093C4",
+        "items": [
+          {
+            "id": "162395",
+            "text": "Повышенный кешбэк на сплит-систем Midea и Aurum",
+            "buttonText": "Подробнее",
+            "url": "/action/ostavatsya-v-zone-komforta/",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      },
+      {
+        "id": "5",
+        "name": "Выгода",
+        "code": "vygoda",
+        "mainColor": "#fd9600",
+        "mainTextColor": "#ffffff",
+        "altColor": "#fd9600",
+        "altTextColor": "#ffffff",
+        "borderAndTextColor": "#fd9600",
+        "items": [
+          {
+            "id": "894",
+            "text": "Выгодное предложение",
+            "buttonText": "Подробнее",
+            "url": "/action/vygodnaya-tsena/",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      }
+    ],
+    "status": {
+      "id": "IN_STOCK",
+      "name": "В наличии",
+      "type": "POSITIVE",
+      "__typename": "ProductStatus"
+    },
+    "brand": {
+      "code": "midea",
+      "id": "40383",
+      "name": "Midea",
+      "src": "https://cdn1.technopark.ru/technopark/photos_resized/section_brand_300_100/300_100/40383/1_40383.png",
+      "slug": "midea",
+      "sections": [
+        {
+          "name": "Стиральные машины Midea",
+          "url": "/stiralnye-mashiny/midea/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1502595523/technopark/photos_resized/product/120_120/617275/1_617275.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4173348392/technopark/photos_resized/product/120_120/617275/2_617275.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3354090592/technopark/photos_resized/product/120_120/617275/3_617275.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2968284406/technopark/photos_resized/product/120_120/617275/4_617275.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/780728661/technopark/photos_resized/product/120_120/617275/5_617275.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1640591250/technopark/photos_resized/product/120_120/617275/6_617275.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1227011241/technopark/photos_resized/product/120_120/617275/7_617275.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Аэрогрили Midea",
+          "url": "/aerogrili/midea/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3900473378/technopark/photos_resized/product/120_120/822664/1_822664.jpg?timestamp=2026-03-02_09-01-20",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1903546776/technopark/photos_resized/product/120_120/822664/2_822664.jpg?timestamp=2026-03-02_09-01-20",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1981289857/technopark/photos_resized/product/120_120/822664/3_822664.jpg?timestamp=2026-03-02_09-01-20",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2675683508/technopark/photos_resized/product/120_120/822664/4_822664.jpg?timestamp=2026-03-02_09-01-20",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Варочные поверхности Midea",
+          "url": "/vstraivaemye-varochnye-poverhnosti/midea/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1154621742/technopark/photos_resized/product/120_120/673813/1_673813.jpg?timestamp=2025-05-15_09-51-15",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2741636137/technopark/photos_resized/product/120_120/673813/2_673813.jpg?timestamp=2025-05-15_09-51-16",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/418923131/technopark/photos_resized/product/120_120/673813/3_673813.jpg?timestamp=2025-05-15_09-51-27",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3563928767/technopark/photos_resized/product/120_120/673813/4_673813.jpg?timestamp=2025-05-15_09-51-15",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2914092059/technopark/photos_resized/product/120_120/673813/5_673813.jpg?timestamp=2025-05-15_09-51-14",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2286378986/technopark/photos_resized/product/120_120/673813/6_673813.jpg?timestamp=2025-05-15_09-51-28",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3031086426/technopark/photos_resized/product/120_120/673813/7_673813.jpg?timestamp=2025-05-15_09-51-16",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Холодильники Midea",
+          "url": "/holodilniki/midea/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1545095486/technopark/photos_resized/product/120_120/648650/1_648650.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/250192473/technopark/photos_resized/product/120_120/648650/2_648650.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2987796498/technopark/photos_resized/product/120_120/648650/3_648650.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/495081419/technopark/photos_resized/product/120_120/648650/4_648650.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/723483048/technopark/photos_resized/product/120_120/648650/5_648650.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3306231940/technopark/photos_resized/product/120_120/648650/6_648650.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2369604186/technopark/photos_resized/product/120_120/648650/7_648650.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1787127645/technopark/photos_resized/product/120_120/648650/8_648650.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Вытяжки Midea",
+          "url": "/vytyazhki/midea/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/974257474/technopark/photos_resized/product/120_120/239400/0_239400.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Холодильники встраиваемые Midea",
+          "url": "/vstraivaemye-holodilniki/midea/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2984783555/technopark/photos_resized/product/120_120/137488/0_137488.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Сушильные машины Midea",
+          "url": "/sushilnye-mashiny/midea/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/459795273/technopark/photos_resized/product/120_120/806642/1_806642.jpg?timestamp=2025-10-20_14-48-33",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3844296482/technopark/photos_resized/product/120_120/806642/2_806642.jpg?timestamp=2025-10-20_14-48-34",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2451865524/technopark/photos_resized/product/120_120/806642/3_806642.jpg?timestamp=2025-10-20_14-48-33",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3845930109/technopark/photos_resized/product/120_120/806642/4_806642.jpg?timestamp=2025-10-20_14-48-48",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/358341462/technopark/photos_resized/product/120_120/806642/5_806642.jpg?timestamp=2025-10-20_14-48-39",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/187510286/technopark/photos_resized/product/120_120/806642/6_806642.jpg?timestamp=2025-10-20_14-48-34",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2083876295/technopark/photos_resized/product/120_120/806642/7_806642.jpg?timestamp=2025-10-20_14-48-47",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Настольные плиты Midea",
+          "url": "/induktsionnye-paneli/midea/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/530679128/technopark/photos_resized/product/120_120/549782/1_549782.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2401147081/technopark/photos_resized/product/120_120/549782/2_549782.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Осушители Midea",
+          "url": "/osushiteli/midea/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/925284132/technopark/photos_resized/product/120_120/803910/1_803910.jpg?timestamp=2025-09-30_13-50-33",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/185982089/technopark/photos_resized/product/120_120/803910/2_803910.jpg?timestamp=2025-09-30_13-50-34",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3119472621/technopark/photos_resized/product/120_120/803910/3_803910.jpg?timestamp=2025-09-30_13-50-35",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2388108180/technopark/photos_resized/product/120_120/803910/4_803910.jpg?timestamp=2025-09-30_13-50-36",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1616495288/technopark/photos_resized/product/120_120/803910/5_803910.jpg?timestamp=2025-09-30_13-50-36",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/239453039/technopark/photos_resized/product/120_120/803910/6_803910.jpg?timestamp=2025-09-30_13-50-37",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        }
+      ],
+      "__typename": "Brand"
+    },
+    "section": {
+      "slug": "konditsionery",
+      "id": "880",
+      "name": "Все кондиционеры",
+      "parents": [
+        {
+          "id": "878",
+          "name": "Климат",
+          "depth": 1,
+          "__typename": "SectionTreeItem"
+        },
+        {
+          "id": "880",
+          "name": "Все кондиционеры",
+          "depth": 2,
+          "__typename": "SectionTreeItem"
+        }
+      ],
+      "__typename": "Section"
+    },
+    "media": {
+      "gallery": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/726997/1_726997.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/726997/2_726997.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/726997/3_726997.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/726997/4_726997.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/726997/5_726997.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/726997/6_726997.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "interior": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior/1000_1000/726997/1_726997.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior/1000_1000/726997/2_726997.jpg?timestamp=2025-08-20_16-29-50",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior/1000_1000/726997/3_726997.jpg?timestamp=2025-08-20_16-29-49",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior/1000_1000/726997/4_726997.jpg?timestamp=2025-08-20_16-29-51",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior/1000_1000/726997/5_726997.jpg?timestamp=2025-08-20_16-29-54",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior/1000_1000/726997/6_726997.jpg?timestamp=2025-08-20_16-29-49",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior/1000_1000/726997/7_726997.jpg?timestamp=2025-08-20_16-29-49",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior/1000_1000/726997/8_726997.jpg?timestamp=2025-08-20_16-29-54",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "video": [],
+      "vkVideo": null,
+      "view3d": [],
+      "listing": {
+        "default": [
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/726997/1_726997.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/726997/2_726997.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/726997/3_726997.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/726997/4_726997.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/726997/5_726997.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/726997/6_726997.jpg",
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "ProductListing"
+      },
+      "__typename": "ProductV2Media"
+    },
+    "modifications": {
+      "bigBrother": {
+        "id": "727047",
+        "article": "167492",
+        "benefit": 6440,
+        "name": {
+          "default": "Midea MSFRW-09N8C2 Favorite Inverter",
+          "pseudo": null,
+          "fullWithoutSection": "Midea MSFRW-09N8C2 Favorite Inverter",
+          "full": "Кондиционер Midea MSFRW-09N8C2 Favorite Inverter",
+          "section": "Кондиционер",
+          "__typename": "ProductName"
+        },
+        "slug": "konditsioner-midea-msfrw-09n8c2-imsfr-09n8c2-o",
+        "price": {
+          "default": 36550,
+          "marketing": null,
+          "old": 42990,
+          "__typename": "ProductPrice"
+        },
+        "media": {
+          "listing": {
+            "default": [
+              {
+                "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/727047/1_727047.jpg",
+                "__typename": "Image"
+              },
+              {
+                "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/727047/2_727047.jpg",
+                "__typename": "Image"
+              },
+              {
+                "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/727047/3_727047.jpg",
+                "__typename": "Image"
+              },
+              {
+                "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/727047/4_727047.jpg",
+                "__typename": "Image"
+              },
+              {
+                "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/727047/5_727047.jpg",
+                "__typename": "Image"
+              },
+              {
+                "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/727047/6_727047.jpg",
+                "__typename": "Image"
+              }
+            ],
+            "transparent": [],
+            "__typename": "ProductListing"
+          },
+          "__typename": "ProductV2Media"
+        },
+        "labelsV2": [
+          {
+            "name": "Бонусы Спасибо",
+            "code": "sberspasibo",
+            "mainColor": "#0C9C0C",
+            "mainTextColor": "#FFFFFF",
+            "altColor": "#0C9C0C",
+            "altTextColor": "#FFFFFF",
+            "borderAndTextColor": "#0C9C0C",
+            "items": [
+              {
+                "text": "Этот товар можно оплатить бонусами Спасибо от СберБанка ",
+                "buttonText": "Подробнее",
+                "url": "/support/pay/#sber",
+                "__typename": "ProductLabelTextAndButtonItem"
+              }
+            ],
+            "__typename": "ProductLabelV2"
+          },
+          {
+            "name": "Тройной кэшбэк",
+            "code": "troynoy-keshbek",
+            "mainColor": "#0093C4",
+            "mainTextColor": "#FFFFFF",
+            "altColor": "#0093C4",
+            "altTextColor": "#FFFFFF",
+            "borderAndTextColor": "#0093C4",
+            "items": [
+              {
+                "text": "Повышенный кешбэк на сплит-систем Midea и Aurum",
+                "buttonText": "Подробнее",
+                "url": "/action/ostavatsya-v-zone-komforta/",
+                "__typename": "ProductLabelTextAndButtonItem"
+              }
+            ],
+            "__typename": "ProductLabelV2"
+          },
+          {
+            "name": "Выгода",
+            "code": "vygoda",
+            "mainColor": "#fd9600",
+            "mainTextColor": "#ffffff",
+            "altColor": "#fd9600",
+            "altTextColor": "#ffffff",
+            "borderAndTextColor": "#fd9600",
+            "items": [
+              {
+                "text": "Выгодное предложение",
+                "buttonText": "Подробнее",
+                "url": "/action/vygodnaya-tsena/",
+                "__typename": "ProductLabelTextAndButtonItem"
+              }
+            ],
+            "__typename": "ProductLabelV2"
+          }
+        ],
+        "canBuy": true,
+        "canRequestPrice": false,
+        "canSubscribe": false,
+        "isArchive": false,
+        "isService": false,
+        "isVipService": false,
+        "canShowPrice": true,
+        "status": {
+          "id": "IN_STOCK",
+          "name": "В наличии",
+          "type": "POSITIVE",
+          "__typename": "ProductStatus"
+        },
+        "__typename": "ProductV2",
+        "yandexSplit": {
+          "payments": [
+            {
+              "amount": 0,
+              "__typename": "YandexSplitPayment"
+            },
+            {
+              "amount": 3055,
+              "__typename": "YandexSplitPayment"
+            },
+            {
+              "amount": 3045,
+              "__typename": "YandexSplitPayment"
+            },
+            {
+              "amount": 3045,
+              "__typename": "YandexSplitPayment"
+            },
+            {
+              "amount": 3045,
+              "__typename": "YandexSplitPayment"
+            },
+            {
+              "amount": 3045,
+              "__typename": "YandexSplitPayment"
+            },
+            {
+              "amount": 3045,
+              "__typename": "YandexSplitPayment"
+            },
+            {
+              "amount": 3045,
+              "__typename": "YandexSplitPayment"
+            },
+            {
+              "amount": 3045,
+              "__typename": "YandexSplitPayment"
+            },
+            {
+              "amount": 3045,
+              "__typename": "YandexSplitPayment"
+            },
+            {
+              "amount": 3045,
+              "__typename": "YandexSplitPayment"
+            },
+            {
+              "amount": 3045,
+              "__typename": "YandexSplitPayment"
+            },
+            {
+              "amount": 3045,
+              "__typename": "YandexSplitPayment"
+            }
+          ],
+          "__typename": "YandexSplit"
+        },
+        "brand": {
+          "id": "40383",
+          "name": "Midea",
+          "__typename": "Brand"
+        }
+      },
+      "groups": [
+        {
+          "name": "Обслуживаемая площадь",
+          "items": [
+            {
+              "value": "20",
+              "product": {
+                "slug": "konditsioner-midea-msfrw-07n8c2-imsfr-07n8c2-o",
+                "article": "167491",
+                "name": {
+                  "default": "Midea MSFRW-07N8C2 Favorite Inverter",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "IN_STOCK",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/726997/1_726997.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/726997/2_726997.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/726997/3_726997.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/726997/4_726997.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/726997/5_726997.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/726997/6_726997.jpg",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            },
+            {
+              "value": "25",
+              "product": {
+                "slug": "konditsioner-midea-msfrw-09n8c2-imsfr-09n8c2-o",
+                "article": "167492",
+                "name": {
+                  "default": "Midea MSFRW-09N8C2 Favorite Inverter",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "IN_STOCK",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/727047/1_727047.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/727047/2_727047.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/727047/3_727047.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/727047/4_727047.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/727047/5_727047.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/727047/6_727047.jpg",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            },
+            {
+              "value": "35",
+              "product": {
+                "slug": "konditsioner-midea-msfrw-12n8c2-imsfr-12n8c2-o",
+                "article": "167493",
+                "name": {
+                  "default": "Midea MSFRW-12N8C2 Favorite Inverter",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "IN_STOCK",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/727052/1_727052.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/727052/2_727052.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/727052/3_727052.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/727052/4_727052.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/727052/5_727052.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/727052/6_727052.jpg",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            },
+            {
+              "value": "50",
+              "product": {
+                "slug": "konditsioner-midea-msfrw-18n8d0-imsfr-18n8d0-o",
+                "article": "167494",
+                "name": {
+                  "default": "Midea MSFRW-18N8D0 Favorite Inverter",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "IN_STOCK",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/727057/1_727057.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/727057/2_727057.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/727057/3_727057.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/727057/4_727057.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/727057/5_727057.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/727057/6_727057.jpg",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            },
+            {
+              "value": "70",
+              "product": {
+                "slug": "konditsioner-midea-msfrw-24n8d0-imsfr-24n8d0-o",
+                "article": "167495",
+                "name": {
+                  "default": "Midea MSFRW-24N8D0 Favorite Inverter",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "IN_STOCK",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/727059/1_727059.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/727059/2_727059.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/727059/3_727059.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/727059/4_727059.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/727059/5_727059.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/727059/6_727059.jpg",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            }
+          ],
+          "__typename": "ProductV2ModificationGroup"
+        }
+      ],
+      "__typename": "ProductModifications"
+    },
+    "description": {
+      "hasDescription": true,
+      "type": "DEFAULT",
+      "__typename": "ProductDescription"
+    },
+    "collection": {
+      "id": "726997",
+      "products": {
+        "pagination": {
+          "total": 0,
+          "__typename": "Pagination"
+        },
+        "__typename": "ProductV2Pagination"
+      },
+      "__typename": "ProductCollection"
+    },
+    "similar": {
+      "pagination": {
+        "total": 20,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "related": {
+      "pagination": {
+        "total": 20,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "accessories": [
+      {
+        "products": {
+          "pagination": {
+            "total": 3,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      }
+    ],
+    "rating": {
+      "average": 5,
+      "canRate": false,
+      "total": {
+        "all": 1,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 1,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "reviews": {
+      "total": 1,
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "bestCredit": {
+      "monthPayment": 1417,
+      "type": "DEFERRED_PAYMENT",
+      "__typename": "ProductBestCredit"
+    },
+    "isSpare": false,
+    "isService": false,
+    "isVipService": false,
+    "isGiftBonusCard": false,
+    "canBuy": true,
+    "canPayOnline": true,
+    "canRequestPrice": false,
+    "canShowPrice": true,
+    "canSubscribe": false,
+    "needPrepaymentForDelivery": false,
+    "needPrepaymentForPreorder": false,
+    "isSberSpasiboPayAvailable": true,
+    "isYandexPayAllowed": false,
+    "yandexSplit": {
+      "payments": [
+        {
+          "amount": 0,
+          "date": "2026-08-17T09:05:42+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2837,
+          "date": "2026-08-31T09:05:42+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2833,
+          "date": "2026-09-14T09:05:42+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2833,
+          "date": "2026-09-28T09:05:42+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2833,
+          "date": "2026-10-12T09:05:42+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2833,
+          "date": "2026-10-26T09:05:42+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2833,
+          "date": "2026-11-09T09:05:42+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2833,
+          "date": "2026-11-23T09:05:42+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2833,
+          "date": "2026-12-07T09:05:42+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2833,
+          "date": "2026-12-21T09:05:42+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2833,
+          "date": "2027-01-04T09:05:42+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2833,
+          "date": "2027-01-18T09:05:42+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2833,
+          "date": "2027-02-01T09:05:42+0300",
+          "__typename": "YandexSplitPayment"
+        }
+      ],
+      "firstPayment": 0,
+      "restPayment": 34000,
+      "description": "https://yandex.ru/support/split/",
+      "maxAmount": 295000,
+      "__typename": "YandexSplit"
+    },
+    "seo": {
+      "description": "Кондиционер Midea MSFRW-07N8C2 Favorite Inverter: купить в интернет-магазине Технопарк с расширенной гарантией и бесплатной доставкой по РФ. Подробные характеристики товара с отзывами реальных покупателей.",
+      "text": "Вы можете купить кондиционер Midea MSFRW-07N8C2 Favorite Inverter с доставкой по Москве по низкой цене. В интернет-магазине Technopark.ru осуществляется продажа кондиционера Midea MSFRW-07N8C2 Favorite Inverter на выгодных условиях.",
+      "textHidden": "",
+      "title": "Кондиционер Midea MSFRW-07N8C2 Favorite Inverter - купить в Москве в интернет-магазине Технопарк",
+      "__typename": "SeoData"
+    },
+    "breadcrumbs": [
+      {
+        "name": "Главная",
+        "url": "/",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Климатическая техника",
+        "url": "/klimaticheskaya-tehnika/",
+        "options": [
+          {
+            "name": "Центр инноваций",
+            "url": "/tovary-iz-budushchego/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Смартфоны и гаджеты",
+            "url": "/smartfony-i-gadzhety/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Компьютеры и ноутбуки",
+            "url": "/kompyutery-i-noutbuki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Крупная бытовая техника",
+            "url": "/krupnaya-bytovaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Техника для кухни",
+            "url": "/dlya-kuhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Бытовая техника для дома",
+            "url": "/dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для красоты и здоровья",
+            "url": "/krasota-i-zdorovye/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Спортивные товары",
+            "url": "/trenazhery-dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Телевизоры Аудио Hi-Fi",
+            "url": "/audio-video-foto/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для сада, дома и ремонта",
+            "url": "/dlya-sada-doma-i-remonta/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посуда",
+            "url": "/posuda/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Детские товары",
+            "url": "/detskie-tovary/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для гейминга",
+            "url": "/gaming/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Плоттеры и услуги розницы",
+            "url": "//",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Запасные части",
+            "url": "/zapasnie-chasti/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Кондиционеры",
+        "url": "/konditsionery/",
+        "options": [
+          {
+            "name": "Вентиляторы",
+            "url": "/ventilyatory/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мульти сплит-системы",
+            "url": "/multisplit-sistemy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Водонагреватели",
+            "url": "/vodonagrevateli/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Очиститель воздуха для квартиры и дома",
+            "url": "/ochistiteli-vozduha/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Увлажнители воздуха",
+            "url": "/uvlazhniteli-vozduha/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мойки воздуха",
+            "url": "/moyki-vozduha/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Ионизаторы воздуха",
+            "url": "/ionizatory-vozdukha/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Осушители воздуха",
+            "url": "/osushiteli/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрические обогреватели",
+            "url": "/obogrevateli-i-teplovye-zavesy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Тепловые пушки",
+            "url": "/teplovye-pushki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрические тепловые завесы",
+            "url": "/teplovye-zavesy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Камины",
+            "url": "/elektrokaminy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Метеостанции",
+            "url": "/tsifrovye-meteostantsii/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для очистителей воздуха",
+            "url": "/aksessuary-dlya-ochistiteley-vozduha/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для увлажнителей",
+            "url": "/aksessuary-dlya-uvlazhniteley/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для обогревателей",
+            "url": "/aksessuar-dlya-obogrevateley/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для электрокаминов ",
+            "url": "/aksessuary-dlya-elektrokaminov-/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для вентиляторов",
+            "url": "/aksessuary-dlya-ventilyatorov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для кондиционеров",
+            "url": "/filtry-dlya-klimata/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Кондиционеры Midea",
+        "url": "/konditsionery/midea/",
+        "options": [
+          {
+            "name": "QYRON",
+            "url": "/konditsionery/qyron/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Hisense",
+            "url": "/konditsionery/hisense/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "ROYAL Clima",
+            "url": "/konditsionery/royal_clima/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Haier",
+            "url": "/konditsionery/haier/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Funai",
+            "url": "/konditsionery/funai/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Loriot",
+            "url": "/konditsionery/loriot/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "LG",
+            "url": "/konditsionery/lg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Electrolux",
+            "url": "/konditsionery/electrolux/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Ishimatsu",
+            "url": "/konditsionery/ishimatsu/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Ballu",
+            "url": "/konditsionery/ballu/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "AQUA",
+            "url": "/konditsionery/aqua/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Panasonic",
+            "url": "/konditsionery/panasonic/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Casarte",
+            "url": "/konditsionery/casarte/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Mitsubishi Electric",
+            "url": "/konditsionery/mitsubishi_electric/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Pioneer",
+            "url": "/konditsionery/pioneer/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Aurum",
+            "url": "/konditsionery/aurum/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Breeon",
+            "url": "/konditsionery/breeon/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Akai",
+            "url": "/konditsionery/akai/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "AURUS",
+            "url": "/konditsionery/aurus/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Kentatsu",
+            "url": "/konditsionery/kentatsu/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "IGC",
+            "url": "/konditsionery/igc/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Hitachi",
+            "url": "/konditsionery/hitachi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Viomi",
+            "url": "/konditsionery/viomi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Suzuki",
+            "url": "/konditsionery/suzuki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "TCL",
+            "url": "/konditsionery/tcl/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Daikin",
+            "url": "/konditsionery/daikin/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "DAICHI",
+            "url": "/konditsionery/daichi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Samsung",
+            "url": "/konditsionery/samsung/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Dantex",
+            "url": "/konditsionery/dantex/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Bosch",
+            "url": "/konditsionery/bosch/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Mitsubishi Heavy Industries",
+            "url": "/konditsionery/mitsubishi_heavy_industries/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Shivaki",
+            "url": "/konditsionery/shivaki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Primera",
+            "url": "/konditsionery/primera/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "HitAir",
+            "url": "/konditsionery/hitair/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Evapolar",
+            "url": "/konditsionery/evapolar/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Abion",
+            "url": "/konditsionery/abion/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Toshiba",
+            "url": "/konditsionery/toshiba/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Mitsubishi",
+            "url": "/konditsionery/mitsubishi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Zanussi",
+            "url": "/konditsionery/zanussi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Fujiplus",
+            "url": "/konditsionery/fujiplus/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Midea MSFRW-07N8C2 Favorite Inverter",
+        "url": "konditsioner-midea-msfrw-07n8c2-imsfr-07n8c2-o",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      }
+    ],
+    "isArchive": false,
+    "__typename": "ProductV2",
+    "isSberPayOneClickAllowed": false,
+    "isTinkoffPayOneClickAllowed": false,
+    "bonus": null
+  },
+  "details": {
+    "description": "<style> *{box-sizing:border-box;outline:0}body{font-family:'DINPro Technopark',Arial;font-size:14px;font-weight:400;font-display:swap;margin:0;overflow-x:hidden;position:relative;min-height:95vh;-webkit-tap-highlight-color:transparent}body.lock-scroll{overflow:hidden;position:fixed;right:0;left:0;bottom:0}@media (min-width:1192px){body.lock-scroll{position:relative}}@media screen and (max-device-width:480px){body{-webkit-text-size-adjust:none}}.label-for-seo{width:100%}.label-for-seo__span{display:none}a{color:#0093c4;text-decoration:none}.is-visible{display:block!important}.is-hidden{display:none!important}.is-visually-hidden{opacity:0!important;visibility:hidden!important;pointer-events:none!important}.is-link{color:#0093c4}.no-wrap{white-space:nowrap}.container{margin:auto;width:100%}@media (min-width:960px){.container{width:calc(100% - 48px)}}@media (min-width:1482px){.container{max-width:1397px}}.is-overflow-hidden{overflow:hidden}.is-mobile-not{display:none!important}@media (min-width:960px){.is-mobile-not{display:block!important}}@media (min-width:960px){.is-mobile-only{display:none!important}}@media (max-width:959px){.hide-phone{display:none}}@media (min-width:960px) and (max-width:1481px){.hide-tablet{display:none}}.is-hidden{display:none!important}.nowrap-text{white-space:nowrap}.textcenter{text-align:center}ul.list{margin:0;padding:6px 0 18px}@media (min-width:960px){ul.list{padding:6px 0 24px}}ul.list li{font-family:'DINPro Technopark',Arial;font-size:15px;font-weight:400;font-display:swap;color:#fff;line-height:20px;list-style:none;margin:0;padding-left:9px;position:relative}@media (min-width:960px){ul.list li{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:400;font-display:swap;line-height:21px;padding-left:26px}}ul.list>li:before{background-color:#fff;border-radius:50%;content:\"\";display:block;height:3px;left:0;position:absolute;top:10px;width:3px}@media (min-width:960px){ul.list>li:before{border-radius:0;height:1px;width:13px}}ul.list>li>ul{padding:6px 0 6px 15px}@media (min-width:960px){ul.list>li>ul{padding:3px 0 3px 4px}}ul.list>li>ul>li:before{background-color:rgba(255,255,255,.5)}ul.list>li>ul>li>ul{padding:6px 0 0 15px}@media (min-width:960px){ul.list>li>ul>li>ul{padding:3px 0 0 4px}}ul.list>li>ul>li>ul>li:before{background-color:rgba(255,255,255,.2)}ol.list{margin:0;padding:6px 0 18px;counter-reset:list1}@media (min-width:960px){ol.list{padding:6px 0 24px}}ol.list li{font-family:'DINPro Technopark',Arial;font-size:15px;font-weight:400;font-display:swap;color:#fff;line-height:20px;list-style:none;margin:0;padding-left:9px;position:relative}@media (min-width:960px){ol.list li{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:400;font-display:swap;line-height:21px;padding-left:26px}}ol.list>li{padding-left:24px}ol.list>li:before{counter-increment:list1;content:counter(list1) \". \";left:0;position:absolute}ol.list>li>ol{counter-reset:list2;padding:6px 0}@media (min-width:960px){ol.list>li>ol{padding:3px 0}}ol.list>li>ol>li{padding-left:42px}ol.list>li>ol>li:before{counter-increment:list2;content:counter(list1) \".\" counter(list2) \". \"}ol.list>li>ol>li>ol{counter-reset:list3}ol.list>li>ol>li>ol>li:before{counter-increment:list3;content:counter(list1) \".\" counter(list2) \".\" counter(list3) \". \"}ol.list--compact{padding:0}.list--line-interval li:not(:last-child){margin-bottom:1em}input::-ms-clear{display:none}input::-webkit-clear-button{display:none}@media (max-width:767px){.footer{padding-bottom:66px}}.page-container{margin:auto;padding:0 18px;width:100%}@media (min-width:960px){.page-container{padding:0 24px;width:100%}}@media (min-width:1482px){.page-container{width:1481px}}@media (min-width:960px){.page-container--extra-padding{padding:0 42px}}.default-container{width:100%;max-width:1481px;margin:auto;padding:0 12px}@media (min-width:960px){.default-container{padding:0 24px}}button,input,select,textarea{font-family:inherit;font-size:100%;margin:0}textarea{resize:none;overflow:auto}form{margin:0}button{color:inherit}dd,dl,dt{margin:0;padding:0}input[type=search]{-webkit-appearance:none}input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration,input[type=search]::-webkit-search-results-button,input[type=search]::-webkit-search-results-decoration{display:none}input:invalid{box-shadow:none}textarea:invalid{box-shadow:none}svg *{pointer-events:none}.product__desc{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:300;font-display:swap;color:#878787;display:none}.product__desc b{font-family:'DINPro Technopark',Arial;font-size:20px;font-weight:400;font-display:swap;color:#fff}.dyson-v10-picking,.dyson-v10-properties,.dyson-v10-wrapper,.dyson-v10-wrapper .dyson-v10__list span{color:#fff;padding:0 12px}@media (max-width:1154px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:170px}}@media (max-width:1100px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:270px}}@media (max-width:960px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:27px}}.dyson-v10-first-row li.dyson-v10-item{max-width:calc(100% / 3 - 10);padding-right:5px}@media (max-width:959px){.dyson-v10-first-row{flex-direction:column;align-items:flex-start}.dyson-v10-first-row li.dyson-v10-item{max-width:none}}@media (min-width:960px) and (max-width:1303px){.dyson-v10-first-row{flex-direction:column;align-items:flex-start}.dyson-v10-first-row li.dyson-v10-item{max-width:none}}.dyson-v10-chapter{text-align:center!important}.dyson-v10__list li.dyson-v10__list-item{background-size:contain;background-position:left} </style> <p>  Инверторная сплит-система Midea MSFRW-07N8C2 Favorite Inverter — это универсальное решение для комфортного климата в помещении до 20 м2: она эффективно охлаждает, обогревает и осушает воздух, автоматически поддерживая заданную температуру и обеспечивая стабильную работу при минимальном энергопотреблении. Благодаря встроенному Wi-Fi и поддержке приложения Daichi Comfort управление становится максимально удобным, а функции самоочистки, самодиагностики и тихая работа делают эксплуатацию простой и комфортной.  </p>  <h2>Особенности</h2>  <ul class=\"list\">  <li><b>Инверторная технология</b><br/>  Инверторная технология обеспечивает плавную регулировку мощности компрессора, позволяя кондиционеру точно поддерживать заданную температуру без резких перепадов. Это снижает энергопотребление, уменьшает уровень шума и продлевает срок службы устройства</li>  <li><b>Управление</b><br/>  Кондиционер оснащён удобным электронным управлением с интуитивно понятным пультом ДУ, позволяющим быстро настраивать температуру, режимы работы и направление воздушного потока</li>    <li><b>Режимы работы</b><br/>  Кондиционер поддерживает все основные режимы работы: охлаждение, обогрев, осушение и вентиляцию, позволяя поддерживать комфортный микроклимат в любое время года. Дополнительно предусмотрены автоматический и ночной режимы, которые самостоятельно регулируют параметры работы для экономии энергии и максимального комфорта</li>  <li><b>Функция самоочистки</b><br/>  Функция самоочистки автоматически удаляет влагу и загрязнения из внутреннего блока, предотвращая образование плесени и неприятных запахов  </li>  <li><b>Фильтры</b><br/>  Фильтр высокой плотности в сочетании с фильтром холодного катализа обеспечивает высокое качество очистки воздуха</li>  <li><b>Антикоррозионное покрытие Golden Fin</b><br/>  Антикоррозионное покрытие теплообменников выдерживает воздействие агрессивной среды, эффективно предотвращает размножение бактерий и повышает тепловую эффективность</li>  <li><b>2 варианта подключения</b><br/>  Присоединение соединительных трубопроводов и дренажного шланга может выполняться как с левой, так и с правой стороны внутреннего блока</li>  <li><b>Wi-Fi-контроллер</b><br/>  В комплект входит Wi-Fi-контроллер, позволяющий контролировать работу кондиционера с помощью смартфона через приложение Daichi Comfort</li>  <li><b>Поддержка голосовых ассистентов</b><br/>  Поддержка голосовых ассистентов Алиса, Маруся и Салют позволяет управлять кондиционером с помощью простых голосовых команд — можно включать и выключать устройство, менять температуру и переключать режимы</li>  </ul>",
+    "descriptionType": "DEFAULT",
+    "descriptionBarcode": "2401100067531",
+    "descriptionBrand": "Midea",
+    "specifications": {
+      "short": [
+        {
+          "name": "Тип",
+          "value": "сплит-система",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Площадь помещения",
+          "value": "20 кв.м",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Мощность в режиме охлаждения",
+          "value": "2.35 кВт",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Мощность в режиме обогрева",
+          "value": "2.43 кВт",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "barcode": "2401100067531",
+      "country": "Китай",
+      "full": [
+        {
+          "name": "Основные характеристики",
+          "list": [
+            {
+              "name": "Тип",
+              "value": "сплит-система",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Размещение внутреннего блока",
+              "value": "настенный",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Инверторная технология",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Площадь помещения",
+              "value": "20 кв.м",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип хладагента",
+              "value": "R-32",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Серия",
+              "value": "Favorite Inverter",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Производительность",
+          "list": [
+            {
+              "name": "Мощность в режиме охлаждения",
+              "value": "2.35 кВт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Мощность в режиме обогрева",
+              "value": "2.43 кВт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Расход воздуха внутреннего блока",
+              "value": "480 м3/ч",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Основные режимы",
+          "list": [
+            {
+              "name": "Охлаждение",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Обогрев",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Осушение воздуха",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автоматический режим",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вентиляция",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ночной режим",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Функции",
+          "list": [
+            {
+              "name": "Таймер включения",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Таймер выключения",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Авторестарт",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Самоочистка",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Самодиагностика неисправностей",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Турбо режим",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Регулировка воздушного потока",
+          "list": [
+            {
+              "name": "Регулировка силы воздушного потока",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Управление направлением воздушного потока (вверх/вниз)",
+              "value": "с пульта",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Управление направлением воздушного потока (влево/вправо)",
+              "value": "ручное",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Уровень шума",
+          "list": [
+            {
+              "name": "Максимальный уровень шума внутреннего блока",
+              "value": "35 дБ",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальный уровень шума внешнего блока",
+              "value": "52.5 дБ",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Фильтрация",
+          "list": [
+            {
+              "name": "Фильтр грубой очистки (сетчатый)",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Фотокаталитический фильтр",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Особенности",
+          "list": [
+            {
+              "name": "Тепловой насос",
+              "value": "нет",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Память позиции жалюзи",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Обнаружение утечки хладагента",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дополнительная информация",
+              "value": "2 варианта подключения",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Управление",
+          "list": [
+            {
+              "name": "Управление",
+              "value": "электронное, кнопочное",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Пульт ДУ",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Управление со смартфона",
+              "value": "да, подключение через Wi-Fi модуль",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Wi-Fi модуль",
+              "value": "в комплекте",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Поддержка приложений",
+              "value": "Daichi Comfort",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Голосовой ассистент",
+              "value": "Алиса, Маруся, Салют",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Дисплей",
+          "list": [
+            {
+              "name": "Тип дисплея",
+              "value": "LED",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Расположение дисплея",
+              "value": "корпус, пульт",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Индикация",
+          "list": [
+            {
+              "name": "Индикация включения",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация режима работы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация температуры",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация неисправности",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Температурный режим работы",
+          "list": [
+            {
+              "name": "Минимальная рабочая температура при охлаждении",
+              "value": "0  °C",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная рабочая температура при охлаждении",
+              "value": "50 °C",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Минимальная рабочая температура при обогреве",
+              "value": "-15 °C",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная рабочая температура при обогреве",
+              "value": "30 °C",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Фреоновые магистрали",
+          "list": [
+            {
+              "name": "Максимальный перепад высоты магистрали",
+              "value": "10 м",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная длина магистрали",
+              "value": "25 м",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Диаметр жидкостной трубы",
+              "value": "6.35 мм",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Диаметр газовой трубы",
+              "value": "9.52 мм",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Электропитание",
+          "list": [
+            {
+              "name": "Потребляемая мощность при охлаждении",
+              "value": "730 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Потребляемая мощность при обогреве",
+              "value": "670 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Класс энергоэффективности",
+              "value": "A",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Рабочий ток при охлаждении",
+              "value": "3.3 A",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Рабочий ток при обогреве",
+              "value": "3.4 A",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Рабочее напряжение",
+              "value": "220-240 B",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Рабочая частота",
+              "value": "50 Гц",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Корпус",
+          "list": [
+            {
+              "name": "Цвет",
+              "value": "белый",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет внешнего блока",
+              "value": "белый",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Антикоррозийное покрытие",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Комплектация",
+          "list": [
+            {
+              "name": "Пульт ДУ",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Инструкция",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Размеры и вес",
+          "list": [
+            {
+              "name": "Высота внутреннего блока",
+              "value": "28.5 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ширина внутреннего блока",
+              "value": "71.5 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Глубина внутреннего блока",
+              "value": "19.4 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вес внутреннего блока",
+              "value": "7.6 кг",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Высота внешнего блока",
+              "value": "46.9 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ширина внешнего блока",
+              "value": "66.8 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Глубина внешнего блока",
+              "value": "25.2 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вес внешнего блока",
+              "value": "18 кг",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        }
+      ],
+      "grossWeight": "28.6",
+      "netWeight": "25.6",
+      "height": "0.55",
+      "instructionUrl": "https://storage.yandexcloud.net/technopark.instructions/726997/instruction/instrukciya-konditsioner-midea-msfrw-07n8c2-imsfr-07n8c2-o.pdf",
+      "length": "0.8",
+      "schemeUrl": null,
+      "warranty": "36",
+      "width": "0.52",
+      "__typename": "ProductV2Specifications"
+    },
+    "certificates": ["https://www.technopark.ru/bipublic/Cert/IG0G14JNJSHV12.pdf"],
+    "isManufacturerCountry": false,
+    "isSellerWarranty": false,
+    "reviews": {
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "total": 1,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "rating": {
+      "average": 5,
+      "canRate": false,
+      "total": {
+        "all": 1,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 1,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "isLoading": false
+  },
+  "shots": [
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/726997/1_726997.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/726997/1_726997.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/726997/2_726997.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/726997/2_726997.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/726997/3_726997.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/726997/3_726997.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/726997/4_726997.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/726997/4_726997.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/726997/5_726997.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/726997/5_726997.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/726997/6_726997.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/726997/6_726997.jpg"
+    ]
+  ],
+  "photos": [
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/konditsioner-midea-msfrw-07n8c2-imsfr-07n8c2-o-1.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/konditsioner-midea-msfrw-07n8c2-imsfr-07n8c2-o-2.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/konditsioner-midea-msfrw-07n8c2-imsfr-07n8c2-o-3.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/konditsioner-midea-msfrw-07n8c2-imsfr-07n8c2-o-4.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/konditsioner-midea-msfrw-07n8c2-imsfr-07n8c2-o-5.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/konditsioner-midea-msfrw-07n8c2-imsfr-07n8c2-o-6.jpg"
+  ]
+}

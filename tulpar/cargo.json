@@ -1,0 +1,490 @@
+{
+  "clients": [
+    {
+      "key": "watt",
+      "shop": "demo7"
+    },
+    {
+      "key": "meerim",
+      "person": "meerim",
+      "combine": true
+    },
+    {
+      "key": "tilek",
+      "person": "tilek"
+    },
+    {
+      "key": "asel",
+      "person": "asel"
+    },
+    {
+      "key": "daniyar",
+      "person": "daniyar"
+    },
+    {
+      "key": "elina",
+      "person": "elina"
+    },
+    {
+      "key": "aigerim",
+      "person": "aigerim"
+    },
+    {
+      "key": "nurlan",
+      "person": "nurlan"
+    },
+    {
+      "key": "james",
+      "person": "james",
+      "combine": false
+    },
+    {
+      "key": "jyldyz",
+      "person": "jyldyz"
+    },
+    {
+      "key": "sanzhar",
+      "person": "sanzhar"
+    }
+  ],
+  "batches": [
+    {
+      "key": "arrived",
+      "taken": {
+        "days": 31,
+        "at": [
+          10,
+          20
+        ]
+      },
+      "parcels": [
+        {
+          "client": "watt",
+          "track": "SF1408836620517",
+          "note": "Чайники и кофеварки, 4 коробки",
+          "named": 34,
+          "box": {
+            "weight": 38.4,
+            "length": 620,
+            "width": 480,
+            "height": 450
+          },
+          "issued": {
+            "days": 8,
+            "at": [
+              11,
+              10
+            ]
+          },
+          "receipt": {
+            "days": 8,
+            "at": [
+              15,
+              40
+            ],
+            "note": "Карго из Гуанчжоу, принято по накладной поставщика",
+            "lines": [
+              {
+                "item": "chaynik-bork-k516",
+                "qty": 12
+              },
+              {
+                "item": "kofevarka-brayer-br1122",
+                "qty": 8
+              }
+            ]
+          }
+        },
+        {
+          "client": "daniyar",
+          "track": "YT2219047735260",
+          "note": "Тормозные колодки, 6 комплектов",
+          "named": 33,
+          "box": {
+            "weight": 21.5,
+            "length": 480,
+            "width": 360,
+            "height": 300
+          },
+          "issued": {
+            "days": 9,
+            "at": [
+              16,
+              30
+            ]
+          }
+        },
+        {
+          "client": "elina",
+          "track": "JT5007714429083",
+          "note": "Тканевые маски, 400 штук",
+          "named": 35,
+          "box": {
+            "weight": 14.2,
+            "length": 500,
+            "width": 400,
+            "height": 350
+          }
+        },
+        {
+          "client": "aigerim",
+          "track": "ZT7781120945536",
+          "note": "Постельное бельё, образцы",
+          "box": {
+            "weight": 9.8,
+            "length": 450,
+            "width": 350,
+            "height": 300
+          },
+          "code": true
+        },
+        {
+          "client": "james",
+          "track": "SF1408836711204",
+          "note": "Велосипедные покрышки и камеры",
+          "named": 32,
+          "box": {
+            "weight": 6.4,
+            "length": 700,
+            "width": 700,
+            "height": 120
+          }
+        }
+      ]
+    },
+    {
+      "key": "riding",
+      "taken": {
+        "days": 15,
+        "at": [
+          11,
+          5
+        ]
+      },
+      "parcels": [
+        {
+          "client": "watt",
+          "track": "SF1409920317746",
+          "note": "Микроволновые печи, 6 штук",
+          "named": 18,
+          "box": {
+            "weight": 72.0,
+            "length": 800,
+            "width": 600,
+            "height": 650
+          }
+        },
+        {
+          "client": "tilek",
+          "track": "YT2231865009471",
+          "note": "Наушники и пауэрбанк",
+          "named": 17,
+          "box": {
+            "weight": 1.3,
+            "length": 250,
+            "width": 180,
+            "height": 120
+          }
+        },
+        {
+          "client": "jyldyz",
+          "track": "JT5011230087619",
+          "note": "Стеклянные банки с крышками, 500 штук",
+          "named": 19,
+          "box": {
+            "weight": 46.0,
+            "length": 600,
+            "width": 500,
+            "height": 500
+          }
+        },
+        {
+          "client": "sanzhar",
+          "track": "ZT7790034418802",
+          "note": "Мебельная фурнитура: петли и направляющие",
+          "box": {
+            "weight": 33.5,
+            "length": 550,
+            "width": 400,
+            "height": 300
+          },
+          "code": true
+        }
+      ]
+    },
+    {
+      "key": "depot",
+      "taken": {
+        "days": 2,
+        "at": [
+          14,
+          40
+        ]
+      },
+      "parcels": [
+        {
+          "client": "meerim",
+          "track": "YT2240071193358",
+          "note": "Чехлы для телефонов",
+          "named": 6,
+          "box": {
+            "weight": 0.9,
+            "length": 250,
+            "width": 200,
+            "height": 80
+          },
+          "into": "meerim-box"
+        },
+        {
+          "client": "meerim",
+          "track": "YT2240071200914",
+          "note": "Зарядные кабели",
+          "named": 6,
+          "box": {
+            "weight": 1.1,
+            "length": 220,
+            "width": 180,
+            "height": 100
+          },
+          "into": "meerim-box"
+        },
+        {
+          "client": "meerim",
+          "track": "JT5015508842267",
+          "note": "Защитные стёкла",
+          "named": 5,
+          "box": {
+            "weight": 0.7,
+            "length": 200,
+            "width": 150,
+            "height": 60
+          },
+          "into": "meerim-box"
+        },
+        {
+          "client": "asel",
+          "track": "SF1411127750398",
+          "bought": true,
+          "box": {
+            "weight": 4.2,
+            "length": 400,
+            "width": 350,
+            "height": 350
+          }
+        },
+        {
+          "client": "nurlan",
+          "track": "YT2240135577042",
+          "note": "Кроссовки, две пары",
+          "named": 4,
+          "box": {
+            "weight": 2.6,
+            "length": 380,
+            "width": 300,
+            "height": 260
+          }
+        },
+        {
+          "track": "ZT7793318840075",
+          "note": "Без кода и без имени: на коробке только номер продавца",
+          "box": {
+            "weight": 3.1,
+            "length": 350,
+            "width": 300,
+            "height": 250
+          }
+        }
+      ]
+    }
+  ],
+  "boxes": [
+    {
+      "key": "meerim-box",
+      "days": 1,
+      "at": [
+        10,
+        30
+      ],
+      "note": "Три посылки в одну коробку, лишняя упаковка снята",
+      "box": {
+        "weight": 2.4,
+        "length": 300,
+        "width": 250,
+        "height": 200
+      }
+    }
+  ],
+  "waiting": [
+    {
+      "client": "watt",
+      "track": "SF1412250093614",
+      "note": "Пылесосы, 10 штук",
+      "named": 1
+    },
+    {
+      "client": "daniyar",
+      "track": "YT2247700216485",
+      "note": "Фильтры масляные, 40 штук",
+      "named": 2
+    },
+    {
+      "client": "elina",
+      "track": "JT5019942230751",
+      "note": "Сыворотки, 200 флаконов",
+      "named": 0
+    },
+    {
+      "client": "james",
+      "track": "SF1412250118830",
+      "note": "Bicycle saddle and pedals",
+      "named": 3
+    }
+  ],
+  "trips": [
+    {
+      "vehicle": "Shacman X3000, наёмная",
+      "driver": "Ли Вэй · +86 138 2271 4406",
+      "note": "Сборная фура до Кашгара, перегруз на кыргызскую машину.",
+      "planned": 30,
+      "stops": [
+        {
+          "place": 5
+        },
+        {
+          "where": "Кашгар"
+        }
+      ],
+      "batch": "arrived",
+      "said": [
+        {
+          "kind": "departed",
+          "days": 29,
+          "at": [
+            8,
+            0
+          ]
+        },
+        {
+          "kind": "arrived",
+          "days": 21,
+          "at": [
+            16,
+            30
+          ]
+        }
+      ]
+    },
+    {
+      "vehicle": "isuzu",
+      "driver": "ruslan",
+      "note": "Кашгар — Бишкек через Торугарт.",
+      "planned": 21,
+      "stops": [
+        {
+          "where": "Кашгар"
+        },
+        {
+          "place": 1
+        }
+      ],
+      "batch": "arrived",
+      "said": [
+        {
+          "kind": "departed",
+          "days": 20,
+          "at": [
+            7,
+            30
+          ]
+        },
+        {
+          "kind": "border",
+          "days": 19,
+          "at": [
+            13,
+            0
+          ],
+          "where": "КПП Торугарт",
+          "note": "Перевал открыт, таможня прошла за день."
+        },
+        {
+          "kind": "arrived",
+          "days": 11,
+          "at": [
+            18,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "vehicle": "Shacman X3000, наёмная",
+      "driver": "Ли Вэй · +86 138 2271 4406",
+      "note": "Сборная фура до Кашгара.",
+      "planned": 14,
+      "stops": [
+        {
+          "place": 5
+        },
+        {
+          "where": "Кашгар"
+        }
+      ],
+      "batch": "riding",
+      "said": [
+        {
+          "kind": "departed",
+          "days": 13,
+          "at": [
+            8,
+            0
+          ]
+        },
+        {
+          "kind": "arrived",
+          "days": 5,
+          "at": [
+            15,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "vehicle": "isuzu",
+      "driver": "ruslan",
+      "note": "Кашгар — Бишкек через Торугарт.",
+      "planned": 5,
+      "stops": [
+        {
+          "where": "Кашгар"
+        },
+        {
+          "place": 1
+        }
+      ],
+      "batch": "riding",
+      "arrives": -4,
+      "said": [
+        {
+          "kind": "departed",
+          "days": 4,
+          "at": [
+            7,
+            30
+          ]
+        },
+        {
+          "kind": "border",
+          "days": 3,
+          "at": [
+            12,
+            20
+          ],
+          "where": "КПП Торугарт",
+          "note": "Стоим в очереди на досмотр, перед нами одиннадцать машин."
+        }
+      ]
+    }
+  ]
+}

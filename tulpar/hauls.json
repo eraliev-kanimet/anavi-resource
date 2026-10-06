@@ -1,0 +1,257 @@
+{
+  "fleet": {
+    "vehicles": [
+      {
+        "key": "isuzu",
+        "name": "Isuzu Forward, тент",
+        "plate": "01KG 418 ABT",
+        "payload": 5000,
+        "volume": 32000
+      },
+      {
+        "key": "sprinter",
+        "name": "Mercedes Sprinter, фургон",
+        "plate": "01KG 772 ACM",
+        "payload": 1400,
+        "volume": 11000
+      },
+      {
+        "key": "porter",
+        "name": "Hyundai Porter, борт",
+        "plate": "01KG 205 ADK",
+        "payload": 1000,
+        "volume": 6500
+      }
+    ],
+    "drivers": [
+      {
+        "key": "taalai",
+        "name": "Таалай Орозбеков",
+        "phone": "+996 555 318 204"
+      },
+      {
+        "key": "ruslan",
+        "name": "Руслан Мамбетов",
+        "phone": "+996 700 641 933"
+      }
+    ]
+  },
+  "relocations": [
+    {
+      "key": "hanako-tashkent",
+      "shop": "demo1",
+      "from": 1,
+      "to": 5,
+      "route": "bishkek-tashkent",
+      "note": "Пополнение ташкентского склада перед сезоном. Четыре коробки по двенадцать канистр, пломбы на каждой.",
+      "lines": [
+        {
+          "item": "5w-30-sp-cf",
+          "pick": 1,
+          "qty": 12
+        },
+        {
+          "item": "hybrid-0w-20",
+          "pick": 1,
+          "qty": 12
+        },
+        {
+          "item": "5w-40-sp-cf",
+          "pick": 1,
+          "qty": 24,
+          "received": 23
+        }
+      ],
+      "boxes": [
+        {
+          "weight": 44.5,
+          "length": 600,
+          "width": 400,
+          "height": 320
+        },
+        {
+          "weight": 44.5,
+          "length": 600,
+          "width": 400,
+          "height": 320
+        },
+        {
+          "weight": 44.2,
+          "length": 600,
+          "width": 400,
+          "height": 320
+        },
+        {
+          "weight": 44.2,
+          "length": 600,
+          "width": 400,
+          "height": 320
+        }
+      ],
+      "claim": {
+        "kind": "loss",
+        "amount": 3200,
+        "note": "При приёмке в Ташкенте в четвёртой коробке одиннадцать канистр 5W-40 вместо двенадцати, пломба сорвана. Отправитель просит стоимость канистры."
+      }
+    }
+  ],
+  "trips": [
+    {
+      "vehicle": "sprinter",
+      "driver": "ruslan",
+      "note": "Регулярный на юг: Ош и обратно порожняком до Джалал-Абада.",
+      "planned": 31,
+      "stops": [
+        {
+          "place": 1
+        },
+        {
+          "place": 4
+        }
+      ],
+      "loads": [
+        {
+          "ride": "saima-osh-first",
+          "stop": 2,
+          "delivered": "Бутик получил партию, пересчитали при водителе"
+        }
+      ],
+      "collected": {
+        "days": 30,
+        "at": [
+          16,
+          0
+        ]
+      },
+      "said": [
+        {
+          "kind": "departed",
+          "days": 29,
+          "at": [
+            7,
+            0
+          ]
+        },
+        {
+          "kind": "arrived",
+          "days": 29,
+          "at": [
+            19,
+            10
+          ]
+        }
+      ],
+      "handed": {
+        "days": 28,
+        "at": [
+          11,
+          0
+        ]
+      }
+    },
+    {
+      "vehicle": "isuzu",
+      "driver": "taalai",
+      "note": "Сборный на юг и в Ташкент. В Оше выгрузка и ночёвка, граница через Достук.",
+      "planned": 7,
+      "stops": [
+        {
+          "place": 1
+        },
+        {
+          "place": 4
+        },
+        {
+          "where": "Ташкент"
+        }
+      ],
+      "loads": [
+        {
+          "ride": "saima-osh",
+          "stop": 2,
+          "left": {
+            "boxes": 1,
+            "reason": "not_found"
+          }
+        },
+        {
+          "ride": "hanako-tashkent",
+          "stop": 3
+        }
+      ],
+      "collected": {
+        "days": 7,
+        "at": [
+          17,
+          30
+        ]
+      },
+      "said": [
+        {
+          "kind": "departed",
+          "days": 6,
+          "at": [
+            7,
+            10
+          ],
+          "note": "Выехали с опозданием на сорок минут: ждали пломбы на масло."
+        },
+        {
+          "kind": "arrived",
+          "days": 6,
+          "at": [
+            19,
+            40
+          ]
+        },
+        {
+          "kind": "departed",
+          "days": 5,
+          "at": [
+            8,
+            0
+          ]
+        },
+        {
+          "kind": "border",
+          "days": 5,
+          "at": [
+            10,
+            30
+          ],
+          "where": "КПП Достук",
+          "note": "Очередь два часа, досмотр без замечаний."
+        },
+        {
+          "kind": "arrived",
+          "days": 5,
+          "at": [
+            17,
+            20
+          ]
+        }
+      ],
+      "handed": {
+        "days": 4,
+        "at": [
+          10,
+          15
+        ]
+      },
+      "counted": {
+        "days": 4,
+        "at": [
+          11,
+          40
+        ]
+      },
+      "claimed": {
+        "days": 4,
+        "at": [
+          15,
+          0
+        ]
+      }
+    }
+  ]
+}

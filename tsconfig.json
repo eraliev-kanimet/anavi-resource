@@ -1,0 +1,36 @@
+{
+  "compilerOptions": {
+    "lib": ["ESNext"],
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleDetection": "force",
+    "moduleResolution": "bundler",
+    "allowImportingTsExtensions": true,
+    "verbatimModuleSyntax": true,
+    "noEmit": true,
+
+    "strict": true,
+    "noUncheckedIndexedAccess": true,
+    "noImplicitOverride": true,
+    "noFallthroughCasesInSwitch": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "forceConsistentCasingInFileNames": true,
+
+    "types": ["bun"],
+
+    "paths": {
+      "@anavi/backend/*": ["../anavi/code/backend/*"],
+      "@anavi/shared": ["../anavi/code/shared/src/index.ts"],
+      "@/*": ["../anavi/code/backend/src/*"]
+    }
+  },
+  "include": ["seed/**/*.ts", "watt/source/**/*.ts"],
+  "exclude": ["node_modules"]
+}

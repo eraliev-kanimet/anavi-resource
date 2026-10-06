@@ -1,0 +1,6287 @@
+{
+  "holodilniki-tip/value/french-door": {
+    "ru": "French Door",
+    "en": "French Door",
+    "ar": "French Door"
+  },
+  "holodilniki-tip/value/holodilnik-s-morozilnoy-kameroy": {
+    "ru": "холодильник с морозильной камерой",
+    "en": "refrigerator with freezer",
+    "ar": "ثلاجة مع مجمد"
+  },
+  "holodilniki-tip/value/cross-door": {
+    "ru": "Cross Door",
+    "en": "Cross Door",
+    "ar": "Cross Door"
+  },
+  "holodilniki-tip/value/side-by-side": {
+    "ru": "Side by Side",
+    "en": "Side by Side",
+    "ar": "Side by Side"
+  },
+  "holodilniki-tip/value/klimaticheskiy-shkaf": {
+    "ru": "климатический шкаф",
+    "en": "climate cabinet",
+    "ar": "خزانة مناخية"
+  },
+  "holodilniki-tip/name": {
+    "ru": "Тип",
+    "en": "Type",
+    "ar": "النوع"
+  },
+  "plity-tip/value/kombinirovannaya": {
+    "ru": "комбинированная",
+    "en": "combined",
+    "ar": "مدمجة"
+  },
+  "plity-tip/value/elektricheskaya": {
+    "ru": "электрическая",
+    "en": "electric",
+    "ar": "كهربائية"
+  },
+  "plity-tip/name": {
+    "ru": "Тип",
+    "en": "Type",
+    "ar": "النوع"
+  },
+  "duhovye-shkafy-tip/value/elektricheskaya": {
+    "ru": "электрическая",
+    "en": "electric",
+    "ar": "كهربائية"
+  },
+  "duhovye-shkafy-tip/name": {
+    "ru": "Тип",
+    "en": "Type",
+    "ar": "النوع"
+  },
+  "mikrovolnovye-pechi-tip/value/otdelnostoyaschaya": {
+    "ru": "отдельностоящая",
+    "en": "freestanding",
+    "ar": "قائم بذاته"
+  },
+  "mikrovolnovye-pechi-tip/name": {
+    "ru": "Тип",
+    "en": "Type",
+    "ar": "النوع"
+  },
+  "kofemashiny-tip/value/kapelnaya": {
+    "ru": "капельная",
+    "en": "drip",
+    "ar": "بالتنقيط"
+  },
+  "kofemashiny-tip/value/rozhkovaya": {
+    "ru": "рожковая",
+    "en": "pump espresso / portafilter",
+    "ar": "إسبريسو بمقبض (بورتافيلتر)"
+  },
+  "kofemashiny-tip/value/elektroturka": {
+    "ru": "электротурка",
+    "en": "electric Turkish coffee maker",
+    "ar": "قهوة تركية كهربائية"
+  },
+  "kofemashiny-tip/name": {
+    "ru": "Тип",
+    "en": "Type",
+    "ar": "النوع"
+  },
+  "pylesosy-tip/value/vertikalnyy": {
+    "ru": "вертикальный",
+    "en": "upright / stick",
+    "ar": "عمودي"
+  },
+  "pylesosy-tip/value/avtomobilnyy": {
+    "ru": "автомобильный",
+    "en": "car vacuum",
+    "ar": "للسيارة"
+  },
+  "pylesosy-tip/value/s-konteynerom": {
+    "ru": "с контейнером",
+    "en": "with container",
+    "ar": "بحاوية"
+  },
+  "pylesosy-tip/value/robot": {
+    "ru": "робот",
+    "en": "robot",
+    "ar": "روبوت"
+  },
+  "pylesosy-tip/value/s-meshkom": {
+    "ru": "с мешком",
+    "en": "with bag",
+    "ar": "بكيس"
+  },
+  "pylesosy-tip/name": {
+    "ru": "Тип",
+    "en": "Type",
+    "ar": "النوع"
+  },
+  "konditsionery-tip/value/split-sistema": {
+    "ru": "сплит-система",
+    "en": "split system",
+    "ar": "نظام سبليت"
+  },
+  "konditsionery-tip/value/mobilnyy-kondicioner": {
+    "ru": "мобильный кондиционер",
+    "en": "portable air conditioner",
+    "ar": "مكيف متنقل"
+  },
+  "konditsionery-tip/name": {
+    "ru": "Тип",
+    "en": "Type",
+    "ar": "النوع"
+  },
+  "tip-ustanovki/value/otdelnostoyaschiy": {
+    "ru": "отдельностоящий",
+    "en": "freestanding",
+    "ar": "قائم بذاته"
+  },
+  "tip-ustanovki/name": {
+    "ru": "Тип установки",
+    "en": "Installation type",
+    "ar": "نوع التركيب"
+  },
+  "tip-kompressora/value/invertornyy": {
+    "ru": "инверторный",
+    "en": "inverter",
+    "ar": "إنفرتر (عاكس)"
+  },
+  "tip-kompressora/value/standartnyy": {
+    "ru": "стандартный",
+    "en": "standard",
+    "ar": "قياسي"
+  },
+  "tip-kompressora/name": {
+    "ru": "Тип компрессора",
+    "en": "Compressor type",
+    "ar": "نوع الضاغط"
+  },
+  "kolichestvo-kompressorov/name": {
+    "ru": "Количество компрессоров",
+    "en": "Compressor count",
+    "ar": "عدد الضواغط"
+  },
+  "kolichestvo-kamer/name": {
+    "ru": "Количество камер",
+    "en": "Compartment count",
+    "ar": "عدد الحجرات"
+  },
+  "obschiy-poleznyy-obem/name": {
+    "ru": "Общий полезный объем",
+    "en": "Total usable capacity",
+    "ar": "السعة الصافية الإجمالية"
+  },
+  "obschiy-poleznyy-obem/unit": {
+    "ru": "л",
+    "en": "L",
+    "ar": "لتر"
+  },
+  "obem-holodilnoy-kamery/name": {
+    "ru": "Объем холодильной камеры",
+    "en": "Fridge volume",
+    "ar": "سعة حجرة التبريد"
+  },
+  "obem-holodilnoy-kamery/unit": {
+    "ru": "л",
+    "en": "L",
+    "ar": "لتر"
+  },
+  "regulirovka-temperatury-v-holodilnoy-kamere/name": {
+    "ru": "Регулировка температуры в холодильной камере",
+    "en": "Fridge temperature regulation",
+    "ar": "ضبط درجة حرارة حجرة التبريد"
+  },
+  "ustanovka-temperatury/value/2-8-c": {
+    "ru": "2-8 °C",
+    "en": "2-8 °C",
+    "ar": "2-8 °C"
+  },
+  "ustanovka-temperatury/value/1-7-c": {
+    "ru": "1-7 °C",
+    "en": "1-7 °C",
+    "ar": "1-7 °C"
+  },
+  "ustanovka-temperatury/value/2-9-c": {
+    "ru": "2-9 °C",
+    "en": "2-9 °C",
+    "ar": "2-9 °C"
+  },
+  "ustanovka-temperatury/value/1-8-c": {
+    "ru": "1-8 °C",
+    "en": "1-8 °C",
+    "ar": "1-8 °C"
+  },
+  "ustanovka-temperatury/value/ot-2-do-9-c": {
+    "ru": "от 2 до 9 °C",
+    "en": "from 2 to 9 °C",
+    "ar": "من 2 إلى 9 °C"
+  },
+  "ustanovka-temperatury/value/3-9-c": {
+    "ru": "3-9 °C",
+    "en": "3-9 °C",
+    "ar": "3-9 °C"
+  },
+  "ustanovka-temperatury/value/1-9-c": {
+    "ru": "1-9 °C",
+    "en": "1-9 °C",
+    "ar": "1-9 °C"
+  },
+  "ustanovka-temperatury/value/2-6-c": {
+    "ru": "2-6 °C",
+    "en": "2-6 °C",
+    "ar": "2-6 °C"
+  },
+  "ustanovka-temperatury/value/4-8-c": {
+    "ru": "4-8 °C",
+    "en": "4-8 °C",
+    "ar": "4-8 °C"
+  },
+  "ustanovka-temperatury/value/ot-10-do-8-c": {
+    "ru": "от -10 до 8 °C",
+    "en": "from -10 to 8 °C",
+    "ar": "من -10 إلى 8 °C"
+  },
+  "ustanovka-temperatury/value/2": {
+    "ru": "2",
+    "en": "2",
+    "ar": "2"
+  },
+  "ustanovka-temperatury/value/4": {
+    "ru": "4",
+    "en": "4",
+    "ar": "4"
+  },
+  "ustanovka-temperatury/value/8-c": {
+    "ru": "8 °C",
+    "en": "8 °C",
+    "ar": "8 °C"
+  },
+  "ustanovka-temperatury/name": {
+    "ru": "Установка температуры",
+    "en": "Temperature setting",
+    "ar": "ضبط درجة الحرارة"
+  },
+  "kolichestvo-otdeleniy-v-holodilnoy-kamere/name": {
+    "ru": "Количество отделений в холодильной камере",
+    "en": "Fridge compartment count",
+    "ar": "عدد الأقسام في حجرة التبريد"
+  },
+  "razmorazhivanie-holodilnoy-kamery/value/no-frost": {
+    "ru": "No Frost",
+    "en": "No Frost",
+    "ar": "No Frost"
+  },
+  "razmorazhivanie-holodilnoy-kamery/value/avtomaticheskoe": {
+    "ru": "автоматическое",
+    "en": "automatic",
+    "ar": "تلقائي"
+  },
+  "razmorazhivanie-holodilnoy-kamery/name": {
+    "ru": "Размораживание холодильной камеры",
+    "en": "Fridge defrosting",
+    "ar": "إذابة الثلج في حجرة التبريد"
+  },
+  "obem-morozilnoy-kamery/name": {
+    "ru": "Объем морозильной камеры",
+    "en": "Freezer volume",
+    "ar": "سعة حجرة التجميد"
+  },
+  "obem-morozilnoy-kamery/unit": {
+    "ru": "л",
+    "en": "L",
+    "ar": "لتر"
+  },
+  "raspolozhenie-morozilnoy-kamery/value/snizu": {
+    "ru": "снизу",
+    "en": "bottom",
+    "ar": "سفلي"
+  },
+  "raspolozhenie-morozilnoy-kamery/value/sleva": {
+    "ru": "слева",
+    "en": "left",
+    "ar": "يساري"
+  },
+  "raspolozhenie-morozilnoy-kamery/name": {
+    "ru": "Расположение морозильной камеры",
+    "en": "Freezer location",
+    "ar": "موضع حجرة التجميد"
+  },
+  "razmorazhivanie-morozilnoy-kamery/value/no-frost": {
+    "ru": "No Frost",
+    "en": "No Frost",
+    "ar": "No Frost"
+  },
+  "razmorazhivanie-morozilnoy-kamery/name": {
+    "ru": "Размораживание морозильной камеры",
+    "en": "Freezer defrosting",
+    "ar": "إذابة الثلج في حجرة التجميد"
+  },
+  "kolichestvo-otdeleniy-v-morozilnoy-kamere/name": {
+    "ru": "Количество отделений в морозильной камере",
+    "en": "Freezer compartment count",
+    "ar": "عدد الأقسام في حجرة التجميد"
+  },
+  "moschnost-zamorazhivaniya/name": {
+    "ru": "Мощность замораживания",
+    "en": "Freezing capacity",
+    "ar": "قدرة التجميد"
+  },
+  "moschnost-zamorazhivaniya/unit": {
+    "ru": "кг/сутки",
+    "en": "kg/24h",
+    "ar": "كجم/يوم"
+  },
+  "hranenie-produktov-pri-otklyuchenii-pitaniya/name": {
+    "ru": "Хранение продуктов при отключении питания",
+    "en": "Safe storage time during power cuts",
+    "ar": "مدة حفظ البرودة عند انقطاع الكهرباء"
+  },
+  "hranenie-produktov-pri-otklyuchenii-pitaniya/unit": {
+    "ru": "ч",
+    "en": "h",
+    "ar": "ساعة"
+  },
+  "regulirovka-temperatury-v-morozilnoy-kamere/name": {
+    "ru": "Регулировка температуры в морозильной камере",
+    "en": "Freezer temperature regulation",
+    "ar": "ضبط درجة حرارة حجرة التجميد"
+  },
+  "minimalnaya-temperatura-v-morozilnoy-kamere/name": {
+    "ru": "Минимальная температура в морозильной камере",
+    "en": "Minimum freezer temperature",
+    "ar": "الحد الأدنى لدرجة حرارة المجمد"
+  },
+  "minimalnaya-temperatura-v-morozilnoy-kamere/unit": {
+    "ru": "°C",
+    "en": "°C",
+    "ar": "°م"
+  },
+  "maksimalnaya-temperatura-v-morozilnoy-kamere/name": {
+    "ru": "Максимальная температура в морозильной камере",
+    "en": "Maximum freezer temperature",
+    "ar": "الحد الأقصى لدرجة حرارة المجمد"
+  },
+  "maksimalnaya-temperatura-v-morozilnoy-kamere/unit": {
+    "ru": "°C",
+    "en": "°C",
+    "ar": "°م"
+  },
+  "zona-svezhesti/name": {
+    "ru": "Зона свежести",
+    "en": "Freshness zone",
+    "ar": "منطقة النضارة"
+  },
+  "tip-zony-svezhesti/value/suhaya": {
+    "ru": "сухая",
+    "en": "dry",
+    "ar": "جافة"
+  },
+  "tip-zony-svezhesti/value/suhaya-vlazhnaya": {
+    "ru": "сухая + влажная",
+    "en": "dry + wet",
+    "ar": "جافة + رطبة"
+  },
+  "tip-zony-svezhesti/value/vlazhnaya": {
+    "ru": "влажная",
+    "en": "wet",
+    "ar": "رطبة"
+  },
+  "tip-zony-svezhesti/name": {
+    "ru": "Тип зоны свежести",
+    "en": "Fresh zone type",
+    "ar": "نوع منطقة النضارة"
+  },
+  "regulirovka-temperatury-v-zone-svezhesti/name": {
+    "ru": "Регулировка температуры в зоне свежести",
+    "en": "Fresh zone temperature regulation",
+    "ar": "ضبط درجة الحرارة في منطقة النضارة"
+  },
+  "tip-upravleniya/value/elektronnoe": {
+    "ru": "электронное",
+    "en": "electronic",
+    "ar": "إلكتروني"
+  },
+  "tip-upravleniya/value/mehanicheskoe": {
+    "ru": "механическое",
+    "en": "mechanical",
+    "ar": "ميكانيكي"
+  },
+  "tip-upravleniya/value/elektromehanicheskoe": {
+    "ru": "электромеханическое",
+    "en": "electromechanical",
+    "ar": "كهروميكانيكي"
+  },
+  "tip-upravleniya/value/sensornoe": {
+    "ru": "сенсорное",
+    "en": "touch",
+    "ar": "لمسي"
+  },
+  "tip-upravleniya/name": {
+    "ru": "Тип управления",
+    "en": "Control type",
+    "ar": "نوع التحكم"
+  },
+  "sposob-upravleniya/value/sensornyy": {
+    "ru": "сенсорный",
+    "en": "touch",
+    "ar": "لمسي"
+  },
+  "sposob-upravleniya/value/povorotnyy": {
+    "ru": "поворотный",
+    "en": "rotary",
+    "ar": "دوار"
+  },
+  "sposob-upravleniya/name": {
+    "ru": "Способ управления",
+    "en": "Control method",
+    "ar": "طريقة التحكم"
+  },
+  "raspolozhenie-paneli-upravleniya/value/na-dverce": {
+    "ru": "на дверце",
+    "en": "on door",
+    "ar": "على الباب"
+  },
+  "raspolozhenie-paneli-upravleniya/value/na-korpuse": {
+    "ru": "на корпусе",
+    "en": "on body",
+    "ar": "على الهيكل"
+  },
+  "raspolozhenie-paneli-upravleniya/value/v-kamere": {
+    "ru": "в камере",
+    "en": "in cavity",
+    "ar": "داخل الحجرة"
+  },
+  "raspolozhenie-paneli-upravleniya/name": {
+    "ru": "Расположение панели управления",
+    "en": "Control panel location",
+    "ar": "موضع لوحة التحكم"
+  },
+  "podderzhka-wi-fi/name": {
+    "ru": "Поддержка Wi-Fi",
+    "en": "Wi-Fi connectivity",
+    "ar": "اتصال Wi-Fi"
+  },
+  "upravlenie-c-mobilnogo-ustroystva/name": {
+    "ru": "Управление c мобильного устройства",
+    "en": "Mobile device control",
+    "ar": "التحكم عبر جهاز محمول"
+  },
+  "holodilniki-podderzhka-mobilnogo-prilozheniya/value/msmarthome": {
+    "ru": "MSmartHome",
+    "en": "MSmartHome",
+    "ar": "MSmartHome"
+  },
+  "holodilniki-podderzhka-mobilnogo-prilozheniya/value/connectlife": {
+    "ru": "ConnectLife",
+    "en": "ConnectLife",
+    "ar": "ConnectLife"
+  },
+  "holodilniki-podderzhka-mobilnogo-prilozheniya/value/lg-thinq": {
+    "ru": "LG ThinQ",
+    "en": "LG ThinQ",
+    "ar": "LG ThinQ"
+  },
+  "holodilniki-podderzhka-mobilnogo-prilozheniya/value/connectlife-trir": {
+    "ru": "ConnectLife.TRIR",
+    "en": "ConnectLife.TRIR",
+    "ar": "ConnectLife.TRIR"
+  },
+  "holodilniki-podderzhka-mobilnogo-prilozheniya/value/tsmartlife": {
+    "ru": "TSmartLife",
+    "en": "TSmartLife",
+    "ar": "TSmartLife"
+  },
+  "holodilniki-podderzhka-mobilnogo-prilozheniya/name": {
+    "ru": "Поддержка мобильного приложения",
+    "en": "Mobile app support",
+    "ar": "التحكم عبر تطبيق الهاتف"
+  },
+  "stiralnye-mashiny-podderzhka-mobilnogo-prilozheniya/value/roborock": {
+    "ru": "Roborock",
+    "en": "Roborock",
+    "ar": "Roborock"
+  },
+  "stiralnye-mashiny-podderzhka-mobilnogo-prilozheniya/value/tsmartlife": {
+    "ru": "TSmartLife",
+    "en": "TSmartLife",
+    "ar": "TSmartLife"
+  },
+  "stiralnye-mashiny-podderzhka-mobilnogo-prilozheniya/value/smartthings": {
+    "ru": "SmartThings",
+    "en": "SmartThings",
+    "ar": "SmartThings"
+  },
+  "stiralnye-mashiny-podderzhka-mobilnogo-prilozheniya/value/lg-thinq": {
+    "ru": "LG ThinQ",
+    "en": "LG ThinQ",
+    "ar": "LG ThinQ"
+  },
+  "stiralnye-mashiny-podderzhka-mobilnogo-prilozheniya/value/smarthome": {
+    "ru": "SmartHome",
+    "en": "SmartHome",
+    "ar": "SmartHome"
+  },
+  "stiralnye-mashiny-podderzhka-mobilnogo-prilozheniya/value/smart-diagnosis": {
+    "ru": "Smart Diagnosis",
+    "en": "Smart Diagnosis",
+    "ar": "Smart Diagnosis"
+  },
+  "stiralnye-mashiny-podderzhka-mobilnogo-prilozheniya/value/miele-home": {
+    "ru": "Miele@home",
+    "en": "Miele@home",
+    "ar": "Miele@home"
+  },
+  "stiralnye-mashiny-podderzhka-mobilnogo-prilozheniya/value/connectlife-trir": {
+    "ru": "ConnectLife.TRIR",
+    "en": "ConnectLife.TRIR",
+    "ar": "ConnectLife.TRIR"
+  },
+  "stiralnye-mashiny-podderzhka-mobilnogo-prilozheniya/value/dreame": {
+    "ru": "Dreame",
+    "en": "Dreame",
+    "ar": "Dreame"
+  },
+  "stiralnye-mashiny-podderzhka-mobilnogo-prilozheniya/name": {
+    "ru": "Поддержка мобильного приложения",
+    "en": "Mobile app support",
+    "ar": "التحكم عبر تطبيق الهاتف"
+  },
+  "posudomoechnye-mashiny-podderzhka-mobilnogo-prilozheniya/value/tsmartlife": {
+    "ru": "TSmartLife",
+    "en": "TSmartLife",
+    "ar": "TSmartLife"
+  },
+  "posudomoechnye-mashiny-podderzhka-mobilnogo-prilozheniya/value/smarthome": {
+    "ru": "SmartHome",
+    "en": "SmartHome",
+    "ar": "SmartHome"
+  },
+  "posudomoechnye-mashiny-podderzhka-mobilnogo-prilozheniya/value/msmarthome": {
+    "ru": "MSmartHome",
+    "en": "MSmartHome",
+    "ar": "MSmartHome"
+  },
+  "posudomoechnye-mashiny-podderzhka-mobilnogo-prilozheniya/name": {
+    "ru": "Поддержка мобильного приложения",
+    "en": "Mobile app support",
+    "ar": "التحكم عبر تطبيق الهاتف"
+  },
+  "pylesosy-podderzhka-mobilnogo-prilozheniya/value/lg-thinq": {
+    "ru": "LG ThinQ",
+    "en": "LG ThinQ",
+    "ar": "LG ThinQ"
+  },
+  "pylesosy-podderzhka-mobilnogo-prilozheniya/value/roborock": {
+    "ru": "Roborock",
+    "en": "Roborock",
+    "ar": "Roborock"
+  },
+  "pylesosy-podderzhka-mobilnogo-prilozheniya/value/dreamehome": {
+    "ru": "Dreamehome",
+    "en": "Dreamehome",
+    "ar": "Dreamehome"
+  },
+  "pylesosy-podderzhka-mobilnogo-prilozheniya/value/tineco": {
+    "ru": "Tineco",
+    "en": "Tineco",
+    "ar": "Tineco"
+  },
+  "pylesosy-podderzhka-mobilnogo-prilozheniya/value/smartthings": {
+    "ru": "SmartThings",
+    "en": "SmartThings",
+    "ar": "SmartThings"
+  },
+  "pylesosy-podderzhka-mobilnogo-prilozheniya/value/qyron-smart": {
+    "ru": "QYRON Smart",
+    "en": "QYRON Smart",
+    "ar": "QYRON Smart"
+  },
+  "pylesosy-podderzhka-mobilnogo-prilozheniya/value/bork": {
+    "ru": "BORK",
+    "en": "BORK",
+    "ar": "BORK"
+  },
+  "pylesosy-podderzhka-mobilnogo-prilozheniya/name": {
+    "ru": "Поддержка мобильного приложения",
+    "en": "Mobile app support",
+    "ar": "التحكم عبر تطبيق الهاتف"
+  },
+  "holodilniki-displey/name": {
+    "ru": "Дисплей",
+    "en": "Display",
+    "ar": "الشاشة"
+  },
+  "kofemashiny-displey/name": {
+    "ru": "Дисплей",
+    "en": "Display",
+    "ar": "الشاشة"
+  },
+  "pylesosy-displey/value/cifrovoy": {
+    "ru": "цифровой",
+    "en": "digital",
+    "ar": "رقمية"
+  },
+  "pylesosy-displey/value/simvolnyy": {
+    "ru": "символьный",
+    "en": "symbolic",
+    "ar": "رمزية"
+  },
+  "pylesosy-displey/value/cvetnoy": {
+    "ru": "цветной",
+    "en": "color",
+    "ar": "ملونة"
+  },
+  "pylesosy-displey/value/sensornyy": {
+    "ru": "сенсорный",
+    "en": "touch",
+    "ar": "لمسي"
+  },
+  "pylesosy-displey/name": {
+    "ru": "Дисплей",
+    "en": "Display",
+    "ar": "الشاشة"
+  },
+  "tip-displeya/value/led": {
+    "ru": "LED",
+    "en": "LED",
+    "ar": "LED"
+  },
+  "tip-displeya/value/lcd": {
+    "ru": "LCD",
+    "en": "LCD",
+    "ar": "LCD"
+  },
+  "tip-displeya/value/monohromnyy": {
+    "ru": "монохромный",
+    "en": "monochrome",
+    "ar": "أحادية اللون"
+  },
+  "tip-displeya/value/tft": {
+    "ru": "TFT",
+    "en": "TFT",
+    "ar": "TFT"
+  },
+  "tip-displeya/value/cifrovoy": {
+    "ru": "цифровой",
+    "en": "digital",
+    "ar": "رقمية"
+  },
+  "tip-displeya/value/sensornyy": {
+    "ru": "сенсорный",
+    "en": "touch",
+    "ar": "لمسي"
+  },
+  "tip-displeya/value/informacionnyy": {
+    "ru": "информационный",
+    "en": "informational",
+    "ar": "معلوماتية"
+  },
+  "tip-displeya/value/simvolnyy": {
+    "ru": "символьный",
+    "en": "symbolic",
+    "ar": "رمزية"
+  },
+  "tip-displeya/name": {
+    "ru": "Тип дисплея",
+    "en": "Display type",
+    "ar": "نوع الشاشة"
+  },
+  "vid-displeya/value/simvolnyy": {
+    "ru": "символьный",
+    "en": "symbolic",
+    "ar": "رمزية"
+  },
+  "vid-displeya/value/cifrovoy": {
+    "ru": "цифровой",
+    "en": "digital",
+    "ar": "رقمية"
+  },
+  "vid-displeya/name": {
+    "ru": "Вид дисплея",
+    "en": "Display type",
+    "ar": "شكل الشاشة"
+  },
+  "indikaciya-temperatury-morozilnoy-kamery/name": {
+    "ru": "Индикация температуры морозильной камеры",
+    "en": "Freezer temperature indication",
+    "ar": "مؤشر درجة حرارة المجمد"
+  },
+  "indikaciya-temperatury-holodilnoy-kamery/name": {
+    "ru": "Индикация температуры холодильной камеры",
+    "en": "Fridge temperature indication",
+    "ar": "مؤشر درجة حرارة حجرة التبريد"
+  },
+  "indikaciya-vklyucheniya/name": {
+    "ru": "Индикация включения",
+    "en": "Power indication",
+    "ar": "مؤشر التشغيل"
+  },
+  "indikaciya-rezhima-raboty/name": {
+    "ru": "Индикация режима работы",
+    "en": "Operating mode indication",
+    "ar": "مؤشر وضع العمل"
+  },
+  "indikaciya-otkrytoy-dveri/value/zvukovaya": {
+    "ru": "звуковая",
+    "en": "acoustic",
+    "ar": "صوتي"
+  },
+  "indikaciya-otkrytoy-dveri/value/vizualnaya": {
+    "ru": "визуальная",
+    "en": "visual",
+    "ar": "مرئي"
+  },
+  "indikaciya-otkrytoy-dveri/name": {
+    "ru": "Индикация открытой двери",
+    "en": "Door open indication",
+    "ar": "مؤشر الباب المفتوح"
+  },
+  "napryazhenie/value/220-240-b": {
+    "ru": "220-240 B",
+    "en": "220-240 V",
+    "ar": "220-240 فولت"
+  },
+  "napryazhenie/value/220-v": {
+    "ru": "220 В",
+    "en": "220 V",
+    "ar": "220 فولت"
+  },
+  "napryazhenie/value/220-240-v": {
+    "ru": "220-240 В",
+    "en": "220-240 V",
+    "ar": "220-240 فولت"
+  },
+  "napryazhenie/value/220-240-v-v": {
+    "ru": "220-240 В В",
+    "en": "220-240 V",
+    "ar": "220-240 فولت"
+  },
+  "napryazhenie/name": {
+    "ru": "Напряжение",
+    "en": "Voltage",
+    "ar": "الجهد الكهربائي"
+  },
+  "dlina-setevogo-shnura/name": {
+    "ru": "Длина сетевого шнура",
+    "en": "Power cord length",
+    "ar": "طول سلك الطاقة"
+  },
+  "dlina-setevogo-shnura/unit": {
+    "ru": "м",
+    "en": "m",
+    "ar": "م"
+  },
+  "klass-energopotrebleniya/value/a": {
+    "ru": "A+",
+    "en": "A+",
+    "ar": "A+"
+  },
+  "klass-energopotrebleniya/value/a-2": {
+    "ru": "A++",
+    "en": "A++",
+    "ar": "A++"
+  },
+  "klass-energopotrebleniya/value/a-3": {
+    "ru": "A",
+    "en": "A",
+    "ar": "A"
+  },
+  "klass-energopotrebleniya/value/b": {
+    "ru": "B",
+    "en": "B",
+    "ar": "B"
+  },
+  "klass-energopotrebleniya/value/e": {
+    "ru": "E",
+    "en": "E",
+    "ar": "E"
+  },
+  "klass-energopotrebleniya/value/a-4": {
+    "ru": "A+++",
+    "en": "A+++",
+    "ar": "A+++"
+  },
+  "klass-energopotrebleniya/value/d": {
+    "ru": "D",
+    "en": "D",
+    "ar": "D"
+  },
+  "klass-energopotrebleniya/name": {
+    "ru": "Класс энергопотребления",
+    "en": "Energy efficiency class",
+    "ar": "فئة كفاءة الطاقة"
+  },
+  "energopotreblenie/name": {
+    "ru": "Энергопотребление",
+    "en": "Energy consumption",
+    "ar": "استهلاك الطاقة السنوي"
+  },
+  "energopotreblenie/unit": {
+    "ru": "кВтч/год",
+    "en": "kWh/year",
+    "ar": "كيلوواط·ساعة/سنة"
+  },
+  "klimaticheskiy-klass/value/t": {
+    "ru": "T",
+    "en": "T",
+    "ar": "T"
+  },
+  "klimaticheskiy-klass/value/sn-n-st-t": {
+    "ru": "SN-N-ST-T",
+    "en": "SN-N-ST-T",
+    "ar": "SN-N-ST-T"
+  },
+  "klimaticheskiy-klass/value/sn-st": {
+    "ru": "SN-ST",
+    "en": "SN-ST",
+    "ar": "SN-ST"
+  },
+  "klimaticheskiy-klass/value/sn-t": {
+    "ru": "SN-T",
+    "en": "SN-T",
+    "ar": "SN-T"
+  },
+  "klimaticheskiy-klass/value/st": {
+    "ru": "ST",
+    "en": "ST",
+    "ar": "ST"
+  },
+  "klimaticheskiy-klass/value/n-st-t": {
+    "ru": "N-ST-T",
+    "en": "N-ST-T",
+    "ar": "N-ST-T"
+  },
+  "klimaticheskiy-klass/value/sn-n-st": {
+    "ru": "SN-N-ST",
+    "en": "SN-N-ST",
+    "ar": "SN-N-ST"
+  },
+  "klimaticheskiy-klass/value/n-st": {
+    "ru": "N-ST",
+    "en": "N-ST",
+    "ar": "N-ST"
+  },
+  "klimaticheskiy-klass/name": {
+    "ru": "Климатический класс",
+    "en": "Climate class",
+    "ar": "الفئة المناخية"
+  },
+  "uroven-shuma/name": {
+    "ru": "Уровень шума",
+    "en": "Noise level",
+    "ar": "مستوى الضجيج"
+  },
+  "uroven-shuma/unit": {
+    "ru": "дБ",
+    "en": "dB",
+    "ar": "ديسيبل"
+  },
+  "tip-signalizacii/value/akusticheskiy": {
+    "ru": "акустический",
+    "en": "acoustic",
+    "ar": "صوتي"
+  },
+  "tip-signalizacii/value/opticheskiy": {
+    "ru": "оптический",
+    "en": "optical",
+    "ar": "ضوئي"
+  },
+  "tip-signalizacii/name": {
+    "ru": "Тип сигнализации",
+    "en": "Alarm type",
+    "ar": "نوع التنبيه"
+  },
+  "signalizaciya-ob-otkrytoy-dveri/name": {
+    "ru": "Сигнализация об открытой двери",
+    "en": "Door open alarm",
+    "ar": "إنذار فتح الباب"
+  },
+  "zaschita-ot-detey/name": {
+    "ru": "Защита от детей",
+    "en": "Child lock",
+    "ar": "قفل الأمان للأطفال"
+  },
+  "osveschenie-holodilnoy-kamery/name": {
+    "ru": "Освещение холодильной камеры",
+    "en": "Fridge compartment lighting",
+    "ar": "إضاءة حجرة التبريد"
+  },
+  "tip-osvescheniya/value/svetodiodnoe-led": {
+    "ru": "светодиодное (LED)",
+    "en": "LED",
+    "ar": "LED"
+  },
+  "tip-osvescheniya/value/galogennaya-lampa": {
+    "ru": "галогенная лампа",
+    "en": "halogen lamp",
+    "ar": "مصباح هالوجين"
+  },
+  "tip-osvescheniya/value/lampa-nakalivaniya": {
+    "ru": "лампа накаливания",
+    "en": "incandescent lamp",
+    "ar": "مصباح متوهج"
+  },
+  "tip-osvescheniya/name": {
+    "ru": "Тип освещения",
+    "en": "Lighting type",
+    "ar": "نوع الإضاءة"
+  },
+  "kolichestvo-lamp-osvescheniya/name": {
+    "ru": "Количество ламп освещения",
+    "en": "Lighting lamp count",
+    "ar": "عدد مصابيح الإضاءة"
+  },
+  "holodilniki-moschnost-odnoy-lampy/name": {
+    "ru": "Мощность одной лампы",
+    "en": "Single lamp power",
+    "ar": "قدرة المصباح الواحد"
+  },
+  "holodilniki-moschnost-odnoy-lampy/unit": {
+    "ru": "Вт",
+    "en": "W",
+    "ar": "واط"
+  },
+  "plity-moschnost-odnoy-lampy/name": {
+    "ru": "Мощность одной лампы",
+    "en": "Single lamp power",
+    "ar": "قدرة المصباح الواحد"
+  },
+  "plity-moschnost-odnoy-lampy/unit": {
+    "ru": "Вт",
+    "en": "W",
+    "ar": "واط"
+  },
+  "duhovye-shkafy-moschnost-odnoy-lampy/value/25-vt": {
+    "ru": "25 Вт",
+    "en": "25 W",
+    "ar": "25 واط"
+  },
+  "duhovye-shkafy-moschnost-odnoy-lampy/value/40-vt": {
+    "ru": "40 Вт",
+    "en": "40 W",
+    "ar": "40 واط"
+  },
+  "duhovye-shkafy-moschnost-odnoy-lampy/value/5-vt": {
+    "ru": "5 Вт",
+    "en": "5 W",
+    "ar": "5 واط"
+  },
+  "duhovye-shkafy-moschnost-odnoy-lampy/value/40-43-vt": {
+    "ru": "40-43 Вт",
+    "en": "40-43 W",
+    "ar": "40-43 واط"
+  },
+  "duhovye-shkafy-moschnost-odnoy-lampy/name": {
+    "ru": "Мощность одной лампы",
+    "en": "Single lamp power",
+    "ar": "قدرة المصباح الواحد"
+  },
+  "superzamorozka/name": {
+    "ru": "Суперзаморозка",
+    "en": "Super freeze",
+    "ar": "التجميد السريع (Super Freeze)"
+  },
+  "nezavisimaya-regulirovka-temperatury-v-kamerah/name": {
+    "ru": "Независимая регулировка температуры в камерах",
+    "en": "Independent compartment temperature control",
+    "ar": "ضبط مستقل لحرارة الحجرات"
+  },
+  "superohlazhdenie/name": {
+    "ru": "Суперохлаждение",
+    "en": "Super cool",
+    "ar": "التبريد السريع (Super Cool)"
+  },
+  "rezhim-otpusk/name": {
+    "ru": "Режим «Отпуск»",
+    "en": "Holiday mode",
+    "ar": "وضع العطلة (Holiday Mode)"
+  },
+  "dopolnitelnaya-informaciya/name": {
+    "ru": "Дополнительная информация",
+    "en": "Additional information",
+    "ar": "معلومات إضافية"
+  },
+  "kolichestvo-dverey/name": {
+    "ru": "Количество дверей",
+    "en": "Door count",
+    "ar": "عدد الأبواب"
+  },
+  "otkrytie-dvercy/value/nalevo": {
+    "ru": "налево",
+    "en": "left",
+    "ar": "يسار"
+  },
+  "otkrytie-dvercy/value/napravo": {
+    "ru": "направо",
+    "en": "right",
+    "ar": "يمين"
+  },
+  "otkrytie-dvercy/value/vpered": {
+    "ru": "вперед",
+    "en": "forward",
+    "ar": "للأمام"
+  },
+  "otkrytie-dvercy/name": {
+    "ru": "Открытие дверцы",
+    "en": "Door opening",
+    "ar": "اتجاه فتح الباب"
+  },
+  "kolichestvo-polok-v-holodilnoy-kamere/name": {
+    "ru": "Количество полок в холодильной камере",
+    "en": "Fridge shelf count",
+    "ar": "عدد أرفف حجرة التبريد"
+  },
+  "reguliruemye-po-vysote-polki-v-holodilnoy-kamere/name": {
+    "ru": "Регулируемые по высоте полки в холодильной камере",
+    "en": "Height-adjustable fridge shelves",
+    "ar": "أرفف قابلة لتعديل الارتفاع في التبريد"
+  },
+  "kolichestvo-polok-na-dverce-holodilnoy-kamery/name": {
+    "ru": "Количество полок на дверце холодильной камеры",
+    "en": "Fridge door shelf count",
+    "ar": "عدد أرفف باب الثلاجة"
+  },
+  "kolichestvo-konteynerov-v-morozilnoy-kamere/name": {
+    "ru": "Количество контейнеров в морозильной камере",
+    "en": "Freezer container count",
+    "ar": "عدد أدراج المجمد"
+  },
+  "kolichestvo-konteynerov-v-zone-svezhesti/name": {
+    "ru": "Количество контейнеров в зоне свежести",
+    "en": "Fresh zone container count",
+    "ar": "عدد أدراج منطقة النضارة"
+  },
+  "cvet/value/grafit": {
+    "ru": "графит",
+    "en": "graphite",
+    "ar": "غرافيت"
+  },
+  "cvet/value/belyy": {
+    "ru": "белый",
+    "en": "white",
+    "ar": "أبيض"
+  },
+  "cvet/value/seryy": {
+    "ru": "серый",
+    "en": "gray",
+    "ar": "رمادي"
+  },
+  "cvet/value/bezhevyy": {
+    "ru": "бежевый",
+    "en": "beige",
+    "ar": "بيج"
+  },
+  "cvet/value/chernyy-steklo": {
+    "ru": "чёрный  / стекло",
+    "en": "black / glass",
+    "ar": "أسود / زجاج"
+  },
+  "cvet/value/serebristyy": {
+    "ru": "серебристый",
+    "en": "silver",
+    "ar": "فضي"
+  },
+  "cvet/value/chernyy": {
+    "ru": "чёрный",
+    "en": "black",
+    "ar": "أسود"
+  },
+  "cvet/value/siniy-steklo": {
+    "ru": "синий / стекло",
+    "en": "blue / glass",
+    "ar": "أزرق / زجاج"
+  },
+  "cvet/value/siniy": {
+    "ru": "синий",
+    "en": "blue",
+    "ar": "أزرق"
+  },
+  "cvet/value/antracit": {
+    "ru": "антрацит",
+    "en": "anthracite",
+    "ar": "أنثراسيت (رمادي داكن)"
+  },
+  "cvet/value/chernyy-2": {
+    "ru": "черный",
+    "en": "black",
+    "ar": "أسود"
+  },
+  "cvet/value/karbon": {
+    "ru": "карбон",
+    "en": "carbon",
+    "ar": "كربون"
+  },
+  "cvet/value/nerzhaveyuschaya-stal": {
+    "ru": "нержавеющая сталь",
+    "en": "stainless steel",
+    "ar": "ستانلس ستيل (فولاذ مقاوم للصدأ)"
+  },
+  "cvet/value/slonovaya-kost": {
+    "ru": "слоновая кость",
+    "en": "ivory",
+    "ar": "عاجي"
+  },
+  "cvet/value/greydzh": {
+    "ru": "грейдж",
+    "en": "greige",
+    "ar": "غريج (رمادي بيج)"
+  },
+  "cvet/value/rozovyy": {
+    "ru": "розовый",
+    "en": "pink",
+    "ar": "وردي"
+  },
+  "cvet/value/krasnyy": {
+    "ru": "красный",
+    "en": "red",
+    "ar": "أحمر"
+  },
+  "cvet/value/oranzhevyy": {
+    "ru": "оранжевый",
+    "en": "orange",
+    "ar": "برتقالي"
+  },
+  "cvet/value/zolotoy": {
+    "ru": "золотой",
+    "en": "gold",
+    "ar": "ذهبي"
+  },
+  "cvet/value/izumrudnyy": {
+    "ru": "изумрудный",
+    "en": "emerald green",
+    "ar": "زمردي"
+  },
+  "cvet/value/zheltyy": {
+    "ru": "жёлтый",
+    "en": "yellow",
+    "ar": "أصفر"
+  },
+  "cvet/name": {
+    "ru": "Цвет",
+    "en": "Color",
+    "ar": "اللون"
+  },
+  "cvet-polok/value/prozrachnyy": {
+    "ru": "прозрачный",
+    "en": "transparent",
+    "ar": "شفاف"
+  },
+  "cvet-polok/value/seryy": {
+    "ru": "серый",
+    "en": "gray",
+    "ar": "رمادي"
+  },
+  "cvet-polok/value/belyy": {
+    "ru": "белый",
+    "en": "white",
+    "ar": "أبيض"
+  },
+  "cvet-polok/value/serebristyy": {
+    "ru": "серебристый",
+    "en": "silver",
+    "ar": "فضي"
+  },
+  "cvet-polok/name": {
+    "ru": "Цвет полок",
+    "en": "Shelf color",
+    "ar": "لون الأرفف"
+  },
+  "cvet-yaschikov/value/seryy": {
+    "ru": "серый",
+    "en": "gray",
+    "ar": "رمادي"
+  },
+  "cvet-yaschikov/value/prozrachnyy": {
+    "ru": "прозрачный",
+    "en": "transparent",
+    "ar": "شفاف"
+  },
+  "cvet-yaschikov/value/belyy": {
+    "ru": "белый",
+    "en": "white",
+    "ar": "أبيض"
+  },
+  "cvet-yaschikov/value/serebristyy": {
+    "ru": "серебристый",
+    "en": "silver",
+    "ar": "فضي"
+  },
+  "cvet-yaschikov/name": {
+    "ru": "Цвет ящиков",
+    "en": "Drawer color",
+    "ar": "لون الأدراج"
+  },
+  "material-dveri/value/plastik": {
+    "ru": "пластик",
+    "en": "plastic",
+    "ar": "بلاستيك"
+  },
+  "material-dveri/value/metall": {
+    "ru": "металл",
+    "en": "metal",
+    "ar": "معدن"
+  },
+  "material-dveri/value/nerzhaveyuschaya-stal": {
+    "ru": "нержавеющая сталь",
+    "en": "stainless steel",
+    "ar": "ستانلس ستيل (فولاذ مقاوم للصدأ)"
+  },
+  "material-dveri/value/steklo": {
+    "ru": "стекло",
+    "en": "glass",
+    "ar": "زجاج"
+  },
+  "material-dveri/value/stal": {
+    "ru": "сталь",
+    "en": "steel",
+    "ar": "فولاذ"
+  },
+  "material-dveri/value/laminirovannaya-stal": {
+    "ru": "ламинированная сталь",
+    "en": "laminated steel",
+    "ar": "فولاذ مطلي"
+  },
+  "material-dveri/name": {
+    "ru": "Материал двери",
+    "en": "Door material",
+    "ar": "مادة الباب"
+  },
+  "material-polok/value/zakalennoe-steklo": {
+    "ru": "закалённое стекло",
+    "en": "tempered glass",
+    "ar": "زجاج مقسّى"
+  },
+  "material-polok/value/steklo": {
+    "ru": "стекло",
+    "en": "glass",
+    "ar": "زجاج"
+  },
+  "material-polok/name": {
+    "ru": "Материал полок",
+    "en": "Shelf material",
+    "ar": "مادة الأرفف"
+  },
+  "material-yaschikov/value/plastik": {
+    "ru": "пластик",
+    "en": "plastic",
+    "ar": "بلاستيك"
+  },
+  "material-yaschikov/value/steklo": {
+    "ru": "стекло",
+    "en": "glass",
+    "ar": "زجاج"
+  },
+  "material-yaschikov/name": {
+    "ru": "Материал ящиков",
+    "en": "Drawer material",
+    "ar": "مادة الأدراج"
+  },
+  "formochki-dlya-lda/name": {
+    "ru": "Формочки для льда",
+    "en": "Ice cube trays",
+    "ar": "قوالب الثلج"
+  },
+  "kolichestvo-formochek-dlya-lda/name": {
+    "ru": "Количество формочек для льда",
+    "en": "Ice tray count",
+    "ar": "عدد قوالب الثلج"
+  },
+  "podstavka-dlya-yaic/name": {
+    "ru": "Подставка для яиц",
+    "en": "Egg holder tray",
+    "ar": "حامل البيض"
+  },
+  "vysota/name": {
+    "ru": "Высота",
+    "en": "Height",
+    "ar": "الارتفاع"
+  },
+  "vysota/unit": {
+    "ru": "см",
+    "en": "cm",
+    "ar": "سم"
+  },
+  "shirina/name": {
+    "ru": "Ширина",
+    "en": "Width",
+    "ar": "العرض"
+  },
+  "shirina/unit": {
+    "ru": "см",
+    "en": "cm",
+    "ar": "سم"
+  },
+  "glubina/name": {
+    "ru": "Глубина",
+    "en": "Depth",
+    "ar": "العمق"
+  },
+  "glubina/unit": {
+    "ru": "см",
+    "en": "cm",
+    "ar": "سم"
+  },
+  "ves/name": {
+    "ru": "Вес",
+    "en": "Weight",
+    "ar": "الوزن"
+  },
+  "ves/unit": {
+    "ru": "кг",
+    "en": "kg",
+    "ar": "كجم"
+  },
+  "vstroennyy-ventilyator-dlya-raspredeleniya-tempe/name": {
+    "ru": "Встроенный вентилятор для распределения температуры",
+    "en": "Built-in circulation fan",
+    "ar": "مروحة تدوير هواء مدمجة"
+  },
+  "kolichestvo-konteynerov-v-holodilnoy-kamere/name": {
+    "ru": "Количество контейнеров в холодильной камере",
+    "en": "Fridge container count",
+    "ar": "عدد الحاويات في حجرة التبريد"
+  },
+  "material-bokovyh-stenok/value/metall": {
+    "ru": "металл",
+    "en": "metal",
+    "ar": "معدن"
+  },
+  "material-bokovyh-stenok/value/stal": {
+    "ru": "сталь",
+    "en": "steel",
+    "ar": "فولاذ"
+  },
+  "material-bokovyh-stenok/value/nerzhaveyuschaya-stal": {
+    "ru": "нержавеющая сталь",
+    "en": "stainless steel",
+    "ar": "ستانلس ستيل (فولاذ مقاوم للصدأ)"
+  },
+  "material-bokovyh-stenok/name": {
+    "ru": "Материал боковых стенок",
+    "en": "Side wall material",
+    "ar": "مادة الجدران الجانبية"
+  },
+  "regulirovka-vlazhnosti-v-zone-svezhesti/name": {
+    "ru": "Регулировка влажности в зоне свежести",
+    "en": "Fresh zone humidity regulation",
+    "ar": "تنظيم الرطوبة في منطقة النضارة"
+  },
+  "indikaciya-povysheniya-temperatury/value/vizualnaya": {
+    "ru": "визуальная",
+    "en": "visual",
+    "ar": "مرئي"
+  },
+  "indikaciya-povysheniya-temperatury/value/zvukovaya": {
+    "ru": "звуковая",
+    "en": "acoustic",
+    "ar": "صوتي"
+  },
+  "indikaciya-povysheniya-temperatury/name": {
+    "ru": "Индикация повышения температуры",
+    "en": "Temperature rise indication",
+    "ar": "مؤشر ارتفاع درجة الحرارة"
+  },
+  "rezhim-energosberezheniya/name": {
+    "ru": "Режим энергосбережения",
+    "en": "Energy saving mode",
+    "ar": "وضع توفير الطاقة"
+  },
+  "signalizaciya-o-povyshenii-temperatury/name": {
+    "ru": "Сигнализация о повышении температуры",
+    "en": "Temperature rise alarm",
+    "ar": "إنذار ارتفاع درجة الحرارة"
+  },
+  "samodiagnostika-neispravnostey/name": {
+    "ru": "Самодиагностика неисправностей",
+    "en": "Fault self-diagnosis",
+    "ar": "التشخيص الذاتي للأعطال"
+  },
+  "perenaveshivaemye-dveri/name": {
+    "ru": "Перенавешиваемые двери",
+    "en": "Reversible doors",
+    "ar": "أبواب قابلة لعكس الاتجاه"
+  },
+  "polka-dlya-vina/name": {
+    "ru": "Полка для вина",
+    "en": "Wine rack",
+    "ar": "رف للنبيذ"
+  },
+  "signalizaciya-o-neispravnosti/name": {
+    "ru": "Сигнализация о неисправности",
+    "en": "Malfunction alarm",
+    "ar": "إنذار الأعطال"
+  },
+  "cvet-indikacii/value/belyy": {
+    "ru": "белый",
+    "en": "white",
+    "ar": "أبيض"
+  },
+  "cvet-indikacii/value/goluboy": {
+    "ru": "голубой",
+    "en": "light blue",
+    "ar": "أزرق فاتح"
+  },
+  "cvet-indikacii/value/krasnyy": {
+    "ru": "красный",
+    "en": "red",
+    "ar": "أحمر"
+  },
+  "cvet-indikacii/name": {
+    "ru": "Цвет индикации",
+    "en": "Indicator light color",
+    "ar": "لون المؤشر"
+  },
+  "ustanovka/value/otdelnostoyaschaya": {
+    "ru": "отдельностоящая",
+    "en": "freestanding",
+    "ar": "قائم بذاته"
+  },
+  "ustanovka/name": {
+    "ru": "Установка",
+    "en": "Installation",
+    "ar": "التركيب"
+  },
+  "konstrukciya-stiralnoy-mashiny/value/polnorazmernaya": {
+    "ru": "полноразмерная",
+    "en": "full size",
+    "ar": "بحجم كامل"
+  },
+  "konstrukciya-stiralnoy-mashiny/value/uzkaya": {
+    "ru": "узкая",
+    "en": "slim",
+    "ar": "نحيفة (ضيقة)"
+  },
+  "konstrukciya-stiralnoy-mashiny/name": {
+    "ru": "Конструкция стиральной машины",
+    "en": "Washing machine design",
+    "ar": "تصميم الغسالة"
+  },
+  "kolichestvo-barabanov/name": {
+    "ru": "Количество барабанов",
+    "en": "Drum count",
+    "ar": "عدد الأسطوانات"
+  },
+  "tip-dvigatelya/value/invertornyy": {
+    "ru": "инверторный",
+    "en": "inverter",
+    "ar": "إنفرتر (عاكس)"
+  },
+  "tip-dvigatelya/value/kollektornyy": {
+    "ru": "коллекторный",
+    "en": "brushed motor",
+    "ar": "تقليدي (بفرش كربونية)"
+  },
+  "tip-dvigatelya/name": {
+    "ru": "Тип двигателя",
+    "en": "Motor type",
+    "ar": "نوع المحرك"
+  },
+  "tip-zagruzki/value/frontalnaya": {
+    "ru": "фронтальная",
+    "en": "front loading",
+    "ar": "تحميل أمامي"
+  },
+  "tip-zagruzki/name": {
+    "ru": "Тип загрузки",
+    "en": "Loading type",
+    "ar": "نوع التحميل"
+  },
+  "poverhnost-barabana/value/puzyrki": {
+    "ru": "пузырьки",
+    "en": "bubbles",
+    "ar": "فقاعات"
+  },
+  "poverhnost-barabana/value/soty": {
+    "ru": "соты",
+    "en": "honeycomb",
+    "ar": "خلية النحل"
+  },
+  "poverhnost-barabana/value/relefnaya": {
+    "ru": "рельефная",
+    "en": "embossed",
+    "ar": "بارزة"
+  },
+  "poverhnost-barabana/value/variodrum": {
+    "ru": "VarioDrum",
+    "en": "VarioDrum",
+    "ar": "VarioDrum"
+  },
+  "poverhnost-barabana/value/active-drum": {
+    "ru": "Active Drum",
+    "en": "Active Drum",
+    "ar": "Active Drum"
+  },
+  "poverhnost-barabana/value/swirl-drum": {
+    "ru": "Swirl Drum",
+    "en": "Swirl Drum",
+    "ar": "Swirl Drum"
+  },
+  "poverhnost-barabana/value/sapphire-drum": {
+    "ru": "Sapphire Drum",
+    "en": "Sapphire Drum",
+    "ar": "Sapphire Drum"
+  },
+  "poverhnost-barabana/value/brilliant-diamond-drum": {
+    "ru": "бриллиант (Diamond Drum)",
+    "en": "Diamond Drum",
+    "ar": "دايموند دروم (Diamond Drum)"
+  },
+  "poverhnost-barabana/value/swirl": {
+    "ru": "Swirl+",
+    "en": "Swirl+",
+    "ar": "Swirl+"
+  },
+  "poverhnost-barabana/value/infinitycare": {
+    "ru": "InfinityCare",
+    "en": "InfinityCare",
+    "ar": "InfinityCare"
+  },
+  "poverhnost-barabana/value/kapli": {
+    "ru": "капли",
+    "en": "droplets",
+    "ar": "قطرات"
+  },
+  "poverhnost-barabana/value/soft-drum": {
+    "ru": "Soft Drum",
+    "en": "Soft Drum",
+    "ar": "Soft Drum"
+  },
+  "poverhnost-barabana/name": {
+    "ru": "Поверхность барабана",
+    "en": "Drum surface structure",
+    "ar": "سطح الأسطوانة"
+  },
+  "maksimalnaya-zagruzka-belya/name": {
+    "ru": "Максимальная загрузка белья",
+    "en": "Maximum laundry capacity",
+    "ar": "الحد الأقصى لحمولة الغسيل"
+  },
+  "maksimalnaya-zagruzka-belya/unit": {
+    "ru": "кг",
+    "en": "kg",
+    "ar": "كجم"
+  },
+  "maksimalnaya-skorost-otzhima/name": {
+    "ru": "Максимальная скорость отжима",
+    "en": "Maximum spin speed",
+    "ar": "الحد الأقصى لسرعة العصر"
+  },
+  "maksimalnaya-skorost-otzhima/unit": {
+    "ru": "об/мин",
+    "en": "RPM",
+    "ar": "دورة/دقيقة"
+  },
+  "klass-stirki/value/a": {
+    "ru": "A",
+    "en": "A",
+    "ar": "A"
+  },
+  "klass-stirki/name": {
+    "ru": "Класс стирки",
+    "en": "Wash performance class",
+    "ar": "فئة الغسيل"
+  },
+  "klass-otzhima/value/b": {
+    "ru": "B",
+    "en": "B",
+    "ar": "B"
+  },
+  "klass-otzhima/value/a": {
+    "ru": "A",
+    "en": "A",
+    "ar": "A"
+  },
+  "klass-otzhima/value/c": {
+    "ru": "C",
+    "en": "C",
+    "ar": "C"
+  },
+  "klass-otzhima/name": {
+    "ru": "Класс отжима",
+    "en": "Spin performance class",
+    "ar": "فئة العصر"
+  },
+  "uroven-shuma-pri-stirke/name": {
+    "ru": "Уровень шума при стирке",
+    "en": "Wash noise level",
+    "ar": "مستوى الضوضاء أثناء الغسيل"
+  },
+  "uroven-shuma-pri-stirke/unit": {
+    "ru": "дБ",
+    "en": "dB",
+    "ar": "ديسيبل"
+  },
+  "uroven-shuma-pri-otzhime/name": {
+    "ru": "Уровень шума при отжиме",
+    "en": "Spin noise level",
+    "ar": "مستوى الضوضاء أثناء العصر"
+  },
+  "uroven-shuma-pri-otzhime/unit": {
+    "ru": "дБ",
+    "en": "dB",
+    "ar": "ديسيبل"
+  },
+  "sushka/name": {
+    "ru": "Сушка",
+    "en": "Drying",
+    "ar": "التجفيف"
+  },
+  "tip-sushki/value/po-vremeni": {
+    "ru": "по времени",
+    "en": "by time",
+    "ar": "حسب الوقت"
+  },
+  "tip-sushki/value/po-ostatochnoy-vlazhnosti": {
+    "ru": "по остаточной влажности",
+    "en": "by residual moisture",
+    "ar": "حسب الرطوبة المتبقية"
+  },
+  "tip-sushki/name": {
+    "ru": "Тип сушки",
+    "en": "Drying type",
+    "ar": "نوع التجفيف"
+  },
+  "kolichestvo-programm-sushki/name": {
+    "ru": "Количество программ сушки",
+    "en": "Drying program count",
+    "ar": "عدد برامج التجفيف"
+  },
+  "maksimalnaya-zagruzka-belya-pri-sushke/name": {
+    "ru": "Максимальная загрузка белья при сушке",
+    "en": "Maximum drying laundry load",
+    "ar": "الحد الأقصى لحمولة الغسيل عند التجفيف"
+  },
+  "maksimalnaya-zagruzka-belya-pri-sushke/unit": {
+    "ru": "кг",
+    "en": "kg",
+    "ar": "كجم"
+  },
+  "programmy-sushki/value/berezhnaya-sushka": {
+    "ru": "бережная сушка",
+    "en": "gentle drying",
+    "ar": "تجفيف لطيف"
+  },
+  "programmy-sushki/value/standartnaya": {
+    "ru": "стандартная",
+    "en": "standard",
+    "ar": "عادي (قياسي)"
+  },
+  "programmy-sushki/value/stirka-sushka": {
+    "ru": "стирка + сушка",
+    "en": "wash + dry",
+    "ar": "غسيل + تجفيف"
+  },
+  "programmy-sushki/value/avtomaticheskaya": {
+    "ru": "автоматическая",
+    "en": "automatic",
+    "ar": "تلقائي"
+  },
+  "programmy-sushki/value/sushka-po-vremeni": {
+    "ru": "сушка по времени",
+    "en": "timed drying",
+    "ar": "تجفيف بالوقت"
+  },
+  "programmy-sushki/value/delikatnaya": {
+    "ru": "деликатная",
+    "en": "delicate",
+    "ar": "لطيف (رقيق)"
+  },
+  "programmy-sushki/value/intensivnaya-sushka": {
+    "ru": "интенсивная сушка",
+    "en": "intensive drying",
+    "ar": "تجفيف مكثف"
+  },
+  "programmy-sushki/value/hlopok": {
+    "ru": "хлопок",
+    "en": "cotton",
+    "ar": "قطن"
+  },
+  "programmy-sushki/value/bystraya": {
+    "ru": "быстрая",
+    "en": "quick",
+    "ar": "سريع"
+  },
+  "programmy-sushki/value/puhovye-izdeliya": {
+    "ru": "пуховые изделия",
+    "en": "down items",
+    "ar": "منتجات الريش (الداون)"
+  },
+  "programmy-sushki/value/smeshannaya": {
+    "ru": "смешанная",
+    "en": "mixed",
+    "ar": "مختلط"
+  },
+  "programmy-sushki/value/postelnoe-bele": {
+    "ru": "постельное бельё",
+    "en": "bed linen",
+    "ar": "مفروشات السرير"
+  },
+  "programmy-sushki/value/holodnyy-obduv": {
+    "ru": "холодный обдув",
+    "en": "cool air blow",
+    "ar": "نفخ هواء بارد"
+  },
+  "programmy-sushki/value/dlya-glazhki": {
+    "ru": "для глажки",
+    "en": "iron dry",
+    "ar": "تجفيف للكي"
+  },
+  "programmy-sushki/value/eko-sushka": {
+    "ru": "эко сушка",
+    "en": "eco drying",
+    "ar": "تجفيف اقتصادي (Eco)"
+  },
+  "programmy-sushki/value/nizkaya-temperatura": {
+    "ru": "низкая температура",
+    "en": "low temperature",
+    "ar": "درجة حرارة منخفضة"
+  },
+  "programmy-sushki/value/v-shkaf": {
+    "ru": "в шкаф",
+    "en": "cupboard dry",
+    "ar": "جاهز للخزانة"
+  },
+  "programmy-sushki/value/ochen-suho": {
+    "ru": "очень сухо",
+    "en": "extra dry",
+    "ar": "جاف جدًا"
+  },
+  "programmy-sushki/value/pod-utyug": {
+    "ru": "под утюг",
+    "en": "iron dry",
+    "ar": "تجفيف للكي"
+  },
+  "programmy-sushki/value/funkciya-osvezheniya": {
+    "ru": "функция освежения",
+    "en": "refresh function",
+    "ar": "وظيفة التنشيط"
+  },
+  "programmy-sushki/value/v-shkaf-plyus": {
+    "ru": "в шкаф плюс",
+    "en": "extra cupboard dry",
+    "ar": "تجفيف إضافي للخزانة"
+  },
+  "programmy-sushki/name": {
+    "ru": "Программы сушки",
+    "en": "Drying programs",
+    "ar": "برامج التجفيف"
+  },
+  "pereklyuchateli/value/sensornye": {
+    "ru": "сенсорные",
+    "en": "touch",
+    "ar": "لمسي (تعمل باللمس)"
+  },
+  "pereklyuchateli/value/povorotnye": {
+    "ru": "поворотные",
+    "en": "rotary knobs",
+    "ar": "مقابض دوارة"
+  },
+  "pereklyuchateli/value/knopochnye": {
+    "ru": "кнопочные",
+    "en": "push-button",
+    "ar": "أزرار ضغط"
+  },
+  "pereklyuchateli/value/utaplivaemye": {
+    "ru": "утапливаемые",
+    "en": "retractable",
+    "ar": "قابلة للطي (مخفية)"
+  },
+  "pereklyuchateli/name": {
+    "ru": "Переключатели",
+    "en": "Switches",
+    "ar": "مفاتيح التحكم"
+  },
+  "razmeschenie-paneli-upravleniya/value/vertikalnoe": {
+    "ru": "вертикальное",
+    "en": "vertical",
+    "ar": "عمودي"
+  },
+  "razmeschenie-paneli-upravleniya/value/pod-naklonom": {
+    "ru": "под наклоном",
+    "en": "angled",
+    "ar": "مائل"
+  },
+  "razmeschenie-paneli-upravleniya/value/gorizontalnoe": {
+    "ru": "горизонтальное",
+    "en": "horizontal",
+    "ar": "أفقي"
+  },
+  "razmeschenie-paneli-upravleniya/name": {
+    "ru": "Размещение панели управления",
+    "en": "Control panel placement",
+    "ar": "موضع لوحة التحكم"
+  },
+  "kolichestvo-programm/name": {
+    "ru": "Количество программ",
+    "en": "Program count",
+    "ar": "عدد البرامج"
+  },
+  "programmy/name": {
+    "ru": "Программы",
+    "en": "Programs",
+    "ar": "البرامج"
+  },
+  "programma-ochistki-barabana/name": {
+    "ru": "Программа очистки барабана",
+    "en": "Drum cleaning program",
+    "ar": "برنامج تنظيف الأسطوانة"
+  },
+  "dopolnitelnye-programmy/name": {
+    "ru": "Дополнительные программы",
+    "en": "Additional programs",
+    "ar": "برامج إضافية"
+  },
+  "regulirovka-temperatury-stirki/name": {
+    "ru": "Регулировка температуры стирки",
+    "en": "Wash temperature regulation",
+    "ar": "ضبط درجة حرارة الغسيل"
+  },
+  "kolichestvo-temperaturnyh-rezhimov/name": {
+    "ru": "Количество температурных режимов",
+    "en": "Temperature setting count",
+    "ar": "عدد إعدادات درجة الحرارة"
+  },
+  "minimalnaya-temperatura-vody/name": {
+    "ru": "Минимальная температура воды",
+    "en": "Minimum water temperature",
+    "ar": "الحد الأدنى لدرجة حرارة الماء"
+  },
+  "minimalnaya-temperatura-vody/unit": {
+    "ru": "°C",
+    "en": "°C",
+    "ar": "°م"
+  },
+  "maksimalnaya-temperatura-vody/name": {
+    "ru": "Максимальная температура воды",
+    "en": "Maximum water temperature",
+    "ar": "الحد الأقصى لدرجة حرارة الماء"
+  },
+  "maksimalnaya-temperatura-vody/unit": {
+    "ru": "°C",
+    "en": "°C",
+    "ar": "°م"
+  },
+  "cifrovoy-displey/name": {
+    "ru": "Цифровой дисплей",
+    "en": "Digital display",
+    "ar": "شاشة رقمية"
+  },
+  "taymer-otsrochki/name": {
+    "ru": "Таймер отсрочки",
+    "en": "Delay timer",
+    "ar": "مؤقت التأخير"
+  },
+  "maksimalnoe-vremya-otsrochki-stirki/name": {
+    "ru": "Максимальное время отсрочки стирки",
+    "en": "Maximum wash delay start time",
+    "ar": "الحد الأقصى لوقت تأخير بدء الغسيل"
+  },
+  "maksimalnoe-vremya-otsrochki-stirki/unit": {
+    "ru": "ч",
+    "en": "h",
+    "ar": "ساعة"
+  },
+  "indikaciya-vremeni-do-konca-programmy/name": {
+    "ru": "Индикация времени до конца программы",
+    "en": "Time remaining indication",
+    "ar": "مؤشر الوقت المتبقي لنهاية البرنامج"
+  },
+  "indikaciya-temperatury/name": {
+    "ru": "Индикация температуры",
+    "en": "Temperature indication",
+    "ar": "مؤشر درجة الحرارة"
+  },
+  "indikaciya-skorosti-otzhima/name": {
+    "ru": "Индикация скорости отжима",
+    "en": "Spin speed indication",
+    "ar": "مؤشر سرعة العصر"
+  },
+  "indikaciya-blokirovki-dvercy/name": {
+    "ru": "Индикация блокировки дверцы",
+    "en": "Door lock indication",
+    "ar": "مؤشر قفل الباب"
+  },
+  "indikaciya-oshibok/name": {
+    "ru": "Индикация ошибок",
+    "en": "Error indication",
+    "ar": "مؤشر رموز الأعطال"
+  },
+  "indikaciya-vklyucheniya-pauzy/name": {
+    "ru": "Индикация включения/паузы",
+    "en": "Power/pause indication",
+    "ar": "مؤشر التشغيل / الإيقاف المؤقت"
+  },
+  "indikaciya-vybora-dopolnitelnyh-funkciy/name": {
+    "ru": "Индикация выбора дополнительных функций",
+    "en": "Selected options indication",
+    "ar": "مؤشر الوظائف الإضافية المختارة"
+  },
+  "indikaciya-vremeni-otlozhennogo-starta/name": {
+    "ru": "Индикация времени отложенного старта",
+    "en": "Delay start time indication",
+    "ar": "مؤشر وقت تأخير بدء التشغيل"
+  },
+  "kontrol-rashoda-vody/name": {
+    "ru": "Контроль расхода воды",
+    "en": "Water consumption control",
+    "ar": "التحكم في استهلاك المياه"
+  },
+  "avtomaticheskaya-regulirovka-urovnya-vody/name": {
+    "ru": "Автоматическая регулировка уровня воды",
+    "en": "Automatic water level adjustment",
+    "ar": "الضبط التلقائي لمستوى المياه"
+  },
+  "regulirovka-skorosti-otzhima/name": {
+    "ru": "Регулировка скорости отжима",
+    "en": "Spin speed regulation",
+    "ar": "التحكم في سرعة العصر"
+  },
+  "kolichestvo-skorostey-otzhima/name": {
+    "ru": "Количество скоростей отжима",
+    "en": "Spin speed steps",
+    "ar": "عدد مستويات سرعة العصر"
+  },
+  "otmena-otzhima/name": {
+    "ru": "Отмена отжима",
+    "en": "No-spin option",
+    "ar": "إلغاء دورة العصر"
+  },
+  "avtomaticheskiy-kontrol-zagruzki/name": {
+    "ru": "Автоматический контроль загрузки",
+    "en": "Automatic load control",
+    "ar": "التحكم التلقائي في الحمولة"
+  },
+  "funkciya-dozagruzki-belya/name": {
+    "ru": "Функция дозагрузки белья",
+    "en": "Reload function",
+    "ar": "إمكانية إضافة الملابس أثناء التشغيل"
+  },
+  "zaschita-ot-protechek/value/chastichnaya": {
+    "ru": "частичная",
+    "en": "partial",
+    "ar": "جزئية"
+  },
+  "zaschita-ot-protechek/value/da": {
+    "ru": "да",
+    "en": "yes",
+    "ar": "نعم"
+  },
+  "zaschita-ot-protechek/value/mnogostupenchataya": {
+    "ru": "многоступенчатая",
+    "en": "multi-stage",
+    "ar": "متعددة المراحل"
+  },
+  "zaschita-ot-protechek/value/polnaya": {
+    "ru": "полная",
+    "en": "full",
+    "ar": "شاملة (كاملة)"
+  },
+  "zaschita-ot-protechek/name": {
+    "ru": "Защита от протечек",
+    "en": "Leak protection",
+    "ar": "نظام الحماية من تسرب المياه"
+  },
+  "blokirovka-lyuka-vo-vremya-raboty/name": {
+    "ru": "Блокировка люка во время работы",
+    "en": "Door lock during operation",
+    "ar": "قفل الباب التلقائي أثناء التشغيل"
+  },
+  "podsvetka-barabana/name": {
+    "ru": "Подсветка барабана",
+    "en": "Drum lighting",
+    "ar": "إضاءة الحوض الداخلية"
+  },
+  "avtomaticheskiy-dozator-moyuschego-sredstva/name": {
+    "ru": "Автоматический дозатор моющего средства",
+    "en": "Automatic detergent dispenser",
+    "ar": "الموزع التلقائي لمسحوق الغسيل"
+  },
+  "napravlenie-otkryvaniya-lyuka/value/vlevo": {
+    "ru": "влево",
+    "en": "left",
+    "ar": "يسار"
+  },
+  "napravlenie-otkryvaniya-lyuka/value/vpravo": {
+    "ru": "вправо",
+    "en": "right",
+    "ar": "يمين"
+  },
+  "napravlenie-otkryvaniya-lyuka/name": {
+    "ru": "Направление открывания люка",
+    "en": "Porthole opening direction",
+    "ar": "اتجاه فتح باب الغسالة"
+  },
+  "diametr-zagruzochnogo-lyuka/name": {
+    "ru": "Диаметр загрузочного люка",
+    "en": "Porthole diameter",
+    "ar": "قطر فتحة باب الغسالة"
+  },
+  "diametr-zagruzochnogo-lyuka/unit": {
+    "ru": "см",
+    "en": "cm",
+    "ar": "سم"
+  },
+  "reguliruemye-nozhki/name": {
+    "ru": "Регулируемые ножки",
+    "en": "Adjustable feet",
+    "ar": "أرجل قابلة لتعديل الارتفاع والاتزان"
+  },
+  "samodiagnostika/name": {
+    "ru": "Самодиагностика",
+    "en": "Self-diagnosis",
+    "ar": "نظام الفحص والتشخيص الذاتي"
+  },
+  "avtovzveshivanie-belya/name": {
+    "ru": "Автовзвешивание белья",
+    "en": "Auto load sensing",
+    "ar": "الوزن التلقائي لكمية الغسيل"
+  },
+  "cvet-dvercy-lyuka/value/chernyy": {
+    "ru": "чёрный",
+    "en": "black",
+    "ar": "أسود"
+  },
+  "cvet-dvercy-lyuka/value/mednyy": {
+    "ru": "медный",
+    "en": "copper",
+    "ar": "نحاسي"
+  },
+  "cvet-dvercy-lyuka/value/belyy": {
+    "ru": "белый",
+    "en": "white",
+    "ar": "أبيض"
+  },
+  "cvet-dvercy-lyuka/value/serebristyy": {
+    "ru": "серебристый",
+    "en": "silver",
+    "ar": "فضي"
+  },
+  "cvet-dvercy-lyuka/value/chernoe-steklo": {
+    "ru": "черное стекло",
+    "en": "black glass",
+    "ar": "زجاج أسود"
+  },
+  "cvet-dvercy-lyuka/value/hromirovannyy-obodok": {
+    "ru": "хромированный ободок",
+    "en": "chrome bezel",
+    "ar": "إطار كروم لامع"
+  },
+  "cvet-dvercy-lyuka/value/chernyy-2": {
+    "ru": "черный",
+    "en": "black",
+    "ar": "أسود"
+  },
+  "cvet-dvercy-lyuka/name": {
+    "ru": "Цвет дверцы люка",
+    "en": "Porthole door color",
+    "ar": "لون إطار باب الغسالة"
+  },
+  "material-dvercy-lyuka/value/steklo": {
+    "ru": "стекло",
+    "en": "glass",
+    "ar": "زجاج"
+  },
+  "material-dvercy-lyuka/value/zakalennoe-steklo": {
+    "ru": "закалённое стекло",
+    "en": "tempered glass",
+    "ar": "زجاج مقسّى"
+  },
+  "material-dvercy-lyuka/value/plastik": {
+    "ru": "пластик",
+    "en": "plastic",
+    "ar": "بلاستيك"
+  },
+  "material-dvercy-lyuka/name": {
+    "ru": "Материал дверцы люка",
+    "en": "Porthole door material",
+    "ar": "مادة صنع باب الغسالة"
+  },
+  "material-barabana/value/nerzhaveyuschaya-stal": {
+    "ru": "нержавеющая сталь",
+    "en": "stainless steel",
+    "ar": "ستانلس ستيل (فولاذ مقاوم للصدأ)"
+  },
+  "material-barabana/name": {
+    "ru": "Материал барабана",
+    "en": "Drum material",
+    "ar": "مادة صنع الحوض (الأسطوانة)"
+  },
+  "shlang-podachi-vody/name": {
+    "ru": "Шланг подачи воды",
+    "en": "Water supply hose",
+    "ar": "خرطوم تزويد المياه"
+  },
+  "slivnoy-shlang/name": {
+    "ru": "Сливной шланг",
+    "en": "Drain hose",
+    "ar": "خرطوم تصريف المياه"
+  },
+  "stiralnye-mashiny-setevoy-kabel/name": {
+    "ru": "Сетевой кабель",
+    "en": "Power cable",
+    "ar": "كابل توصيل الكهرباء"
+  },
+  "posudomoechnye-mashiny-setevoy-kabel/name": {
+    "ru": "Сетевой кабель",
+    "en": "Power cable",
+    "ar": "كابل توصيل الكهرباء"
+  },
+  "posudomoechnye-mashiny-setevoy-kabel/unit": {
+    "ru": "м",
+    "en": "m",
+    "ar": "م"
+  },
+  "duhovye-shkafy-setevoy-kabel/name": {
+    "ru": "Сетевой кабель",
+    "en": "Power cable",
+    "ar": "كابل توصيل الكهرباء"
+  },
+  "duhovye-shkafy-setevoy-kabel/unit": {
+    "ru": "м",
+    "en": "m",
+    "ar": "م"
+  },
+  "mikrovolnovye-pechi-setevoy-kabel/name": {
+    "ru": "Сетевой кабель",
+    "en": "Power cable",
+    "ar": "كابل توصيل الكهرباء"
+  },
+  "mikrovolnovye-pechi-setevoy-kabel/unit": {
+    "ru": "м",
+    "en": "m",
+    "ar": "م"
+  },
+  "gaechnyy-klyuch/name": {
+    "ru": "Гаечный ключ",
+    "en": "Wrench",
+    "ar": "مفتاح ربط للتركيب"
+  },
+  "zaglushka/name": {
+    "ru": "Заглушка",
+    "en": "Plug cap",
+    "ar": "أغطية فتحات مسامير التثبيت"
+  },
+  "funkciya-par/name": {
+    "ru": "Функция пар",
+    "en": "Steam function",
+    "ar": "وظيفة المعالجة بالبخار"
+  },
+  "sistema-zaschity-ot-protechek/value/chastichnaya": {
+    "ru": "частичная",
+    "en": "partial",
+    "ar": "جزئية"
+  },
+  "sistema-zaschity-ot-protechek/value/polnaya": {
+    "ru": "полная",
+    "en": "full",
+    "ar": "شاملة (كاملة)"
+  },
+  "sistema-zaschity-ot-protechek/name": {
+    "ru": "Система защиты от протечек",
+    "en": "Leak protection system",
+    "ar": "نظام الأمان ضد التسربات المائية"
+  },
+  "kontrol-penoobrazovaniya/name": {
+    "ru": "Контроль пенообразования",
+    "en": "Foam control",
+    "ar": "التحكم التلقائي في تكوين الرغوة"
+  },
+  "energopotreblenie-za-cikl/name": {
+    "ru": "Энергопотребление за цикл",
+    "en": "Energy consumption per cycle",
+    "ar": "استهلاك الطاقة في الدورة الواحدة"
+  },
+  "energopotreblenie-za-cikl/unit": {
+    "ru": "кВт/ч",
+    "en": "kW/h",
+    "ar": "كيلوواط/ساعة"
+  },
+  "avtobalans/name": {
+    "ru": "Автобаланс",
+    "en": "Auto balance",
+    "ar": "نظام التوازن التلقائي للحمولة"
+  },
+  "material-baka/value/plastik": {
+    "ru": "пластик",
+    "en": "plastic",
+    "ar": "بلاستيك"
+  },
+  "material-baka/value/nerzhaveyuschaya-stal": {
+    "ru": "нержавеющая сталь",
+    "en": "stainless steel",
+    "ar": "ستانلس ستيل (فولاذ مقاوم للصدأ)"
+  },
+  "material-baka/value/karbotek": {
+    "ru": "карботек",
+    "en": "carbotec",
+    "ar": "كاربوتيك (Carbotec)"
+  },
+  "material-baka/name": {
+    "ru": "Материал бака",
+    "en": "Tub material",
+    "ar": "مادة صنع الحوض الخارجي"
+  },
+  "zvukovoy-signal-zaversheniya-programmy/name": {
+    "ru": "Звуковой сигнал завершения программы",
+    "en": "Program completion acoustic signal",
+    "ar": "تنبيه صوتي عند اكتمال البرنامج"
+  },
+  "indikaciya-okonchaniya-stirki/name": {
+    "ru": "Индикация окончания стирки",
+    "en": "End of wash indication",
+    "ar": "مؤشر اكتمال دورة الغسيل"
+  },
+  "indikaciya-cikla-stirki/name": {
+    "ru": "Индикация цикла стирки",
+    "en": "Wash cycle indication",
+    "ar": "مؤشر مرحلة دورة الغسيل"
+  },
+  "material-korpusa/value/metall": {
+    "ru": "металл",
+    "en": "metal",
+    "ar": "معدن"
+  },
+  "material-korpusa/value/plastik": {
+    "ru": "пластик",
+    "en": "plastic",
+    "ar": "بلاستيك"
+  },
+  "material-korpusa/value/stal": {
+    "ru": "сталь",
+    "en": "steel",
+    "ar": "فولاذ"
+  },
+  "material-korpusa/value/nerzhaveyuschaya-stal": {
+    "ru": "нержавеющая сталь",
+    "en": "stainless steel",
+    "ar": "ستانلس ستيل (فولاذ مقاوم للصدأ)"
+  },
+  "material-korpusa/value/metall-plastik": {
+    "ru": "металл/пластик",
+    "en": "metal/plastic",
+    "ar": "معدن / بلاستيك مقوى"
+  },
+  "material-korpusa/value/steklo": {
+    "ru": "стекло",
+    "en": "glass",
+    "ar": "زجاج"
+  },
+  "material-korpusa/name": {
+    "ru": "Материал корпуса",
+    "en": "Body material",
+    "ar": "مادة صنع الهيكل الخارجي"
+  },
+  "derzhatel-shlanga/name": {
+    "ru": "Держатель шланга",
+    "en": "Hose holder",
+    "ar": "حامل تثبيت خرطوم التصريف"
+  },
+  "rashod-vody-za-cikl/name": {
+    "ru": "Расход воды за цикл",
+    "en": "Water consumption per cycle",
+    "ar": "استهلاك المياه في الدورة الواحدة"
+  },
+  "rashod-vody-za-cikl/unit": {
+    "ru": "л",
+    "en": "L",
+    "ar": "لتر"
+  },
+  "ostatochnaya-vlazhnost/name": {
+    "ru": "Остаточная влажность",
+    "en": "Residual moisture",
+    "ar": "نسبة الرطوبة المتبقية بعد العصر"
+  },
+  "ostatochnaya-vlazhnost/unit": {
+    "ru": "%",
+    "en": "%",
+    "ar": "%"
+  },
+  "dlina-zalivnogo-shlanga/name": {
+    "ru": "Длина заливного шланга",
+    "en": "Inlet hose length",
+    "ar": "طول خرطوم إمداد المياه"
+  },
+  "dlina-zalivnogo-shlanga/unit": {
+    "ru": "м",
+    "en": "m",
+    "ar": "م"
+  },
+  "dlina-slivnogo-shlanga/name": {
+    "ru": "Длина сливного шланга",
+    "en": "Drain hose length",
+    "ar": "طول خرطوم تصريف المياه"
+  },
+  "dlina-slivnogo-shlanga/unit": {
+    "ru": "м",
+    "en": "m",
+    "ar": "م"
+  },
+  "zvukovoy-signal-okonchaniya-stirki/name": {
+    "ru": "Звуковой сигнал окончания стирки",
+    "en": "End-of-wash acoustic signal",
+    "ar": "تنبيه صوتي لانتهاء الغسيل"
+  },
+  "podderzhka-bluetooth/name": {
+    "ru": "Поддержка Bluetooth",
+    "en": "Bluetooth connectivity",
+    "ar": "دعم الاتصال اللاسلكي عبر Bluetooth"
+  },
+  "godovoe-potreblenie-vody/name": {
+    "ru": "Годовое потребление воды",
+    "en": "Annual water consumption",
+    "ar": "الاستهلاك السنوي للمياه"
+  },
+  "godovoe-potreblenie-vody/unit": {
+    "ru": "л",
+    "en": "L",
+    "ar": "لتر"
+  },
+  "stiralnye-mashiny-energopotreblenie-za-god/name": {
+    "ru": "Энергопотребление за год",
+    "en": "Annual energy consumption",
+    "ar": "الاستهلاك السنوي للكهرباء"
+  },
+  "stiralnye-mashiny-energopotreblenie-za-god/unit": {
+    "ru": "кВт",
+    "en": "kW",
+    "ar": "كيلوواط"
+  },
+  "posudomoechnye-mashiny-energopotreblenie-za-god/name": {
+    "ru": "Энергопотребление за год",
+    "en": "Annual energy consumption",
+    "ar": "الاستهلاك السنوي للكهرباء"
+  },
+  "posudomoechnye-mashiny-energopotreblenie-za-god/unit": {
+    "ru": "кВт/ч",
+    "en": "kW/h",
+    "ar": "كيلوواط/ساعة"
+  },
+  "zanesenie-programm-v-pamyat/name": {
+    "ru": "Занесение программ в память",
+    "en": "Program memory storage",
+    "ar": "حفظ البرامج المفضلة في الذاكرة"
+  },
+  "ugol-otkrytiya-lyuka/name": {
+    "ru": "Угол открытия люка",
+    "en": "Porthole opening angle",
+    "ar": "زاوية فتح باب الغسالة"
+  },
+  "ugol-otkrytiya-lyuka/unit": {
+    "ru": "°",
+    "en": "°",
+    "ar": "درجة (°)"
+  },
+  "zaschita-ot-skachkov-napryazheniya/name": {
+    "ru": "Защита от скачков напряжения",
+    "en": "Surge protection",
+    "ar": "الحماية من تذبذب التيار الكهربائي"
+  },
+  "konstrukciya/value/uzkaya": {
+    "ru": "узкая",
+    "en": "slim",
+    "ar": "نحيفة (ضيقة)"
+  },
+  "konstrukciya/value/polnorazmernaya": {
+    "ru": "полноразмерная",
+    "en": "full size",
+    "ar": "بحجم كامل"
+  },
+  "konstrukciya/value/kompaktnaya": {
+    "ru": "компактная",
+    "en": "compact",
+    "ar": "مدمج (مضغوط)"
+  },
+  "konstrukciya/name": {
+    "ru": "Конструкция",
+    "en": "Construction",
+    "ar": "التصميم والهيكل"
+  },
+  "vid-sushki/value/teploobmennik": {
+    "ru": "теплообменник",
+    "en": "heat exchanger",
+    "ar": "مبادل حراري"
+  },
+  "vid-sushki/value/turbosushka": {
+    "ru": "турбосушка",
+    "en": "turbo drying",
+    "ar": "تجفيف توربيني نشط (Turbo Drying)"
+  },
+  "vid-sushki/value/kondensacionnyy": {
+    "ru": "конденсационный",
+    "en": "condensation",
+    "ar": "تجفيف بالتكثيف"
+  },
+  "vid-sushki/name": {
+    "ru": "Вид сушки",
+    "en": "Drying method",
+    "ar": "نوع نظام التجفيف"
+  },
+  "zagruzka/name": {
+    "ru": "Загрузка",
+    "en": "Load capacity",
+    "ar": "السعة القياسية"
+  },
+  "zagruzka/unit": {
+    "ru": "комплектов",
+    "en": "place settings",
+    "ar": "أطقم أوانٍ"
+  },
+  "ekonomichnaya-programma/name": {
+    "ru": "Экономичная программа",
+    "en": "Eco program",
+    "ar": "البرنامج الاقتصادي (Eco)"
+  },
+  "intensivnaya-moyka/name": {
+    "ru": "Интенсивная мойка",
+    "en": "Intensive wash",
+    "ar": "برنامج الغسيل المكثف للأواني الصعبة"
+  },
+  "klass-moyki/value/a": {
+    "ru": "A",
+    "en": "A",
+    "ar": "A"
+  },
+  "klass-moyki/name": {
+    "ru": "Класс мойки",
+    "en": "Wash performance class",
+    "ar": "فئة كفاءة الغسيل"
+  },
+  "klass-sushki/value/a": {
+    "ru": "A",
+    "en": "A",
+    "ar": "A"
+  },
+  "klass-sushki/name": {
+    "ru": "Класс сушки",
+    "en": "Drying performance class",
+    "ar": "فئة كفاءة التجفيف"
+  },
+  "temperaturnye-rezhimy/value/40": {
+    "ru": "40",
+    "en": "40",
+    "ar": "40 °C"
+  },
+  "temperaturnye-rezhimy/value/45": {
+    "ru": "45",
+    "en": "45",
+    "ar": "45 °C"
+  },
+  "temperaturnye-rezhimy/value/50": {
+    "ru": "50",
+    "en": "50",
+    "ar": "50 °C"
+  },
+  "temperaturnye-rezhimy/value/55": {
+    "ru": "55",
+    "en": "55",
+    "ar": "55 °C"
+  },
+  "temperaturnye-rezhimy/value/60": {
+    "ru": "60",
+    "en": "60",
+    "ar": "60 °C"
+  },
+  "temperaturnye-rezhimy/value/65": {
+    "ru": "65",
+    "en": "65",
+    "ar": "65 °C"
+  },
+  "temperaturnye-rezhimy/value/70-s": {
+    "ru": "70 °С",
+    "en": "70 °C",
+    "ar": "70 °C"
+  },
+  "temperaturnye-rezhimy/value/55-65": {
+    "ru": "55-65",
+    "en": "55-65",
+    "ar": "55-65 °C"
+  },
+  "temperaturnye-rezhimy/value/72-s": {
+    "ru": "72 °С",
+    "en": "72 °C",
+    "ar": "72 °C"
+  },
+  "temperaturnye-rezhimy/value/70": {
+    "ru": "70",
+    "en": "70",
+    "ar": "70 °C"
+  },
+  "temperaturnye-rezhimy/value/72": {
+    "ru": "72",
+    "en": "72",
+    "ar": "72 °C"
+  },
+  "temperaturnye-rezhimy/value/75-s": {
+    "ru": "75 °С",
+    "en": "75 °C",
+    "ar": "75 °C"
+  },
+  "temperaturnye-rezhimy/value/35": {
+    "ru": "35",
+    "en": "35",
+    "ar": "35 °C"
+  },
+  "temperaturnye-rezhimy/value/47": {
+    "ru": "47",
+    "en": "47",
+    "ar": "47 °C"
+  },
+  "temperaturnye-rezhimy/name": {
+    "ru": "Температурные режимы",
+    "en": "Temperature modes",
+    "ar": "خيارات درجات الحرارة"
+  },
+  "maksimalnoe-vremya-otsrochki/name": {
+    "ru": "Максимальное время отсрочки",
+    "en": "Maximum delay start time",
+    "ar": "الحد الأقصى لوقت التأجيل"
+  },
+  "maksimalnoe-vremya-otsrochki/unit": {
+    "ru": "ч",
+    "en": "h",
+    "ar": "ساعة"
+  },
+  "indikaciya-rezhimov-raboty/name": {
+    "ru": "Индикация режимов работы",
+    "en": "Operating mode indication",
+    "ar": "مؤشر أوضاع التشغيل"
+  },
+  "indikator-nalichiya-soli/name": {
+    "ru": "Индикатор наличия соли",
+    "en": "Salt refill indicator",
+    "ar": "مؤشر نفاد الملح"
+  },
+  "indikator-nalichiya-opolaskivatelya/name": {
+    "ru": "Индикатор наличия ополаскивателя",
+    "en": "Rinse aid refill indicator",
+    "ar": "مؤشر نفاد سائل الشطف"
+  },
+  "blokirovka-upravleniya/name": {
+    "ru": "Блокировка управления",
+    "en": "Control lock",
+    "ar": "قفل لوحة التحكم"
+  },
+  "tehnologiya-zaschity-ot-protechki/value/aqua-sontrol": {
+    "ru": "Аquа-Соntrоl",
+    "en": "Aqua-Control",
+    "ar": "Aqua-Control"
+  },
+  "tehnologiya-zaschity-ot-protechki/value/aquacontrol": {
+    "ru": "AquaControl",
+    "en": "AquaControl",
+    "ar": "AquaControl"
+  },
+  "tehnologiya-zaschity-ot-protechki/value/aquastop": {
+    "ru": "AquaStop",
+    "en": "AquaStop",
+    "ar": "AquaStop"
+  },
+  "tehnologiya-zaschity-ot-protechki/value/aqua-stop": {
+    "ru": "Aqua Stop",
+    "en": "Aqua Stop",
+    "ar": "Aqua Stop"
+  },
+  "tehnologiya-zaschity-ot-protechki/value/overflow-safety": {
+    "ru": "Overflow Safety",
+    "en": "Overflow Safety",
+    "ar": "Overflow Safety"
+  },
+  "tehnologiya-zaschity-ot-protechki/name": {
+    "ru": "Технология защиты от протечки",
+    "en": "Leak protection technology",
+    "ar": "تقنية الحماية من التسرب"
+  },
+  "maksimalnaya-potreblyaemaya-moschnost/name": {
+    "ru": "Максимальная потребляемая мощность",
+    "en": "Maximum power consumption",
+    "ar": "الحد الأقصى لاستهلاك الطاقة"
+  },
+  "maksimalnaya-potreblyaemaya-moschnost/unit": {
+    "ru": "Вт",
+    "en": "W",
+    "ar": "واط"
+  },
+  "kolichestvo-korzin/name": {
+    "ru": "Количество корзин",
+    "en": "Basket count",
+    "ar": "عدد السلال"
+  },
+  "regulirovka-vysoty-korziny/name": {
+    "ru": "Регулировка высоты корзины",
+    "en": "Basket height adjustment",
+    "ar": "ضبط ارتفاع السلة"
+  },
+  "kolichestvo-razbryzgivateley/name": {
+    "ru": "Количество разбрызгивателей",
+    "en": "Spray arm count",
+    "ar": "عدد أذرع الرش"
+  },
+  "kolichestvo-zon-podachi-vody/name": {
+    "ru": "Количество зон подачи воды",
+    "en": "Water spray zones",
+    "ar": "عدد مناطق رش المياه"
+  },
+  "ispolzovanie-sredstv-3-v-1/name": {
+    "ru": "Использование средств 3 в 1",
+    "en": "3-in-1 detergent compatibility",
+    "ar": "التوافق مع منظفات 3 في 1"
+  },
+  "rezhim-polovinnoy-zagruzki/name": {
+    "ru": "Режим половинной загрузки",
+    "en": "Half load mode",
+    "ar": "وضع نصف الحمولة"
+  },
+  "material-koromysla/value/plastik": {
+    "ru": "пластик",
+    "en": "plastic",
+    "ar": "بلاستيك"
+  },
+  "material-koromysla/name": {
+    "ru": "Материал коромысла",
+    "en": "Spray arm material",
+    "ar": "مادة ذراع الرش"
+  },
+  "semnaya-korzina-dlya-stolovyh-priborov/name": {
+    "ru": "Съемная корзина для столовых приборов",
+    "en": "Removable cutlery basket",
+    "ar": "سلة أدوات مائدة قابلة للإزالة"
+  },
+  "zalivnogo-shlanga/name": {
+    "ru": "Заливного шланга",
+    "en": "Inlet hose",
+    "ar": "خرطوم التغذية بالمياه"
+  },
+  "funkcii-displeya/name": {
+    "ru": "Функции дисплея",
+    "en": "Display functions",
+    "ar": "وظائف الشاشة"
+  },
+  "klass-energopotrebleniya-moyki/value/a": {
+    "ru": "A",
+    "en": "A",
+    "ar": "A"
+  },
+  "klass-energopotrebleniya-moyki/name": {
+    "ru": "Класс энергопотребления мойки",
+    "en": "Wash energy efficiency class",
+    "ar": "فئة استهلاك الطاقة للغسيل"
+  },
+  "klass-energopotrebleniya-sushki/value/a": {
+    "ru": "A",
+    "en": "A",
+    "ar": "A"
+  },
+  "klass-energopotrebleniya-sushki/name": {
+    "ru": "Класс энергопотребления сушки",
+    "en": "Drying energy efficiency class",
+    "ar": "فئة استهلاك الطاقة للتجفيف"
+  },
+  "korzina-dlya-stolovyh-priborov/name": {
+    "ru": "Корзина для столовых приборов",
+    "en": "Cutlery basket",
+    "ar": "سلة أدوات المائدة"
+  },
+  "polka-dlya-chashek/name": {
+    "ru": "Полка для чашек",
+    "en": "Cup shelf",
+    "ar": "رف الأكواب"
+  },
+  "otkidnaya-polka-dlya-chashek/name": {
+    "ru": "Откидная полка для чашек",
+    "en": "Fold-down cup shelf",
+    "ar": "رف أكواب قابل للطي"
+  },
+  "skladnye-derzhateli/name": {
+    "ru": "Складные держатели",
+    "en": "Foldable tines",
+    "ar": "حوامل قابلة للطي"
+  },
+  "regulirovka-zhestkosti-vody/name": {
+    "ru": "Регулировка жёсткости воды",
+    "en": "Water hardness regulation",
+    "ar": "ضبط عسر الماء"
+  },
+  "protochnyy-vodonagrevatel/name": {
+    "ru": "Проточный водонагреватель",
+    "en": "Instant water heater",
+    "ar": "سخان مياه فوري"
+  },
+  "verhniy-razbryzgivatel/name": {
+    "ru": "Верхний разбрызгиватель",
+    "en": "Top spray arm",
+    "ar": "ذراع الرش العلوي"
+  },
+  "avtomaticheskoe-otkryvanie-dvercy-v-konce-moyki/name": {
+    "ru": "Автоматическое открывание дверцы в конце мойки",
+    "en": "Auto door opening at end of cycle",
+    "ar": "فتح الباب تلقائيًا في نهاية الدورة"
+  },
+  "prodolzhitelnost-normativnogo-cikla/name": {
+    "ru": "Продолжительность нормативного цикла",
+    "en": "Standard cycle duration",
+    "ar": "مدة الدورة القياسية"
+  },
+  "prodolzhitelnost-normativnogo-cikla/unit": {
+    "ru": "мин",
+    "en": "min",
+    "ar": "دقيقة"
+  },
+  "material-vnutrenney-kamery/value/nerzhaveyuschaya-stal": {
+    "ru": "нержавеющая сталь",
+    "en": "stainless steel",
+    "ar": "ستانلس ستيل (فولاذ مقاوم للصدأ)"
+  },
+  "material-vnutrenney-kamery/name": {
+    "ru": "Материал внутренней камеры",
+    "en": "Inner cavity material",
+    "ar": "مادة الحجرة الداخلية"
+  },
+  "indikator-otsutstviya-soli/name": {
+    "ru": "Индикатор отсутствия соли",
+    "en": "Low salt indicator",
+    "ar": "مؤشر نفاد الملح"
+  },
+  "indikator-otsutstviya-opolaskivatelya/name": {
+    "ru": "Индикатор отсутствия ополаскивателя",
+    "en": "Low rinse aid indicator",
+    "ar": "مؤشر نفاد ملمع الشطف"
+  },
+  "kolichestvo-polok-dlya-chashek/name": {
+    "ru": "Количество полок для чашек",
+    "en": "Cup rack count",
+    "ar": "عدد أرفف الأكواب"
+  },
+  "zalivnoy-shlang/name": {
+    "ru": "Заливной шланг",
+    "en": "Inlet hose",
+    "ar": "خرطوم التغذية بالمياه"
+  },
+  "glubina-s-otkrytoy-dverkoy/name": {
+    "ru": "Глубина с открытой дверкой",
+    "en": "Depth with open door",
+    "ar": "العمق مع فتح الباب"
+  },
+  "glubina-s-otkrytoy-dverkoy/unit": {
+    "ru": "см",
+    "en": "cm",
+    "ar": "سم"
+  },
+  "kolichestvo-urovney-regulirovki-po-vysote/name": {
+    "ru": "Количество уровней регулировки по высоте",
+    "en": "Height adjustment levels",
+    "ar": "عدد مستويات ضبط الارتفاع"
+  },
+  "vozmozhnost-sokrascheniya-programmy/name": {
+    "ru": "Возможность сокращения программы",
+    "en": "Time reduction option",
+    "ar": "إمكانية تقصير البرنامج"
+  },
+  "varochnaya-panel/value/gazovaya": {
+    "ru": "газовая",
+    "en": "gas",
+    "ar": "غاز"
+  },
+  "varochnaya-panel/value/elektricheskaya": {
+    "ru": "электрическая",
+    "en": "electric",
+    "ar": "كهربائية"
+  },
+  "varochnaya-panel/value/indukcionnaya": {
+    "ru": "индукционная",
+    "en": "induction",
+    "ar": "حثي (إندكشن)"
+  },
+  "varochnaya-panel/name": {
+    "ru": "Варочная панель",
+    "en": "Cooktop",
+    "ar": "سطح الطهي"
+  },
+  "duhovka/value/elektricheskaya": {
+    "ru": "электрическая",
+    "en": "electric",
+    "ar": "كهربائية"
+  },
+  "duhovka/name": {
+    "ru": "Духовка",
+    "en": "Oven",
+    "ar": "الفرن"
+  },
+  "rabochaya-poverhnost/value/nerzhaveyuschaya-stal": {
+    "ru": "нержавеющая сталь",
+    "en": "stainless steel",
+    "ar": "ستانلس ستيل (فولاذ مقاوم للصدأ)"
+  },
+  "rabochaya-poverhnost/value/steklokeramika": {
+    "ru": "стеклокерамика",
+    "en": "ceramic glass",
+    "ar": "سيراميك زجاجي"
+  },
+  "rabochaya-poverhnost/value/emal": {
+    "ru": "эмаль",
+    "en": "enamel",
+    "ar": "إيناميل"
+  },
+  "rabochaya-poverhnost/name": {
+    "ru": "Рабочая поверхность",
+    "en": "Cooktop surface",
+    "ar": "سطح العمل"
+  },
+  "cvet-paneli-konforok/value/serebristyy": {
+    "ru": "серебристый",
+    "en": "silver",
+    "ar": "فضي"
+  },
+  "cvet-paneli-konforok/value/chernyy": {
+    "ru": "чёрный",
+    "en": "black",
+    "ar": "أسود"
+  },
+  "cvet-paneli-konforok/value/seryy": {
+    "ru": "серый",
+    "en": "gray",
+    "ar": "رمادي"
+  },
+  "cvet-paneli-konforok/name": {
+    "ru": "Цвет панели конфорок",
+    "en": "Cooktop surface color",
+    "ar": "لون لوحة الشعلات"
+  },
+  "cvet-furnitury/value/serebristyy": {
+    "ru": "серебристый",
+    "en": "silver",
+    "ar": "فضي"
+  },
+  "cvet-furnitury/value/belyy": {
+    "ru": "белый",
+    "en": "white",
+    "ar": "أبيض"
+  },
+  "cvet-furnitury/value/chernyy": {
+    "ru": "чёрный",
+    "en": "black",
+    "ar": "أسود"
+  },
+  "cvet-furnitury/value/nerzhaveyuschaya-stal": {
+    "ru": "нержавеющая сталь",
+    "en": "stainless steel",
+    "ar": "ستانلس ستيل (فولاذ مقاوم للصدأ)"
+  },
+  "cvet-furnitury/value/seryy": {
+    "ru": "серый",
+    "en": "gray",
+    "ar": "رمادي"
+  },
+  "cvet-furnitury/value/bronzovyy": {
+    "ru": "бронзовый",
+    "en": "bronze",
+    "ar": "برونزي"
+  },
+  "cvet-furnitury/value/bronza": {
+    "ru": "бронза",
+    "en": "bronze",
+    "ar": "برونزي"
+  },
+  "cvet-furnitury/name": {
+    "ru": "Цвет фурнитуры",
+    "en": "Hardware color",
+    "ar": "لون التجهيزات"
+  },
+  "elektropodzhig/value/avtomaticheskiy": {
+    "ru": "автоматический",
+    "en": "automatic",
+    "ar": "تلقائي"
+  },
+  "elektropodzhig/value/da": {
+    "ru": "да",
+    "en": "yes",
+    "ar": "نعم"
+  },
+  "elektropodzhig/name": {
+    "ru": "Электроподжиг",
+    "en": "Automatic electric ignition",
+    "ar": "الإشعال الكهربائي التلقائي"
+  },
+  "vsego-konforok/name": {
+    "ru": "Всего конфорок",
+    "en": "Total burners",
+    "ar": "إجمالي عدد الشعلات"
+  },
+  "kolichestvo-gazovyh-konforok/name": {
+    "ru": "Количество газовых конфорок",
+    "en": "Gas burner count",
+    "ar": "عدد الشعلات الغازية"
+  },
+  "konforok-s-dvoynym-ryadom-plameni/name": {
+    "ru": "Конфорок с двойным рядом пламени",
+    "en": "Dual flame ring burners",
+    "ar": "عدد الشعلات مزدوجة الحلقة"
+  },
+  "moschnost-zadney-levoy-konforki/value/600-1750-vt": {
+    "ru": "600-1750 Вт",
+    "en": "600-1750 W",
+    "ar": "600-1750 واط"
+  },
+  "moschnost-zadney-levoy-konforki/value/1200-vt": {
+    "ru": "1200 Вт",
+    "en": "1200 W",
+    "ar": "1200 واط"
+  },
+  "moschnost-zadney-levoy-konforki/value/1300-1400-vt": {
+    "ru": "1300/1400 Вт",
+    "en": "1300/1400 W",
+    "ar": "1300/1400 واط"
+  },
+  "moschnost-zadney-levoy-konforki/value/1800-vt": {
+    "ru": "1800 Вт",
+    "en": "1800 W",
+    "ar": "1800 واط"
+  },
+  "moschnost-zadney-levoy-konforki/value/1200-1600-vt": {
+    "ru": "1200/1600 Вт",
+    "en": "1200/1600 W",
+    "ar": "1200/1600 واط"
+  },
+  "moschnost-zadney-levoy-konforki/value/2100-3000-vt": {
+    "ru": "2100/3000 Вт",
+    "en": "2100/3000 W",
+    "ar": "2100/3000 واط"
+  },
+  "moschnost-zadney-levoy-konforki/name": {
+    "ru": "Мощность задней левой конфорки",
+    "en": "Rear left burner power",
+    "ar": "قدرة الشعلة الخلفية اليسرى"
+  },
+  "moschnost-zadney-pravoy-konforki/value/1050-3000-vt": {
+    "ru": "1050-3000 Вт",
+    "en": "1050-3000 W",
+    "ar": "1050-3000 واط"
+  },
+  "moschnost-zadney-pravoy-konforki/value/1700-vt": {
+    "ru": "1700 Вт",
+    "en": "1700 W",
+    "ar": "1700 واط"
+  },
+  "moschnost-zadney-pravoy-konforki/value/480-500-vt": {
+    "ru": "480-500 Вт",
+    "en": "480-500 W",
+    "ar": "480-500 واط"
+  },
+  "moschnost-zadney-pravoy-konforki/value/2300-3000-vt": {
+    "ru": "2300/3000 Вт",
+    "en": "2300/3000 W",
+    "ar": "2300/3000 واط"
+  },
+  "moschnost-zadney-pravoy-konforki/value/1800-vt": {
+    "ru": "1800 Вт",
+    "en": "1800 W",
+    "ar": "1800 واط"
+  },
+  "moschnost-zadney-pravoy-konforki/value/1500-2000-vt": {
+    "ru": "1500/2000 Вт",
+    "en": "1500/2000 W",
+    "ar": "1500/2000 واط"
+  },
+  "moschnost-zadney-pravoy-konforki/value/2100-3000-vt": {
+    "ru": "2100/3000 Вт",
+    "en": "2100/3000 W",
+    "ar": "2100/3000 واط"
+  },
+  "moschnost-zadney-pravoy-konforki/name": {
+    "ru": "Мощность задней правой конфорки",
+    "en": "Rear right burner power",
+    "ar": "قدرة الشعلة الخلفية اليمنى"
+  },
+  "moschnost-peredney-levoy-konforki/value/480-5000-vt": {
+    "ru": "480-5000 Вт",
+    "en": "480-5000 W",
+    "ar": "480-5000 واط"
+  },
+  "moschnost-peredney-levoy-konforki/value/1700-vt": {
+    "ru": "1700 Вт",
+    "en": "1700 W",
+    "ar": "1700 واط"
+  },
+  "moschnost-peredney-levoy-konforki/value/480-500-vt": {
+    "ru": "480-500 Вт",
+    "en": "480-500 W",
+    "ar": "480-500 واط"
+  },
+  "moschnost-peredney-levoy-konforki/value/2300-3000-vt": {
+    "ru": "2300/3000 Вт",
+    "en": "2300/3000 W",
+    "ar": "2300/3000 واط"
+  },
+  "moschnost-peredney-levoy-konforki/value/2900-vt": {
+    "ru": "2900 Вт",
+    "en": "2900 W",
+    "ar": "2900 واط"
+  },
+  "moschnost-peredney-levoy-konforki/value/1500-2000-vt": {
+    "ru": "1500/2000 Вт",
+    "en": "1500/2000 W",
+    "ar": "1500/2000 واط"
+  },
+  "moschnost-peredney-levoy-konforki/value/1600-1850-vt": {
+    "ru": "1600/1850 Вт",
+    "en": "1600/1850 W",
+    "ar": "1600/1850 واط"
+  },
+  "moschnost-peredney-levoy-konforki/name": {
+    "ru": "Мощность передней левой конфорки",
+    "en": "Front left burner power",
+    "ar": "قدرة الشعلة الأمامية اليسرى"
+  },
+  "moschnost-peredney-pravoy-konforki/value/480-1000-vt": {
+    "ru": "480-1000 Вт",
+    "en": "480-1000 W",
+    "ar": "480-1000 واط"
+  },
+  "moschnost-peredney-pravoy-konforki/value/1200-vt": {
+    "ru": "1200 Вт",
+    "en": "1200 W",
+    "ar": "1200 واط"
+  },
+  "moschnost-peredney-pravoy-konforki/value/1300-1400-vt": {
+    "ru": "1300/1400 Вт",
+    "en": "1300/1400 W",
+    "ar": "1300/1400 واط"
+  },
+  "moschnost-peredney-pravoy-konforki/value/1000-vt": {
+    "ru": "1000 Вт",
+    "en": "1000 W",
+    "ar": "1000 واط"
+  },
+  "moschnost-peredney-pravoy-konforki/value/1200-1600-vt": {
+    "ru": "1200/1600 Вт",
+    "en": "1200/1600 W",
+    "ar": "1200/1600 واط"
+  },
+  "moschnost-peredney-pravoy-konforki/value/1600-1850-vt": {
+    "ru": "1600/1850 Вт",
+    "en": "1600/1850 W",
+    "ar": "1600/1850 واط"
+  },
+  "moschnost-peredney-pravoy-konforki/name": {
+    "ru": "Мощность передней правой конфорки",
+    "en": "Front right burner power",
+    "ar": "قدرة الشعلة الأمامية اليمنى"
+  },
+  "moschnost-centralnoy-zadney-konforki/value/600-1750-vt": {
+    "ru": "600-1750 Вт",
+    "en": "600-1750 W",
+    "ar": "600-1750 واط"
+  },
+  "moschnost-centralnoy-zadney-konforki/name": {
+    "ru": "Мощность центральной задней конфорки",
+    "en": "Rear center burner power",
+    "ar": "قدرة الشعلة الخلفية الوسطى"
+  },
+  "moschnost-centralnoy-peredney-konforki/value/600-1750-vt": {
+    "ru": "600-1750 Вт",
+    "en": "600-1750 W",
+    "ar": "600-1750 واط"
+  },
+  "moschnost-centralnoy-peredney-konforki/name": {
+    "ru": "Мощность центральной передней конфорки",
+    "en": "Front center burner power",
+    "ar": "قدرة الشعلة الأمامية الوسطى"
+  },
+  "konforka-wok/name": {
+    "ru": "Конфорка WOK",
+    "en": "Wok burner",
+    "ar": "شعلة ووك"
+  },
+  "kolichestvo-duhovok/name": {
+    "ru": "Количество духовок",
+    "en": "Oven count",
+    "ar": "عدد الأفران"
+  },
+  "obem-duhovki/name": {
+    "ru": "Объем духовки",
+    "en": "Oven cavity volume",
+    "ar": "سعة الفرن"
+  },
+  "obem-duhovki/unit": {
+    "ru": "л",
+    "en": "L",
+    "ar": "لتر"
+  },
+  "material-rabochey-kamery/value/emal": {
+    "ru": "эмаль",
+    "en": "enamel",
+    "ar": "إيناميل"
+  },
+  "material-rabochey-kamery/value/emal-ever-clean": {
+    "ru": "эмаль Ever Clean",
+    "en": "Ever Clean enamel",
+    "ar": "إيناميل Ever Clean"
+  },
+  "material-rabochey-kamery/name": {
+    "ru": "Материал рабочей камеры",
+    "en": "Working chamber material",
+    "ar": "مادة حجرة العمل"
+  },
+  "ochistka-duhovki/value/kataliticheskaya": {
+    "ru": "каталитическая",
+    "en": "catalytic",
+    "ar": "تحفيزي (كاتاليتيك)"
+  },
+  "ochistka-duhovki/value/gidroliznaya": {
+    "ru": "гидролизная",
+    "en": "hydrolytic",
+    "ar": "تحلل مائي (هيدروليتيك)"
+  },
+  "ochistka-duhovki/name": {
+    "ru": "Очистка духовки",
+    "en": "Oven cleaning system",
+    "ar": "نظام تنظيف الفرن"
+  },
+  "plity-kolichestvo-rezhimov-raboty/name": {
+    "ru": "Количество режимов работы",
+    "en": "Operating mode count",
+    "ar": "عدد أوضاع التشغيل"
+  },
+  "duhovye-shkafy-kolichestvo-rezhimov-raboty/name": {
+    "ru": "Количество режимов работы",
+    "en": "Operating mode count",
+    "ar": "عدد أوضاع التشغيل"
+  },
+  "mikrovolnovye-pechi-kolichestvo-rezhimov-raboty/name": {
+    "ru": "Количество режимов работы",
+    "en": "Operating mode count",
+    "ar": "عدد أوضاع التشغيل"
+  },
+  "pylesosy-kolichestvo-rezhimov-raboty/value/5": {
+    "ru": "5",
+    "en": "5",
+    "ar": "5"
+  },
+  "pylesosy-kolichestvo-rezhimov-raboty/value/1": {
+    "ru": "1",
+    "en": "1",
+    "ar": "1"
+  },
+  "pylesosy-kolichestvo-rezhimov-raboty/value/2": {
+    "ru": "2",
+    "en": "2",
+    "ar": "2"
+  },
+  "pylesosy-kolichestvo-rezhimov-raboty/value/3": {
+    "ru": "3",
+    "en": "3",
+    "ar": "3"
+  },
+  "pylesosy-kolichestvo-rezhimov-raboty/value/4": {
+    "ru": "4",
+    "en": "4",
+    "ar": "4"
+  },
+  "pylesosy-kolichestvo-rezhimov-raboty/value/5-4-mobilnoe-prilozhenie": {
+    "ru": "5 (4 мобильное приложение)",
+    "en": "5 (4 mobile app)",
+    "ar": "5 (4 عبر التطبيق)"
+  },
+  "pylesosy-kolichestvo-rezhimov-raboty/value/5-3-mobilnoe-prilozhenie": {
+    "ru": "5 (3 мобильное приложение)",
+    "en": "5 (3 mobile app)",
+    "ar": "5 (3 عبر التطبيق)"
+  },
+  "pylesosy-kolichestvo-rezhimov-raboty/value/6-4-mobilnoe-prilozhenie": {
+    "ru": "6 (4 мобильное приложение)",
+    "en": "6 (4 mobile app)",
+    "ar": "6 (4 عبر التطبيق)"
+  },
+  "pylesosy-kolichestvo-rezhimov-raboty/name": {
+    "ru": "Количество режимов работы",
+    "en": "Operating mode count",
+    "ar": "عدد أوضاع التشغيل"
+  },
+  "rezhimy-raboty/name": {
+    "ru": "Режимы работы",
+    "en": "Operating modes",
+    "ar": "أوضاع التشغيل"
+  },
+  "tip-grilya/value/ten": {
+    "ru": "тэн",
+    "en": "heating element",
+    "ar": "عنصر تسخين"
+  },
+  "tip-grilya/value/tenovyy": {
+    "ru": "тэновый",
+    "en": "heating element",
+    "ar": "عنصر تسخين"
+  },
+  "tip-grilya/value/kvarcevyy": {
+    "ru": "кварцевый",
+    "en": "quartz",
+    "ar": "كوارتز"
+  },
+  "tip-grilya/name": {
+    "ru": "Тип гриля",
+    "en": "Grill type",
+    "ar": "نوع الشواية"
+  },
+  "kolichestvo-urovney-prigotovleniya/name": {
+    "ru": "Количество уровней приготовления",
+    "en": "Cooking level count",
+    "ar": "عدد مستويات الطهي"
+  },
+  "maksimalnaya-temperatura-duhovogo-shkafa/name": {
+    "ru": "Максимальная температура духового шкафа",
+    "en": "Maximum oven temperature",
+    "ar": "أقصى درجة حرارة للفرن"
+  },
+  "maksimalnaya-temperatura-duhovogo-shkafa/unit": {
+    "ru": "°C",
+    "en": "°C",
+    "ar": "°م"
+  },
+  "kolichestvo-stekol-dvercy/name": {
+    "ru": "Количество стекол дверцы",
+    "en": "Door glass layer count",
+    "ar": "عدد طبقات زجاج الباب"
+  },
+  "polozya-dlya-protivney/value/hromirovannye-napravlyayuschie": {
+    "ru": "хромированные направляющие",
+    "en": "chromed runners",
+    "ar": "سكك مطلية بالكروم"
+  },
+  "polozya-dlya-protivney/value/semnye-napravlyayuschie": {
+    "ru": "съемные направляющие",
+    "en": "removable runners",
+    "ar": "سكك قابلة للإزالة"
+  },
+  "polozya-dlya-protivney/value/teleskopicheskie-napravlyayuschie": {
+    "ru": "телескопические направляющие",
+    "en": "telescopic runners",
+    "ar": "سكك تلسكوبية"
+  },
+  "polozya-dlya-protivney/value/semnye": {
+    "ru": "съемные",
+    "en": "removable",
+    "ar": "قابلة للإزالة"
+  },
+  "polozya-dlya-protivney/value/metallicheskie": {
+    "ru": "металлические",
+    "en": "metal",
+    "ar": "معدنية"
+  },
+  "polozya-dlya-protivney/value/teleskopicheskie": {
+    "ru": "телескопические",
+    "en": "telescopic",
+    "ar": "تلسكوبية"
+  },
+  "polozya-dlya-protivney/value/metallicheskie-napravlyayuschie": {
+    "ru": "металлические направляющие",
+    "en": "metal wire runners",
+    "ar": "سكك سلكية معدنية"
+  },
+  "polozya-dlya-protivney/value/hromirovannye": {
+    "ru": "хромированные",
+    "en": "chromed",
+    "ar": "مطلية بالكروم"
+  },
+  "polozya-dlya-protivney/name": {
+    "ru": "Полозья для противней",
+    "en": "Baking tray runners",
+    "ar": "مجاري تثبيت صواني الفرن"
+  },
+  "plity-teleskopicheskie-napravlyayuschie/value/odnourovnevye": {
+    "ru": "одноуровневые",
+    "en": "single level",
+    "ar": "مستوى واحد"
+  },
+  "plity-teleskopicheskie-napravlyayuschie/name": {
+    "ru": "Телескопические направляющие",
+    "en": "Telescopic shelf runners",
+    "ar": "سكك تلسكوبية منزلقة لصواني الفرن"
+  },
+  "duhovye-shkafy-teleskopicheskie-napravlyayuschie/name": {
+    "ru": "Телескопические направляющие",
+    "en": "Telescopic shelf runners",
+    "ar": "سكك تلسكوبية منزلقة لصواني الفرن"
+  },
+  "gaz-kontrol-konforok/name": {
+    "ru": "Газ-контроль конфорок",
+    "en": "Burner flame failure safety device",
+    "ar": "نظام الأمان لفصل الغاز عند انطفاء الشعلة"
+  },
+  "potreblyaemaya-moschnost/name": {
+    "ru": "Потребляемая мощность",
+    "en": "Power consumption",
+    "ar": "استهلاك الطاقة الكهربائية"
+  },
+  "potreblyaemaya-moschnost/unit": {
+    "ru": "Вт",
+    "en": "W",
+    "ar": "واط"
+  },
+  "tip-gaza/value/prirodnyy-metan": {
+    "ru": "природный (метан",
+    "en": "natural gas (methane)",
+    "ar": "غاز طبيعي (ميثان G20)"
+  },
+  "tip-gaza/value/g20": {
+    "ru": "G20)",
+    "en": "G20)",
+    "ar": "G20)"
+  },
+  "tip-gaza/value/ballonnyy-propan-butan": {
+    "ru": "баллонный (пропан-бутан",
+    "en": "bottled gas (propane-butane)",
+    "ar": "غاز الأسطوانات المسال (بروبان-بوتان G31/G30)"
+  },
+  "tip-gaza/value/g31-g30": {
+    "ru": "G31/G30)",
+    "en": "G31/G30)",
+    "ar": "G31/G30)"
+  },
+  "tip-gaza/name": {
+    "ru": "Тип газа",
+    "en": "Gas type",
+    "ar": "نوع الغاز المستخدم"
+  },
+  "reshetki-varochnoy-poverhnosti/value/chugunnye-razdelnye": {
+    "ru": "чугунные раздельные",
+    "en": "split cast iron",
+    "ar": "حديد زهر ثقيل منفصل (Cast Iron)"
+  },
+  "reshetki-varochnoy-poverhnosti/value/chugunnaya-celnaya": {
+    "ru": "чугунная цельная",
+    "en": "single-piece cast iron",
+    "ar": "حديد زهر متصل بالكامل"
+  },
+  "reshetki-varochnoy-poverhnosti/value/stalnaya-emalirovannaya-razdelnaya": {
+    "ru": "стальная эмалированная раздельная",
+    "en": "split enamelled steel",
+    "ar": "فولاذ مطلي بالمينا منفصل"
+  },
+  "reshetki-varochnoy-poverhnosti/name": {
+    "ru": "Решетки варочной поверхности",
+    "en": "Cooktop pan supports",
+    "ar": "شبكات وقواعد أواني الطهي"
+  },
+  "komplekt-postavki/name": {
+    "ru": "Комплект поставки",
+    "en": "Included accessories",
+    "ar": "الملحقات المرفقة"
+  },
+  "yaschik-dlya-posudy/name": {
+    "ru": "Ящик для посуды",
+    "en": "Storage drawer",
+    "ar": "درج تخزين سفلي للأواني"
+  },
+  "taymer/value/cifrovoy": {
+    "ru": "цифровой",
+    "en": "digital",
+    "ar": "رقمية"
+  },
+  "taymer/value/taymer-vklyucheniya-vyklyucheniya": {
+    "ru": "таймер включения/выключения",
+    "en": "on/off timer",
+    "ar": "مؤقت تشغيل / إيقاف آلي"
+  },
+  "taymer/value/taymer-vyklyucheniya": {
+    "ru": "таймер выключения",
+    "en": "off timer",
+    "ar": "مؤقت إيقاف تشغيل تلقائي"
+  },
+  "taymer/value/mehanicheskoe": {
+    "ru": "механическое",
+    "en": "mechanical",
+    "ar": "ميكانيكي"
+  },
+  "taymer/value/taymer-s-akusticheskim-signalom": {
+    "ru": "таймер с акустическим сигналом",
+    "en": "acoustic timer",
+    "ar": "مؤقت بمنبه صوتي"
+  },
+  "taymer/value/taymer-vklyucheniya": {
+    "ru": "таймер включения",
+    "en": "on timer",
+    "ar": "مؤقت بدء تشغيل مبرمج"
+  },
+  "taymer/name": {
+    "ru": "Таймер",
+    "en": "Timer",
+    "ar": "المؤقت الزمني"
+  },
+  "zvukovoy-taymer/name": {
+    "ru": "Звуковой таймер",
+    "en": "Acoustic timer",
+    "ar": "مؤقت تنبيه صوتي"
+  },
+  "tip-elektrokonforok/value/hi-light": {
+    "ru": "Hi-Light",
+    "en": "Hi-Light",
+    "ar": "شعلات سريعة Hi-Light"
+  },
+  "tip-elektrokonforok/value/chugunnyy": {
+    "ru": "чугунный",
+    "en": "cast iron",
+    "ar": "أقراص تسخين حديد زهر"
+  },
+  "tip-elektrokonforok/value/indukcionnyy": {
+    "ru": "индукционный",
+    "en": "induction",
+    "ar": "حث كهرومغناطيسي (Induction)"
+  },
+  "tip-elektrokonforok/name": {
+    "ru": "Тип электроконфорок",
+    "en": "Electric burner type",
+    "ar": "نوع شعلات التسخين الكهربائية"
+  },
+  "razmer-levoy-zadney-konforki/value/14-5-sm": {
+    "ru": "14.5 см",
+    "en": "14.5 cm",
+    "ar": "14.5 سم"
+  },
+  "razmer-levoy-zadney-konforki/value/18-sm": {
+    "ru": "18 см",
+    "en": "18 cm",
+    "ar": "18 سم"
+  },
+  "razmer-levoy-zadney-konforki/value/15-sm": {
+    "ru": "15 см",
+    "en": "15 cm",
+    "ar": "15 سم"
+  },
+  "razmer-levoy-zadney-konforki/value/21x20-sm": {
+    "ru": "21x20 см",
+    "en": "21x20 cm",
+    "ar": "21x20 سم"
+  },
+  "razmer-levoy-zadney-konforki/name": {
+    "ru": "Размер левой задней конфорки",
+    "en": "Left rear burner size",
+    "ar": "مقاس الشعلة الخلفية اليسرى"
+  },
+  "razmer-levoy-peredney-konforki/value/18-sm": {
+    "ru": "18 см",
+    "en": "18 cm",
+    "ar": "18 سم"
+  },
+  "razmer-levoy-peredney-konforki/value/21-sm": {
+    "ru": "21 см",
+    "en": "21 cm",
+    "ar": "21 سم"
+  },
+  "razmer-levoy-peredney-konforki/value/21x20-sm": {
+    "ru": "21x20 см",
+    "en": "21x20 cm",
+    "ar": "21x20 سم"
+  },
+  "razmer-levoy-peredney-konforki/name": {
+    "ru": "Размер левой передней конфорки",
+    "en": "Left front burner size",
+    "ar": "مقاس الشعلة الأمامية اليسرى"
+  },
+  "razmer-pravoy-zadney-konforki/value/18-sm": {
+    "ru": "18 см",
+    "en": "18 cm",
+    "ar": "18 سم"
+  },
+  "razmer-pravoy-zadney-konforki/value/21-sm": {
+    "ru": "21 см",
+    "en": "21 cm",
+    "ar": "21 سم"
+  },
+  "razmer-pravoy-zadney-konforki/value/21x20-sm": {
+    "ru": "21x20 см",
+    "en": "21x20 cm",
+    "ar": "21x20 سم"
+  },
+  "razmer-pravoy-zadney-konforki/name": {
+    "ru": "Размер правой задней конфорки",
+    "en": "Right rear burner size",
+    "ar": "مقاس الشعلة الخلفية اليمنى"
+  },
+  "razmer-pravoy-peredney-konforki/value/14-5-sm": {
+    "ru": "14.5 см",
+    "en": "14.5 cm",
+    "ar": "14.5 سم"
+  },
+  "razmer-pravoy-peredney-konforki/value/18-sm": {
+    "ru": "18 см",
+    "en": "18 cm",
+    "ar": "18 سم"
+  },
+  "razmer-pravoy-peredney-konforki/value/15-sm": {
+    "ru": "15 см",
+    "en": "15 cm",
+    "ar": "15 سم"
+  },
+  "razmer-pravoy-peredney-konforki/value/21x20-sm": {
+    "ru": "21x20 см",
+    "en": "21x20 cm",
+    "ar": "21x20 سم"
+  },
+  "razmer-pravoy-peredney-konforki/name": {
+    "ru": "Размер правой передней конфорки",
+    "en": "Right front burner size",
+    "ar": "مقاس الشعلة الأمامية اليمنى"
+  },
+  "indikatornaya-lampochka/name": {
+    "ru": "Индикаторная лампочка",
+    "en": "Indicator lamp",
+    "ar": "لمبة مؤشر الحالة"
+  },
+  "indikator-raboty-duhovki/name": {
+    "ru": "Индикатор работы духовки",
+    "en": "Oven active indicator",
+    "ar": "مؤشر تشغيل الفرن"
+  },
+  "indikator-vremeni-prigotovleniya/name": {
+    "ru": "Индикатор времени приготовления",
+    "en": "Cooking time indicator",
+    "ar": "مؤشر وقت الطهي"
+  },
+  "indikaciya-ostatochnogo-tepla/value/dlya-vseh-zon": {
+    "ru": "для всех зон",
+    "en": "for all zones",
+    "ar": "لجميع مناطق الطهي"
+  },
+  "indikaciya-ostatochnogo-tepla/name": {
+    "ru": "Индикация остаточного тепла",
+    "en": "Residual heat indication",
+    "ar": "مؤشر الحرارة المتبقية لأسطح الطهي"
+  },
+  "blokirovka-paneli-upravleniya/name": {
+    "ru": "Блокировка панели управления",
+    "en": "Control panel lock",
+    "ar": "قفل أمان لوحة التحكم للأطفال"
+  },
+  "moschnost-podklyucheniya/name": {
+    "ru": "Мощность подключения",
+    "en": "Connected load",
+    "ar": "إجمالي قدرة التوصيل الكهربائي"
+  },
+  "moschnost-podklyucheniya/unit": {
+    "ru": "Вт",
+    "en": "W",
+    "ar": "واط"
+  },
+  "plity-dopolnitelnye-vozmozhnosti-duhovogo-shkafa/value/ventilyator-ohlazhdeniya": {
+    "ru": "вентилятор охлаждения",
+    "en": "cooling fan",
+    "ar": "مروحة تبريد الهيكل الخارجي"
+  },
+  "plity-dopolnitelnye-vozmozhnosti-duhovogo-shkafa/value/bystryy-razogrev": {
+    "ru": "быстрый разогрев",
+    "en": "rapid preheat",
+    "ar": "تسخين فائق السرعة"
+  },
+  "plity-dopolnitelnye-vozmozhnosti-duhovogo-shkafa/name": {
+    "ru": "Дополнительные возможности духового шкафа",
+    "en": "Oven extra features",
+    "ar": "الميزات الإضافية للفرن"
+  },
+  "duhovye-shkafy-dopolnitelnye-vozmozhnosti-duhovogo-shkafa/value/poshagovoe-prigotovlenie": {
+    "ru": "пошаговое приготовление",
+    "en": "multi-step cooking",
+    "ar": "طهي متسلسل متعدد المراحل"
+  },
+  "duhovye-shkafy-dopolnitelnye-vozmozhnosti-duhovogo-shkafa/value/ventilyator-ohlazhdeniya": {
+    "ru": "вентилятор охлаждения",
+    "en": "cooling fan",
+    "ar": "مروحة تبريد الهيكل الخارجي"
+  },
+  "duhovye-shkafy-dopolnitelnye-vozmozhnosti-duhovogo-shkafa/value/bystryy-razogrev": {
+    "ru": "быстрый разогрев",
+    "en": "rapid preheat",
+    "ar": "تسخين فائق السرعة"
+  },
+  "duhovye-shkafy-dopolnitelnye-vozmozhnosti-duhovogo-shkafa/value/funkciya-graten": {
+    "ru": "функция «Гратен»",
+    "en": "Gratin function",
+    "ar": "وظيفة تحمير الغراتان (Gratin)"
+  },
+  "duhovye-shkafy-dopolnitelnye-vozmozhnosti-duhovogo-shkafa/value/avtomatika-vyklyucheniya": {
+    "ru": "автоматика выключения",
+    "en": "auto shut-off",
+    "ar": "إيقاف تشغيل تلقائي للأمان"
+  },
+  "duhovye-shkafy-dopolnitelnye-vozmozhnosti-duhovogo-shkafa/value/par-konvekciya": {
+    "ru": "пар+конвекция",
+    "en": "steam + convection",
+    "ar": "طهي بالبخار + كونفكشن مدمج"
+  },
+  "duhovye-shkafy-dopolnitelnye-vozmozhnosti-duhovogo-shkafa/value/bystryy-nagrev": {
+    "ru": "быстрый нагрев",
+    "en": "rapid heating",
+    "ar": "تسخين تسارعي سريع"
+  },
+  "duhovye-shkafy-dopolnitelnye-vozmozhnosti-duhovogo-shkafa/value/funkciya-popkorn": {
+    "ru": "функция «Попкорн»",
+    "en": "Popcorn function",
+    "ar": "برنامج الفشار (Popcorn)"
+  },
+  "duhovye-shkafy-dopolnitelnye-vozmozhnosti-duhovogo-shkafa/value/kombinaciya-rezhima-nagreva-s-mikrovolnami": {
+    "ru": "комбинация режима нагрева с микроволнами",
+    "en": "combination heating with microwaves",
+    "ar": "الجمع بين التسخين التقليدي والميكروويف"
+  },
+  "duhovye-shkafy-dopolnitelnye-vozmozhnosti-duhovogo-shkafa/value/programma-ochistki-ot-nakipi": {
+    "ru": "программа очистки от накипи",
+    "en": "descaling program",
+    "ar": "برنامج إزالة الترسبات الكلسية"
+  },
+  "duhovye-shkafy-dopolnitelnye-vozmozhnosti-duhovogo-shkafa/value/funkciya-sohranenie-tepla": {
+    "ru": "функция сохранение тепла",
+    "en": "keep-warm function",
+    "ar": "وظيفة الحفاظ على حرارة الطعام"
+  },
+  "duhovye-shkafy-dopolnitelnye-vozmozhnosti-duhovogo-shkafa/name": {
+    "ru": "Дополнительные возможности духового шкафа",
+    "en": "Oven extra features",
+    "ar": "الميزات الإضافية للفرن"
+  },
+  "chasy/value/elektronnye": {
+    "ru": "электронные",
+    "en": "electronic",
+    "ar": "إلكترونية"
+  },
+  "chasy/value/analogovye": {
+    "ru": "аналоговые",
+    "en": "analog",
+    "ar": "عقارب كلاسيكية (أنالوج)"
+  },
+  "chasy/name": {
+    "ru": "Часы",
+    "en": "Clock",
+    "ar": "الساعة"
+  },
+  "termoschup/name": {
+    "ru": "Термощуп",
+    "en": "Meat probe",
+    "ar": "مسبار قياس حرارة اللحوم (Meat Probe)"
+  },
+  "indikaciya-okonchaniya-prigotovleniya/name": {
+    "ru": "Индикация окончания приготовления",
+    "en": "End of cooking indication",
+    "ar": "مؤشر اكتمال الطهي"
+  },
+  "indikator-tekuschey-temperatury/name": {
+    "ru": "Индикатор текущей температуры",
+    "en": "Current temperature indicator",
+    "ar": "مؤشر درجة الحرارة الحالية للفرن"
+  },
+  "rezhim-usilennogo-nagreva/value/booster": {
+    "ru": "Booster",
+    "en": "Booster",
+    "ar": "Booster"
+  },
+  "rezhim-usilennogo-nagreva/value/boost": {
+    "ru": "Boost",
+    "en": "Boost",
+    "ar": "Boost"
+  },
+  "rezhim-usilennogo-nagreva/name": {
+    "ru": "Режим усиленного нагрева",
+    "en": "Boost heating mode",
+    "ar": "وضع التسخين المعزز الفائق (Booster)"
+  },
+  "kolichestvo-konforok-s-rezhimom-usileniya/name": {
+    "ru": "Количество конфорок с режимом усиления",
+    "en": "Booster burner count",
+    "ar": "عدد مناطق الطهي الداعمة للتسريع (Booster)"
+  },
+  "tangencialnoe-ohlazhdenie/name": {
+    "ru": "Тангенциальное охлаждение",
+    "en": "Tangential cooling fan",
+    "ar": "نظام التبريد المماسي لحماية الخزائن (Tangential Cooling)"
+  },
+  "plity-moschnost-grilya/value/2900-vt": {
+    "ru": "2900 Вт",
+    "en": "2900 W",
+    "ar": "2900 واط"
+  },
+  "plity-moschnost-grilya/value/1200": {
+    "ru": "1200",
+    "en": "1200",
+    "ar": "1200 واط"
+  },
+  "plity-moschnost-grilya/value/1700": {
+    "ru": "1700",
+    "en": "1700",
+    "ar": "1700 واط"
+  },
+  "plity-moschnost-grilya/value/2000": {
+    "ru": "2000",
+    "en": "2000",
+    "ar": "2000 واط"
+  },
+  "plity-moschnost-grilya/value/2700-vt": {
+    "ru": "2700 Вт",
+    "en": "2700 W",
+    "ar": "2700 واط"
+  },
+  "plity-moschnost-grilya/name": {
+    "ru": "Мощность гриля",
+    "en": "Grill power",
+    "ar": "قدرة الشواية الكهربائية"
+  },
+  "duhovye-shkafy-moschnost-grilya/name": {
+    "ru": "Мощность гриля",
+    "en": "Grill power",
+    "ar": "قدرة الشواية الكهربائية"
+  },
+  "duhovye-shkafy-moschnost-grilya/unit": {
+    "ru": "Вт",
+    "en": "W",
+    "ar": "واط"
+  },
+  "mikrovolnovye-pechi-moschnost-grilya/name": {
+    "ru": "Мощность гриля",
+    "en": "Grill power",
+    "ar": "قدرة الشواية الكهربائية"
+  },
+  "mikrovolnovye-pechi-moschnost-grilya/unit": {
+    "ru": "Вт",
+    "en": "W",
+    "ar": "واط"
+  },
+  "tip-podklyucheniya/value/nezavisimaya": {
+    "ru": "независимая",
+    "en": "independent",
+    "ar": "مستقل بذاته"
+  },
+  "tip-podklyucheniya/name": {
+    "ru": "Тип подключения",
+    "en": "Connection type",
+    "ar": "نوع التركيب والتوصيل"
+  },
+  "ochistka/value/piroliticheskaya": {
+    "ru": "пиролитическая",
+    "en": "pyrolytic",
+    "ar": "تنظيف حراري ذاتي (بيروليتيك)"
+  },
+  "ochistka/value/gidroliznaya": {
+    "ru": "гидролизная",
+    "en": "hydrolytic",
+    "ar": "تحلل مائي (هيدروليتيك)"
+  },
+  "ochistka/value/kataliticheskaya": {
+    "ru": "каталитическая",
+    "en": "catalytic",
+    "ar": "تحفيزي (كاتاليتيك)"
+  },
+  "ochistka/name": {
+    "ru": "Очистка",
+    "en": "Cleaning",
+    "ar": "نظام التنظيف"
+  },
+  "material-kamery/value/piroliticheskaya-emal": {
+    "ru": "пиролитическая эмаль",
+    "en": "pyrolytic enamel",
+    "ar": "مينا حرارية فائقة التحمل (Pyrolytic Enamel)"
+  },
+  "material-kamery/value/emal-crystal-clean": {
+    "ru": "эмаль Crystal Clean",
+    "en": "Crystal Clean enamel",
+    "ar": "مينا كريستال كلين المصقولة (Crystal Clean)"
+  },
+  "material-kamery/value/emal-legkoy-ochistki": {
+    "ru": "эмаль легкой очистки",
+    "en": "easy-clean enamel",
+    "ar": "مينا ناعمة سهلة التنظيف"
+  },
+  "material-kamery/value/emal": {
+    "ru": "эмаль",
+    "en": "enamel",
+    "ar": "إيناميل"
+  },
+  "material-kamery/value/emal-ever-clean": {
+    "ru": "эмаль Ever Clean",
+    "en": "Ever Clean enamel",
+    "ar": "إيناميل Ever Clean"
+  },
+  "material-kamery/value/kataliticheskaya-emal": {
+    "ru": "каталитическая эмаль",
+    "en": "catalytic enamel",
+    "ar": "مينا ذاتية التحفيز (Catalytic)"
+  },
+  "material-kamery/name": {
+    "ru": "Материал камеры",
+    "en": "Cavity material",
+    "ar": "مادة طلاء الحجرة الداخلية"
+  },
+  "material-frontalnoy-paneli/value/steklo": {
+    "ru": "стекло",
+    "en": "glass",
+    "ar": "زجاج"
+  },
+  "material-frontalnoy-paneli/value/nerzhaveyuschaya-stal": {
+    "ru": "нержавеющая сталь",
+    "en": "stainless steel",
+    "ar": "ستانلس ستيل (فولاذ مقاوم للصدأ)"
+  },
+  "material-frontalnoy-paneli/name": {
+    "ru": "Материал фронтальной панели",
+    "en": "Front panel material",
+    "ar": "مادة تصنيع الواجهة الأمامية"
+  },
+  "cvet-ruchki/value/serebristyy": {
+    "ru": "серебристый",
+    "en": "silver",
+    "ar": "فضي"
+  },
+  "cvet-ruchki/value/bronza": {
+    "ru": "бронза",
+    "en": "bronze",
+    "ar": "برونزي"
+  },
+  "cvet-ruchki/value/chernyy": {
+    "ru": "чёрный",
+    "en": "black",
+    "ar": "أسود"
+  },
+  "cvet-ruchki/value/seryy": {
+    "ru": "серый",
+    "en": "gray",
+    "ar": "رمادي"
+  },
+  "cvet-ruchki/name": {
+    "ru": "Цвет ручки",
+    "en": "Handle color",
+    "ar": "لون مقبض الباب"
+  },
+  "raspolozhenie-pereklyuchatelya/value/na-poverhnosti-duhovogo-shkafa": {
+    "ru": "на поверхности духового шкафа",
+    "en": "on oven surface",
+    "ar": "على سطح الفرن"
+  },
+  "raspolozhenie-pereklyuchatelya/name": {
+    "ru": "Расположение переключателя",
+    "en": "Switch location",
+    "ar": "موضع مفاتيح التشغيل"
+  },
+  "prigotovlenie-na-paru/name": {
+    "ru": "Приготовление на пару",
+    "en": "Steam cooking",
+    "ar": "الطهي بالبخار"
+  },
+  "programma-razmorazhivaniya/value/po-vremeni": {
+    "ru": "по времени",
+    "en": "by time",
+    "ar": "حسب الوقت"
+  },
+  "programma-razmorazhivaniya/value/po-vesu": {
+    "ru": "по весу",
+    "en": "by weight",
+    "ar": "حسب الوزن"
+  },
+  "programma-razmorazhivaniya/value/po-tipu": {
+    "ru": "по типу",
+    "en": "by type",
+    "ar": "حسب النوع"
+  },
+  "programma-razmorazhivaniya/value/avtomaticheskaya": {
+    "ru": "автоматическая",
+    "en": "automatic",
+    "ar": "تلقائي"
+  },
+  "programma-razmorazhivaniya/name": {
+    "ru": "Программа размораживания",
+    "en": "Defrost program",
+    "ar": "برنامج إزالة التجميد"
+  },
+  "kolichestvo-avtomaticheskih-programm/name": {
+    "ru": "Количество автоматических программ",
+    "en": "Auto program count",
+    "ar": "عدد البرامج التلقائية"
+  },
+  "blokirovka-ot-detey/name": {
+    "ru": "Блокировка от детей",
+    "en": "Child lock",
+    "ar": "قفل الأمان للأطفال"
+  },
+  "osobennosti-konstrukcii-duhovogo-shkafa/value/semnoe-vnutrennee-steklo": {
+    "ru": "съемное внутреннее стекло",
+    "en": "removable inner glass",
+    "ar": "زجاج داخلي قابل للإزالة"
+  },
+  "osobennosti-konstrukcii-duhovogo-shkafa/value/semnaya-dverca": {
+    "ru": "съемная дверца",
+    "en": "removable door",
+    "ar": "باب قابل للإزالة"
+  },
+  "osobennosti-konstrukcii-duhovogo-shkafa/value/plavnoe-zakrytie-dvercy": {
+    "ru": "плавное закрытие дверцы",
+    "en": "soft door close",
+    "ar": "إغلاق ناعم للباب"
+  },
+  "osobennosti-konstrukcii-duhovogo-shkafa/value/petli-soft-close": {
+    "ru": "петли Soft close",
+    "en": "Soft close hinges",
+    "ar": "مفصلات إغلاق ناعم (Soft Close)"
+  },
+  "osobennosti-konstrukcii-duhovogo-shkafa/value/holodnyy-front": {
+    "ru": "холодный фронт",
+    "en": "cool front",
+    "ar": "واجهة باردة"
+  },
+  "osobennosti-konstrukcii-duhovogo-shkafa/value/kataliticheskaya-zadnyaya-stenka": {
+    "ru": "каталитическая задняя стенка",
+    "en": "catalytic rear wall",
+    "ar": "جدار خلفي حفاز ذاتي التنظيف"
+  },
+  "osobennosti-konstrukcii-duhovogo-shkafa/value/ohlazhdenie-zadney-stenki": {
+    "ru": "охлаждение задней стенки",
+    "en": "rear wall cooling",
+    "ar": "تبريد الجدار الخلفي"
+  },
+  "osobennosti-konstrukcii-duhovogo-shkafa/value/ruchki-push-pull": {
+    "ru": "ручки Push Pull",
+    "en": "Push Pull knobs",
+    "ar": "مقابض Push Pull"
+  },
+  "osobennosti-konstrukcii-duhovogo-shkafa/value/tramp-linii-na-vnutrennem-stekle-dvercy": {
+    "ru": "трамп-линии на внутреннем стекле дверцы",
+    "en": "tram lines on inner door glass",
+    "ar": "خطوط زخرفية على الزجاج الداخلي للباب"
+  },
+  "osobennosti-konstrukcii-duhovogo-shkafa/value/dovodchik-dveri": {
+    "ru": "доводчик двери",
+    "en": "soft-close door",
+    "ar": "مفصل إغلاق ناعم للباب"
+  },
+  "osobennosti-konstrukcii-duhovogo-shkafa/name": {
+    "ru": "Особенности конструкции духового шкафа",
+    "en": "Oven design features",
+    "ar": "مزايا تصميم الفرن"
+  },
+  "dverca-duhovki/value/otkidnaya": {
+    "ru": "откидная",
+    "en": "drop-down",
+    "ar": "قابل للطي للأسفل"
+  },
+  "dverca-duhovki/name": {
+    "ru": "Дверца духовки",
+    "en": "Oven door",
+    "ar": "باب الفرن"
+  },
+  "rezhim-shabbat/name": {
+    "ru": "Режим шаббат",
+    "en": "Sabbath mode",
+    "ar": "وضع السبت (Sabbath)"
+  },
+  "kolichestvo-urovney-napravlyayuschih/name": {
+    "ru": "Количество уровней направляющих",
+    "en": "Shelf runner levels",
+    "ar": "عدد مستويات السكك"
+  },
+  "razmeschenie-teleskopicheskih-napravlyayuschih/value/dvuhurovnevye": {
+    "ru": "двухуровневые",
+    "en": "two-level",
+    "ar": "مستويان"
+  },
+  "razmeschenie-teleskopicheskih-napravlyayuschih/value/s-nepolnym-vydvizheniem": {
+    "ru": "с неполным выдвижением",
+    "en": "partial extension",
+    "ar": "انزلاق جزئي"
+  },
+  "razmeschenie-teleskopicheskih-napravlyayuschih/value/na-pervom-urovne": {
+    "ru": "на первом уровне",
+    "en": "on 1st level",
+    "ar": "في المستوى الأول"
+  },
+  "razmeschenie-teleskopicheskih-napravlyayuschih/value/odnourovnevye": {
+    "ru": "одноуровневые",
+    "en": "single level",
+    "ar": "مستوى واحد"
+  },
+  "razmeschenie-teleskopicheskih-napravlyayuschih/value/s-polnym-vydvizheniem": {
+    "ru": "с полным выдвижением",
+    "en": "full extension",
+    "ar": "انزلاق كامل"
+  },
+  "razmeschenie-teleskopicheskih-napravlyayuschih/name": {
+    "ru": "Размещение телескопических направляющих",
+    "en": "Telescopic runner placement",
+    "ar": "موضع السكك التلسكوبية"
+  },
+  "vysota-vstraivaniya/name": {
+    "ru": "Высота встраивания",
+    "en": "Built-in height",
+    "ar": "ارتفاع التركيب"
+  },
+  "vysota-vstraivaniya/unit": {
+    "ru": "см",
+    "en": "cm",
+    "ar": "سم"
+  },
+  "shirina-vstraivaniya/name": {
+    "ru": "Ширина встраивания",
+    "en": "Built-in width",
+    "ar": "عرض التركيب"
+  },
+  "shirina-vstraivaniya/unit": {
+    "ru": "см",
+    "en": "cm",
+    "ar": "سم"
+  },
+  "glubina-vstraivaniya/name": {
+    "ru": "Глубина встраивания",
+    "en": "Built-in depth",
+    "ar": "عمق التركيب"
+  },
+  "glubina-vstraivaniya/unit": {
+    "ru": "см",
+    "en": "cm",
+    "ar": "سم"
+  },
+  "avtomaticheskoe-otklyuchenie/name": {
+    "ru": "Автоматическое отключение",
+    "en": "Auto shut-off",
+    "ar": "إيقاف تشغيل تلقائي"
+  },
+  "rezhim-podderzhaniya-temperatury/name": {
+    "ru": "Режим поддержания температуры",
+    "en": "Temperature hold mode",
+    "ar": "وضع الحفاظ على درجة الحرارة"
+  },
+  "indikaciya-tekuschey-programmy/name": {
+    "ru": "Индикация текущей программы",
+    "en": "Current program indication",
+    "ar": "مؤشر البرنامج الحالي"
+  },
+  "avtomaticheskoe-otklyuchenie-pri-otkrytoy-dverce/name": {
+    "ru": "Автоматическое отключение при открытой дверце",
+    "en": "Auto shut-off when door opened",
+    "ar": "إيقاف تشغيل تلقائي عند فتح الباب"
+  },
+  "moschnost-mikrovoln/name": {
+    "ru": "Мощность микроволн",
+    "en": "Microwave power",
+    "ar": "قدرة الميكروويف"
+  },
+  "moschnost-mikrovoln/unit": {
+    "ru": "Вт",
+    "en": "W",
+    "ar": "واط"
+  },
+  "vnutrenniy-obem/name": {
+    "ru": "Внутренний объем",
+    "en": "Interior capacity",
+    "ar": "السعة الداخلية"
+  },
+  "vnutrenniy-obem/unit": {
+    "ru": "л",
+    "en": "L",
+    "ar": "لتر"
+  },
+  "vnutrennee-pokrytie-kamery/value/emal": {
+    "ru": "эмаль",
+    "en": "enamel",
+    "ar": "إيناميل"
+  },
+  "vnutrennee-pokrytie-kamery/value/nerzhaveyuschaya-stal": {
+    "ru": "нержавеющая сталь",
+    "en": "stainless steel",
+    "ar": "ستانلس ستيل (فولاذ مقاوم للصدأ)"
+  },
+  "vnutrennee-pokrytie-kamery/value/keramicheskaya-emal": {
+    "ru": "керамическая эмаль",
+    "en": "ceramic enamel",
+    "ar": "مينا سيراميك"
+  },
+  "vnutrennee-pokrytie-kamery/value/biokeramicheskaya-emal": {
+    "ru": "биокерамическая эмаль",
+    "en": "bioceramic enamel",
+    "ar": "مينا بيوسيراميك"
+  },
+  "vnutrennee-pokrytie-kamery/name": {
+    "ru": "Внутреннее покрытие камеры",
+    "en": "Cavity interior coating",
+    "ar": "طلاء داخلي للحجرة"
+  },
+  "diametr-povorotnogo-stolika/value/27-sm": {
+    "ru": "27 см",
+    "en": "27 cm",
+    "ar": "27 سم"
+  },
+  "diametr-povorotnogo-stolika/value/25-5-sm": {
+    "ru": "25.5 см",
+    "en": "25.5 cm",
+    "ar": "25.5 سم"
+  },
+  "diametr-povorotnogo-stolika/value/31-5-sm": {
+    "ru": "31.5 см",
+    "en": "31.5 cm",
+    "ar": "31.5 سم"
+  },
+  "diametr-povorotnogo-stolika/value/24-5-sm": {
+    "ru": "24.5 см",
+    "en": "24.5 cm",
+    "ar": "24.5 سم"
+  },
+  "diametr-povorotnogo-stolika/value/28-8-sm": {
+    "ru": "28.8 см",
+    "en": "28.8 cm",
+    "ar": "28.8 سم"
+  },
+  "diametr-povorotnogo-stolika/value/29-2-sm": {
+    "ru": "29.2 см",
+    "en": "29.2 cm",
+    "ar": "29.2 سم"
+  },
+  "diametr-povorotnogo-stolika/value/net-sm": {
+    "ru": "нет см",
+    "en": "none",
+    "ar": "بدون"
+  },
+  "diametr-povorotnogo-stolika/name": {
+    "ru": "Диаметр поворотного столика",
+    "en": "Turntable diameter",
+    "ar": "قطر الطبق الدوار"
+  },
+  "material-povorotnogo-stolika/value/steklo": {
+    "ru": "стекло",
+    "en": "glass",
+    "ar": "زجاج"
+  },
+  "material-povorotnogo-stolika/name": {
+    "ru": "Материал поворотного столика",
+    "en": "Turntable material",
+    "ar": "مادة الطبق الدوار"
+  },
+  "chislo-rezhimov-nagreva/name": {
+    "ru": "Число режимов нагрева",
+    "en": "Heating mode count",
+    "ar": "عدد أوضاع التسخين"
+  },
+  "gril/name": {
+    "ru": "Гриль",
+    "en": "Grill",
+    "ar": "شواية"
+  },
+  "programmy-avtomaticheskogo-prigotovleniya/name": {
+    "ru": "Программы автоматического приготовления",
+    "en": "Auto cooking programs",
+    "ar": "برامج الطهي التلقائي"
+  },
+  "bystryy-start/name": {
+    "ru": "Быстрый старт",
+    "en": "Quick start",
+    "ar": "بدء سريع"
+  },
+  "ochistka-kamery/value/tradicionnaya": {
+    "ru": "традиционная",
+    "en": "traditional",
+    "ar": "تقليدي"
+  },
+  "ochistka-kamery/value/aquaclean": {
+    "ru": "AquaClean",
+    "en": "AquaClean",
+    "ar": "AquaClean"
+  },
+  "ochistka-kamery/name": {
+    "ru": "Очистка камеры",
+    "en": "Cavity cleaning",
+    "ar": "تنظيف الحجرة"
+  },
+  "vnutrennee-osveschenie/name": {
+    "ru": "Внутреннее освещение",
+    "en": "Interior lighting",
+    "ar": "إضاءة داخلية"
+  },
+  "sposob-otkryvaniya-dvercy/value/ruchka": {
+    "ru": "ручка",
+    "en": "handle",
+    "ar": "مقبض"
+  },
+  "sposob-otkryvaniya-dvercy/value/knopka": {
+    "ru": "кнопка",
+    "en": "button",
+    "ar": "زر"
+  },
+  "sposob-otkryvaniya-dvercy/name": {
+    "ru": "Способ открывания дверцы",
+    "en": "Door opening mechanism",
+    "ar": "طريقة فتح الباب"
+  },
+  "tip-ruchki/value/naruzhnaya": {
+    "ru": "наружная",
+    "en": "outdoor",
+    "ar": "خارجي"
+  },
+  "tip-ruchki/value/vstroennaya": {
+    "ru": "встроенная",
+    "en": "built-in",
+    "ar": "مدمج"
+  },
+  "tip-ruchki/name": {
+    "ru": "Тип ручки",
+    "en": "Handle type",
+    "ar": "نوع المقبض"
+  },
+  "napravlenie-otkryvaniya-dvercy/value/vlevo": {
+    "ru": "влево",
+    "en": "left",
+    "ar": "يسار"
+  },
+  "napravlenie-otkryvaniya-dvercy/value/vniz": {
+    "ru": "вниз",
+    "en": "down",
+    "ar": "للأسفل"
+  },
+  "napravlenie-otkryvaniya-dvercy/name": {
+    "ru": "Направление открывания дверцы",
+    "en": "Door opening direction",
+    "ar": "اتجاه فتح الباب"
+  },
+  "sistema-ravnomernogo-raspredeleniya-mikrovoln/name": {
+    "ru": "Система равномерного распределения микроволн",
+    "en": "Even microwave distribution system",
+    "ar": "نظام التوزيع المتساوي للميكروويف"
+  },
+  "ispolzuemyy-kofe/value/molotyy": {
+    "ru": "молотый",
+    "en": "ground",
+    "ar": "قهوة مطحونة"
+  },
+  "ispolzuemyy-kofe/value/kapsuly": {
+    "ru": "капсулы",
+    "en": "capsules",
+    "ar": "كبسولات"
+  },
+  "ispolzuemyy-kofe/value/zernovoy": {
+    "ru": "зерновой",
+    "en": "whole bean",
+    "ar": "حبوب كاملة"
+  },
+  "ispolzuemyy-kofe/name": {
+    "ru": "Используемый кофе",
+    "en": "Coffee input type",
+    "ar": "نوع القهوة المستخدمة"
+  },
+  "obem-rezervuara-dlya-vody/name": {
+    "ru": "Объем резервуара для воды",
+    "en": "Water reservoir capacity",
+    "ar": "سعة خزان المياه"
+  },
+  "obem-rezervuara-dlya-vody/unit": {
+    "ru": "л",
+    "en": "L",
+    "ar": "لتر"
+  },
+  "kolichestvo-porciy/name": {
+    "ru": "Количество порций",
+    "en": "Portion count",
+    "ar": "عدد الحصص"
+  },
+  "upravlenie/value/mehanicheskoe": {
+    "ru": "механическое",
+    "en": "mechanical",
+    "ar": "ميكانيكي"
+  },
+  "upravlenie/value/povorotnoe": {
+    "ru": "поворотное",
+    "en": "rotary",
+    "ar": "دوّار"
+  },
+  "upravlenie/value/elektronnoe": {
+    "ru": "электронное",
+    "en": "electronic",
+    "ar": "إلكتروني"
+  },
+  "upravlenie/value/sensornoe": {
+    "ru": "сенсорное",
+    "en": "touch",
+    "ar": "لمسي"
+  },
+  "upravlenie/value/knopochnoe": {
+    "ru": "кнопочное",
+    "en": "push-button",
+    "ar": "أزرار ضغط"
+  },
+  "upravlenie/name": {
+    "ru": "Управление",
+    "en": "Controls",
+    "ar": "التحكم"
+  },
+  "semnyy-rezervuar-dlya-kofe/name": {
+    "ru": "Съемный резервуар для кофе",
+    "en": "Removable coffee tank",
+    "ar": "خزان قهوة قابل للإزالة"
+  },
+  "protivokapelnaya-sistema/name": {
+    "ru": "Противокапельная система",
+    "en": "Anti-drip system",
+    "ar": "نظام مانع التقطير"
+  },
+  "indikator-urovnya-vody/name": {
+    "ru": "Индикатор уровня воды",
+    "en": "Water level indicator",
+    "ar": "مؤشر مستوى الماء"
+  },
+  "prorezinennye-nozhki/name": {
+    "ru": "Прорезиненные ножки",
+    "en": "Rubber feet",
+    "ar": "أرجل مطاطية"
+  },
+  "avtomaticheskoe-pereklyuchenie-napryazheniya/name": {
+    "ru": "Автоматическое переключение напряжения",
+    "en": "Automatic voltage switching",
+    "ar": "تبديل الجهد التلقائي"
+  },
+  "maksimalnoe-davlenie/name": {
+    "ru": "Максимальное давление",
+    "en": "Maximum pressure",
+    "ar": "الضغط الأقصى"
+  },
+  "maksimalnoe-davlenie/unit": {
+    "ru": "бар",
+    "en": "bar",
+    "ar": "بار"
+  },
+  "semnyy-konteyner-dlya-vody/name": {
+    "ru": "Съемный контейнер для воды",
+    "en": "Removable water tank",
+    "ar": "خزان مياه قابل للإزالة"
+  },
+  "tip-nagrevatelya/value/boyler": {
+    "ru": "бойлер",
+    "en": "boiler",
+    "ar": "غلاية"
+  },
+  "tip-nagrevatelya/value/termoblok": {
+    "ru": "термоблок",
+    "en": "thermoblock",
+    "ar": "كتلة حرارية (ثيرموبلوك)"
+  },
+  "tip-nagrevatelya/name": {
+    "ru": "Тип нагревателя",
+    "en": "Heater type",
+    "ar": "نوع السخان"
+  },
+  "kapuchinator/name": {
+    "ru": "Капучинатор",
+    "en": "Milk frother",
+    "ar": "جهاز رغوة الحليب"
+  },
+  "prigotovlenie-espresso/name": {
+    "ru": "Приготовление эспрессо",
+    "en": "Espresso preparation",
+    "ar": "تحضير الإسبريسو"
+  },
+  "rezhim-prigotovleniya-espresso/value/avtomaticheskiy": {
+    "ru": "автоматический",
+    "en": "automatic",
+    "ar": "تلقائي"
+  },
+  "rezhim-prigotovleniya-espresso/value/poluavtomaticheskiy": {
+    "ru": "полуавтоматический",
+    "en": "semi-automatic",
+    "ar": "نصف تلقائي"
+  },
+  "rezhim-prigotovleniya-espresso/value/ruchnoy": {
+    "ru": "ручной",
+    "en": "manual / handheld",
+    "ar": "يدوي"
+  },
+  "rezhim-prigotovleniya-espresso/name": {
+    "ru": "Режим приготовления эспрессо",
+    "en": "Espresso preparation mode",
+    "ar": "وضع تحضير الإسبريسو"
+  },
+  "vozmozhnost-prigotovleniya-kapuchino/name": {
+    "ru": "Возможность приготовления капучино",
+    "en": "Cappuccino making capability",
+    "ar": "إمكانية تحضير الكابتشينو"
+  },
+  "rezhim-prigotovleniya-kapuchino/value/ruchnoy": {
+    "ru": "ручной",
+    "en": "manual / handheld",
+    "ar": "يدوي"
+  },
+  "rezhim-prigotovleniya-kapuchino/value/avtomaticheskiy": {
+    "ru": "автоматический",
+    "en": "automatic",
+    "ar": "تلقائي"
+  },
+  "rezhim-prigotovleniya-kapuchino/name": {
+    "ru": "Режим приготовления капучино",
+    "en": "Cappuccino preparation mode",
+    "ar": "وضع تحضير الكابتشينو"
+  },
+  "odnovremennoe-prigotovlenie-dvuh-chashek/name": {
+    "ru": "Одновременное приготовление двух чашек",
+    "en": "Two cups simultaneously",
+    "ar": "تحضير كوبين في آن واحد"
+  },
+  "regulirovka-polozheniya-trubki/name": {
+    "ru": "Регулировка положения трубки",
+    "en": "Tube position adjustment",
+    "ar": "ضبط وضعية الأنبوب"
+  },
+  "trubka-podachi-para/name": {
+    "ru": "Трубка подачи пара",
+    "en": "Steam wand",
+    "ar": "أنبوب البخار"
+  },
+  "semnyy-lotok-dlya-sbora-kapel/name": {
+    "ru": "Съемный лоток для сбора капель",
+    "en": "Removable drip tray",
+    "ar": "درج تجميع القطرات القابل للإزالة"
+  },
+  "indikator-gotovnosti-k-rabote/name": {
+    "ru": "Индикатор готовности к работе",
+    "en": "Ready-to-use indicator",
+    "ar": "مؤشر الجاهزية للاستخدام"
+  },
+  "material-rozhka/value/metall": {
+    "ru": "металл",
+    "en": "metal",
+    "ar": "معدن"
+  },
+  "material-rozhka/name": {
+    "ru": "Материал рожка",
+    "en": "Portafilter material",
+    "ar": "مادة حامل الفلتر (البورتافيلتر)"
+  },
+  "material-ruchki/value/plastik": {
+    "ru": "пластик",
+    "en": "plastic",
+    "ar": "بلاستيك"
+  },
+  "material-ruchki/name": {
+    "ru": "Материал ручки",
+    "en": "Handle material",
+    "ar": "مادة المقبض"
+  },
+  "filtr-dlya-holdera/value/v-komplekte": {
+    "ru": "в комплекте",
+    "en": "included",
+    "ar": "ضمن المجموعة"
+  },
+  "filtr-dlya-holdera/name": {
+    "ru": "Фильтр для холдера",
+    "en": "Portafilter filter basket",
+    "ar": "سلة فلتر حامل الفلتر"
+  },
+  "kolichestvo-filtrov-dlya-holdera/name": {
+    "ru": "Количество фильтров для холдера",
+    "en": "Portafilter basket count",
+    "ar": "عدد سلال فلتر حامل الفلتر"
+  },
+  "mernaya-lozhechka/value/v-komplekte": {
+    "ru": "в комплекте",
+    "en": "included",
+    "ar": "ضمن المجموعة"
+  },
+  "mernaya-lozhechka/name": {
+    "ru": "Мерная ложечка",
+    "en": "Measuring spoon",
+    "ar": "ملعقة قياس"
+  },
+  "dopolnitelnaya-komplektaciya/name": {
+    "ru": "Дополнительная комплектация",
+    "en": "Additional package contents",
+    "ar": "المحتويات الإضافية"
+  },
+  "material-kuvshina-dlya-kofe/value/nerzhaveyuschaya-stal": {
+    "ru": "нержавеющая сталь",
+    "en": "stainless steel",
+    "ar": "ستانلس ستيل (فولاذ مقاوم للصدأ)"
+  },
+  "material-kuvshina-dlya-kofe/value/steklo": {
+    "ru": "стекло",
+    "en": "glass",
+    "ar": "زجاج"
+  },
+  "material-kuvshina-dlya-kofe/value/plastik": {
+    "ru": "пластик",
+    "en": "plastic",
+    "ar": "بلاستيك"
+  },
+  "material-kuvshina-dlya-kofe/name": {
+    "ru": "Материал кувшина для кофе",
+    "en": "Coffee pot material",
+    "ar": "مادة إبريق القهوة"
+  },
+  "regulirovka-porciy/name": {
+    "ru": "Регулировка порций",
+    "en": "Portion control",
+    "ar": "التحكم في كمية القهوة"
+  },
+  "regulirovka-temperatury-kofe/name": {
+    "ru": "Регулировка температуры кофе",
+    "en": "Coffee temperature adjustment",
+    "ar": "ضبط درجة حرارة القهوة"
+  },
+  "molochnaya-pena/name": {
+    "ru": "Молочная пена",
+    "en": "Milk foam",
+    "ar": "رغوة الحليب"
+  },
+  "podogrev-chashek/name": {
+    "ru": "Подогрев чашек",
+    "en": "Cup warming plate",
+    "ar": "تسخين الأكواب"
+  },
+  "avtomaticheskaya-dekalcinaciya/name": {
+    "ru": "Автоматическая декальцинация",
+    "en": "Automatic descaling",
+    "ar": "إزالة الترسبات الكلسية تلقائياً"
+  },
+  "indikator-neobhodimosti-ochistki/name": {
+    "ru": "Индикатор необходимости очистки",
+    "en": "Clean needed indicator",
+    "ar": "مؤشر ضرورة التنظيف"
+  },
+  "podstavka-dlya-hraneniya-chashek/name": {
+    "ru": "Подставка для хранения чашек",
+    "en": "Cup storage rack",
+    "ar": "حامل لتخزين الأكواب"
+  },
+  "goryachaya-voda/name": {
+    "ru": "Горячая вода",
+    "en": "Hot water",
+    "ar": "ماء ساخن"
+  },
+  "moschnost/name": {
+    "ru": "Мощность",
+    "en": "Power",
+    "ar": "القدرة"
+  },
+  "moschnost/unit": {
+    "ru": "Вт",
+    "en": "W",
+    "ar": "واط"
+  },
+  "obem/name": {
+    "ru": "Объем",
+    "en": "Volume",
+    "ar": "السعة"
+  },
+  "obem/unit": {
+    "ru": "л",
+    "en": "L",
+    "ar": "لتر"
+  },
+  "nagrevatelnyy-element/value/zakrytogo-tipa": {
+    "ru": "закрытого типа",
+    "en": "enclosed type",
+    "ar": "من النوع المغلق"
+  },
+  "nagrevatelnyy-element/value/skrytogo-tipa": {
+    "ru": "скрытого типа",
+    "en": "concealed type",
+    "ar": "من النوع المخفي"
+  },
+  "nagrevatelnyy-element/name": {
+    "ru": "Нагревательный элемент",
+    "en": "Heating element",
+    "ar": "عنصر التسخين"
+  },
+  "regulirovka-temperatury/name": {
+    "ru": "Регулировка температуры",
+    "en": "Temperature adjustment",
+    "ar": "ضبط درجة الحرارة"
+  },
+  "podderzhanie-temperatury/name": {
+    "ru": "Поддержание температуры",
+    "en": "Keep-warm function",
+    "ar": "الحفاظ على درجة الحرارة"
+  },
+  "kolichestvo-rezhimov-nagreva/name": {
+    "ru": "Количество режимов нагрева",
+    "en": "Heating mode count",
+    "ar": "عدد أوضاع التسخين"
+  },
+  "podogrev-do-zadannoy-temperatury/name": {
+    "ru": "Подогрев до заданной температуры",
+    "en": "Heat to preset temperature",
+    "ar": "التسخين إلى درجة حرارة محددة مسبقاً"
+  },
+  "filtr-ot-nakipi/name": {
+    "ru": "Фильтр от накипи",
+    "en": "Anti-scale filter",
+    "ar": "فلتر مضاد للترسبات الكلسية"
+  },
+  "material-filtra/value/nerzhaveyuschaya-stal": {
+    "ru": "нержавеющая сталь",
+    "en": "stainless steel",
+    "ar": "ستانلس ستيل (فولاذ مقاوم للصدأ)"
+  },
+  "material-filtra/value/metall": {
+    "ru": "металл",
+    "en": "metal",
+    "ar": "معدن"
+  },
+  "material-filtra/value/neylon": {
+    "ru": "нейлон",
+    "en": "nylon",
+    "ar": "نايلون"
+  },
+  "material-filtra/name": {
+    "ru": "Материал фильтра",
+    "en": "Filter material",
+    "ar": "مادة الفلتر"
+  },
+  "zaschita-ot-peregreva/name": {
+    "ru": "Защита от перегрева",
+    "en": "Overheat protection",
+    "ar": "الحماية من السخونة الزائدة"
+  },
+  "avtootklyuchenie-pri-snyatii-s-podstavki/name": {
+    "ru": "Автоотключение при снятии с подставки",
+    "en": "Auto shut-off when lifted from base",
+    "ar": "فصل تلقائي عند رفع الغلاية عن القاعدة"
+  },
+  "avtootklyuchenie-pri-otsutstvii-vody/name": {
+    "ru": "Автоотключение при отсутствии воды",
+    "en": "Boil-dry protection",
+    "ar": "فصل تلقائي عند خلو الغلاية من الماء (الحماية من التشغيل الجاف)"
+  },
+  "avtootklyuchenie-pri-zakipanii/name": {
+    "ru": "Автоотключение при закипании",
+    "en": "Auto shut-off at boil",
+    "ar": "فصل تلقائي عند الغليان"
+  },
+  "shkala-urovnya-vody/name": {
+    "ru": "Шкала уровня воды",
+    "en": "Water level scale",
+    "ar": "مؤشر مستوى الماء"
+  },
+  "indikator-nagreva/name": {
+    "ru": "Индикатор нагрева",
+    "en": "Heating indicator",
+    "ar": "مؤشر التسخين"
+  },
+  "indikator-temperatury/name": {
+    "ru": "Индикатор температуры",
+    "en": "Temperature indicator",
+    "ar": "مؤشر درجة الحرارة"
+  },
+  "vraschenie-na-podstavke-na-360-gradusov/name": {
+    "ru": "Вращение на подставке на 360 градусов",
+    "en": "360-degree rotational base",
+    "ar": "قاعدة دوارة بزاوية 360 درجة"
+  },
+  "otkryvanie-kryshki/value/knopka-na-kryshke": {
+    "ru": "кнопка на крышке",
+    "en": "lid button",
+    "ar": "زر على الغطاء"
+  },
+  "otkryvanie-kryshki/value/knopka-na-ruchke": {
+    "ru": "кнопка на ручке",
+    "en": "handle button",
+    "ar": "زر على المقبض"
+  },
+  "otkryvanie-kryshki/value/ruchka": {
+    "ru": "ручка",
+    "en": "handle",
+    "ar": "مقبض"
+  },
+  "otkryvanie-kryshki/value/knopka": {
+    "ru": "кнопка",
+    "en": "button",
+    "ar": "زر"
+  },
+  "otkryvanie-kryshki/value/povorot-kryshki": {
+    "ru": "поворот крышки",
+    "en": "lid rotation",
+    "ar": "تدوير الغطاء"
+  },
+  "otkryvanie-kryshki/value/ruchnoe": {
+    "ru": "ручное",
+    "en": "manual",
+    "ar": "يدوي"
+  },
+  "otkryvanie-kryshki/name": {
+    "ru": "Открывание крышки",
+    "en": "Lid opening",
+    "ar": "طريقة فتح الغطاء"
+  },
+  "istochnik-pitaniya/value/set": {
+    "ru": "сеть",
+    "en": "mains power",
+    "ar": "التيار الكهربائي (سلكي)"
+  },
+  "istochnik-pitaniya/value/akkumulyator": {
+    "ru": "аккумулятор",
+    "en": "battery",
+    "ar": "بطارية"
+  },
+  "istochnik-pitaniya/name": {
+    "ru": "Источник питания",
+    "en": "Power source",
+    "ar": "مصدر الطاقة"
+  },
+  "dopolnitelnyy-material/value/nerzhaveyuschaya-stal": {
+    "ru": "нержавеющая сталь",
+    "en": "stainless steel",
+    "ar": "ستانلس ستيل (فولاذ مقاوم للصدأ)"
+  },
+  "dopolnitelnyy-material/value/plastik": {
+    "ru": "пластик",
+    "en": "plastic",
+    "ar": "بلاستيك"
+  },
+  "dopolnitelnyy-material/name": {
+    "ru": "Дополнительный материал",
+    "en": "Additional material",
+    "ar": "مادة إضافية"
+  },
+  "minimalnaya-temperatura-nagreva-vody/name": {
+    "ru": "Минимальная температура нагрева воды",
+    "en": "Minimum water heating temperature",
+    "ar": "أدنى درجة حرارة لتسخين المياه"
+  },
+  "minimalnaya-temperatura-nagreva-vody/unit": {
+    "ru": "°C",
+    "en": "°C",
+    "ar": "°م"
+  },
+  "maksimalnaya-temperatura-nagreva-vody/name": {
+    "ru": "Максимальная температура нагрева воды",
+    "en": "Maximum water heating temperature",
+    "ar": "أقصى درجة حرارة لتسخين المياه"
+  },
+  "maksimalnaya-temperatura-nagreva-vody/unit": {
+    "ru": "°C",
+    "en": "°C",
+    "ar": "°م"
+  },
+  "zvukovoy-signal/name": {
+    "ru": "Звуковой сигнал",
+    "en": "Audio signal",
+    "ar": "إشارة صوتية"
+  },
+  "teploizolirovannaya-ruchka/name": {
+    "ru": "Теплоизолированная ручка",
+    "en": "Heat-insulated handle",
+    "ar": "مقبض عازل للحرارة"
+  },
+  "podsvetka-vody/name": {
+    "ru": "Подсветка воды",
+    "en": "Water illumination",
+    "ar": "إضاءة الماء"
+  },
+  "indikator-vklyucheniya/name": {
+    "ru": "Индикатор включения",
+    "en": "Power indicator",
+    "ar": "مؤشر التشغيل"
+  },
+  "podstavka-s-elektronnym-upravleniem/name": {
+    "ru": "Подставка с электронным управлением",
+    "en": "Electronic control base",
+    "ar": "قاعدة بتحكم إلكتروني"
+  },
+  "podstavka-s-otsekom-dlya-hraneniya-shnura/name": {
+    "ru": "Подставка с отсеком для хранения шнура",
+    "en": "Base with cord storage",
+    "ar": "قاعدة مزودة بحيز لتخزين السلك"
+  },
+  "blokirovka-kryshki/name": {
+    "ru": "Блокировка крышки",
+    "en": "Lid lock",
+    "ar": "قفل الغطاء"
+  },
+  "uborka/value/suhaya-i-vlazhnaya": {
+    "ru": "сухая и влажная",
+    "en": "dry and wet",
+    "ar": "جاف ورطب"
+  },
+  "uborka/value/suhaya": {
+    "ru": "сухая",
+    "en": "dry",
+    "ar": "جافة"
+  },
+  "uborka/name": {
+    "ru": "Уборка",
+    "en": "Cleaning type",
+    "ar": "نوع التنظيف"
+  },
+  "moschnost-vsasyvaniya/name": {
+    "ru": "Мощность всасывания",
+    "en": "Suction power",
+    "ar": "قوة الشفط"
+  },
+  "pylesbornik/value/konteyner": {
+    "ru": "контейнер",
+    "en": "container",
+    "ar": "حاوية"
+  },
+  "pylesbornik/value/meshok": {
+    "ru": "мешок",
+    "en": "dustbag",
+    "ar": "كيس تجميع الأتربة"
+  },
+  "pylesbornik/name": {
+    "ru": "Пылесборник",
+    "en": "Dust container type",
+    "ar": "نوع حاوية تجميع الأتربة"
+  },
+  "obem-pylesbornika/name": {
+    "ru": "Объем пылесборника",
+    "en": "Dust bag capacity",
+    "ar": "سعة حاوية الأتربة"
+  },
+  "obem-pylesbornika/unit": {
+    "ru": "л",
+    "en": "L",
+    "ar": "لتر"
+  },
+  "regulyator-moschnosti/value/na-korpuse": {
+    "ru": "на корпусе",
+    "en": "on body",
+    "ar": "على الهيكل"
+  },
+  "regulyator-moschnosti/value/na-rukoyatke": {
+    "ru": "на рукоятке",
+    "en": "on handle",
+    "ar": "على المقبض"
+  },
+  "regulyator-moschnosti/value/cherez-mobilnoe-prilozhenie": {
+    "ru": "через мобильное приложение",
+    "en": "via mobile app",
+    "ar": "عبر تطبيق الهاتف الذكي"
+  },
+  "regulyator-moschnosti/name": {
+    "ru": "Регулятор мощности",
+    "en": "Power regulator",
+    "ar": "مفتاح التحكم في القوة"
+  },
+  "motornyy-filtr/value/v-komplekte": {
+    "ru": "в комплекте",
+    "en": "included",
+    "ar": "ضمن المجموعة"
+  },
+  "motornyy-filtr/name": {
+    "ru": "Моторный фильтр",
+    "en": "Motor filter",
+    "ar": "فلتر حماية المحرك"
+  },
+  "filtr-tonkoy-ochistki/value/hepa": {
+    "ru": "HEPA",
+    "en": "HEPA",
+    "ar": "HEPA"
+  },
+  "filtr-tonkoy-ochistki/value/da": {
+    "ru": "да",
+    "en": "yes",
+    "ar": "نعم"
+  },
+  "filtr-tonkoy-ochistki/value/e11": {
+    "ru": "E11",
+    "en": "E11",
+    "ar": "E11"
+  },
+  "filtr-tonkoy-ochistki/value/airclean": {
+    "ru": "AirClean",
+    "en": "AirClean",
+    "ar": "AirClean"
+  },
+  "filtr-tonkoy-ochistki/value/hepa-11": {
+    "ru": "HEPA 11",
+    "en": "HEPA 11",
+    "ar": "HEPA 11"
+  },
+  "filtr-tonkoy-ochistki/value/nera-13": {
+    "ru": "НЕРА 13",
+    "en": "HEPA 13",
+    "ar": "HEPA 13"
+  },
+  "filtr-tonkoy-ochistki/name": {
+    "ru": "Фильтр тонкой очистки",
+    "en": "Fine filter",
+    "ar": "فلتر التنقية الدقيقة"
+  },
+  "sistema-ochistki-filtra/value/ruchnaya": {
+    "ru": "ручная",
+    "en": "manual",
+    "ar": "يدوي"
+  },
+  "sistema-ochistki-filtra/name": {
+    "ru": "Система очистки фильтра",
+    "en": "Filter cleaning system",
+    "ar": "نظام تنظيف الفلتر"
+  },
+  "kolichestvo-nasadok/name": {
+    "ru": "Количество насадок",
+    "en": "Nozzle count",
+    "ar": "عدد الفوهات"
+  },
+  "elektroschetka/name": {
+    "ru": "Электрощетка",
+    "en": "Motorized power brush",
+    "ar": "فرشاة كهربائية"
+  },
+  "schelevaya-nasadka/name": {
+    "ru": "Щелевая насадка",
+    "en": "Crevice nozzle",
+    "ar": "فوهة الشقوق والزوايا"
+  },
+  "nasadka-2-v-1/name": {
+    "ru": "Насадка 2 в 1",
+    "en": "2-in-1 nozzle",
+    "ar": "فوهة 2 في 1"
+  },
+  "datchiki-i-sensory/value/datchik-zagryazneniya": {
+    "ru": "датчик загрязнения",
+    "en": "dirt sensor",
+    "ar": "مستشعر الأوساخ"
+  },
+  "datchiki-i-sensory/value/datchik-vysoty": {
+    "ru": "датчик высоты",
+    "en": "height sensor",
+    "ar": "مستشعر الارتفاع"
+  },
+  "datchiki-i-sensory/value/datchik-obnaruzheniya-kovrov": {
+    "ru": "датчик обнаружения ковров",
+    "en": "carpet detection sensor",
+    "ar": "مستشعر اكتشاف السجاد"
+  },
+  "datchiki-i-sensory/value/datchik-dvizheniya-vdol-steny": {
+    "ru": "датчик движения вдоль стены",
+    "en": "wall-following sensor",
+    "ar": "مستشعر تتبع الجدار"
+  },
+  "datchiki-i-sensory/value/datchik-opredeleniya-prepyatstviy": {
+    "ru": "датчик определения препятствий",
+    "en": "obstacle detection sensor",
+    "ar": "مستشعر اكتشاف العوائق"
+  },
+  "datchiki-i-sensory/name": {
+    "ru": "Датчики и сенсоры",
+    "en": "Sensors",
+    "ar": "أجهزة الاستشعار والحساسات"
+  },
+  "indikator-urovnya-zaryadki-akkumulyatora/name": {
+    "ru": "Индикатор уровня зарядки аккумулятора",
+    "en": "Battery level indicator",
+    "ar": "مؤشر مستوى شحن البطارية"
+  },
+  "indikaciya-zagryazneniya-filtra/name": {
+    "ru": "Индикация загрязнения фильтра",
+    "en": "Filter contamination indication",
+    "ar": "مؤشر اتساخ الفلتر"
+  },
+  "indikaciya-zaryadki/name": {
+    "ru": "Индикация зарядки",
+    "en": "Charging indication",
+    "ar": "مؤشر الشحن"
+  },
+  "podsvetka-zony-uborki/name": {
+    "ru": "Подсветка зоны уборки",
+    "en": "Cleaning zone LED light",
+    "ar": "إضاءة منطقة التنظيف"
+  },
+  "parkovka/value/vertikalnaya": {
+    "ru": "вертикальная",
+    "en": "top",
+    "ar": "عمودية"
+  },
+  "parkovka/value/gorizontalnaya": {
+    "ru": "горизонтальная",
+    "en": "horizontal",
+    "ar": "أفقية"
+  },
+  "parkovka/name": {
+    "ru": "Парковка",
+    "en": "Parking position",
+    "ar": "وضعية التخزين"
+  },
+  "ustanovka-na-zaryadnoe-ustroystvo/value/ruchnaya": {
+    "ru": "ручная",
+    "en": "manual",
+    "ar": "يدوي"
+  },
+  "ustanovka-na-zaryadnoe-ustroystvo/value/avtomaticheskaya": {
+    "ru": "автоматическая",
+    "en": "automatic",
+    "ar": "تلقائي"
+  },
+  "ustanovka-na-zaryadnoe-ustroystvo/name": {
+    "ru": "Установка на зарядное устройство",
+    "en": "Charger placement",
+    "ar": "طريقة التثبيت على قاعدة الشحن"
+  },
+  "truba-vsasyvaniya/value/celnaya": {
+    "ru": "цельная",
+    "en": "single-piece",
+    "ar": "قطعة واحدة صلبة"
+  },
+  "truba-vsasyvaniya/value/teleskopicheskaya": {
+    "ru": "телескопическая",
+    "en": "telescopic",
+    "ar": "تلسكوبي قابل لتعديل الطول"
+  },
+  "truba-vsasyvaniya/value/skladnaya": {
+    "ru": "складная",
+    "en": "foldable",
+    "ar": "قابل للطي"
+  },
+  "truba-vsasyvaniya/value/sostavnaya": {
+    "ru": "составная",
+    "en": "composite",
+    "ar": "مكون من عدة قطع"
+  },
+  "truba-vsasyvaniya/name": {
+    "ru": "Труба всасывания",
+    "en": "Suction tube",
+    "ar": "أنبوب الشفط"
+  },
+  "podstavka-zaryadnoe-ustroystvo/value/v-komplekte": {
+    "ru": "в комплекте",
+    "en": "included",
+    "ar": "ضمن المجموعة"
+  },
+  "podstavka-zaryadnoe-ustroystvo/name": {
+    "ru": "Подставка-зарядное устройство",
+    "en": "Charging base",
+    "ar": "قاعدة الشحن"
+  },
+  "tip-akkumulyatora/value/li-ion": {
+    "ru": "Li-Ion",
+    "en": "Li-Ion",
+    "ar": "ليثيوم أيون (Li-Ion)"
+  },
+  "tip-akkumulyatora/name": {
+    "ru": "Тип аккумулятора",
+    "en": "Battery type",
+    "ar": "نوع البطارية"
+  },
+  "vremya-raboty-ot-akkumulyatora/name": {
+    "ru": "Время работы от аккумулятора",
+    "en": "Battery runtime",
+    "ar": "مدة العمل بالبطارية"
+  },
+  "vremya-raboty-ot-akkumulyatora/unit": {
+    "ru": "мин",
+    "en": "min",
+    "ar": "دقيقة"
+  },
+  "vremya-zaryadki-akkumulyatora/value/3-5-ch": {
+    "ru": "3.5 ч",
+    "en": "3.5 h",
+    "ar": "3.5 ساعة"
+  },
+  "vremya-zaryadki-akkumulyatora/value/4-ch": {
+    "ru": "4 ч",
+    "en": "4 h",
+    "ar": "4 ساعات"
+  },
+  "vremya-zaryadki-akkumulyatora/value/240-min": {
+    "ru": "240 мин",
+    "en": "240 min",
+    "ar": "240 دقيقة"
+  },
+  "vremya-zaryadki-akkumulyatora/value/2-5-ch": {
+    "ru": "2.5 ч",
+    "en": "2.5 h",
+    "ar": "2.5 ساعة"
+  },
+  "vremya-zaryadki-akkumulyatora/value/3-ch": {
+    "ru": "3 ч",
+    "en": "3 h",
+    "ar": "3 ساعات"
+  },
+  "vremya-zaryadki-akkumulyatora/value/5-ch-3-5-ch": {
+    "ru": "5 ч/ 3.5 ч",
+    "en": "5 h/ 3.5 h",
+    "ar": "5 ساعات / 3.5 ساعة"
+  },
+  "vremya-zaryadki-akkumulyatora/value/4-5-ch": {
+    "ru": "4.5 ч",
+    "en": "4.5 h",
+    "ar": "4.5 ساعة"
+  },
+  "vremya-zaryadki-akkumulyatora/value/6-ch": {
+    "ru": "6 ч",
+    "en": "6 h",
+    "ar": "6 ساعات"
+  },
+  "vremya-zaryadki-akkumulyatora/value/210-min": {
+    "ru": "210 мин",
+    "en": "210 min",
+    "ar": "210 دقيقة"
+  },
+  "vremya-zaryadki-akkumulyatora/name": {
+    "ru": "Время зарядки аккумулятора",
+    "en": "Battery charge time",
+    "ar": "مدة شحن البطارية"
+  },
+  "kolichestvo-akkumulyatorov-v-komplekte/name": {
+    "ru": "Количество аккумуляторов в комплекте",
+    "en": "Batteries included",
+    "ar": "عدد البطاريات المرفقة"
+  },
+  "obem-rezervuara-dlya-vody-2/name": {
+    "ru": "Объeм резервуара для воды",
+    "en": "Water reservoir capacity",
+    "ar": "سعة خزان المياه"
+  },
+  "obem-rezervuara-dlya-vody-2/unit": {
+    "ru": "л",
+    "en": "L",
+    "ar": "لتر"
+  },
+  "obem-rezervuara-dlya-ispolzovannoy-vody/name": {
+    "ru": "Объем резервуара для использованной воды",
+    "en": "Used water tank capacity",
+    "ar": "سعة خزان المياه المستعملة"
+  },
+  "obem-rezervuara-dlya-ispolzovannoy-vody/unit": {
+    "ru": "л",
+    "en": "L",
+    "ar": "لتر"
+  },
+  "ispolzovanie-moyuschego-sredstva/name": {
+    "ru": "Использование моющего средства",
+    "en": "Detergent use",
+    "ar": "استخدام سائل التنظيف"
+  },
+  "ploschad-uborki/value/140-kv-m": {
+    "ru": "140 кв.м",
+    "en": "140 sq m",
+    "ar": "140 م²"
+  },
+  "ploschad-uborki/value/373-m2": {
+    "ru": "373 м2",
+    "en": "373 m²",
+    "ar": "373 م²"
+  },
+  "ploschad-uborki/value/303-m2": {
+    "ru": "303 м2",
+    "en": "303 m²",
+    "ar": "303 م²"
+  },
+  "ploschad-uborki/value/215-m2": {
+    "ru": "215 м2",
+    "en": "215 m²",
+    "ar": "215 م²"
+  },
+  "ploschad-uborki/value/230-kv-m": {
+    "ru": "230 кв.м",
+    "en": "230 sq m",
+    "ar": "230 م²"
+  },
+  "ploschad-uborki/value/100-m2": {
+    "ru": "100 м2",
+    "en": "100 m²",
+    "ar": "100 م²"
+  },
+  "ploschad-uborki/value/500-m2": {
+    "ru": "500 м2",
+    "en": "500 m²",
+    "ar": "500 م²"
+  },
+  "ploschad-uborki/name": {
+    "ru": "Площадь уборки",
+    "en": "Cleaning area",
+    "ar": "مساحة التنظيف"
+  },
+  "moyuschee-sredstvo/value/v-komplekte": {
+    "ru": "в комплекте",
+    "en": "included",
+    "ar": "ضمن المجموعة"
+  },
+  "moyuschee-sredstvo/name": {
+    "ru": "Моющее средство",
+    "en": "Detergent",
+    "ar": "سائل التنظيف"
+  },
+  "emkost-akkumulyatora/name": {
+    "ru": "Емкость аккумулятора",
+    "en": "Battery capacity",
+    "ar": "سعة البطارية"
+  },
+  "emkost-akkumulyatora/unit": {
+    "ru": "мАч",
+    "en": "mAh",
+    "ar": "مللي أمبير/ساعة"
+  },
+  "napryazhenie-akkumulyatora/name": {
+    "ru": "Напряжение аккумулятора",
+    "en": "Battery voltage",
+    "ar": "جهد البطارية"
+  },
+  "napryazhenie-akkumulyatora/unit": {
+    "ru": "В",
+    "en": "V",
+    "ar": "فولت"
+  },
+  "blok-pitaniya/value/v-komplekte": {
+    "ru": "в комплекте",
+    "en": "included",
+    "ar": "ضمن المجموعة"
+  },
+  "blok-pitaniya/name": {
+    "ru": "Блок питания",
+    "en": "Power adapter",
+    "ar": "محول الطاقة"
+  },
+  "vyhodnoy-filtr/value/v-komplekte": {
+    "ru": "в комплекте",
+    "en": "included",
+    "ar": "ضمن المجموعة"
+  },
+  "vyhodnoy-filtr/name": {
+    "ru": "Выходной фильтр",
+    "en": "Exhaust filter",
+    "ar": "فلتر الهواء الخارج"
+  },
+  "avtomaticheskaya-ochistka-konteynera/name": {
+    "ru": "Автоматическая очистка контейнера",
+    "en": "Automatic dustbin emptying",
+    "ar": "تفريغ تلقائي لحاوية الغبار"
+  },
+  "hranenie-musora-v-sisteme/value/meshok": {
+    "ru": "мешок",
+    "en": "dustbag",
+    "ar": "كيس تجميع الأتربة"
+  },
+  "hranenie-musora-v-sisteme/name": {
+    "ru": "Хранение мусора в системе",
+    "en": "In-station dust storage",
+    "ar": "تخزين الغبار في المحطة"
+  },
+  "vmestitelnost-musorosbornika/name": {
+    "ru": "Вместительность мусоросборника",
+    "en": "Dust container capacity",
+    "ar": "سعة حاوية الغبار"
+  },
+  "vmestitelnost-musorosbornika/unit": {
+    "ru": "л",
+    "en": "L",
+    "ar": "لتر"
+  },
+  "kolichestvo-bokovyh-schetok/name": {
+    "ru": "Количество боковых щеток",
+    "en": "Side brush count",
+    "ar": "عدد الفرش الجانبية"
+  },
+  "uborka-po-raspisaniyu/name": {
+    "ru": "Уборка по расписанию",
+    "en": "Scheduled cleaning",
+    "ar": "التنظيف حسب الجدول الزمني"
+  },
+  "avtomaticheskaya-uborka/name": {
+    "ru": "Автоматическая уборка",
+    "en": "Automatic cleaning",
+    "ar": "التنظيف التلقائي"
+  },
+  "taymer-na-kazhdyy-den-nedeli/name": {
+    "ru": "Таймер на каждый день недели",
+    "en": "7-day weekly timer",
+    "ar": "مؤقت أسبوعي لكل يوم"
+  },
+  "golosovye-opovescheniya/name": {
+    "ru": "Голосовые оповещения",
+    "en": "Voice notifications",
+    "ar": "إشعارات صوتية"
+  },
+  "vozobnovlenie-uborki-posle-podzaryadki-s-prervan/name": {
+    "ru": "Возобновление уборки после подзарядки с прерванного участка",
+    "en": "Resume cleaning after recharge",
+    "ar": "استئناف التنظيف بعد الشحن من نقطة التوقف"
+  },
+  "avtomaticheskoe-vozvraschenie-na-bazu/name": {
+    "ru": "Автоматическое возвращение на базу",
+    "en": "Auto return to base",
+    "ar": "العودة التلقائية إلى القاعدة"
+  },
+  "funkciya-zonirovaniya/name": {
+    "ru": "Функция зонирования",
+    "en": "Room zoning feature",
+    "ar": "ميزة تقسيم المناطق"
+  },
+  "tip-datchika/value/lazernyy-luch": {
+    "ru": "лазерный луч",
+    "en": "laser beam",
+    "ar": "شعاع ليزر"
+  },
+  "tip-datchika/value/mehanicheskiy-datchik-stolknoveniya": {
+    "ru": "механический датчик столкновения",
+    "en": "mechanical collision sensor",
+    "ar": "مستشعر تصادم ميكانيكي"
+  },
+  "tip-datchika/value/infrakrasnyy-luch": {
+    "ru": "инфракрасный луч",
+    "en": "infrared beam",
+    "ar": "شعاع أشعة تحت حمراء"
+  },
+  "tip-datchika/value/ultrazvukovoy-datchik": {
+    "ru": "ультразвуковой датчик",
+    "en": "ultrasonic sensor",
+    "ar": "مستشعر بالموجات فوق الصوتية"
+  },
+  "tip-datchika/value/giroskopicheskiy-sensor": {
+    "ru": "гироскопический сенсор",
+    "en": "gyroscope sensor",
+    "ar": "مستشعر جيروسكوبي"
+  },
+  "tip-datchika/name": {
+    "ru": "Тип датчика",
+    "en": "Sensor type",
+    "ar": "نوع المستشعر"
+  },
+  "sostavlenie-plana-pomescheniya/name": {
+    "ru": "Составление плана помещения",
+    "en": "Room mapping",
+    "ar": "رسم خريطة الغرفة"
+  },
+  "navigaciya/value/starsight-2-0": {
+    "ru": "StarSight 2.0",
+    "en": "StarSight 2.0",
+    "ar": "StarSight 2.0"
+  },
+  "navigaciya/value/dtof-versalift": {
+    "ru": "DToF VersaLift",
+    "en": "DToF VersaLift",
+    "ar": "DToF VersaLift"
+  },
+  "navigaciya/value/shirokougolnye-ai-kamery": {
+    "ru": "широкоугольные AI-камеры",
+    "en": "wide-angle AI cameras",
+    "ar": "كاميرات ذكاء اصطناعي واسعة الزاوية"
+  },
+  "navigaciya/value/precisense": {
+    "ru": "PreciSense",
+    "en": "PreciSense",
+    "ar": "PreciSense"
+  },
+  "navigaciya/value/lidar": {
+    "ru": "LiDAR",
+    "en": "LiDAR",
+    "ar": "LiDAR"
+  },
+  "navigaciya/value/lds": {
+    "ru": "LDS",
+    "en": "LDS",
+    "ar": "LDS"
+  },
+  "navigaciya/value/dtof-3d": {
+    "ru": "DToF 3D",
+    "en": "DToF 3D",
+    "ar": "DToF 3D"
+  },
+  "navigaciya/name": {
+    "ru": "Навигация",
+    "en": "Navigation",
+    "ar": "الملاحة"
+  },
+  "frontalnaya-kamera/name": {
+    "ru": "Фронтальная камера",
+    "en": "Front camera",
+    "ar": "كاميرا أمامية"
+  },
+  "ogranichitel-zony-uborki/value/virtualnaya-stena": {
+    "ru": "виртуальная стена",
+    "en": "virtual wall",
+    "ar": "جدار افتراضي"
+  },
+  "ogranichitel-zony-uborki/name": {
+    "ru": "Ограничитель зоны уборки",
+    "en": "Virtual wall boundary",
+    "ar": "حدود الجدار الافتراضي"
+  },
+  "bokovaya-schetochka/name": {
+    "ru": "Боковая щеточка",
+    "en": "Side brush",
+    "ar": "فرشاة جانبية"
+  },
+  "sistema-avtomaticheskogo-izvlecheniya-musora/name": {
+    "ru": "Система автоматического извлечения мусора",
+    "en": "Auto dust emptying system",
+    "ar": "نظام تفريغ الغبار التلقائي"
+  },
+  "funkciya-avtozapravki-vody/name": {
+    "ru": "Функция автозаправки воды",
+    "en": "Auto water refill function",
+    "ar": "ميزة التعبئة التلقائية للمياه"
+  },
+  "obem-baka-avtozapravschika/name": {
+    "ru": "Объем бака автозаправщика",
+    "en": "Auto-refill tank capacity",
+    "ar": "سعة خزان التعبئة التلقائية"
+  },
+  "obem-baka-avtozapravschika/unit": {
+    "ru": "л",
+    "en": "L",
+    "ar": "لتر"
+  },
+  "obem-baka-dlya-gryaznoy-vody-dok-stancii/name": {
+    "ru": "Объем бака для грязной воды док-станции",
+    "en": "Dock dirty water tank capacity",
+    "ar": "سعة خزان المياه المتسخة في المحطة"
+  },
+  "obem-baka-dlya-gryaznoy-vody-dok-stancii/unit": {
+    "ru": "л",
+    "en": "L",
+    "ar": "لتر"
+  },
+  "smennyy-pylesbornik/value/v-komplekte": {
+    "ru": "в комплекте",
+    "en": "included",
+    "ar": "ضمن المجموعة"
+  },
+  "smennyy-pylesbornik/name": {
+    "ru": "Сменный пылесборник",
+    "en": "Replaceable dust container",
+    "ar": "حاوية غبار قابلة للاستبدال"
+  },
+  "vysota-bazy/name": {
+    "ru": "Высота базы",
+    "en": "Base station height",
+    "ar": "ارتفاع القاعدة"
+  },
+  "vysota-bazy/unit": {
+    "ru": "см",
+    "en": "cm",
+    "ar": "سم"
+  },
+  "shirina-bazy/name": {
+    "ru": "Ширина базы",
+    "en": "Base station width",
+    "ar": "عرض القاعدة"
+  },
+  "shirina-bazy/unit": {
+    "ru": "см",
+    "en": "cm",
+    "ar": "سم"
+  },
+  "glubina-bazy/name": {
+    "ru": "Глубина базы",
+    "en": "Base station depth",
+    "ar": "عمق القاعدة"
+  },
+  "glubina-bazy/unit": {
+    "ru": "см",
+    "en": "cm",
+    "ar": "سم"
+  },
+  "razmeschenie-vnutrennego-bloka/value/nastennyy": {
+    "ru": "настенный",
+    "en": "wall-mounted",
+    "ar": "جداري"
+  },
+  "razmeschenie-vnutrennego-bloka/value/napolnyy": {
+    "ru": "напольный",
+    "en": "floor-standing",
+    "ar": "أرضي"
+  },
+  "razmeschenie-vnutrennego-bloka/name": {
+    "ru": "Размещение внутреннего блока",
+    "en": "Indoor unit placement",
+    "ar": "موضع الوحدة الداخلية"
+  },
+  "ploschad-pomescheniya/name": {
+    "ru": "Площадь помещения",
+    "en": "Room area",
+    "ar": "مساحة الغرفة"
+  },
+  "ploschad-pomescheniya/unit": {
+    "ru": "кв.м",
+    "en": "sq m",
+    "ar": "م²"
+  },
+  "tip-hladagenta/value/r-32": {
+    "ru": "R-32",
+    "en": "R-32",
+    "ar": "R-32"
+  },
+  "tip-hladagenta/value/r-290": {
+    "ru": "R-290",
+    "en": "R-290",
+    "ar": "R-290"
+  },
+  "tip-hladagenta/value/r-410a": {
+    "ru": "R-410A",
+    "en": "R-410A",
+    "ar": "R-410A"
+  },
+  "tip-hladagenta/name": {
+    "ru": "Тип хладагента",
+    "en": "Refrigerant type",
+    "ar": "نوع غاز التبريد"
+  },
+  "seriya/name": {
+    "ru": "Серия",
+    "en": "Series",
+    "ar": "السلسلة"
+  },
+  "moschnost-v-rezhime-ohlazhdeniya/name": {
+    "ru": "Мощность в режиме охлаждения",
+    "en": "Cooling mode power",
+    "ar": "القدرة في وضع التبريد"
+  },
+  "moschnost-v-rezhime-ohlazhdeniya/unit": {
+    "ru": "кВт",
+    "en": "kW",
+    "ar": "كيلوواط"
+  },
+  "moschnost-v-rezhime-obogreva/name": {
+    "ru": "Мощность в режиме обогрева",
+    "en": "Heating mode power",
+    "ar": "القدرة في وضع التدفئة"
+  },
+  "moschnost-v-rezhime-obogreva/unit": {
+    "ru": "кВт",
+    "en": "kW",
+    "ar": "كيلوواط"
+  },
+  "rashod-vozduha-vnutrennego-bloka/name": {
+    "ru": "Расход воздуха внутреннего блока",
+    "en": "Indoor unit airflow rate",
+    "ar": "معدل تدفق الهواء للوحدة الداخلية"
+  },
+  "rashod-vozduha-vnutrennego-bloka/unit": {
+    "ru": "м3/ч",
+    "en": "m³/h",
+    "ar": "م³/ساعة"
+  },
+  "ohlazhdenie/name": {
+    "ru": "Охлаждение",
+    "en": "Cooling",
+    "ar": "التبريد"
+  },
+  "obogrev/name": {
+    "ru": "Обогрев",
+    "en": "Heating mode",
+    "ar": "التدفئة"
+  },
+  "osushenie-vozduha/name": {
+    "ru": "Осушение воздуха",
+    "en": "Air dehumidification",
+    "ar": "إزالة الرطوبة من الهواء"
+  },
+  "avtomaticheskiy-rezhim/name": {
+    "ru": "Автоматический режим",
+    "en": "Automatic mode",
+    "ar": "الوضع التلقائي"
+  },
+  "ventilyaciya/name": {
+    "ru": "Вентиляция",
+    "en": "Ventilation",
+    "ar": "التهوية"
+  },
+  "nochnoy-rezhim/name": {
+    "ru": "Ночной режим",
+    "en": "Night mode",
+    "ar": "الوضع الليلي"
+  },
+  "tihiy-rezhim/name": {
+    "ru": "Тихий режим",
+    "en": "Quiet mode",
+    "ar": "الوضع الصامت"
+  },
+  "taymer-vklyucheniya/name": {
+    "ru": "Таймер включения",
+    "en": "On-timer",
+    "ar": "مؤقت التشغيل"
+  },
+  "taymer-vyklyucheniya/name": {
+    "ru": "Таймер выключения",
+    "en": "Off-timer",
+    "ar": "مؤقت الإيقاف"
+  },
+  "avtorestart/name": {
+    "ru": "Авторестарт",
+    "en": "Auto restart",
+    "ar": "إعادة التشغيل التلقائي"
+  },
+  "obogrev-pri-nizkih-temperaturah/name": {
+    "ru": "Обогрев при низких температурах",
+    "en": "Low-temperature heating",
+    "ar": "التدفئة عند درجات الحرارة المنخفضة"
+  },
+  "samoochistka/name": {
+    "ru": "Самоочистка",
+    "en": "Self-cleaning",
+    "ar": "التنظيف الذاتي"
+  },
+  "blokirovka-pulta-du/name": {
+    "ru": "Блокировка пульта ДУ",
+    "en": "Remote control lock",
+    "ar": "قفل جهاز التحكم عن بعد"
+  },
+  "turbo-rezhim/name": {
+    "ru": "Турбо режим",
+    "en": "Turbo mode",
+    "ar": "الوضع التوربيني (Turbo)"
+  },
+  "kolichestvo-skorostey/name": {
+    "ru": "Количество скоростей",
+    "en": "Speed count",
+    "ar": "عدد السرعات"
+  },
+  "avtomaticheskoe-raspredelenie-vozdushnyh-potokov/name": {
+    "ru": "Автоматическое распределение воздушных потоков",
+    "en": "Automatic airflow distribution",
+    "ar": "توزيع تلقائي لتدفق الهواء"
+  },
+  "regulirovka-sily-vozdushnogo-potoka/name": {
+    "ru": "Регулировка силы воздушного потока",
+    "en": "Airflow strength regulation",
+    "ar": "التحكم في قوة تدفق الهواء"
+  },
+  "upravlenie-napravleniem-vozdushnogo-potoka-vverh/value/s-pulta": {
+    "ru": "с пульта",
+    "en": "via remote",
+    "ar": "عبر جهاز التحكم عن بعد"
+  },
+  "upravlenie-napravleniem-vozdushnogo-potoka-vverh/value/ruchnoe": {
+    "ru": "ручное",
+    "en": "manual",
+    "ar": "يدوي"
+  },
+  "upravlenie-napravleniem-vozdushnogo-potoka-vverh/name": {
+    "ru": "Управление направлением воздушного потока (вверх/вниз)",
+    "en": "Vertical airflow control",
+    "ar": "التحكم في اتجاه تدفق الهواء (أعلى/أسفل)"
+  },
+  "upravlenie-napravleniem-vozdushnogo-potoka-vlevo/value/ruchnoe": {
+    "ru": "ручное",
+    "en": "manual",
+    "ar": "يدوي"
+  },
+  "upravlenie-napravleniem-vozdushnogo-potoka-vlevo/value/s-pulta": {
+    "ru": "с пульта",
+    "en": "via remote",
+    "ar": "عبر جهاز التحكم عن بعد"
+  },
+  "upravlenie-napravleniem-vozdushnogo-potoka-vlevo/name": {
+    "ru": "Управление направлением воздушного потока (влево/вправо)",
+    "en": "Horizontal airflow control",
+    "ar": "التحكم في اتجاه تدفق الهواء (يمين/يسار)"
+  },
+  "maksimalnyy-uroven-shuma-vnutrennego-bloka/name": {
+    "ru": "Максимальный уровень шума внутреннего блока",
+    "en": "Indoor unit maximum noise level",
+    "ar": "الحد الأقصى لمستوى ضجيج الوحدة الداخلية"
+  },
+  "maksimalnyy-uroven-shuma-vnutrennego-bloka/unit": {
+    "ru": "дБ",
+    "en": "dB",
+    "ar": "ديسيبل"
+  },
+  "maksimalnyy-uroven-shuma-vneshnego-bloka/name": {
+    "ru": "Максимальный уровень шума внешнего блока",
+    "en": "Outdoor unit maximum noise level",
+    "ar": "الحد الأقصى لمستوى ضجيج الوحدة الخارجية"
+  },
+  "maksimalnyy-uroven-shuma-vneshnego-bloka/unit": {
+    "ru": "дБ",
+    "en": "dB",
+    "ar": "ديسيبل"
+  },
+  "filtr-gruboy-ochistki-setchatyy/name": {
+    "ru": "Фильтр грубой очистки (сетчатый)",
+    "en": "Coarse mesh filter",
+    "ar": "فلتر شبكي للتنظيف الخشن"
+  },
+  "teplovoy-nasos/name": {
+    "ru": "Тепловой насос",
+    "en": "Heat pump",
+    "ar": "مضخة حرارية"
+  },
+  "datchiki/value/temperatury": {
+    "ru": "температуры",
+    "en": "temperature",
+    "ar": "درجة الحرارة"
+  },
+  "datchiki/value/temperatury-v-pulte-du": {
+    "ru": "температуры (в пульте ДУ)",
+    "en": "temperature (in remote control)",
+    "ar": "درجة الحرارة (في جهاز التحكم عن بعد)"
+  },
+  "datchiki/value/prisutstviya": {
+    "ru": "присутствия",
+    "en": "presence",
+    "ar": "الحضور"
+  },
+  "datchiki/name": {
+    "ru": "Датчики",
+    "en": "Sensors",
+    "ar": "أجهزة الاستشعار"
+  },
+  "zaschita-ot-obmerzaniya-naruzhnogo-bloka/name": {
+    "ru": "Защита от обмерзания наружного блока",
+    "en": "Outdoor unit anti-icing protection",
+    "ar": "حماية الوحدة الخارجية من التجمد"
+  },
+  "pult-du/name": {
+    "ru": "Пульт ДУ",
+    "en": "Remote control",
+    "ar": "جهاز التحكم عن بعد"
+  },
+  "upravlenie-so-smartfona/value/da": {
+    "ru": "да",
+    "en": "yes",
+    "ar": "نعم"
+  },
+  "upravlenie-so-smartfona/value/podklyuchenie-cherez-wi-fi-modul": {
+    "ru": "подключение через Wi-Fi модуль",
+    "en": "Wi-Fi connection",
+    "ar": "اتصال مدمج عبر وحدة Wi-Fi"
+  },
+  "upravlenie-so-smartfona/value/net": {
+    "ru": "нет",
+    "en": "no",
+    "ar": "غير متوفر"
+  },
+  "upravlenie-so-smartfona/name": {
+    "ru": "Управление со смартфона",
+    "en": "Smartphone app control",
+    "ar": "التحكم عبر تطبيق الهاتف الذكي"
+  },
+  "wi-fi-modul/value/vstroennyy": {
+    "ru": "встроенный",
+    "en": "built-in",
+    "ar": "مدمجة مسبقاً"
+  },
+  "wi-fi-modul/value/v-komplekte": {
+    "ru": "в комплекте",
+    "en": "included",
+    "ar": "ضمن المجموعة"
+  },
+  "wi-fi-modul/value/priobretaetsya-dopolnitelno": {
+    "ru": "приобретается дополнительно",
+    "en": "optional accessory",
+    "ar": "ملحق اختياري يباع منفصلاً"
+  },
+  "wi-fi-modul/name": {
+    "ru": "Wi-Fi модуль",
+    "en": "Wi-Fi module",
+    "ar": "وحدة Wi-Fi"
+  },
+  "podderzhka-prilozheniy/value/evo": {
+    "ru": "Evo",
+    "en": "Evo",
+    "ar": "Evo"
+  },
+  "podderzhka-prilozheniy/value/daichi-comfort": {
+    "ru": "Daichi Comfort",
+    "en": "Daichi Comfort",
+    "ar": "Daichi Comfort"
+  },
+  "podderzhka-prilozheniy/value/hommyn": {
+    "ru": "Hommyn",
+    "en": "Hommyn",
+    "ar": "Hommyn"
+  },
+  "podderzhka-prilozheniy/value/smartthinq": {
+    "ru": "SmartThinQ",
+    "en": "SmartThinQ",
+    "ar": "SmartThinQ"
+  },
+  "podderzhka-prilozheniy/value/qyron-smart": {
+    "ru": "QYRON Smart",
+    "en": "QYRON Smart",
+    "ar": "QYRON Smart"
+  },
+  "podderzhka-prilozheniy/value/tcl-home": {
+    "ru": "TCL Home",
+    "en": "TCL Home",
+    "ar": "TCL Home"
+  },
+  "podderzhka-prilozheniy/value/smartlife-smarthome": {
+    "ru": "SmartLife-SmartHome",
+    "en": "SmartLife-SmartHome",
+    "ar": "SmartLife-SmartHome"
+  },
+  "podderzhka-prilozheniy/value/tuya-smart-life": {
+    "ru": "Tuya Smart Life",
+    "en": "Tuya Smart Life",
+    "ar": "Tuya Smart Life"
+  },
+  "podderzhka-prilozheniy/value/connectlife-trir": {
+    "ru": "ConnectLife.TRIR",
+    "en": "ConnectLife.TRIR",
+    "ar": "ConnectLife.TRIR"
+  },
+  "podderzhka-prilozheniy/name": {
+    "ru": "Поддержка приложений",
+    "en": "App support",
+    "ar": "دعم التطبيقات الذكية"
+  },
+  "golosovoy-assistent/value/alisa": {
+    "ru": "Алиса",
+    "en": "Alice",
+    "ar": "أليس (Alice)"
+  },
+  "golosovoy-assistent/value/salyut": {
+    "ru": "Салют",
+    "en": "Sber Salute",
+    "ar": "ساليوت (Sber Salute)"
+  },
+  "golosovoy-assistent/value/marusya": {
+    "ru": "Маруся",
+    "en": "Marusia",
+    "ar": "ماروسيا (Marusia)"
+  },
+  "golosovoy-assistent/value/amazon-alexa": {
+    "ru": "Amazon Alexa",
+    "en": "Amazon Alexa",
+    "ar": "Amazon Alexa"
+  },
+  "golosovoy-assistent/value/google-home-speaker": {
+    "ru": "Google Home Speaker",
+    "en": "Google Home Speaker",
+    "ar": "Google Home Speaker"
+  },
+  "golosovoy-assistent/name": {
+    "ru": "Голосовой ассистент",
+    "en": "Voice assistant",
+    "ar": "المساعد الصوتي الذكي"
+  },
+  "raspolozhenie-displeya/value/korpus": {
+    "ru": "корпус",
+    "en": "housing",
+    "ar": "على هيكل الوحدة الداخلية"
+  },
+  "raspolozhenie-displeya/value/pult": {
+    "ru": "пульт",
+    "en": "remote control",
+    "ar": "على جهاز التحكم عن بعد"
+  },
+  "raspolozhenie-displeya/name": {
+    "ru": "Расположение дисплея",
+    "en": "Display location",
+    "ar": "موضع شاشة العرض"
+  },
+  "indikaciya-neispravnosti/name": {
+    "ru": "Индикация неисправности",
+    "en": "Fault indication",
+    "ar": "مؤشر كشف وتشخيص الأعطال"
+  },
+  "zvukovye-signaly/name": {
+    "ru": "Звуковые сигналы",
+    "en": "Acoustic signals",
+    "ar": "تنبيهات صوتية"
+  },
+  "minimalnaya-rabochaya-temperatura-pri-ohlazhdeni/name": {
+    "ru": "Минимальная рабочая температура при охлаждении",
+    "en": "Minimum operating cooling temperature",
+    "ar": "أدنى درجة حرارة خارجية لتشغيل التبريد"
+  },
+  "minimalnaya-rabochaya-temperatura-pri-ohlazhdeni/unit": {
+    "ru": "°C",
+    "en": "°C",
+    "ar": "°م"
+  },
+  "maksimalnaya-rabochaya-temperatura-pri-ohlazhden/name": {
+    "ru": "Максимальная рабочая температура при охлаждении",
+    "en": "Maximum operating cooling temperature",
+    "ar": "أقصى درجة حرارة خارجية لتشغيل التبريد"
+  },
+  "maksimalnaya-rabochaya-temperatura-pri-ohlazhden/unit": {
+    "ru": "°C",
+    "en": "°C",
+    "ar": "°م"
+  },
+  "minimalnaya-rabochaya-temperatura-pri-obogreve/name": {
+    "ru": "Минимальная рабочая температура при обогреве",
+    "en": "Minimum operating heating temperature",
+    "ar": "أدنى درجة حرارة خارجية لتشغيل التدفئة"
+  },
+  "minimalnaya-rabochaya-temperatura-pri-obogreve/unit": {
+    "ru": "°C",
+    "en": "°C",
+    "ar": "°م"
+  },
+  "maksimalnaya-rabochaya-temperatura-pri-obogreve/name": {
+    "ru": "Максимальная рабочая температура при обогреве",
+    "en": "Maximum operating heating temperature",
+    "ar": "أقصى درجة حرارة خارجية لتشغيل التدفئة"
+  },
+  "maksimalnaya-rabochaya-temperatura-pri-obogreve/unit": {
+    "ru": "°C",
+    "en": "°C",
+    "ar": "°م"
+  },
+  "maksimalnyy-perepad-vysoty-magistrali/name": {
+    "ru": "Максимальный перепад высоты магистрали",
+    "en": "Maximum piping height difference",
+    "ar": "أقصى فارق ارتفاع لخط أنابيب التبريد"
+  },
+  "maksimalnyy-perepad-vysoty-magistrali/unit": {
+    "ru": "м",
+    "en": "m",
+    "ar": "م"
+  },
+  "maksimalnaya-dlina-magistrali/name": {
+    "ru": "Максимальная длина магистрали",
+    "en": "Maximum piping length",
+    "ar": "أقصى طول مسموح لخط أنابيب التبريد"
+  },
+  "maksimalnaya-dlina-magistrali/unit": {
+    "ru": "м",
+    "en": "m",
+    "ar": "م"
+  },
+  "diametr-zhidkostnoy-truby/name": {
+    "ru": "Диаметр жидкостной трубы",
+    "en": "Liquid pipe diameter",
+    "ar": "قطر أنبوب السائل"
+  },
+  "diametr-zhidkostnoy-truby/unit": {
+    "ru": "мм",
+    "en": "mm",
+    "ar": "مم"
+  },
+  "diametr-gazovoy-truby/name": {
+    "ru": "Диаметр газовой трубы",
+    "en": "Gas pipe diameter",
+    "ar": "قطر أنبوب الغاز"
+  },
+  "diametr-gazovoy-truby/unit": {
+    "ru": "мм",
+    "en": "mm",
+    "ar": "مم"
+  },
+  "potreblyaemaya-moschnost-pri-ohlazhdenii/name": {
+    "ru": "Потребляемая мощность при охлаждении",
+    "en": "Cooling power consumption",
+    "ar": "استهلاك الطاقة في وضع التبريد"
+  },
+  "potreblyaemaya-moschnost-pri-ohlazhdenii/unit": {
+    "ru": "Вт",
+    "en": "W",
+    "ar": "واط"
+  },
+  "potreblyaemaya-moschnost-pri-obogreve/name": {
+    "ru": "Потребляемая мощность при обогреве",
+    "en": "Heating power consumption",
+    "ar": "استهلاك الطاقة في وضع التدفئة"
+  },
+  "potreblyaemaya-moschnost-pri-obogreve/unit": {
+    "ru": "Вт",
+    "en": "W",
+    "ar": "واط"
+  },
+  "klass-energoeffektivnosti/value/d": {
+    "ru": "D",
+    "en": "D",
+    "ar": "D"
+  },
+  "klass-energoeffektivnosti/value/a": {
+    "ru": "A",
+    "en": "A",
+    "ar": "A"
+  },
+  "klass-energoeffektivnosti/value/a-2": {
+    "ru": "A+++",
+    "en": "A+++",
+    "ar": "A+++"
+  },
+  "klass-energoeffektivnosti/value/a-3": {
+    "ru": "A++",
+    "en": "A++",
+    "ar": "A++"
+  },
+  "klass-energoeffektivnosti/name": {
+    "ru": "Класс энергоэффективности",
+    "en": "Energy efficiency class",
+    "ar": "فئة كفاءة الطاقة"
+  },
+  "rabochiy-tok-pri-ohlazhdenii/name": {
+    "ru": "Рабочий ток при охлаждении",
+    "en": "Cooling operating current",
+    "ar": "تيار التشغيل في وضع التبريد"
+  },
+  "rabochiy-tok-pri-ohlazhdenii/unit": {
+    "ru": "A",
+    "en": "A",
+    "ar": "أمبير"
+  },
+  "rabochiy-tok-pri-obogreve/name": {
+    "ru": "Рабочий ток при обогреве",
+    "en": "Heating operating current",
+    "ar": "تيار التشغيل في وضع التدفئة"
+  },
+  "rabochiy-tok-pri-obogreve/unit": {
+    "ru": "A",
+    "en": "A",
+    "ar": "أمبير"
+  },
+  "rabochee-napryazhenie/value/230-b": {
+    "ru": "230 B",
+    "en": "230 V",
+    "ar": "230 فولت"
+  },
+  "rabochee-napryazhenie/value/220-240-b": {
+    "ru": "220-240 B",
+    "en": "220-240 V",
+    "ar": "220-240 فولت"
+  },
+  "rabochee-napryazhenie/name": {
+    "ru": "Рабочее напряжение",
+    "en": "Operating voltage",
+    "ar": "الجهد الكهربائي للتشغيل"
+  },
+  "rabochaya-chastota/name": {
+    "ru": "Рабочая частота",
+    "en": "Operating frequency",
+    "ar": "تردد التيار الكهربائي"
+  },
+  "rabochaya-chastota/unit": {
+    "ru": "Гц",
+    "en": "Hz",
+    "ar": "هرتز"
+  },
+  "cvet-vneshnego-bloka/value/belyy": {
+    "ru": "белый",
+    "en": "white",
+    "ar": "أبيض"
+  },
+  "cvet-vneshnego-bloka/name": {
+    "ru": "Цвет внешнего блока",
+    "en": "Outdoor unit color",
+    "ar": "لون الوحدة الخارجية"
+  },
+  "antikorroziynoe-pokrytie/name": {
+    "ru": "Антикоррозийное покрытие",
+    "en": "Anti-corrosion coating",
+    "ar": "طلاء مقاوم للتآكل والصدأ (Golden Fin / Blue Fin)"
+  },
+  "nabor-aksessuarov-dlya-montazha/name": {
+    "ru": "Набор аксессуаров для монтажа",
+    "en": "Installation hardware kit",
+    "ar": "طقم ملحقات التثبيت والتركيب"
+  },
+  "drenazhnaya-trubka/name": {
+    "ru": "Дренажная трубка",
+    "en": "Drain tube",
+    "ar": "خرطوم تصريف المياه المتكثفة"
+  },
+  "vysota-vnutrennego-bloka/name": {
+    "ru": "Высота внутреннего блока",
+    "en": "Indoor unit height",
+    "ar": "ارتفاع الوحدة الداخلية"
+  },
+  "vysota-vnutrennego-bloka/unit": {
+    "ru": "см",
+    "en": "cm",
+    "ar": "سم"
+  },
+  "shirina-vnutrennego-bloka/name": {
+    "ru": "Ширина внутреннего блока",
+    "en": "Indoor unit width",
+    "ar": "عرض الوحدة الداخلية"
+  },
+  "shirina-vnutrennego-bloka/unit": {
+    "ru": "см",
+    "en": "cm",
+    "ar": "سم"
+  },
+  "glubina-vnutrennego-bloka/name": {
+    "ru": "Глубина внутреннего блока",
+    "en": "Indoor unit depth",
+    "ar": "عمق الوحدة الداخلية"
+  },
+  "glubina-vnutrennego-bloka/unit": {
+    "ru": "см",
+    "en": "cm",
+    "ar": "سم"
+  },
+  "ves-vnutrennego-bloka/name": {
+    "ru": "Вес внутреннего блока",
+    "en": "Indoor unit weight",
+    "ar": "وزن الوحدة الداخلية"
+  },
+  "ves-vnutrennego-bloka/unit": {
+    "ru": "кг",
+    "en": "kg",
+    "ar": "كجم"
+  },
+  "vysota-vneshnego-bloka/name": {
+    "ru": "Высота внешнего блока",
+    "en": "Outdoor unit height",
+    "ar": "ارتفاع الوحدة الخارجية"
+  },
+  "vysota-vneshnego-bloka/unit": {
+    "ru": "см",
+    "en": "cm",
+    "ar": "سم"
+  },
+  "shirina-vneshnego-bloka/name": {
+    "ru": "Ширина внешнего блока",
+    "en": "Outdoor unit width",
+    "ar": "عرض الوحدة الخارجية"
+  },
+  "shirina-vneshnego-bloka/unit": {
+    "ru": "см",
+    "en": "cm",
+    "ar": "سم"
+  },
+  "glubina-vneshnego-bloka/name": {
+    "ru": "Глубина внешнего блока",
+    "en": "Outdoor unit depth",
+    "ar": "عمق الوحدة الخارجية"
+  },
+  "glubina-vneshnego-bloka/unit": {
+    "ru": "см",
+    "en": "cm",
+    "ar": "سم"
+  },
+  "ves-vneshnego-bloka/name": {
+    "ru": "Вес внешнего блока",
+    "en": "Outdoor unit weight",
+    "ar": "وزن الوحدة الخارجية"
+  },
+  "ves-vneshnego-bloka/unit": {
+    "ru": "кг",
+    "en": "kg",
+    "ar": "كجم"
+  },
+  "invertornaya-tehnologiya/name": {
+    "ru": "Инверторная технология",
+    "en": "Inverter technology",
+    "ar": "تكنولوجيا المحرك العاكس (Inverter)"
+  },
+  "filtraciya-vozduha/name": {
+    "ru": "Фильтрация воздуха",
+    "en": "Air filtration",
+    "ar": "تنقية وتصفية الهواء متعددة المراحل"
+  },
+  "podderzhanie-temperatury-v-meste-nahozhdeniya-pu/name": {
+    "ru": "Поддержание температуры в месте нахождения пульта",
+    "en": "Follow-me temperature sensor",
+    "ar": "تتبع درجة الحرارة حول مكان جهاز التحكم"
+  },
+  "osushenie/name": {
+    "ru": "Осушение",
+    "en": "Dehumidification mode",
+    "ar": "معدل إزالة الرطوبة"
+  },
+  "osushenie/unit": {
+    "ru": "л/ч",
+    "en": "L/h",
+    "ar": "لتر/ساعة"
+  },
+  "ekonomichnyy-rezhim/name": {
+    "ru": "Экономичный режим",
+    "en": "Economy mode",
+    "ar": "الوضع الاقتصادي"
+  },
+  "besshumnaya-rabota/name": {
+    "ru": "Бесшумная работа",
+    "en": "Silent operation",
+    "ar": "تشغيل صامت فائق الهدوء"
+  },
+  "umnyy-dom/value/samsung-smartthings": {
+    "ru": "Samsung SmartThings",
+    "en": "Samsung SmartThings",
+    "ar": "Samsung SmartThings"
+  },
+  "umnyy-dom/value/lg-thinq": {
+    "ru": "LG ThinQ",
+    "en": "LG ThinQ",
+    "ar": "LG ThinQ"
+  },
+  "umnyy-dom/value/yandeks-alisa": {
+    "ru": "Яндекс Алиса",
+    "en": "Yandex Alice",
+    "ar": "Yandex Alice"
+  },
+  "umnyy-dom/name": {
+    "ru": "Умный дом",
+    "en": "Smart home",
+    "ar": "التكامل مع المنزل الذكي"
+  },
+  "dopolnitelnaya-indikaciya/value/zagryazneniya-filtra": {
+    "ru": "загрязнения фильтра",
+    "en": "filter clean required",
+    "ar": "مؤشر ضرورة تنظيف الفلتر"
+  },
+  "dopolnitelnaya-indikaciya/value/blokirovki": {
+    "ru": "блокировки",
+    "en": "interlocks",
+    "ar": "مؤشر قفل الأمان"
+  },
+  "dopolnitelnaya-indikaciya/value/taymera": {
+    "ru": "таймера",
+    "en": "timer",
+    "ar": "مؤشر عمل المؤقت"
+  },
+  "dopolnitelnaya-indikaciya/value/vremeni": {
+    "ru": "времени",
+    "en": "time",
+    "ar": "مؤشر الوقت"
+  },
+  "dopolnitelnaya-indikaciya/value/skorosti-vrascheniya-ventilyatora": {
+    "ru": "скорости вращения вентилятора",
+    "en": "fan speed",
+    "ar": "مؤشر سرعة دوران المروحة"
+  },
+  "dopolnitelnaya-indikaciya/value/kachaniya-zaslonok": {
+    "ru": "качания заслонок",
+    "en": "louver oscillation",
+    "ar": "مؤشر حركة وتأرجح الشفرات"
+  },
+  "dopolnitelnaya-indikaciya/value/zapolneniya-emkosti-dlya-kondensata": {
+    "ru": "заполнения ёмкости для конденсата",
+    "en": "condensate tank full",
+    "ar": "مؤشر امتلاء خزان المياه المتكثفة"
+  },
+  "dopolnitelnaya-indikaciya/value/vremya": {
+    "ru": "время",
+    "en": "time",
+    "ar": "الوقت"
+  },
+  "dopolnitelnaya-indikaciya/value/ustanovlennoe-na-taymere": {
+    "ru": "установленное на таймере",
+    "en": "set on timer",
+    "ar": "الوقت المضبوط على المؤقت"
+  },
+  "dopolnitelnaya-indikaciya/value/kachestvo-vozduha-v-realnom-vremeni": {
+    "ru": "качество воздуха в реальном времени",
+    "en": "real-time air quality",
+    "ar": "مؤشر جودة الهواء المباشر بالألوان"
+  },
+  "dopolnitelnaya-indikaciya/name": {
+    "ru": "Дополнительная индикация",
+    "en": "Additional indication",
+    "ar": "المؤشرات الإضافية"
+  },
+  "stepen-zaschity/value/ipx0-ipx4": {
+    "ru": "IPX0/IPX4",
+    "en": "IPX0/IPX4",
+    "ar": "IPX0/IPX4"
+  },
+  "stepen-zaschity/value/ipx0-ipx4-vnutrenniy-naruzhnyy-blok": {
+    "ru": "IPX0 / IPX4 (внутренний/наружный блок)",
+    "en": "IPX0 / IPX4 (indoor/outdoor unit)",
+    "ar": "IPX0 / IPX4 (الوحدة الداخلية / الخارجية)"
+  },
+  "stepen-zaschity/value/ipx4": {
+    "ru": "IPX4",
+    "en": "IPX4",
+    "ar": "IPX4"
+  },
+  "stepen-zaschity/value/ipx1": {
+    "ru": "IPX1",
+    "en": "IPX1",
+    "ar": "IPX1"
+  },
+  "stepen-zaschity/value/ipx0": {
+    "ru": "IPX0",
+    "en": "IPX0",
+    "ar": "IPX0"
+  },
+  "stepen-zaschity/name": {
+    "ru": "Степень защиты",
+    "en": "Protection rating",
+    "ar": "درجة الحماية من الماء والغبار (IP)"
+  },
+  "ionizaciya-vozduha/name": {
+    "ru": "Ионизация воздуха",
+    "en": "Air ionization",
+    "ar": "تأيين الهواء بالجسيمات السالبة (Ionizer)"
+  },
+  "kolesa-dlya-transportirovki/name": {
+    "ru": "Колеса для транспортировки",
+    "en": "Transport wheels",
+    "ar": "عجلات مدمجة لسهولة النقل والحركة"
+  },
+  "gibkiy-vozdushnyy-shlang/name": {
+    "ru": "Гибкий воздушный шланг",
+    "en": "Flexible air hose",
+    "ar": "خرطوم عادم هواء مرن"
+  }
+}

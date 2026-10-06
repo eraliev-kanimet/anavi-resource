@@ -1,0 +1,1673 @@
+{
+  "shelf": "kofemashiny",
+  "slug": "kofevarka-brayer-br1124",
+  "product": {
+    "id": "683427",
+    "article": "157899",
+    "slug": "kofevarka-brayer-br1124",
+    "hasSmartInstallments": false,
+    "isActive": true,
+    "name": {
+      "default": "Brayer BR1124",
+      "full": "Кофеварка Brayer BR1124",
+      "pseudo": null,
+      "spare": null,
+      "fullWithoutSection": "Brayer BR1124",
+      "section": "Кофеварка",
+      "__typename": "ProductName"
+    },
+    "price": {
+      "default": 3990,
+      "marketing": null,
+      "old": null,
+      "__typename": "ProductPrice"
+    },
+    "benefit": null,
+    "specifications": {
+      "short": [
+        {
+          "name": "Тип",
+          "value": "капельная",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Используемый кофе",
+          "value": "молотый",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Потребляемая мощность",
+          "value": "900 Вт",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Объем резервуара для воды",
+          "value": "1.8 л",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "__typename": "ProductV2Specifications"
+    },
+    "labels": [
+      {
+        "name": "Бонусы Спасибо",
+        "type": "sberspasibo",
+        "items": [
+          {
+            "description": "",
+            "name": "Этот товар можно оплатить бонусами Спасибо от СберБанка",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Рассрочка",
+        "type": "deferred_payment",
+        "items": [
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-6",
+            "url": "/kofevarka-brayer-br1124/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-12",
+            "url": "/kofevarka-brayer-br1124/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-18",
+            "url": "/kofevarka-brayer-br1124/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-24",
+            "url": "/kofevarka-brayer-br1124/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      }
+    ],
+    "labelsV2": [
+      {
+        "id": "8",
+        "name": "Бонусы Спасибо",
+        "code": "sberspasibo",
+        "mainColor": "#0C9C0C",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#0C9C0C",
+        "altTextColor": "#FFFFFF",
+        "borderAndTextColor": "#0C9C0C",
+        "items": [
+          {
+            "id": "19983",
+            "text": "Этот товар можно оплатить бонусами Спасибо от СберБанка ",
+            "buttonText": "Подробнее",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      }
+    ],
+    "status": {
+      "id": "IN_STOCK",
+      "name": "В наличии",
+      "type": "POSITIVE",
+      "__typename": "ProductStatus"
+    },
+    "brand": {
+      "code": "brayer",
+      "id": "179772",
+      "name": "Brayer",
+      "src": "https://cdn1.technopark.ru/technopark/photos_resized/section_brand_300_100/300_100/179772/1_179772.png",
+      "slug": "brayer",
+      "sections": [
+        {
+          "name": "Вентиляторы Brayer",
+          "url": "/ventilyatory/brayer/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2803424721/technopark/photos_resized/product/120_120/658093/1_658093.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/933740608/technopark/photos_resized/product/120_120/658093/2_658093.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/143434248/technopark/photos_resized/product/120_120/658093/3_658093.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3353302068/technopark/photos_resized/product/120_120/658093/4_658093.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2966971554/technopark/photos_resized/product/120_120/658093/5_658093.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2930676218/technopark/photos_resized/product/120_120/658093/6_658093.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Аэрогрили Brayer",
+          "url": "/aerogrili/brayer/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1581951695/technopark/photos_resized/product/120_120/818344/1_818344.jpg?timestamp=2026-03-10_16-47-32",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/323846737/technopark/photos_resized/product/120_120/818344/2_818344.jpg?timestamp=2026-03-10_16-47-41",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2307021587/technopark/photos_resized/product/120_120/818344/3_818344.jpg?timestamp=2026-03-10_16-47-45",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3913667318/technopark/photos_resized/product/120_120/818344/4_818344.jpg?timestamp=2026-03-10_16-47-46",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2655183456/technopark/photos_resized/product/120_120/818344/5_818344.jpg?timestamp=2026-03-10_16-47-46",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3149150609/technopark/photos_resized/product/120_120/818344/6_818344.jpg?timestamp=2026-03-10_16-47-42",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3991838231/technopark/photos_resized/product/120_120/818344/7_818344.jpg?timestamp=2026-03-10_16-47-41",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2190807372/technopark/photos_resized/product/120_120/818344/8_818344.jpg?timestamp=2026-03-10_16-47-36",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2464142347/technopark/photos_resized/product/120_120/818344/9_818344.jpg?timestamp=2026-03-10_16-47-36",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2632180756/technopark/photos_resized/product/120_120/818344/10_818344.jpg?timestamp=2026-03-10_16-47-38",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3966675126/technopark/photos_resized/product/120_120/818344/11_818344.jpg?timestamp=2026-03-10_16-47-36",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/485590255/technopark/photos_resized/product/120_120/818344/12_818344.jpg?timestamp=2026-03-10_16-47-36",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2472534698/technopark/photos_resized/product/120_120/818344/13_818344.jpg?timestamp=2026-03-10_16-47-40",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/173454096/technopark/photos_resized/product/120_120/818344/14_818344.jpg?timestamp=2026-03-10_16-47-41",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Фритюрницы Brayer",
+          "url": "/frityurnitsy/brayer/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2959350381/technopark/photos_resized/product/120_120/778012/1_778012.jpg?timestamp=2025-01-28_14-44-46",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/551225340/technopark/photos_resized/product/120_120/778012/2_778012.jpg?timestamp=2025-01-28_14-44-46",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1584036673/technopark/photos_resized/product/120_120/778012/3_778012.jpg?timestamp=2025-01-28_14-44-45",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/695028695/technopark/photos_resized/product/120_120/778012/4_778012.jpg?timestamp=2025-01-28_14-44-45",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3345165051/technopark/photos_resized/product/120_120/778012/5_778012.jpg?timestamp=2025-01-28_14-44-45",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1291947731/technopark/photos_resized/product/120_120/778012/6_778012.jpg?timestamp=2025-01-28_14-44-57",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1571615673/technopark/photos_resized/product/120_120/778012/7_778012.jpg?timestamp=2025-01-28_14-45-00",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3455342085/technopark/photos_resized/product/120_120/778012/8_778012.jpg?timestamp=2025-01-28_14-45-06",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1400339339/technopark/photos_resized/product/120_120/778012/9_778012.jpg?timestamp=2025-01-28_14-44-58",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1411039122/technopark/photos_resized/product/120_120/778012/10_778012.jpg?timestamp=2025-01-28_14-44-59",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Кофемолки Brayer",
+          "url": "/kofemolki/brayer/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1070798374/technopark/photos_resized/product/120_120/180300/1_180300.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3245345376/technopark/photos_resized/product/120_120/180300/2_180300.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1484348378/technopark/photos_resized/product/120_120/180300/3_180300.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3323842169/technopark/photos_resized/product/120_120/180300/4_180300.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2971336431/technopark/photos_resized/product/120_120/180300/5_180300.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1026575556/technopark/photos_resized/product/120_120/180300/6_180300.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1595187139/technopark/photos_resized/product/120_120/180300/7_180300.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3562269169/technopark/photos_resized/product/120_120/180300/8_180300.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3722814938/technopark/photos_resized/product/120_120/180300/9_180300.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Миксеры и кухонные машины Brayer",
+          "url": "/miksery/brayer/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3761924856/technopark/photos_resized/product/120_120/229569/1_229569.jpg?timestamp=2025-08-28_14-14-27",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2011738992/technopark/photos_resized/product/120_120/229569/2_229569.jpg?timestamp=2025-08-28_14-14-25",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/15696870/technopark/photos_resized/product/120_120/229569/3_229569.jpg?timestamp=2025-08-28_14-14-25",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3601286299/technopark/photos_resized/product/120_120/229569/4_229569.jpg?timestamp=2025-08-28_14-14-27",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/513373886/technopark/photos_resized/product/120_120/229569/5_229569.jpg?timestamp=2025-08-28_14-14-24",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Пароварки Brayer",
+          "url": "/parovarki/brayer/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2742083439/technopark/photos_resized/product/120_120/809464/1_809464.jpg?timestamp=2026-02-05_08-09-57",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3564630009/technopark/photos_resized/product/120_120/809464/2_809464.jpg?timestamp=2026-02-05_08-09-57",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4037338642/technopark/photos_resized/product/120_120/809464/3_809464.jpg?timestamp=2026-02-05_08-10-05",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2108392995/technopark/photos_resized/product/120_120/809464/4_809464.jpg?timestamp=2026-02-05_08-09-57",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1114070086/technopark/photos_resized/product/120_120/809464/5_809464.jpg?timestamp=2026-02-05_08-10-11",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2059813434/technopark/photos_resized/product/120_120/809464/6_809464.jpg?timestamp=2026-02-05_08-09-57",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2662918085/technopark/photos_resized/product/120_120/809464/7_809464.jpg?timestamp=2026-02-05_08-10-06",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/387762965/technopark/photos_resized/product/120_120/809464/8_809464.jpg?timestamp=2026-02-05_08-10-05",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2010858224/technopark/photos_resized/product/120_120/809464/9_809464.jpg?timestamp=2026-02-05_08-10-05",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1154019944/technopark/photos_resized/product/120_120/809464/10_809464.jpg?timestamp=2026-02-05_08-09-57",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1612446595/technopark/photos_resized/product/120_120/809464/11_809464.jpg?timestamp=2026-02-05_08-10-05",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Хлебопечки Brayer",
+          "url": "/hlebopechki/brayer/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2960002847/technopark/photos_resized/product/120_120/819362/1_819362.jpg?timestamp=2026-02-04_14-51-24",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3070479110/technopark/photos_resized/product/120_120/819362/2_819362.jpg?timestamp=2026-02-04_14-51-24",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1494067754/technopark/photos_resized/product/120_120/819362/3_819362.jpg?timestamp=2026-02-04_14-51-23",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3609459406/technopark/photos_resized/product/120_120/819362/4_819362.jpg?timestamp=2026-02-04_14-51-23",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1583377971/technopark/photos_resized/product/120_120/819362/5_819362.jpg?timestamp=2026-02-04_14-51-23",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/992573741/technopark/photos_resized/product/120_120/819362/6_819362.jpg?timestamp=2026-02-04_14-51-26",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3576109057/technopark/photos_resized/product/120_120/819362/7_819362.jpg?timestamp=2026-02-04_14-51-26",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/488188452/technopark/photos_resized/product/120_120/819362/8_819362.jpg?timestamp=2026-02-04_14-51-28",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3627686091/technopark/photos_resized/product/120_120/819362/9_819362.jpg?timestamp=2026-02-04_14-51-32",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3159809487/technopark/photos_resized/product/120_120/819362/10_819362.jpg?timestamp=2026-02-04_14-51-27",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4078390024/technopark/photos_resized/product/120_120/819362/11_819362.jpg?timestamp=2026-02-04_14-51-27",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3103625518/technopark/photos_resized/product/120_120/819362/12_819362.jpg?timestamp=2026-02-04_14-51-32",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3489309112/technopark/photos_resized/product/120_120/819362/13_819362.jpg?timestamp=2026-02-04_14-51-32",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Щипцы для завивки Brayer",
+          "url": "/schiptsy-dlya-zavivki/brayer/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/743003611/technopark/photos_resized/product/120_120/820166/1_820166.jpg?timestamp=2026-02-10_19-42-59",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3307925742/technopark/photos_resized/product/120_120/820166/2_820166.jpg?timestamp=2026-02-10_19-42-59",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/723816898/technopark/photos_resized/product/120_120/820166/3_820166.jpg?timestamp=2026-02-10_19-42-59",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3259446519/technopark/photos_resized/product/120_120/820166/4_820166.jpg?timestamp=2026-02-10_19-42-59",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/998894760/technopark/photos_resized/product/120_120/820166/5_820166.jpg?timestamp=2026-02-10_19-42-59",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/204542161/technopark/photos_resized/product/120_120/820166/6_820166.jpg?timestamp=2026-02-10_19-43-01",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Стайлеры Brayer",
+          "url": "/pribory-dlya-ukladki/brayer/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1144374505/technopark/photos_resized/product/120_120/819905/1_819905.jpg?timestamp=2026-02-09_11-39-48",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/981776468/technopark/photos_resized/product/120_120/819905/2_819905.jpg?timestamp=2026-02-09_11-39-47",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/65522719/technopark/photos_resized/product/120_120/819905/3_819905.jpg?timestamp=2026-02-09_11-39-48",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        }
+      ],
+      "__typename": "Brand"
+    },
+    "section": {
+      "slug": "kofevarki-i-kofemashiny",
+      "id": "904",
+      "name": "Кофеварки",
+      "parents": [
+        {
+          "id": "900",
+          "name": "Для кухни",
+          "depth": 1,
+          "__typename": "SectionTreeItem"
+        },
+        {
+          "id": "904",
+          "name": "Кофеварки",
+          "depth": 2,
+          "__typename": "SectionTreeItem"
+        }
+      ],
+      "__typename": "Section"
+    },
+    "media": {
+      "gallery": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/683427/1_683427.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/683427/2_683427.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/683427/3_683427.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/683427/4_683427.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/683427/5_683427.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/683427/6_683427.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/683427/7_683427.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/683427/8_683427.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/683427/9_683427.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/683427/10_683427.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/683427/11_683427.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "interior": [],
+      "video": [],
+      "vkVideo": null,
+      "view3d": [],
+      "listing": {
+        "default": [
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/683427/1_683427.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/683427/2_683427.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/683427/3_683427.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/683427/4_683427.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/683427/5_683427.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/683427/6_683427.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/683427/7_683427.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/683427/8_683427.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/683427/9_683427.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/683427/10_683427.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/683427/11_683427.jpg",
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "ProductListing"
+      },
+      "__typename": "ProductV2Media"
+    },
+    "modifications": {
+      "bigBrother": null,
+      "groups": [],
+      "__typename": "ProductModifications"
+    },
+    "description": {
+      "hasDescription": false,
+      "type": "DEFAULT",
+      "__typename": "ProductDescription"
+    },
+    "collection": {
+      "id": "683427",
+      "products": {
+        "pagination": {
+          "total": 0,
+          "__typename": "Pagination"
+        },
+        "__typename": "ProductV2Pagination"
+      },
+      "__typename": "ProductCollection"
+    },
+    "similar": {
+      "pagination": {
+        "total": 30,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "related": {
+      "pagination": {
+        "total": 19,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "accessories": [
+      {
+        "products": {
+          "pagination": {
+            "total": 1,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 17,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 16,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 2,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 3,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 2,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 10,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 2,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 5,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 14,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      }
+    ],
+    "rating": {
+      "average": 5,
+      "canRate": false,
+      "total": {
+        "all": 1,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 1,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "reviews": {
+      "total": 1,
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "bestCredit": {
+      "monthPayment": 167,
+      "type": "DEFERRED_PAYMENT",
+      "__typename": "ProductBestCredit"
+    },
+    "isSpare": false,
+    "isService": false,
+    "isVipService": false,
+    "isGiftBonusCard": false,
+    "canBuy": true,
+    "canPayOnline": true,
+    "canRequestPrice": false,
+    "canShowPrice": true,
+    "canSubscribe": false,
+    "needPrepaymentForDelivery": false,
+    "needPrepaymentForPreorder": false,
+    "isSberSpasiboPayAvailable": true,
+    "isYandexPayAllowed": false,
+    "yandexSplit": {
+      "payments": [
+        {
+          "amount": 0,
+          "date": "2026-08-17T09:03:27+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 338,
+          "date": "2026-08-31T09:03:27+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 332,
+          "date": "2026-09-14T09:03:27+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 332,
+          "date": "2026-09-28T09:03:27+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 332,
+          "date": "2026-10-12T09:03:27+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 332,
+          "date": "2026-10-26T09:03:27+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 332,
+          "date": "2026-11-09T09:03:27+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 332,
+          "date": "2026-11-23T09:03:27+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 332,
+          "date": "2026-12-07T09:03:27+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 332,
+          "date": "2026-12-21T09:03:27+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 332,
+          "date": "2027-01-04T09:03:27+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 332,
+          "date": "2027-01-18T09:03:27+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 332,
+          "date": "2027-02-01T09:03:27+0300",
+          "__typename": "YandexSplitPayment"
+        }
+      ],
+      "firstPayment": 0,
+      "restPayment": 3990,
+      "description": "https://yandex.ru/support/split/",
+      "maxAmount": 295000,
+      "__typename": "YandexSplit"
+    },
+    "seo": {
+      "description": "Кофеварка Brayer BR1124: купить в интернет-магазине Технопарк с расширенной гарантией и бесплатной доставкой по РФ. Подробные характеристики товара с отзывами реальных покупателей.",
+      "text": "Вы можете купить кофеварку Brayer BR1124 с доставкой по Москве по низкой цене. В интернет-магазине Technopark.ru осуществляется продажа кофеварки Brayer BR1124 на выгодных условиях.",
+      "textHidden": "",
+      "title": "Кофеварка Brayer BR1124 - купить в Москве в интернет-магазине Технопарк",
+      "__typename": "SeoData"
+    },
+    "breadcrumbs": [
+      {
+        "name": "Главная",
+        "url": "/",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Техника для кухни",
+        "url": "/dlya-kuhni/",
+        "options": [
+          {
+            "name": "Центр инноваций",
+            "url": "/tovary-iz-budushchego/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Смартфоны и гаджеты",
+            "url": "/smartfony-i-gadzhety/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Компьютеры и ноутбуки",
+            "url": "/kompyutery-i-noutbuki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Климатическая техника",
+            "url": "/klimaticheskaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Крупная бытовая техника",
+            "url": "/krupnaya-bytovaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Бытовая техника для дома",
+            "url": "/dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для красоты и здоровья",
+            "url": "/krasota-i-zdorovye/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Спортивные товары",
+            "url": "/trenazhery-dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Телевизоры Аудио Hi-Fi",
+            "url": "/audio-video-foto/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для сада, дома и ремонта",
+            "url": "/dlya-sada-doma-i-remonta/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посуда",
+            "url": "/posuda/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Детские товары",
+            "url": "/detskie-tovary/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для гейминга",
+            "url": "/gaming/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Плоттеры и услуги розницы",
+            "url": "//",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Запасные части",
+            "url": "/zapasnie-chasti/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Кофеварки",
+        "url": "/kofevarki-i-kofemashiny/",
+        "options": [
+          {
+            "name": "Аэрогрили",
+            "url": "/aerogrili/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Микроволновые печи",
+            "url": "/mikrovolnovye-pechi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мультиварки",
+            "url": "/multivarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мини-печи",
+            "url": "/mini-pechi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мультишефы BORK",
+            "url": "/multishefy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Миксеры и кухонные машины",
+            "url": "/miksery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрогрили",
+            "url": "/grili/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Уличные грили барбекю",
+            "url": "/ulichnye-grili-barbeku/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Фритюрницы",
+            "url": "/frityurnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Хлебопечки",
+            "url": "/hlebopechki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Пароварки",
+            "url": "/parovarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Настольные плиты",
+            "url": "/induktsionnye-paneli/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мороженицы",
+            "url": "/morozhenitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вакуумные упаковщики (вакууматоры)",
+            "url": "/vakuumnaya-upakovka/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Су виды",
+            "url": "/su-vidy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрические сковороды и воки",
+            "url": "/elektricheskie-skovorody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Автоматические кофемашины",
+            "url": "/kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кофейные станции",
+            "url": "/kofeynye-stantsii/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Капсульные кофемашины",
+            "url": "/kapsulnye-kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Гейзерные кофеварки для дома",
+            "url": "/gejzernye-kofevarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кофемолки",
+            "url": "/kofemolki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вспениватели молока",
+            "url": "/vspenivateli-moloka/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для приготовления кофе",
+            "url": "/prigotovlenie-kofe/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрические чайники",
+            "url": "/chayniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Соковыжималки",
+            "url": "/sokovyzhimalki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Термопоты",
+            "url": "/termopoty/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Декантеры",
+            "url": "/dekantery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кулеры для воды",
+            "url": "/kulery-dlya-vody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Льдогенераторы",
+            "url": "/ledogeneratory/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Системы газации напитков",
+            "url": "/sistema-gazatsii-napitkov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мясорубки",
+            "url": "/myasorubki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Блендеры",
+            "url": "/blendery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные комбайны",
+            "url": "/kuhonnye-kombayny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные измельчители (чопперы)",
+            "url": "/kukhonnye-izmelchiteli/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Ломтерезки",
+            "url": "/lomterezki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Овощерезки",
+            "url": "/elektroterka/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Тостеры",
+            "url": "/tostery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вафельницы",
+            "url": "/vafelnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мультипекари",
+            "url": "/sendvichnitsi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Яйцеварки",
+            "url": "/yaycevarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Блинницы",
+            "url": "/blinnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Йогуртницы",
+            "url": "/yogurtnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Фильтры для воды под мойку",
+            "url": "/filtry-kuvshiny-dlya-ochistki-vody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Фильтры-кувшины для воды",
+            "url": "/filtry-kuvshiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для очистки воды",
+            "url": "/dlya-ochistki-vody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные весы",
+            "url": "/kuhonnye-vesy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Дегидраторы",
+            "url": "/sushki-dlya-ovoschey/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для кухни",
+            "url": "/aksessuary-dlya-kuhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мойки для кухни",
+            "url": "/moyki-dlya-kukhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрошашлычницы",
+            "url": "/shashlychnitsa/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Кофеварки Brayer",
+        "url": "/kofevarki-i-kofemashiny/brayer/",
+        "options": [
+          {
+            "name": "BORK",
+            "url": "/kofevarki-i-kofemashiny/bork/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Smeg",
+            "url": "/kofevarki-i-kofemashiny/smeg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Endever",
+            "url": "/kofevarki-i-kofemashiny/endever/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Wacaco",
+            "url": "/kofevarki-i-kofemashiny/wacaco/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Delonghi",
+            "url": "/kofevarki-i-kofemashiny/delonghi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Korting",
+            "url": "/kofevarki-i-kofemashiny/korting/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "La Pavoni",
+            "url": "/kofevarki-i-kofemashiny/la_pavoni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Maunfeld",
+            "url": "/kofevarki-i-kofemashiny/maunfeld/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "KitchenAid",
+            "url": "/kofevarki-i-kofemashiny/kitchenaid/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Zigmund Shtain",
+            "url": "/kofevarki-i-kofemashiny/zigmund_shtain/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Polaris",
+            "url": "/kofevarki-i-kofemashiny/polaris/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Beko",
+            "url": "/kofevarki-i-kofemashiny/beko/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Buydeem",
+            "url": "/kofevarki-i-kofemashiny/buydeem/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "REDMOND",
+            "url": "/kofevarki-i-kofemashiny/redmond/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Krups",
+            "url": "/kofevarki-i-kofemashiny/krups/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "VES",
+            "url": "/kofevarki-i-kofemashiny/ves/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Libhof",
+            "url": "/kofevarki-i-kofemashiny/libhof/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "WMF",
+            "url": "/kofevarki-i-kofemashiny/wmf/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Brayer BR1124",
+        "url": "kofevarka-brayer-br1124",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      }
+    ],
+    "isArchive": false,
+    "__typename": "ProductV2",
+    "isSberPayOneClickAllowed": false,
+    "isTinkoffPayOneClickAllowed": false,
+    "bonus": null
+  },
+  "details": {
+    "description": "",
+    "descriptionType": "DEFAULT",
+    "descriptionBarcode": "9120099334563",
+    "descriptionBrand": "Brayer",
+    "specifications": {
+      "short": [
+        {
+          "name": "Тип",
+          "value": "капельная",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Используемый кофе",
+          "value": "молотый",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Потребляемая мощность",
+          "value": "900 Вт",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Объем резервуара для воды",
+          "value": "1.8 л",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "barcode": "9120099334563",
+      "country": "Китай",
+      "full": [
+        {
+          "name": "Основные характеристики",
+          "list": [
+            {
+              "name": "Тип",
+              "value": "капельная",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Установка",
+              "value": "отдельностоящая",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Используемый кофе",
+              "value": "молотый",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Потребляемая мощность",
+              "value": "900 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Объем резервуара для воды",
+              "value": "1.8 л",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Объем кувшина для кофе",
+              "value": "1.25 л",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Управление",
+          "list": [
+            {
+              "name": "Управление",
+              "value": "электронное, сенсорное",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дисплей",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип дисплея",
+              "value": "LED",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Таймер",
+              "value": "таймер включения/выключения",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Приготовление напитка",
+          "list": [
+            {
+              "name": "Приготовление американо",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дополнительная информация",
+              "value": "поддержание температуры",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Функции и режимы",
+          "list": [
+            {
+              "name": "Автоматическое отключение",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Особенности",
+          "list": [
+            {
+              "name": "Противокапельная система",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Индикация",
+          "list": [
+            {
+              "name": "Индикатор уровня воды",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация включения",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикатор необходимости очистки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Корпус",
+          "list": [
+            {
+              "name": "Материал корпуса",
+              "value": "пластик, нержавеющая сталь",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет",
+              "value": "серебристый",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал кувшина для кофе",
+              "value": "стекло",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Прорезиненные ножки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Комплектация",
+          "list": [
+            {
+              "name": "Мерная ложечка",
+              "value": "в комплекте",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дополнительная комплектация",
+              "value": "нейлоновый фильтр",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Инструкция",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Питание",
+          "list": [
+            {
+              "name": "Напряжение",
+              "value": "220-240 В",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автоматическое переключение напряжения",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        }
+      ],
+      "grossWeight": "2.2",
+      "netWeight": "2",
+      "height": "0.34",
+      "instructionUrl": "https://storage.yandexcloud.net/technopark.instructions/683427/instruction/instrukciya-kofevarka-brayer-br1124.pdf",
+      "length": "0.27",
+      "schemeUrl": null,
+      "warranty": "24",
+      "width": "0.21",
+      "__typename": "ProductV2Specifications"
+    },
+    "certificates": ["https://www.technopark.ru/bipublic/Cert/IG80GV1H5DKKCR.pdf"],
+    "isManufacturerCountry": false,
+    "isSellerWarranty": false,
+    "reviews": {
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "total": 1,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "rating": {
+      "average": 5,
+      "canRate": false,
+      "total": {
+        "all": 1,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 1,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "isLoading": false
+  },
+  "shots": [
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/683427/1_683427.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/683427/1_683427.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/683427/2_683427.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/683427/2_683427.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/683427/3_683427.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/683427/3_683427.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/683427/4_683427.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/683427/4_683427.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/683427/5_683427.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/683427/5_683427.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/683427/6_683427.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/683427/6_683427.jpg"
+    ]
+  ],
+  "photos": [
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/kofevarka-brayer-br1124-1.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/kofevarka-brayer-br1124-2.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/kofevarka-brayer-br1124-3.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/kofevarka-brayer-br1124-4.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/kofevarka-brayer-br1124-5.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/kofevarka-brayer-br1124-6.jpg"
+  ]
+}

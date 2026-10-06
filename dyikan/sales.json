@@ -1,0 +1,1224 @@
+{
+  "people": [
+    {
+      "key": "aigerim",
+      "name": "Айгерим Осмонова",
+      "phone": "+996 700 412 336",
+      "email": "aigerim.osmonova@gmail.com",
+      "address": "Бишкек, ул. Токтогула 121, кв. 44"
+    },
+    {
+      "key": "elena",
+      "name": "Елена Гринько",
+      "phone": "+996 558 149 730",
+      "email": "n.grinko@mail.ru",
+      "address": "Бишкек, ул. Чуй 219, кв. 64"
+    },
+    {
+      "key": "timur",
+      "name": "Тимур Расулов",
+      "phone": "+996 500 214 907",
+      "email": "timur.rasulov@mail.ru",
+      "address": "Бишкек, ул. Медерова 48",
+      "kept": true
+    },
+    {
+      "key": "jyldyz",
+      "name": "Жылдыз Асанова",
+      "phone": "+996 772 486 155",
+      "email": "jyldyz.asanova@gmail.com",
+      "address": "Бишкек, мкр. Джал 23, кв. 61",
+      "quiet": [
+        {
+          "category": "catalog",
+          "off": [
+            "mail"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "omar",
+      "name": "Omar Al-Rashid",
+      "phone": "+996 555 419 073",
+      "email": "omar.alrashid@gmail.com",
+      "address": "Bishkek, Kievskaya St 95, apt. 40",
+      "quiet": [
+        {
+          "category": "catalog",
+          "off": [
+            "feed",
+            "push",
+            "mail"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "baktygul",
+      "name": "Бактыгуль Токтосунова",
+      "phone": "+996 707 318 442",
+      "email": "b.toktosunova@gmail.com",
+      "address": "Бишкек, ул. Киевская 112, кв. 9"
+    },
+    {
+      "key": "azamat",
+      "name": "Азамат Жумабеков",
+      "phone": "+996 555 760 218",
+      "email": "azamat.jumabekov@mail.ru",
+      "address": "Бишкек, ул. Ахунбаева 98, кв. 31"
+    },
+    {
+      "key": "natalia",
+      "name": "Наталья Ким",
+      "phone": "+996 770 903 127",
+      "email": "natalia.kim@gmail.com",
+      "address": "Бишкек, мкр. Асанбай 14, кв. 52"
+    },
+    {
+      "key": "daniyar",
+      "name": "Данияр Мамытов",
+      "phone": "+996 501 644 890",
+      "email": "d.mamytov@gmail.com",
+      "address": "Бишкек, ул. Московская 187, кв. 5"
+    },
+    {
+      "key": "meerim",
+      "name": "Мээрим Абдыкадырова",
+      "phone": "+996 778 251 063",
+      "email": "meerim.abdykadyrova@mail.ru",
+      "address": "Чуйская область, с. Маевка, ул. Ленина 41"
+    },
+    {
+      "key": "gulnara",
+      "name": "Гульнара Исакова",
+      "phone": "+996 709 835 571",
+      "email": "gulnara.isakova@gmail.com",
+      "address": "Бишкек, ул. Боконбаева 61, кв. 18"
+    }
+  ],
+  "announcements": [
+    {
+      "text": "Утренний прайс: помидоры 180, огурцы 140, зелень с шести утра. Картошка нового урожая подешевела до 45.",
+      "days": 20,
+      "term": 1,
+      "action": {
+        "kind": "page",
+        "target": "price",
+        "label": "Весь прайс"
+      }
+    },
+    {
+      "text": "Завоз баранины из Нарына — с восьми утра у мясного ряда. Рубим при вас, забирайте пораньше.",
+      "days": 9,
+      "term": 3,
+      "action": {
+        "kind": "category",
+        "target": "myaso",
+        "label": "Мясо и птица"
+      }
+    },
+    {
+      "text": "На выходных возим до 20:00 — в субботу берите пораньше, вечерние окна разбирают к обеду.",
+      "days": 1,
+      "term": 3
+    },
+    {
+      "text": "Со вторника ждём клубнику из Баткена. Цену скажем утром, как выгрузят.",
+      "days": 0,
+      "term": 3,
+      "sent": false
+    }
+  ],
+  "appeals": [
+    {
+      "person": "aigerim",
+      "form": "chat",
+      "days": 48,
+      "at": [
+        19,
+        40
+      ],
+      "answers": {
+        "question": "Здравствуйте! Мясо у вас режут при мне или заранее фасуют? И можно попросить кусок пожирнее на гуляш?"
+      },
+      "talk": [
+        {
+          "by": "staff",
+          "text": "Айгерим, здравствуйте! Режем под заказ, утром. В комментарии к заказу напишите «пожирнее» — мясник прочитает."
+        },
+        {
+          "by": "guest",
+          "text": "А если попросить ровно полтора килограмма, отрежете ровно?"
+        },
+        {
+          "by": "staff",
+          "text": "Ровно почти никогда не выходит — кусок режется по волокну. Обычно ±100 граммов, и это нормальная работа, а не пересорт."
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "person": "aigerim",
+      "form": "chat",
+      "days": 44,
+      "at": [
+        10,
+        25
+      ],
+      "answers": {
+        "question": "В накладной гуляш 1.6 кг, а я заказывала 1.5. С меня возьмут за 1.6?"
+      },
+      "talk": [
+        {
+          "by": "staff",
+          "text": "Нет. Сумма остаётся та, на которую вы согласились при заказе — перевес наш, сотню граммов дарим. В журнале заказа это так и записано."
+        },
+        {
+          "by": "guest",
+          "text": "А если бы вышло меньше полутора?"
+        },
+        {
+          "by": "staff",
+          "text": "Тогда пересчитали бы вниз и вернули разницу. Вверх не дописываем задним числом никогда — вы согласились на сумму, а не на весы."
+        },
+        {
+          "by": "guest",
+          "text": "Хорошо. А почему тогда просто не резать чуть меньше, с запасом вниз?"
+        },
+        {
+          "by": "staff",
+          "text": "Потому что тогда вам всегда будет чуть меньше, чем вы просили. Лучше чуть больше за наш счёт, чем чуть меньше за ваш."
+        },
+        {
+          "by": "guest",
+          "text": "Логично. Вопросов нет."
+        }
+      ],
+      "status": "done",
+      "assign": true
+    },
+    {
+      "person": "elena",
+      "form": "request",
+      "days": 41,
+      "at": [
+        12,
+        10
+      ],
+      "answers": {
+        "when": 2,
+        "comment": "Нужно на плов на 25 человек: рис, морковь, лук, баранина. Соберите сами, я в продуктах не разбираюсь. Доставка в субботу утром."
+      },
+      "talk": [
+        {
+          "by": "staff",
+          "text": "Елена, собрали: 5 кг риса девзира, 3 кг моркови, 2 кг лука, 4 кг бараньей лопатки. На 25 человек хватит с запасом. Список и сумму отправила."
+        },
+        {
+          "by": "guest",
+          "text": "А рис обязательно девзира? Он дороже вдвое."
+        },
+        {
+          "by": "staff",
+          "text": "Не обязательно — на плов идёт и лазер, он дешевле и разваривается меньше. Пересобрала с ним, разницу увидите в сумме."
+        },
+        {
+          "by": "guest",
+          "text": "Давайте лазер. И баранину пожирнее."
+        }
+      ],
+      "status": "done",
+      "assign": true
+    },
+    {
+      "person": "elena",
+      "form": "chat",
+      "days": 34,
+      "at": [
+        20,
+        30
+      ],
+      "answers": {
+        "question": "Добрый вечер! Заказ привезли, но вместо укропа положили петрушку. Мелочь, но всё же."
+      },
+      "talk": [
+        {
+          "by": "staff",
+          "text": "Елена, извините — на сборке перепутали. Укроп привезём завтра с ближайшим заказом бесплатно, петрушку оставьте себе."
+        },
+        {
+          "by": "guest",
+          "text": "Договорились. Завтра как раз пригодится."
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "person": "timur",
+      "form": "request",
+      "days": 27,
+      "at": [
+        18,
+        15
+      ],
+      "answers": {
+        "when": 3,
+        "comment": "Кафе на Медерова, нужны овощи каждый день к 7 утра: помидоры, огурцы, лук, зелень. Работаем по договору, оплата раз в неделю."
+      },
+      "talk": [
+        {
+          "by": "staff",
+          "text": "Тимур, по кафе работаем: ежедневная доставка к 7:00, счёт раз в неделю, цена ниже розничной на 12%. Нужен договор и заявка с вечера — пришлю форму."
+        },
+        {
+          "by": "guest",
+          "text": "А если чего-то не будет на базе — предупредите заранее или узнаю в семь утра?"
+        },
+        {
+          "by": "staff",
+          "text": "Предупредим с вечера, когда собираем. Заменим на равное по цене, если согласуете."
+        },
+        {
+          "by": "note",
+          "text": "Постоянный корпоративный клиент, доставка к 7:00. Сборщику: собирать с вечера, о заменах писать сразу."
+        }
+      ],
+      "status": "open",
+      "assign": true
+    },
+    {
+      "person": "timur",
+      "form": "chat",
+      "days": 9,
+      "at": [
+        7,
+        20
+      ],
+      "answers": {
+        "question": "Зелень не приехала. Повар стоит без гарнира, гости с восьми."
+      },
+      "talk": [
+        {
+          "by": "staff",
+          "text": "Тимур, виноваты — зелень не попала в машину: сборщик отметил, а водитель не догрузил. Довезли отдельной ходкой к девяти, но к открытию это уже не то."
+        },
+        {
+          "by": "guest",
+          "text": "К девяти мне и не нужно было. Второй раз за две недели, и оба раза я узнаю об этом в семь утра от своего повара."
+        },
+        {
+          "by": "staff",
+          "text": "Справедливо. С завтрашнего дня зелень грузим первой и я лично сверяю накладную перед выездом. Сегодняшнюю не считаем."
+        },
+        {
+          "by": "guest",
+          "text": "Посмотрим. У меня кафе, а не переписка."
+        },
+        {
+          "by": "note",
+          "text": "Медерова — зелень грузить первой, накладную сверять при мне. Второй промах за две недели, клиент договорный и на грани."
+        }
+      ],
+      "status": "open",
+      "assign": true
+    },
+    {
+      "person": "jyldyz",
+      "form": "chat",
+      "days": 20,
+      "at": [
+        14,
+        50
+      ],
+      "answers": {
+        "question": "Здравствуйте! А доставка есть в Кой-Таш? И от какой суммы бесплатно?"
+      },
+      "talk": [
+        {
+          "by": "staff",
+          "text": "Жылдыз, в Кой-Таш возим по вторникам и пятницам. Бесплатно от 3 000 сом, ниже — 250 сом за выезд."
+        },
+        {
+          "by": "guest",
+          "text": "Вторник подходит. Дорога грунтовая, машина проедет?"
+        },
+        {
+          "by": "staff",
+          "text": "Проедет, туда ездим не первый год. Напишите ориентир — дом за школой найдём."
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "person": "jyldyz",
+      "form": "request",
+      "days": 11,
+      "at": [
+        16,
+        5
+      ],
+      "answers": {
+        "when": 4,
+        "comment": "Можно заказать на неделю вперёд и чтобы привозили по вторникам одно и то же? Семья большая, каждый раз собирать список утомительно."
+      },
+      "talk": [
+        {
+          "by": "staff",
+          "text": "Жылдыз, сделаем постоянный список: соберём один раз вместе, дальше повторяем каждый вторник, вы только подтверждаете. Меняете что хотите в тот же день до 18:00."
+        },
+        {
+          "by": "guest",
+          "text": "Отлично. Тогда картошку и морковь всегда, остальное буду добавлять."
+        }
+      ],
+      "status": "open"
+    },
+    {
+      "person": "omar",
+      "form": "chat",
+      "days": 15,
+      "at": [
+        11,
+        30
+      ],
+      "locale": "en",
+      "answers": {
+        "question": "Hello! Is your beef halal, and do you have a certificate?"
+      },
+      "talk": [
+        {
+          "by": "staff",
+          "text": "Hello, Omar! Yes — all our beef and lamb come from a halal slaughterhouse in Kant, and the certificate is at the counter. I can send you a photo of it."
+        },
+        {
+          "by": "guest",
+          "text": "A photo would be great. Is the chicken from the same place?"
+        },
+        {
+          "by": "staff",
+          "text": "The chicken is from a different farm, also halal, separate certificate. I will send both."
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "person": "jyldyz",
+      "form": "chat",
+      "days": 1,
+      "at": [
+        8,
+        10
+      ],
+      "answers": {
+        "question": "Доброе утро. Вчерашний заказ так и не привезли, никто не звонил."
+      },
+      "talk": [
+        {
+          "by": "guest",
+          "text": "Сутки прошли. Ответьте хоть что-нибудь, продукты нужны были вчера."
+        }
+      ]
+    }
+  ],
+  "orders": [
+    {
+      "person": "aigerim",
+      "days": 46,
+      "at": [
+        10,
+        15
+      ],
+      "lines": [
+        {
+          "item": "govyadina-gulyash",
+          "qty": 15
+        },
+        {
+          "item": "kartofel",
+          "qty": 5
+        },
+        {
+          "item": "luk-repchatyj",
+          "qty": 2
+        },
+        {
+          "item": "hleb-pshenichnyj",
+          "qty": 1
+        },
+        {
+          "item": "moloko-3-2",
+          "qty": 2
+        }
+      ],
+      "zone": 1,
+      "slot": {
+        "window": 1,
+        "after": 1
+      },
+      "answers": {
+        "courier": "Домофон 44, лифт до седьмого."
+      },
+      "steps": [
+        {
+          "do": "correct",
+          "how": "raise",
+          "say": "Взвесили: гуляш вышел 1.6 кг вместо 1.5 — разницу дарим"
+        },
+        {
+          "do": "status",
+          "to": "confirmed",
+          "say": "Подтвердила по телефону"
+        },
+        {
+          "do": "confirm",
+          "say": "Перевод пришёл, сверил по выписке"
+        }
+      ],
+      "carry": {
+        "to": "delivered",
+        "say": "Курьер вручил по коду, пакеты целые"
+      }
+    },
+    {
+      "person": "elena",
+      "days": 39,
+      "at": [
+        19,
+        0
+      ],
+      "lines": [
+        {
+          "item": "baranina-lopatka",
+          "qty": 40
+        },
+        {
+          "item": "morkov",
+          "qty": 3
+        },
+        {
+          "item": "luk-repchatyj",
+          "qty": 2
+        }
+      ],
+      "zone": 1,
+      "slot": {
+        "window": 1,
+        "after": 2
+      },
+      "answers": {
+        "courier": "Частный дом, ворота синие. Позвонить за 15 минут."
+      },
+      "steps": [
+        {
+          "do": "correct",
+          "how": "raise",
+          "say": "Баранина вышла 4.1 кг — сотню граммов дарим"
+        },
+        {
+          "do": "status",
+          "to": "confirmed",
+          "say": "Список согласован"
+        },
+        {
+          "do": "confirm",
+          "say": "Оплатил переводом"
+        }
+      ],
+      "carry": {
+        "to": "delivered",
+        "say": "Вручено по коду, всё принял"
+      }
+    },
+    {
+      "person": "elena",
+      "days": 33,
+      "at": [
+        16,
+        40
+      ],
+      "lines": [
+        {
+          "item": "pomidory-rozovye",
+          "qty": 3
+        },
+        {
+          "item": "ogurcy-dlinnoplodnye",
+          "qty": 2
+        },
+        {
+          "item": "ukrop",
+          "qty": 1
+        },
+        {
+          "item": "hleb-pshenichnyj",
+          "qty": 1
+        },
+        {
+          "item": "smetana-20",
+          "qty": 1
+        }
+      ],
+      "zone": 1,
+      "slot": {
+        "window": 3,
+        "after": 1
+      },
+      "answers": {
+        "courier": "Код 64, подъезд со двора."
+      },
+      "steps": [
+        {
+          "do": "status",
+          "to": "confirmed",
+          "say": "Подтвердила"
+        }
+      ],
+      "carry": {
+        "to": "delivered",
+        "collect": true,
+        "say": "Вручено, оплата курьеру. На сборке перепутали зелень — довезли отдельно"
+      }
+    },
+    {
+      "person": "timur",
+      "days": 25,
+      "at": [
+        20,
+        30
+      ],
+      "lines": [
+        {
+          "item": "pomidory-rozovye",
+          "qty": 8
+        },
+        {
+          "item": "ogurcy-dlinnoplodnye",
+          "qty": 6
+        },
+        {
+          "item": "luk-zelyonyj",
+          "qty": 2
+        }
+      ],
+      "zone": 2,
+      "slot": {
+        "window": 1,
+        "after": 1
+      },
+      "answers": {
+        "courier": "Кафе, вход с торца. К 7:00, там будет повар."
+      },
+      "steps": [
+        {
+          "do": "correct",
+          "how": "discount",
+          "say": "Корпоративная цена, минус 12%"
+        },
+        {
+          "do": "status",
+          "to": "confirmed",
+          "say": "Заявка с вечера принята"
+        }
+      ],
+      "carry": {
+        "to": "delivered",
+        "say": "Вручено повару по коду"
+      }
+    },
+    {
+      "person": "jyldyz",
+      "days": 19,
+      "at": [
+        13,
+        20
+      ],
+      "lines": [
+        {
+          "item": "kartofel",
+          "qty": 10
+        },
+        {
+          "item": "kapusta-belokochannaya",
+          "qty": 3
+        },
+        {
+          "item": "svyokla",
+          "qty": 3
+        },
+        {
+          "item": "smetana-20",
+          "qty": 1
+        },
+        {
+          "item": "hleb-rzhanoj",
+          "qty": 1
+        },
+        {
+          "item": "pasta-tomatnaya",
+          "qty": 1
+        }
+      ],
+      "zone": 2,
+      "slot": {
+        "window": 2,
+        "after": 2
+      },
+      "broughtBy": "aigerim",
+      "answers": {
+        "courier": "Кой-Таш, дом за школой. Дорога грунтовая."
+      },
+      "steps": [
+        {
+          "do": "status",
+          "to": "confirmed",
+          "say": "Подтвердила, везём во вторник"
+        },
+        {
+          "do": "confirm",
+          "say": "Оплата переводом до выезда"
+        }
+      ],
+      "carry": {
+        "to": "delivered",
+        "say": "Вручено по коду"
+      }
+    },
+    {
+      "person": "omar",
+      "days": 14,
+      "at": [
+        11,
+        45
+      ],
+      "locale": "en",
+      "lines": [
+        {
+          "item": "govyadina-ribaj",
+          "qty": 20
+        },
+        {
+          "item": "chesnok",
+          "qty": 1
+        }
+      ],
+      "zone": 3,
+      "slot": {
+        "window": 2,
+        "after": 1
+      },
+      "broughtBy": "aigerim",
+      "answers": {
+        "courier": "Fourth floor, the intercom is broken — please call."
+      },
+      "steps": [
+        {
+          "do": "status",
+          "to": "confirmed",
+          "say": "Confirmed, halal certificate photo sent"
+        },
+        {
+          "do": "confirm",
+          "say": "Paid by transfer"
+        }
+      ],
+      "carry": {
+        "to": "delivered",
+        "fails": [
+          {
+            "reason": "absent",
+            "note": "Домофон не работает, на звонок не ответили. Ждал десять минут.",
+            "again": {
+              "after": 1
+            }
+          }
+        ],
+        "say": "Handed over on the second attempt, by code"
+      }
+    },
+    {
+      "person": "jyldyz",
+      "days": 10,
+      "at": [
+        18,
+        10
+      ],
+      "lines": [
+        {
+          "item": "farsh-govyazhij",
+          "qty": 20
+        },
+        {
+          "item": "kabachki",
+          "qty": 2
+        },
+        {
+          "item": "petrushka",
+          "qty": 1
+        }
+      ],
+      "zone": 2,
+      "slot": {
+        "window": 3,
+        "after": 1
+      },
+      "answers": {
+        "courier": "Кой-Таш, тот же дом за школой."
+      },
+      "steps": [
+        {
+          "do": "status",
+          "to": "confirmed",
+          "say": "Первый заказ по постоянному списку"
+        }
+      ],
+      "carry": {
+        "to": "delivered",
+        "collect": true,
+        "say": "Вручено, оплата курьеру наличными"
+      }
+    },
+    {
+      "person": "aigerim",
+      "days": 5,
+      "at": [
+        21,
+        40
+      ],
+      "lines": [
+        {
+          "item": "govyadina-vyrezka",
+          "qty": 10
+        },
+        {
+          "item": "salat-listovoj",
+          "qty": 1
+        }
+      ],
+      "zone": 1,
+      "slot": {
+        "window": 2,
+        "after": 1
+      },
+      "answers": {
+        "courier": "Домофон 44."
+      },
+      "steps": [
+        {
+          "do": "status",
+          "to": "confirmed",
+          "say": "Оформила до 22:00, режем утром"
+        }
+      ],
+      "carry": {
+        "to": "returned",
+        "fails": [
+          {
+            "reason": "absent",
+            "note": "Домофон 44 не отвечает, телефон выключен.",
+            "again": {
+              "after": 0,
+              "hours": [
+                18,
+                21
+              ]
+            }
+          },
+          {
+            "reason": "absent",
+            "note": "Вечером тоже никого. Соседка сказала, уехали до выходных."
+          }
+        ],
+        "say": "Дважды не застали, вырезку вернули на рынок. Айгерим в отъезде — заказ сняли, денег не брали"
+      }
+    },
+    {
+      "person": "elena",
+      "days": 3,
+      "at": [
+        12,
+        5
+      ],
+      "lines": [
+        {
+          "item": "brokkoli",
+          "qty": 1
+        },
+        {
+          "item": "shpinat",
+          "qty": 1
+        }
+      ],
+      "zone": 1,
+      "slot": {
+        "window": 1,
+        "after": 1
+      },
+      "broughtBy": "aigerim",
+      "answers": {},
+      "steps": [
+        {
+          "do": "confirm",
+          "say": "Оплатила переводом сразу"
+        },
+        {
+          "do": "status",
+          "to": "canceled",
+          "say": "Отменила — уехала из города. Деньги вернули на карту"
+        }
+      ]
+    },
+    {
+      "person": "jyldyz",
+      "days": 2,
+      "at": [
+        8,
+        30
+      ],
+      "lines": [
+        {
+          "item": "kartofel",
+          "qty": 5
+        },
+        {
+          "item": "morkov",
+          "qty": 3
+        }
+      ],
+      "zone": 2,
+      "slot": {
+        "window": 1,
+        "after": 1
+      },
+      "answers": {
+        "courier": "Кой-Таш, тот же дом."
+      },
+      "steps": [
+        {
+          "do": "status",
+          "to": "confirmed",
+          "say": "Подтвердила, везём завтра утром"
+        }
+      ],
+      "carry": {
+        "to": "road",
+        "fails": [
+          {
+            "reason": "unreachable",
+            "note": "Приехал к дому за школой, ворота закрыты, телефон вне сети.",
+            "again": {
+              "after": 1
+            }
+          }
+        ]
+      }
+    },
+    {
+      "person": "baktygul",
+      "days": 1,
+      "at": [
+        19,
+        5
+      ],
+      "lines": [
+        {
+          "item": "pomidory-rozovye",
+          "qty": 10
+        },
+        {
+          "item": "ogurcy-dlinnoplodnye",
+          "qty": 10
+        },
+        {
+          "item": "smetana-20",
+          "qty": 1
+        },
+        {
+          "item": "hleb-pshenichnyj",
+          "qty": 2
+        },
+        {
+          "item": "moloko-3-2",
+          "qty": 2
+        }
+      ],
+      "zone": 1,
+      "slot": {
+        "window": 1,
+        "after": 1
+      },
+      "answers": {
+        "courier": "Домофон 9, третий этаж без лифта."
+      },
+      "steps": [
+        {
+          "do": "status",
+          "to": "confirmed",
+          "say": "Подтвердила, утренняя ходка"
+        },
+        {
+          "do": "confirm",
+          "say": "Перевод пришёл вечером"
+        }
+      ],
+      "carry": {
+        "to": "road"
+      }
+    },
+    {
+      "person": "azamat",
+      "days": 1,
+      "at": [
+        20,
+        15
+      ],
+      "lines": [
+        {
+          "item": "govyadina-gulyash",
+          "qty": 10
+        },
+        {
+          "item": "kartofel",
+          "qty": 30
+        },
+        {
+          "item": "morkov",
+          "qty": 10
+        },
+        {
+          "item": "luk-repchatyj",
+          "qty": 10
+        }
+      ],
+      "zone": 2,
+      "slot": {
+        "window": 1,
+        "after": 1
+      },
+      "answers": {
+        "courier": "Подъезд второй, код 31. Оплачу курьеру."
+      },
+      "steps": [
+        {
+          "do": "status",
+          "to": "confirmed",
+          "say": "Подтвердил, мясо режем утром"
+        }
+      ],
+      "carry": {
+        "to": "agreed",
+        "collect": true,
+        "weights": [
+          3.4,
+          3.1
+        ]
+      }
+    },
+    {
+      "person": "natalia",
+      "days": 1,
+      "at": [
+        20,
+        50
+      ],
+      "lines": [
+        {
+          "item": "kapusta-belokochannaya",
+          "qty": 10
+        },
+        {
+          "item": "svyokla",
+          "qty": 10
+        },
+        {
+          "item": "pasta-tomatnaya",
+          "qty": 1
+        },
+        {
+          "item": "hleb-rzhanoj",
+          "qty": 1
+        },
+        {
+          "item": "smetana-20",
+          "qty": 1
+        }
+      ],
+      "zone": 2,
+      "slot": {
+        "window": 2,
+        "after": 1
+      },
+      "answers": {
+        "courier": "Позвонить за полчаса, выйду к подъезду."
+      },
+      "steps": [
+        {
+          "do": "status",
+          "to": "confirmed",
+          "say": "Подтвердила"
+        },
+        {
+          "do": "confirm",
+          "say": "Оплата переводом"
+        }
+      ],
+      "carry": {
+        "to": "offered"
+      }
+    },
+    {
+      "person": "daniyar",
+      "days": 1,
+      "at": [
+        21,
+        10
+      ],
+      "lines": [
+        {
+          "item": "farsh-govyazhij",
+          "qty": 10
+        },
+        {
+          "item": "kabachki",
+          "qty": 2
+        },
+        {
+          "item": "chesnok",
+          "qty": 1
+        },
+        {
+          "item": "petrushka",
+          "qty": 1
+        }
+      ],
+      "zone": 1,
+      "slot": {
+        "window": 2,
+        "after": 1
+      },
+      "answers": {
+        "courier": "Офис на первом этаже, вход с Московской."
+      },
+      "steps": [
+        {
+          "do": "status",
+          "to": "confirmed",
+          "say": "Подтвердил, оплата при получении"
+        }
+      ],
+      "carry": {
+        "to": "offered",
+        "collect": true
+      }
+    },
+    {
+      "person": "meerim",
+      "days": 1,
+      "at": [
+        21,
+        35
+      ],
+      "lines": [
+        {
+          "item": "kartofel",
+          "qty": 50
+        },
+        {
+          "item": "luk-repchatyj",
+          "qty": 20
+        },
+        {
+          "item": "morkov",
+          "qty": 20
+        },
+        {
+          "item": "kapusta-belokochannaya",
+          "qty": 20
+        }
+      ],
+      "zone": 3,
+      "slot": {
+        "window": 2,
+        "after": 1
+      },
+      "answers": {
+        "courier": "Маевка, дом с зелёной крышей напротив магазина."
+      },
+      "steps": [
+        {
+          "do": "status",
+          "to": "confirmed",
+          "say": "Подтвердила, везём после обеда"
+        },
+        {
+          "do": "confirm",
+          "say": "Перевод пришёл"
+        }
+      ],
+      "carry": {
+        "to": "handed",
+        "weights": [
+          5.8,
+          5.6
+        ]
+      }
+    },
+    {
+      "person": "gulnara",
+      "days": 1,
+      "at": [
+        21,
+        50
+      ],
+      "lines": [
+        {
+          "item": "salat-listovoj",
+          "qty": 1
+        },
+        {
+          "item": "ukrop",
+          "qty": 1
+        },
+        {
+          "item": "luk-zelyonyj",
+          "qty": 1
+        },
+        {
+          "item": "pomidory-rozovye",
+          "qty": 10
+        },
+        {
+          "item": "hleb-pshenichnyj",
+          "qty": 1
+        }
+      ],
+      "zone": 1,
+      "slot": {
+        "window": 3,
+        "after": 1
+      },
+      "answers": {
+        "courier": "После семи вечера, раньше никого нет."
+      },
+      "steps": [
+        {
+          "do": "status",
+          "to": "confirmed",
+          "say": "Подтвердила, вечернее окно"
+        }
+      ],
+      "carry": {
+        "to": "handed",
+        "collect": true
+      }
+    }
+  ],
+  "cards": [
+    {
+      "name": "Нурлан Расулов",
+      "phone": "+996 500 214 907",
+      "note": "Брат Тимура, второй повар в том же кафе. Принимает доставку, когда Тимура нет. Звонит с того же номера.",
+      "days": 7
+    }
+  ]
+}

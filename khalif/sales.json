@@ -1,0 +1,770 @@
+{
+  "people": [
+    {
+      "key": "aisulu",
+      "name": "Айсулуу Мамбетова",
+      "phone": "+996 700 318 245",
+      "email": "aisuluu.mambetova@gmail.com",
+      "address": "Бишкек, ул. Байтик Баатыра 63, кв. 18"
+    },
+    {
+      "key": "ruslan",
+      "name": "Руслан Бекбоев",
+      "phone": "+996 555 704 192",
+      "email": "r.bekboev@mail.ru",
+      "address": "Бишкек, мкр. Асанбай 27, кв. 91"
+    },
+    {
+      "key": "gulnara",
+      "name": "Гульнара Токтосунова",
+      "phone": "+996 772 560 438",
+      "address": "Бишкек, ул. Ибраимова 115, кв. 7"
+    },
+    {
+      "key": "yusuf",
+      "name": "Yusuf Al-Amin",
+      "phone": "+996 500 883 610",
+      "email": "yusuf.alamin@gmail.com",
+      "address": "Bishkek, Akhunbaev St 134, apt. 25"
+    },
+    {
+      "key": "azamat",
+      "name": "Азамат Дуйшеев",
+      "phone": "+996 558 271 903",
+      "email": "azamat.duisheev@gmail.com",
+      "address": "Бишкек, ул. Панфилова 44 — кафе «Учкун», вход со двора"
+    }
+  ],
+  "appeals": [
+    {
+      "person": "aisulu",
+      "form": "chat",
+      "days": 52,
+      "at": [
+        9,
+        15
+      ],
+      "answers": {
+        "question": "Здравствуйте! Шашлык из баранины у вас на сутки маринуется или можно взять сегодня на сегодня?"
+      },
+      "talk": [
+        {
+          "by": "staff",
+          "text": "Айсулуу, здравствуйте. Маринуем с вечера, поэтому то, что лежит с утра, — вчерашнее и готовое. Сегодняшняя закладка будет завтра к семи."
+        },
+        {
+          "by": "guest",
+          "text": "А если нужно к шести вечера сегодня?"
+        },
+        {
+          "by": "staff",
+          "text": "Тогда берите утреннюю: она как раз к вечеру дойдёт. Свежемаринованное на мангал везти рано, лук ещё не отдал сок."
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "person": "ruslan",
+      "form": "chat",
+      "days": 47,
+      "at": [
+        11,
+        40
+      ],
+      "answers": {
+        "question": "Нужно мясо на плов на 20 человек. Что брать и сколько?"
+      },
+      "talk": [
+        {
+          "by": "staff",
+          "text": "На двадцать человек — четыре килограмма баранины, лопатка. Порежем кубиком под плов, курдюк добавим отдельно, граммов триста."
+        },
+        {
+          "by": "guest",
+          "text": "Курдюк тоже у вас?"
+        },
+        {
+          "by": "staff",
+          "text": "Свой, с той же туши. В каталоге его нет — спрашивайте в комментарии к заказу, положим."
+        },
+        {
+          "by": "note",
+          "text": "Курдюк спрашивают третий раз за месяц. Стоит завести позицией."
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "person": "gulnara",
+      "form": "chat",
+      "days": 41,
+      "at": [
+        8,
+        25
+      ],
+      "answers": {
+        "question": "Забрала вчера гуляш, в чеке 1.7 кг, а просила полтора. Пересчитайте, пожалуйста."
+      },
+      "talk": [
+        {
+          "by": "staff",
+          "text": "Гульнара, посмотрел заказ: посчитано за 1.5, разницу мы подарили. В накладной 1.7 — это фактический вес куска, чтобы вы знали, что забрали."
+        },
+        {
+          "by": "guest",
+          "text": "А, поняла. Тогда всё в порядке, спасибо."
+        },
+        {
+          "by": "staff",
+          "text": "Так и будет дальше: режем по волокну, ровно почти не выходит, и перевес — наш."
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "person": "yusuf",
+      "form": "chat",
+      "days": 34,
+      "at": [
+        16,
+        5
+      ],
+      "locale": "en",
+      "answers": {
+        "question": "Is the slaughter certified halal, and do you have a certificate I can see?"
+      },
+      "talk": [
+        {
+          "by": "staff",
+          "text": "Yusuf, yes. We buy whole carcasses from Chuy farms and the slaughter is done by our own butcher at the farm, in the morning. The certificate hangs at the counter and we can photograph it for you."
+        },
+        {
+          "by": "guest",
+          "text": "That would help, thank you. And is the poultry from the same butcher?"
+        },
+        {
+          "by": "staff",
+          "text": "Poultry comes ready from two farmers we know by name — the same certificate covers them, it is issued to the supplier, not to us."
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "person": "azamat",
+      "form": "request",
+      "days": 30,
+      "at": [
+        10,
+        0
+      ],
+      "answers": {
+        "comment": "Кафе, беру мясо каждую неделю. Нужен постоянный объём: 15 кг говядины на гуляш и 10 кг куриного филе, каждый вторник утром. Какая цена при таком объёме и есть ли доставка ко двору?"
+      },
+      "talk": [
+        {
+          "by": "staff",
+          "text": "Азамат, при недельном объёме считаем по оптовой: гуляш 620, филе 480. Доставка ко двору бесплатно, у нас как раз вторник свободный."
+        },
+        {
+          "by": "guest",
+          "text": "Согласен. С какой недели можем начать?"
+        },
+        {
+          "by": "staff",
+          "text": "Со следующей. Заводить заказ каждую неделю не нужно — звоните в понедельник и говорите, если объём меняется."
+        },
+        {
+          "by": "note",
+          "text": "Постоянный. Цену держим до конца сезона, дальше пересматриваем по закупу."
+        }
+      ],
+      "status": "done",
+      "assign": true
+    },
+    {
+      "person": "aisulu",
+      "form": "request",
+      "days": 24,
+      "at": [
+        19,
+        30
+      ],
+      "subject": {
+        "type": "product",
+        "slug": "baranina-lopatka"
+      },
+      "answers": {
+        "comment": "Той на 60 человек, нужна целая туша барана. Разделать на шурпу и на плов, кости отдельно. Сколько выйдет и за сколько дней заказывать?"
+      },
+      "talk": [
+        {
+          "by": "staff",
+          "text": "Айсулуу, туша выходит 18–22 кг, точный вес узнаем на весах. Считаем по факту, сумму назовём после разделки. Заказывать за три дня."
+        },
+        {
+          "by": "guest",
+          "text": "А если туша окажется 22, а я рассчитывала на 18?"
+        },
+        {
+          "by": "staff",
+          "text": "Скажем вес до разделки и спросим вас. Резать начнём только после вашего «да»."
+        }
+      ],
+      "status": "done",
+      "assign": true
+    },
+    {
+      "person": "yusuf",
+      "form": "request",
+      "days": 18,
+      "at": [
+        12,
+        45
+      ],
+      "locale": "en",
+      "subject": {
+        "type": "product",
+        "slug": "finiki-medjool"
+      },
+      "answers": {
+        "comment": "Ramadan is close. I need dates for the mosque on Akhunbaev — around 15 kg, Medjool and Sukkari mixed. Can you hold that quantity?"
+      },
+      "talk": [
+        {
+          "by": "staff",
+          "text": "Yusuf, we can. Fifteen kilos is a separate order rather than the counter — we bring it in for you and hold it. Tell us the day and we will have it ready in the morning."
+        },
+        {
+          "by": "guest",
+          "text": "The second week of Ramadan. Half Medjool, half Sukkari."
+        },
+        {
+          "by": "staff",
+          "text": "Written down. We will call the week before to confirm — the price of dates moves right up to the first day."
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "person": "ruslan",
+      "form": "chat",
+      "days": 12,
+      "at": [
+        20,
+        10
+      ],
+      "answers": {
+        "question": "Доставка сегодня ещё возможна? Заказ на 2800 сом."
+      },
+      "talk": [
+        {
+          "by": "staff",
+          "text": "Сегодня уже нет, курьер закончил в семь. Утром до одиннадцати привезём."
+        },
+        {
+          "by": "guest",
+          "text": "Давайте утром."
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "person": "gulnara",
+      "form": "chat",
+      "days": 9,
+      "at": [
+        14,
+        20
+      ],
+      "answers": {
+        "question": "Мёд горный у вас настоящий? В прошлом году брала в другом месте — засахарился через месяц, продавец сказал, что так и должно быть."
+      },
+      "talk": [
+        {
+          "by": "staff",
+          "text": "Гульнара, засахаривается как раз настоящий — это не порча, а нормальный мёд. Не садится тот, который грели или разбавили."
+        },
+        {
+          "by": "guest",
+          "text": "То есть тот был как раз хороший?"
+        },
+        {
+          "by": "staff",
+          "text": "Похоже на то. Наш эспарцетовый садится к декабрю, горный держится дольше — но сядет и он."
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "person": "azamat",
+      "form": "chat",
+      "days": 5,
+      "at": [
+        7,
+        50
+      ],
+      "answers": {
+        "question": "Вчерашняя доставка пришла без филе, в накладной оно есть. Кафе открывается в двенадцать."
+      },
+      "talk": [
+        {
+          "by": "staff",
+          "text": "Азамат, вижу: филе не хватило на прилавке, отгрузили без него, а накладную не поправили. Наша ошибка. Довезём к одиннадцати и снимем его из счёта."
+        },
+        {
+          "by": "guest",
+          "text": "Довезите, счёт оставьте как есть, возьму на следующей неделе."
+        },
+        {
+          "by": "note",
+          "text": "Собирали в спешке. Пересчитать прилавок до отгрузки, а не после."
+        }
+      ],
+      "status": "done",
+      "assign": true
+    },
+    {
+      "person": "aisulu",
+      "form": "chat",
+      "days": 2,
+      "at": [
+        18,
+        40
+      ],
+      "answers": {
+        "question": "Люля-кебаб есть в наличии на завтра? Нужно три килограмма."
+      },
+      "talk": [
+        {
+          "by": "staff",
+          "text": "Завтра будет, закладываем сегодня вечером. Три килограмма отложим на ваше имя."
+        }
+      ],
+      "status": "open"
+    },
+    {
+      "person": "gulnara",
+      "form": "chat",
+      "days": 1,
+      "at": [
+        9,
+        5
+      ],
+      "answers": {
+        "question": "Здравствуйте, а перепёлку когда ждать? Второй раз захожу — нет."
+      },
+      "talk": [],
+      "status": "new"
+    }
+  ],
+  "orders": [
+    {
+      "person": "aisulu",
+      "days": 50,
+      "at": [
+        9,
+        40
+      ],
+      "lines": [
+        {
+          "item": "shashlyk-baranina",
+          "qty": 25
+        },
+        {
+          "item": "lyulya-kebab",
+          "qty": 15
+        },
+        {
+          "item": "zira",
+          "qty": 1
+        }
+      ],
+      "answers": {
+        "fulfilment": "delivery",
+        "courier": "Домофон 18, звонить снизу — не работает."
+      },
+      "steps": [
+        {
+          "do": "correct",
+          "how": "raise",
+          "say": "Взвесили: шашлык вышел 2.7 вместо 2.5, разницу дарим"
+        },
+        {
+          "do": "status",
+          "to": "confirmed",
+          "say": "Созвонились, везём к девяти"
+        },
+        {
+          "do": "confirm",
+          "say": "Перевод по QR, сверил по выписке"
+        },
+        {
+          "do": "status",
+          "to": "done",
+          "say": "Доставлено в 8:55"
+        }
+      ]
+    },
+    {
+      "person": "ruslan",
+      "days": 45,
+      "at": [
+        12,
+        10
+      ],
+      "lines": [
+        {
+          "item": "baranina-lopatka",
+          "qty": 40
+        },
+        {
+          "item": "ris-devzira",
+          "qty": 30
+        },
+        {
+          "item": "smes-dlya-plova",
+          "qty": 2
+        }
+      ],
+      "answers": {
+        "fulfilment": "pickup",
+        "comment": "Порезать кубиком под плов. И курдюк граммов триста, как договаривались."
+      },
+      "steps": [
+        {
+          "do": "status",
+          "to": "confirmed",
+          "say": "Плов на двадцать человек, режем утром"
+        },
+        {
+          "do": "confirm",
+          "say": "Наличными при получении"
+        },
+        {
+          "do": "status",
+          "to": "done",
+          "say": "Забрал сам, курдюк положили"
+        }
+      ]
+    },
+    {
+      "person": "yusuf",
+      "days": 38,
+      "at": [
+        15,
+        30
+      ],
+      "locale": "en",
+      "lines": [
+        {
+          "item": "finiki-medjool",
+          "qty": 20
+        },
+        {
+          "item": "med-gornyj",
+          "qty": 10
+        },
+        {
+          "item": "kurut",
+          "qty": 5
+        }
+      ],
+      "answers": {
+        "fulfilment": "delivery",
+        "courier": "Gate code 2514, second entrance."
+      },
+      "steps": [
+        {
+          "do": "status",
+          "to": "confirmed"
+        },
+        {
+          "do": "confirm"
+        },
+        {
+          "do": "status",
+          "to": "done"
+        }
+      ]
+    },
+    {
+      "person": "gulnara",
+      "days": 33,
+      "at": [
+        10,
+        5
+      ],
+      "lines": [
+        {
+          "item": "govyadina-gulyash",
+          "qty": 15
+        },
+        {
+          "item": "kaymak",
+          "qty": 5
+        },
+        {
+          "item": "yajco-domashnee",
+          "qty": 20
+        }
+      ],
+      "answers": {
+        "fulfilment": "delivery",
+        "comment": "Если яйца домашнего не хватит, положите сколько есть."
+      },
+      "steps": [
+        {
+          "do": "correct",
+          "how": "raise",
+          "say": "Кусок вышел 1.7 вместо 1.5 — посчитали за полтора"
+        },
+        {
+          "do": "status",
+          "to": "confirmed",
+          "say": "Яйца домашнего на прилавке было 17 из 20, довесили из утреннего привоза"
+        },
+        {
+          "do": "correct",
+          "how": "price",
+          "say": "Дописали яйцо по факту — счёт стал окончательным"
+        },
+        {
+          "do": "confirm",
+          "say": "Оплатила при получении"
+        },
+        {
+          "do": "status",
+          "to": "done"
+        }
+      ]
+    },
+    {
+      "person": "azamat",
+      "days": 28,
+      "at": [
+        8,
+        0
+      ],
+      "lines": [
+        {
+          "item": "govyadina-gulyash",
+          "qty": 150
+        },
+        {
+          "item": "file-kurinoe",
+          "qty": 100
+        }
+      ],
+      "answers": {
+        "fulfilment": "delivery",
+        "courier": "Кафе «Учкун», вход со двора, спросить Азамата."
+      },
+      "steps": [
+        {
+          "do": "correct",
+          "how": "discount",
+          "say": "Оптовая цена, договорились на сезон"
+        },
+        {
+          "do": "status",
+          "to": "confirmed",
+          "say": "Недельный заказ кафе"
+        },
+        {
+          "do": "confirm",
+          "say": "Перевод пришёл в тот же день"
+        },
+        {
+          "do": "status",
+          "to": "done",
+          "say": "Отгрузили во вторник утром"
+        }
+      ]
+    },
+    {
+      "person": "aisulu",
+      "days": 22,
+      "at": [
+        19,
+        50
+      ],
+      "lines": [
+        {
+          "item": "baranina-lopatka",
+          "qty": 200
+        },
+        {
+          "item": "baranina-ryobra",
+          "qty": 40
+        }
+      ],
+      "answers": {
+        "fulfilment": "delivery",
+        "comment": "Той на 60 человек. Целая туша, разделать на шурпу и на плов, кости отдельно."
+      },
+      "steps": [
+        {
+          "do": "correct",
+          "how": "price",
+          "say": "Туша вышла 21.4 кг, посчитали по факту"
+        },
+        {
+          "do": "status",
+          "to": "confirmed",
+          "say": "Вес назвали, хозяйка согласилась"
+        },
+        {
+          "do": "confirm",
+          "say": "Перевод пришёл после согласования"
+        },
+        {
+          "do": "status",
+          "to": "done",
+          "say": "Забрали в шесть утра, кости в отдельном пакете"
+        }
+      ]
+    },
+    {
+      "person": "ruslan",
+      "days": 15,
+      "at": [
+        17,
+        20
+      ],
+      "lines": [
+        {
+          "item": "shashlyk-govyadina",
+          "qty": 20
+        },
+        {
+          "item": "ayran",
+          "qty": 3
+        }
+      ],
+      "answers": {
+        "fulfilment": "delivery"
+      },
+      "steps": [
+        {
+          "do": "status",
+          "to": "confirmed"
+        },
+        {
+          "do": "status",
+          "to": "canceled",
+          "say": "Отменил — выезд на природу перенесли из-за дождя"
+        }
+      ]
+    },
+    {
+      "person": "azamat",
+      "days": 11,
+      "at": [
+        8,
+        5
+      ],
+      "lines": [
+        {
+          "item": "govyadina-gulyash",
+          "qty": 150
+        },
+        {
+          "item": "file-kurinoe",
+          "qty": 100
+        }
+      ],
+      "answers": {
+        "fulfilment": "delivery",
+        "courier": "Кафе «Учкун», вход со двора."
+      },
+      "steps": [
+        {
+          "do": "correct",
+          "how": "remove",
+          "say": "Филе на прилавке кончилось, сняли — возьмёт на следующей неделе"
+        },
+        {
+          "do": "status",
+          "to": "confirmed"
+        },
+        {
+          "do": "confirm"
+        },
+        {
+          "do": "status",
+          "to": "done",
+          "say": "Довезли гуляш к одиннадцати"
+        }
+      ]
+    },
+    {
+      "person": "gulnara",
+      "days": 6,
+      "at": [
+        11,
+        30
+      ],
+      "lines": [
+        {
+          "item": "kurica-celikom",
+          "qty": 2
+        },
+        {
+          "item": "varene-oblepiha",
+          "qty": 5
+        },
+        {
+          "item": "grechka",
+          "qty": 20
+        }
+      ],
+      "answers": {
+        "fulfilment": "delivery"
+      },
+      "steps": [
+        {
+          "do": "status",
+          "to": "confirmed"
+        },
+        {
+          "do": "receipt",
+          "say": "Выставили счёт на перевод"
+        },
+        {
+          "do": "ship",
+          "say": "Передали курьеру"
+        }
+      ]
+    },
+    {
+      "person": "yusuf",
+      "days": 1,
+      "at": [
+        13,
+        15
+      ],
+      "locale": "en",
+      "lines": [
+        {
+          "item": "forel",
+          "qty": 12
+        },
+        {
+          "item": "smetana",
+          "qty": 5
+        }
+      ],
+      "answers": {
+        "fulfilment": "delivery"
+      }
+    }
+  ],
+  "cards": [
+    {
+      "name": "Нурбек Дуйшеев",
+      "phone": "+996 558 271 903",
+      "note": "Повар в «Учкуне», принимает доставку, когда Азамата нет на месте. Номер тот же — телефон кафе.",
+      "days": 9
+    }
+  ]
+}

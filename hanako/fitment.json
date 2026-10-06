@@ -1,0 +1,1130 @@
+{
+  "slug": "cars",
+  "name": {
+    "ru": "Автомобиль",
+    "ky": "Автоунаа",
+    "en": "Vehicle",
+    "ar": "السيارة"
+  },
+  "levels": [
+    {
+      "ru": "Марка",
+      "ky": "Марка",
+      "en": "Make",
+      "ar": "الماركة"
+    },
+    {
+      "ru": "Модель",
+      "ky": "Модель",
+      "en": "Model",
+      "ar": "الطراز"
+    },
+    {
+      "ru": "Поколение",
+      "ky": "Муун",
+      "en": "Generation",
+      "ar": "الجيل"
+    }
+  ],
+  "nodes": [
+    {
+      "slug": "toyota",
+      "label": {
+        "ru": "Toyota",
+        "ar": "تويوتا"
+      },
+      "children": [
+        {
+          "slug": "toyota-camry",
+          "label": {
+            "ru": "Camry"
+          },
+          "children": [
+            {
+              "slug": "toyota-camry-xv40",
+              "label": {
+                "ru": "XV40, 2006–2011"
+              }
+            },
+            {
+              "slug": "toyota-camry-xv50",
+              "label": {
+                "ru": "XV50, 2011–2017"
+              }
+            },
+            {
+              "slug": "toyota-camry-xv70",
+              "label": {
+                "ru": "XV70, 2017–2023"
+              }
+            }
+          ]
+        },
+        {
+          "slug": "toyota-corolla",
+          "label": {
+            "ru": "Corolla"
+          },
+          "children": [
+            {
+              "slug": "toyota-corolla-e150",
+              "label": {
+                "ru": "E150, 2006–2013"
+              }
+            },
+            {
+              "slug": "toyota-corolla-e170",
+              "label": {
+                "ru": "E170, 2013–2018"
+              }
+            },
+            {
+              "slug": "toyota-corolla-e210",
+              "label": {
+                "ru": "E210, 2018–"
+              }
+            }
+          ]
+        },
+        {
+          "slug": "toyota-rav4",
+          "label": {
+            "ru": "RAV4"
+          },
+          "children": [
+            {
+              "slug": "toyota-rav4-xa30",
+              "label": {
+                "ru": "XA30, 2005–2012"
+              }
+            },
+            {
+              "slug": "toyota-rav4-xa40",
+              "label": {
+                "ru": "XA40, 2012–2018"
+              }
+            },
+            {
+              "slug": "toyota-rav4-xa50",
+              "label": {
+                "ru": "XA50, 2018–"
+              }
+            }
+          ]
+        },
+        {
+          "slug": "toyota-land-cruiser",
+          "label": {
+            "ru": "Land Cruiser"
+          },
+          "children": [
+            {
+              "slug": "toyota-land-cruiser-200",
+              "label": {
+                "ru": "200, 2007–2021"
+              }
+            },
+            {
+              "slug": "toyota-land-cruiser-300",
+              "label": {
+                "ru": "300, 2021–"
+              }
+            }
+          ]
+        },
+        {
+          "slug": "toyota-land-cruiser-prado",
+          "label": {
+            "ru": "Land Cruiser Prado"
+          },
+          "children": [
+            {
+              "slug": "toyota-land-cruiser-prado-j150",
+              "label": {
+                "ru": "J150, 2009–"
+              }
+            }
+          ]
+        },
+        {
+          "slug": "toyota-highlander",
+          "label": {
+            "ru": "Highlander"
+          }
+        },
+        {
+          "slug": "toyota-avensis",
+          "label": {
+            "ru": "Avensis"
+          }
+        },
+        {
+          "slug": "toyota-prius",
+          "label": {
+            "ru": "Prius"
+          },
+          "children": [
+            {
+              "slug": "toyota-prius-xw30",
+              "label": {
+                "ru": "XW30, 2009–2015"
+              }
+            },
+            {
+              "slug": "toyota-prius-xw50",
+              "label": {
+                "ru": "XW50, 2015–2022"
+              }
+            }
+          ]
+        },
+        {
+          "slug": "toyota-alphard",
+          "label": {
+            "ru": "Alphard"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "lexus",
+      "label": {
+        "ru": "Lexus",
+        "ar": "لكزس"
+      },
+      "children": [
+        {
+          "slug": "lexus-rx",
+          "label": {
+            "ru": "RX"
+          },
+          "children": [
+            {
+              "slug": "lexus-rx-al10",
+              "label": {
+                "ru": "AL10, 2008–2015"
+              }
+            },
+            {
+              "slug": "lexus-rx-al20",
+              "label": {
+                "ru": "AL20, 2015–2022"
+              }
+            }
+          ]
+        },
+        {
+          "slug": "lexus-lx",
+          "label": {
+            "ru": "LX"
+          },
+          "children": [
+            {
+              "slug": "lexus-lx-j200",
+              "label": {
+                "ru": "J200, 2007–2021"
+              }
+            }
+          ]
+        },
+        {
+          "slug": "lexus-es",
+          "label": {
+            "ru": "ES"
+          },
+          "children": [
+            {
+              "slug": "lexus-es-xv60",
+              "label": {
+                "ru": "XV60, 2012–2018"
+              }
+            },
+            {
+              "slug": "lexus-es-xv70",
+              "label": {
+                "ru": "XV70, 2018–"
+              }
+            }
+          ]
+        },
+        {
+          "slug": "lexus-gx",
+          "label": {
+            "ru": "GX"
+          }
+        },
+        {
+          "slug": "lexus-nx",
+          "label": {
+            "ru": "NX"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "honda",
+      "label": {
+        "ru": "Honda",
+        "ar": "هوندا"
+      },
+      "children": [
+        {
+          "slug": "honda-accord",
+          "label": {
+            "ru": "Accord"
+          },
+          "children": [
+            {
+              "slug": "honda-accord-cu",
+              "label": {
+                "ru": "CU, 2008–2013"
+              }
+            },
+            {
+              "slug": "honda-accord-cr",
+              "label": {
+                "ru": "CR, 2013–2017"
+              }
+            }
+          ]
+        },
+        {
+          "slug": "honda-civic",
+          "label": {
+            "ru": "Civic"
+          },
+          "children": [
+            {
+              "slug": "honda-civic-fb",
+              "label": {
+                "ru": "FB, 2011–2015"
+              }
+            },
+            {
+              "slug": "honda-civic-fc",
+              "label": {
+                "ru": "FC, 2015–2021"
+              }
+            }
+          ]
+        },
+        {
+          "slug": "honda-cr-v",
+          "label": {
+            "ru": "CR-V"
+          },
+          "children": [
+            {
+              "slug": "honda-cr-v-re",
+              "label": {
+                "ru": "RE, 2006–2012"
+              }
+            },
+            {
+              "slug": "honda-cr-v-rm",
+              "label": {
+                "ru": "RM, 2012–2016"
+              }
+            },
+            {
+              "slug": "honda-cr-v-rw",
+              "label": {
+                "ru": "RW, 2016–2022"
+              }
+            }
+          ]
+        },
+        {
+          "slug": "honda-fit",
+          "label": {
+            "ru": "Fit"
+          }
+        },
+        {
+          "slug": "honda-odyssey",
+          "label": {
+            "ru": "Odyssey"
+          }
+        },
+        {
+          "slug": "honda-stepwgn",
+          "label": {
+            "ru": "Stepwgn"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "nissan",
+      "label": {
+        "ru": "Nissan",
+        "ar": "نيسان"
+      },
+      "children": [
+        {
+          "slug": "nissan-x-trail",
+          "label": {
+            "ru": "X-Trail"
+          },
+          "children": [
+            {
+              "slug": "nissan-x-trail-t31",
+              "label": {
+                "ru": "T31, 2007–2013"
+              }
+            },
+            {
+              "slug": "nissan-x-trail-t32",
+              "label": {
+                "ru": "T32, 2013–2021"
+              }
+            }
+          ]
+        },
+        {
+          "slug": "nissan-qashqai",
+          "label": {
+            "ru": "Qashqai"
+          },
+          "children": [
+            {
+              "slug": "nissan-qashqai-j10",
+              "label": {
+                "ru": "J10, 2006–2013"
+              }
+            },
+            {
+              "slug": "nissan-qashqai-j11",
+              "label": {
+                "ru": "J11, 2013–2021"
+              }
+            }
+          ]
+        },
+        {
+          "slug": "nissan-teana",
+          "label": {
+            "ru": "Teana"
+          }
+        },
+        {
+          "slug": "nissan-note",
+          "label": {
+            "ru": "Note"
+          }
+        },
+        {
+          "slug": "nissan-patrol",
+          "label": {
+            "ru": "Patrol"
+          }
+        },
+        {
+          "slug": "nissan-almera",
+          "label": {
+            "ru": "Almera"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "mitsubishi",
+      "label": {
+        "ru": "Mitsubishi",
+        "ar": "ميتسوبيشي"
+      },
+      "children": [
+        {
+          "slug": "mitsubishi-outlander",
+          "label": {
+            "ru": "Outlander"
+          },
+          "children": [
+            {
+              "slug": "mitsubishi-outlander-xl",
+              "label": {
+                "ru": "XL, 2005–2012"
+              }
+            },
+            {
+              "slug": "mitsubishi-outlander-gf",
+              "label": {
+                "ru": "GF, 2012–2021"
+              }
+            }
+          ]
+        },
+        {
+          "slug": "mitsubishi-lancer",
+          "label": {
+            "ru": "Lancer"
+          },
+          "children": [
+            {
+              "slug": "mitsubishi-lancer-x",
+              "label": {
+                "ru": "X, 2007–2017"
+              }
+            }
+          ]
+        },
+        {
+          "slug": "mitsubishi-pajero",
+          "label": {
+            "ru": "Pajero"
+          },
+          "children": [
+            {
+              "slug": "mitsubishi-pajero-iv",
+              "label": {
+                "ru": "IV, 2006–2021"
+              }
+            }
+          ]
+        },
+        {
+          "slug": "mitsubishi-asx",
+          "label": {
+            "ru": "ASX"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "subaru",
+      "label": {
+        "ru": "Subaru",
+        "ar": "سوبارو"
+      },
+      "children": [
+        {
+          "slug": "subaru-forester",
+          "label": {
+            "ru": "Forester"
+          },
+          "children": [
+            {
+              "slug": "subaru-forester-sh",
+              "label": {
+                "ru": "SH, 2008–2012"
+              }
+            },
+            {
+              "slug": "subaru-forester-sj",
+              "label": {
+                "ru": "SJ, 2012–2018"
+              }
+            }
+          ]
+        },
+        {
+          "slug": "subaru-outback",
+          "label": {
+            "ru": "Outback"
+          }
+        },
+        {
+          "slug": "subaru-impreza",
+          "label": {
+            "ru": "Impreza"
+          }
+        },
+        {
+          "slug": "subaru-xv",
+          "label": {
+            "ru": "XV"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "mazda",
+      "label": {
+        "ru": "Mazda",
+        "ar": "مازدا"
+      },
+      "children": [
+        {
+          "slug": "mazda-mazda3",
+          "label": {
+            "ru": "Mazda3"
+          },
+          "children": [
+            {
+              "slug": "mazda-mazda3-bl",
+              "label": {
+                "ru": "BL, 2009–2013"
+              }
+            },
+            {
+              "slug": "mazda-mazda3-bm",
+              "label": {
+                "ru": "BM, 2013–2019"
+              }
+            }
+          ]
+        },
+        {
+          "slug": "mazda-mazda6",
+          "label": {
+            "ru": "Mazda6"
+          },
+          "children": [
+            {
+              "slug": "mazda-mazda6-gh",
+              "label": {
+                "ru": "GH, 2007–2012"
+              }
+            },
+            {
+              "slug": "mazda-mazda6-gj",
+              "label": {
+                "ru": "GJ, 2012–"
+              }
+            }
+          ]
+        },
+        {
+          "slug": "mazda-cx-5",
+          "label": {
+            "ru": "CX-5"
+          },
+          "children": [
+            {
+              "slug": "mazda-cx-5-ke",
+              "label": {
+                "ru": "KE, 2011–2017"
+              }
+            },
+            {
+              "slug": "mazda-cx-5-kf",
+              "label": {
+                "ru": "KF, 2017–"
+              }
+            }
+          ]
+        },
+        {
+          "slug": "mazda-cx-7",
+          "label": {
+            "ru": "CX-7"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "mercedes-benz",
+      "label": {
+        "ru": "Mercedes-Benz",
+        "ar": "مرسيدس-بنز"
+      },
+      "children": [
+        {
+          "slug": "mercedes-benz-c-class",
+          "label": {
+            "ru": "C-Class"
+          },
+          "children": [
+            {
+              "slug": "mercedes-benz-c-class-w204",
+              "label": {
+                "ru": "W204, 2007–2014"
+              }
+            },
+            {
+              "slug": "mercedes-benz-c-class-w205",
+              "label": {
+                "ru": "W205, 2014–2021"
+              }
+            }
+          ]
+        },
+        {
+          "slug": "mercedes-benz-e-class",
+          "label": {
+            "ru": "E-Class"
+          },
+          "children": [
+            {
+              "slug": "mercedes-benz-e-class-w211",
+              "label": {
+                "ru": "W211, 2002–2009"
+              }
+            },
+            {
+              "slug": "mercedes-benz-e-class-w212",
+              "label": {
+                "ru": "W212, 2009–2016"
+              }
+            },
+            {
+              "slug": "mercedes-benz-e-class-w213",
+              "label": {
+                "ru": "W213, 2016–"
+              }
+            }
+          ]
+        },
+        {
+          "slug": "mercedes-benz-s-class",
+          "label": {
+            "ru": "S-Class"
+          },
+          "children": [
+            {
+              "slug": "mercedes-benz-s-class-w221",
+              "label": {
+                "ru": "W221, 2005–2013"
+              }
+            },
+            {
+              "slug": "mercedes-benz-s-class-w222",
+              "label": {
+                "ru": "W222, 2013–2020"
+              }
+            }
+          ]
+        },
+        {
+          "slug": "mercedes-benz-gle",
+          "label": {
+            "ru": "GLE"
+          }
+        },
+        {
+          "slug": "mercedes-benz-sprinter",
+          "label": {
+            "ru": "Sprinter"
+          }
+        },
+        {
+          "slug": "mercedes-benz-vito",
+          "label": {
+            "ru": "Vito"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "bmw",
+      "label": {
+        "ru": "BMW",
+        "ar": "بي إم دبليو"
+      },
+      "children": [
+        {
+          "slug": "bmw-3-series",
+          "label": {
+            "ru": "3 Series"
+          },
+          "children": [
+            {
+              "slug": "bmw-3-series-e90",
+              "label": {
+                "ru": "E90, 2005–2012"
+              }
+            },
+            {
+              "slug": "bmw-3-series-f30",
+              "label": {
+                "ru": "F30, 2011–2019"
+              }
+            }
+          ]
+        },
+        {
+          "slug": "bmw-5-series",
+          "label": {
+            "ru": "5 Series"
+          },
+          "children": [
+            {
+              "slug": "bmw-5-series-e60",
+              "label": {
+                "ru": "E60, 2003–2010"
+              }
+            },
+            {
+              "slug": "bmw-5-series-f10",
+              "label": {
+                "ru": "F10, 2010–2017"
+              }
+            },
+            {
+              "slug": "bmw-5-series-g30",
+              "label": {
+                "ru": "G30, 2017–"
+              }
+            }
+          ]
+        },
+        {
+          "slug": "bmw-x5",
+          "label": {
+            "ru": "X5"
+          },
+          "children": [
+            {
+              "slug": "bmw-x5-e70",
+              "label": {
+                "ru": "E70, 2006–2013"
+              }
+            },
+            {
+              "slug": "bmw-x5-f15",
+              "label": {
+                "ru": "F15, 2013–2018"
+              }
+            }
+          ]
+        },
+        {
+          "slug": "bmw-x3",
+          "label": {
+            "ru": "X3"
+          }
+        },
+        {
+          "slug": "bmw-7-series",
+          "label": {
+            "ru": "7 Series"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "audi",
+      "label": {
+        "ru": "Audi",
+        "ar": "أودي"
+      },
+      "children": [
+        {
+          "slug": "audi-a4",
+          "label": {
+            "ru": "A4"
+          },
+          "children": [
+            {
+              "slug": "audi-a4-b8",
+              "label": {
+                "ru": "B8, 2007–2015"
+              }
+            },
+            {
+              "slug": "audi-a4-b9",
+              "label": {
+                "ru": "B9, 2015–"
+              }
+            }
+          ]
+        },
+        {
+          "slug": "audi-a6",
+          "label": {
+            "ru": "A6"
+          },
+          "children": [
+            {
+              "slug": "audi-a6-c6",
+              "label": {
+                "ru": "C6, 2004–2011"
+              }
+            },
+            {
+              "slug": "audi-a6-c7",
+              "label": {
+                "ru": "C7, 2011–2018"
+              }
+            }
+          ]
+        },
+        {
+          "slug": "audi-q5",
+          "label": {
+            "ru": "Q5"
+          }
+        },
+        {
+          "slug": "audi-q7",
+          "label": {
+            "ru": "Q7"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "volkswagen",
+      "label": {
+        "ru": "Volkswagen",
+        "ar": "فولكسفاغن"
+      },
+      "children": [
+        {
+          "slug": "volkswagen-passat",
+          "label": {
+            "ru": "Passat"
+          },
+          "children": [
+            {
+              "slug": "volkswagen-passat-b6",
+              "label": {
+                "ru": "B6, 2005–2010"
+              }
+            },
+            {
+              "slug": "volkswagen-passat-b7",
+              "label": {
+                "ru": "B7, 2010–2015"
+              }
+            },
+            {
+              "slug": "volkswagen-passat-b8",
+              "label": {
+                "ru": "B8, 2015–"
+              }
+            }
+          ]
+        },
+        {
+          "slug": "volkswagen-golf",
+          "label": {
+            "ru": "Golf"
+          },
+          "children": [
+            {
+              "slug": "volkswagen-golf-vi",
+              "label": {
+                "ru": "VI, 2008–2013"
+              }
+            },
+            {
+              "slug": "volkswagen-golf-vii",
+              "label": {
+                "ru": "VII, 2012–2020"
+              }
+            }
+          ]
+        },
+        {
+          "slug": "volkswagen-tiguan",
+          "label": {
+            "ru": "Tiguan"
+          }
+        },
+        {
+          "slug": "volkswagen-polo",
+          "label": {
+            "ru": "Polo"
+          }
+        },
+        {
+          "slug": "volkswagen-touareg",
+          "label": {
+            "ru": "Touareg"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "hyundai",
+      "label": {
+        "ru": "Hyundai",
+        "ar": "هيونداي"
+      },
+      "children": [
+        {
+          "slug": "hyundai-sonata",
+          "label": {
+            "ru": "Sonata"
+          },
+          "children": [
+            {
+              "slug": "hyundai-sonata-yf",
+              "label": {
+                "ru": "YF, 2009–2014"
+              }
+            },
+            {
+              "slug": "hyundai-sonata-lf",
+              "label": {
+                "ru": "LF, 2014–2019"
+              }
+            }
+          ]
+        },
+        {
+          "slug": "hyundai-elantra",
+          "label": {
+            "ru": "Elantra"
+          },
+          "children": [
+            {
+              "slug": "hyundai-elantra-md",
+              "label": {
+                "ru": "MD, 2010–2016"
+              }
+            },
+            {
+              "slug": "hyundai-elantra-ad",
+              "label": {
+                "ru": "AD, 2015–2020"
+              }
+            }
+          ]
+        },
+        {
+          "slug": "hyundai-tucson",
+          "label": {
+            "ru": "Tucson"
+          }
+        },
+        {
+          "slug": "hyundai-santa-fe",
+          "label": {
+            "ru": "Santa Fe"
+          }
+        },
+        {
+          "slug": "hyundai-accent",
+          "label": {
+            "ru": "Accent"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "kia",
+      "label": {
+        "ru": "Kia",
+        "ar": "كيا"
+      },
+      "children": [
+        {
+          "slug": "kia-rio",
+          "label": {
+            "ru": "Rio"
+          },
+          "children": [
+            {
+              "slug": "kia-rio-qb",
+              "label": {
+                "ru": "QB, 2011–2017"
+              }
+            },
+            {
+              "slug": "kia-rio-fb",
+              "label": {
+                "ru": "FB, 2017–"
+              }
+            }
+          ]
+        },
+        {
+          "slug": "kia-sportage",
+          "label": {
+            "ru": "Sportage"
+          },
+          "children": [
+            {
+              "slug": "kia-sportage-sl",
+              "label": {
+                "ru": "SL, 2010–2015"
+              }
+            },
+            {
+              "slug": "kia-sportage-ql",
+              "label": {
+                "ru": "QL, 2015–2021"
+              }
+            }
+          ]
+        },
+        {
+          "slug": "kia-optima",
+          "label": {
+            "ru": "Optima"
+          }
+        },
+        {
+          "slug": "kia-sorento",
+          "label": {
+            "ru": "Sorento"
+          }
+        },
+        {
+          "slug": "kia-cerato",
+          "label": {
+            "ru": "Cerato"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "chevrolet",
+      "label": {
+        "ru": "Chevrolet",
+        "ar": "شيفروليه"
+      },
+      "children": [
+        {
+          "slug": "chevrolet-cruze",
+          "label": {
+            "ru": "Cruze"
+          }
+        },
+        {
+          "slug": "chevrolet-lacetti",
+          "label": {
+            "ru": "Lacetti"
+          }
+        },
+        {
+          "slug": "chevrolet-captiva",
+          "label": {
+            "ru": "Captiva"
+          }
+        },
+        {
+          "slug": "chevrolet-cobalt",
+          "label": {
+            "ru": "Cobalt"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "lada",
+      "label": {
+        "ru": "Lada",
+        "ar": "لادا"
+      },
+      "children": [
+        {
+          "slug": "lada-granta",
+          "label": {
+            "ru": "Granta"
+          }
+        },
+        {
+          "slug": "lada-vesta",
+          "label": {
+            "ru": "Vesta"
+          }
+        },
+        {
+          "slug": "lada-niva",
+          "label": {
+            "ru": "Niva"
+          }
+        },
+        {
+          "slug": "lada-priora",
+          "label": {
+            "ru": "Priora"
+          }
+        }
+      ]
+    }
+  ]
+}

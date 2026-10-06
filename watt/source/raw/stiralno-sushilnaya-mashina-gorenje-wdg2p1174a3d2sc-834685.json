@@ -1,0 +1,1847 @@
+{
+  "shelf": "stiralnye-mashiny",
+  "slug": "stiralno-sushilnaya-mashina-gorenje-wdg2p1174a3d2sc-834685",
+  "product": {
+    "id": "834685",
+    "article": "198747",
+    "slug": "stiralno-sushilnaya-mashina-gorenje-wdg2p1174a3d2sc-834685",
+    "hasSmartInstallments": false,
+    "isActive": true,
+    "name": {
+      "default": "Gorenje WDG2P1174A3D2S/C",
+      "full": "Стирально-сушильная машина Gorenje WDG2P1174A3D2S/C",
+      "pseudo": null,
+      "spare": null,
+      "fullWithoutSection": "Gorenje WDG2P1174A3D2S/C",
+      "section": "Стирально-сушильная машина",
+      "__typename": "ProductName"
+    },
+    "price": {
+      "default": 54990,
+      "marketing": null,
+      "old": 60990,
+      "__typename": "ProductPrice"
+    },
+    "benefit": 6000,
+    "specifications": {
+      "short": [
+        {
+          "name": "Конструкция стиральной машины",
+          "value": "полноразмерная",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Максимальная загрузка белья",
+          "value": "11 кг",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Максимальная скорость отжима",
+          "value": "до 1400 об/мин",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Максимальная загрузка белья при сушке",
+          "value": "до 7 кг",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Глубина",
+          "value": "59 см",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "__typename": "ProductV2Specifications"
+    },
+    "labels": [
+      {
+        "name": "Бонусы Спасибо",
+        "type": "sberspasibo",
+        "items": [
+          {
+            "description": "",
+            "name": "Этот товар можно оплатить бонусами Спасибо от СберБанка",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Новинка",
+        "type": "new",
+        "items": null,
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Выгодное предложение",
+        "type": "special_offer",
+        "items": [
+          {
+            "description": "",
+            "name": "Техника и электроника",
+            "url": "/action/vygodnaya-tsena/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "5 000 бонусов за покупки",
+            "url": "/action/5-000-bonusov-za-pokupki/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Рассрочка",
+        "type": "deferred_payment",
+        "items": [
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-6",
+            "url": "/stiralno-sushilnaya-mashina-gorenje-wdg2p1174a3d2sc-834685/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-12",
+            "url": "/stiralno-sushilnaya-mashina-gorenje-wdg2p1174a3d2sc-834685/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-24",
+            "url": "/stiralno-sushilnaya-mashina-gorenje-wdg2p1174a3d2sc-834685/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-6",
+            "url": "/stiralno-sushilnaya-mashina-gorenje-wdg2p1174a3d2sc-834685/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-18",
+            "url": "/stiralno-sushilnaya-mashina-gorenje-wdg2p1174a3d2sc-834685/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      }
+    ],
+    "labelsV2": [
+      {
+        "id": "2",
+        "name": "Новинка",
+        "code": "novinka",
+        "mainColor": "#02b513",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#02b513",
+        "altTextColor": "#ffffff",
+        "borderAndTextColor": "#02b513",
+        "items": [
+          {
+            "id": "133262",
+            "text": "Новинка",
+            "__typename": "ProductLabelTextItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      },
+      {
+        "id": "14",
+        "name": "-15% на технику",
+        "code": "15-na-tekhniku",
+        "mainColor": "#F54B4B",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#FFFFFF",
+        "altTextColor": "#F54B4B",
+        "borderAndTextColor": "#F54B4B",
+        "items": [
+          {
+            "id": "162066",
+            "text": "Выгода при покупке крупной бытовой техники",
+            "buttonText": "Подробнее",
+            "url": "/action/vygoda-pri-pokupke-krupnoy-bytovoy-tekhniki/",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      },
+      {
+        "id": "8",
+        "name": "Бонусы Спасибо",
+        "code": "sberspasibo",
+        "mainColor": "#0C9C0C",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#0C9C0C",
+        "altTextColor": "#FFFFFF",
+        "borderAndTextColor": "#0C9C0C",
+        "items": [
+          {
+            "id": "100085",
+            "text": "Этот товар можно оплатить бонусами Спасибо от СберБанка ",
+            "buttonText": "Подробнее",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      },
+      {
+        "id": "5",
+        "name": "Выгода",
+        "code": "vygoda",
+        "mainColor": "#fd9600",
+        "mainTextColor": "#ffffff",
+        "altColor": "#fd9600",
+        "altTextColor": "#ffffff",
+        "borderAndTextColor": "#fd9600",
+        "items": [
+          {
+            "id": "2646",
+            "text": "Выгодное предложение",
+            "buttonText": "Подробнее",
+            "url": "/action/vygodnaya-tsena/",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      }
+    ],
+    "status": {
+      "id": "IN_STOCK",
+      "name": "В наличии",
+      "type": "POSITIVE",
+      "__typename": "ProductStatus"
+    },
+    "brand": {
+      "code": "gorenje",
+      "id": "40276",
+      "name": "Gorenje",
+      "src": "https://cdn1.technopark.ru/technopark/photos_resized/section_brand_300_100/300_100/40276/1_40276.png",
+      "slug": "gorenje",
+      "sections": [
+        {
+          "name": "Стиральные машины Gorenje",
+          "url": "/stiralnye-mashiny/gorenje/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3070025927/technopark/photos_resized/product/120_120/658789/1_658789.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/100479140/technopark/photos_resized/product/120_120/658789/2_658789.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3969815953/technopark/photos_resized/product/120_120/658789/3_658789.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1604273650/technopark/photos_resized/product/120_120/658789/4_658789.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3958591880/technopark/photos_resized/product/120_120/658789/5_658789.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1363463616/technopark/photos_resized/product/120_120/658789/6_658789.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2610537735/technopark/photos_resized/product/120_120/658789/7_658789.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1492287979/technopark/photos_resized/product/120_120/658789/8_658789.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/43054269/technopark/photos_resized/product/120_120/658789/9_658789.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/503667463/technopark/photos_resized/product/120_120/658789/10_658789.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/81322686/technopark/photos_resized/product/120_120/658789/11_658789.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Микроволновые печи Gorenje",
+          "url": "/mikrovolnovye-pechi/gorenje/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/297482419/technopark/photos_resized/product/120_120/65663/1_65663.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1702527197/technopark/photos_resized/product/120_120/65663/2_65663.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1977089463/technopark/photos_resized/product/120_120/65663/3_65663.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2614729883/technopark/photos_resized/product/120_120/65663/7_65663.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3354656718/technopark/photos_resized/product/120_120/65663/8_65663.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/961602440/technopark/photos_resized/product/120_120/65663/9_65663.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Плиты Gorenje",
+          "url": "/plity/gorenje/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1571012720/technopark/photos_resized/product/120_120/678093/1_678093.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3441221089/technopark/photos_resized/product/120_120/678093/2_678093.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/730362632/technopark/photos_resized/product/120_120/678093/3_678093.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/890846845/technopark/photos_resized/product/120_120/678093/4_678093.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/715452646/technopark/photos_resized/product/120_120/678093/5_678093.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1552892830/technopark/photos_resized/product/120_120/678093/6_678093.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/969868660/technopark/photos_resized/product/120_120/678093/7_678093.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1523450985/technopark/photos_resized/product/120_120/678093/8_678093.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2959813028/technopark/photos_resized/product/120_120/678093/9_678093.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3494582380/technopark/photos_resized/product/120_120/678093/10_678093.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/958971225/technopark/photos_resized/product/120_120/678093/11_678093.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3345750322/technopark/photos_resized/product/120_120/678093/12_678093.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2864091165/technopark/photos_resized/product/120_120/678093/13_678093.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Блендеры Gorenje",
+          "url": "/blendery/gorenje/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/4024201442/technopark/photos_resized/product/120_120/838826/1_838826.jpg?timestamp=2026-07-27_15-55-11",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3172911721/technopark/photos_resized/product/120_120/838826/2_838826.jpg?timestamp=2026-07-27_15-55-12",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1393601349/technopark/photos_resized/product/120_120/838826/3_838826.jpg?timestamp=2026-07-27_15-55-13",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3390700287/technopark/photos_resized/product/120_120/838826/4_838826.jpg?timestamp=2026-07-27_15-55-13",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/595222474/technopark/photos_resized/product/120_120/838826/5_838826.jpg?timestamp=2026-07-27_15-55-14",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1417506652/technopark/photos_resized/product/120_120/838826/6_838826.jpg?timestamp=2026-07-27_15-55-14",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2756888065/technopark/photos_resized/product/120_120/838826/7_838826.jpg?timestamp=2026-07-27_15-55-15",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/113235415/technopark/photos_resized/product/120_120/838826/8_838826.jpg?timestamp=2026-07-27_15-55-15",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Хлебопечки Gorenje",
+          "url": "/hlebopechki/gorenje/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3270637465/technopark/photos_resized/product/120_120/839292/1_839292.jpg?timestamp=2026-07-28_14-50-27",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1543022115/technopark/photos_resized/product/120_120/839292/2_839292.jpg?timestamp=2026-07-28_14-50-27",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3315348352/technopark/photos_resized/product/120_120/839292/3_839292.jpg?timestamp=2026-07-28_14-50-27",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1166955387/technopark/photos_resized/product/120_120/839292/4_839292.jpg?timestamp=2026-07-28_14-50-27",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Кофемашины встраиваемые Gorenje",
+          "url": "/vstraivaemye-kofemashiny/gorenje/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3994457788/technopark/photos_resized/product/120_120/631577/1_631577.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1886520095/technopark/photos_resized/product/120_120/631577/2_631577.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Морозильные камеры встраиваемые Gorenje",
+          "url": "/vstraivaemye-morozilnye-kamery/gorenje/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2216972567/technopark/photos_resized/product/120_120/801698/1_801698.jpg?timestamp=2025-09-03_16-42-56",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3965089424/technopark/photos_resized/product/120_120/801698/2_801698.jpg?timestamp=2025-09-03_16-43-06",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1693562889/technopark/photos_resized/product/120_120/801698/3_801698.jpg?timestamp=2025-09-03_16-42-54",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/226524615/technopark/photos_resized/product/120_120/801698/4_801698.jpg?timestamp=2025-09-03_16-42-59",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2332023077/technopark/photos_resized/product/120_120/801698/5_801698.jpg?timestamp=2025-09-03_16-42-53",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2375163196/technopark/photos_resized/product/120_120/801698/6_801698.jpg?timestamp=2025-09-03_16-42-55",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2621211167/technopark/photos_resized/product/120_120/801698/7_801698.jpg?timestamp=2025-09-03_16-43-07",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2185918279/technopark/photos_resized/product/120_120/801698/8_801698.jpg?timestamp=2025-09-03_16-43-09",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/457385725/technopark/photos_resized/product/120_120/801698/9_801698.jpg?timestamp=2025-09-03_16-43-09",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Посудомоечные машины встраиваемые Gorenje",
+          "url": "/vstraivaemye-posudomoechnye-mashiny/gorenje/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3859560208/technopark/photos_resized/product/120_120/761684/1_761684.jpg?timestamp=2025-05-22_08-44-01",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3781292809/technopark/photos_resized/product/120_120/761684/2_761684.jpg?timestamp=2025-05-22_08-44-02",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/258970149/technopark/photos_resized/product/120_120/761684/3_761684.jpg?timestamp=2025-05-22_08-44-01",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3452361982/technopark/photos_resized/product/120_120/761684/4_761684.jpg?timestamp=2025-05-22_08-44-15",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2282763975/technopark/photos_resized/product/120_120/761684/5_761684.jpg?timestamp=2025-05-22_08-44-02",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2020123315/technopark/photos_resized/product/120_120/761684/6_761684.jpg?timestamp=2025-05-22_08-44-01",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3714818452/technopark/photos_resized/product/120_120/761684/7_761684.jpg?timestamp=2025-05-22_08-44-14",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/614824395/technopark/photos_resized/product/120_120/761684/8_761684.jpg?timestamp=2025-05-22_08-44-14",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/642130729/technopark/photos_resized/product/120_120/761684/9_761684.jpg?timestamp=2025-05-22_08-44-27",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/447465881/technopark/photos_resized/product/120_120/761684/10_761684.jpg?timestamp=2025-05-22_08-44-16",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1492606868/technopark/photos_resized/product/120_120/761684/11_761684.jpg?timestamp=2025-05-22_08-44-26",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2228182074/technopark/photos_resized/product/120_120/761684/12_761684.jpg?timestamp=2025-05-22_08-44-17",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Сушильные машины Gorenje",
+          "url": "/sushilnye-mashiny/gorenje/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1092065877/technopark/photos_resized/product/120_120/755738/1_755738.jpg?timestamp=2024-08-27_16-08-33",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/660587995/technopark/photos_resized/product/120_120/755738/2_755738.jpg?timestamp=2024-08-27_16-08-42",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/907061955/technopark/photos_resized/product/120_120/755738/3_755738.jpg?timestamp=2024-08-27_16-08-34",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2806883616/technopark/photos_resized/product/120_120/755738/4_755738.jpg?timestamp=2024-08-27_16-08-44",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3928533357/technopark/photos_resized/product/120_120/755738/5_755738.jpg?timestamp=2024-08-27_16-08-29",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/55250008/technopark/photos_resized/product/120_120/755738/6_755738.jpg?timestamp=2024-08-27_16-08-28",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1931606231/technopark/photos_resized/product/120_120/755738/7_755738.jpg?timestamp=2024-08-27_16-08-29",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1651414991/technopark/photos_resized/product/120_120/755738/8_755738.jpg?timestamp=2024-08-27_16-08-49",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3592616944/technopark/photos_resized/product/120_120/755738/9_755738.jpg?timestamp=2024-08-27_16-08-41",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4228514412/technopark/photos_resized/product/120_120/755738/10_755738.jpg?timestamp=2024-08-27_16-08-51",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        }
+      ],
+      "__typename": "Brand"
+    },
+    "section": {
+      "slug": "stiralno-sushilnye-mashiny",
+      "id": "2637",
+      "name": "Стиральные машины с сушкой",
+      "parents": [
+        {
+          "id": "877",
+          "name": "Крупная бытовая",
+          "depth": 1,
+          "__typename": "SectionTreeItem"
+        },
+        {
+          "id": "2637",
+          "name": "Стиральные машины с сушкой",
+          "depth": 2,
+          "__typename": "SectionTreeItem"
+        }
+      ],
+      "__typename": "Section"
+    },
+    "media": {
+      "gallery": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/834685/1_834685.jpg?timestamp=2026-06-24_12-54-15",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/834685/2_834685.jpg?timestamp=2026-06-24_12-54-15",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/834685/3_834685.jpg?timestamp=2026-06-24_12-54-16",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/834685/4_834685.jpg?timestamp=2026-06-24_12-54-16",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/834685/5_834685.jpg?timestamp=2026-06-24_12-54-16",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "interior": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior/1000_1000/834685/1_834685.jpg?timestamp=2026-06-24_12-54-23",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior/1000_1000/834685/2_834685.jpg?timestamp=2026-06-24_12-54-23",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "video": [],
+      "vkVideo": null,
+      "view3d": [],
+      "listing": {
+        "default": [
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/834685/1_834685.jpg?timestamp=2026-06-24_12-54-16",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/834685/2_834685.jpg?timestamp=2026-06-24_12-54-16",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/834685/3_834685.jpg?timestamp=2026-06-24_12-54-17",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/834685/4_834685.jpg?timestamp=2026-06-24_12-54-16",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/834685/5_834685.jpg?timestamp=2026-06-24_12-54-17",
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "ProductListing"
+      },
+      "__typename": "ProductV2Media"
+    },
+    "modifications": {
+      "bigBrother": null,
+      "groups": [],
+      "__typename": "ProductModifications"
+    },
+    "description": {
+      "hasDescription": true,
+      "type": "RICH",
+      "__typename": "ProductDescription"
+    },
+    "collection": {
+      "id": "834685",
+      "products": {
+        "pagination": {
+          "total": 0,
+          "__typename": "Pagination"
+        },
+        "__typename": "ProductV2Pagination"
+      },
+      "__typename": "ProductCollection"
+    },
+    "similar": {
+      "pagination": {
+        "total": 20,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "related": {
+      "pagination": {
+        "total": 19,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "accessories": [
+      {
+        "products": {
+          "pagination": {
+            "total": 18,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      }
+    ],
+    "rating": {
+      "average": 0,
+      "canRate": false,
+      "total": {
+        "all": 0,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 0,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "reviews": {
+      "total": 0,
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "bestCredit": {
+      "monthPayment": 2292,
+      "type": "DEFERRED_PAYMENT",
+      "__typename": "ProductBestCredit"
+    },
+    "isSpare": false,
+    "isService": false,
+    "isVipService": false,
+    "isGiftBonusCard": false,
+    "canBuy": true,
+    "canPayOnline": true,
+    "canRequestPrice": false,
+    "canShowPrice": true,
+    "canSubscribe": false,
+    "needPrepaymentForDelivery": false,
+    "needPrepaymentForPreorder": false,
+    "isSberSpasiboPayAvailable": true,
+    "isYandexPayAllowed": false,
+    "yandexSplit": {
+      "payments": [
+        {
+          "amount": 0,
+          "date": "2026-08-17T08:59:52+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4588,
+          "date": "2026-08-31T08:59:52+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4582,
+          "date": "2026-09-14T08:59:52+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4582,
+          "date": "2026-09-28T08:59:52+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4582,
+          "date": "2026-10-12T08:59:52+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4582,
+          "date": "2026-10-26T08:59:52+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4582,
+          "date": "2026-11-09T08:59:52+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4582,
+          "date": "2026-11-23T08:59:52+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4582,
+          "date": "2026-12-07T08:59:52+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4582,
+          "date": "2026-12-21T08:59:52+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4582,
+          "date": "2027-01-04T08:59:52+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4582,
+          "date": "2027-01-18T08:59:52+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4582,
+          "date": "2027-02-01T08:59:52+0300",
+          "__typename": "YandexSplitPayment"
+        }
+      ],
+      "firstPayment": 0,
+      "restPayment": 54990,
+      "description": "https://yandex.ru/support/split/",
+      "maxAmount": 295000,
+      "__typename": "YandexSplit"
+    },
+    "seo": {
+      "description": "Стирально-сушильная машина Gorenje WDG2P1174A3D2S/C: купить в интернет-магазине Технопарк с расширенной гарантией и бесплатной доставкой по РФ. Подробные характеристики товара с отзывами реальных покупателей.",
+      "text": "Вы можете купить стирально-сушильную машину Gorenje WDG2P1174A3D2S/C с доставкой по Москве по низкой цене. В интернет-магазине Technopark.ru осуществляется продажа стирально-сушильной машины Gorenje WDG2P1174A3D2S/C на выгодных условиях.",
+      "textHidden": "",
+      "title": "Стирально-сушильная машина Gorenje WDG2P1174A3D2S/C - купить в Москве в интернет-магазине Технопарк",
+      "__typename": "SeoData"
+    },
+    "breadcrumbs": [
+      {
+        "name": "Главная",
+        "url": "/",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Крупная бытовая техника",
+        "url": "/krupnaya-bytovaya-tehnika/",
+        "options": [
+          {
+            "name": "Центр инноваций",
+            "url": "/tovary-iz-budushchego/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Смартфоны и гаджеты",
+            "url": "/smartfony-i-gadzhety/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Компьютеры и ноутбуки",
+            "url": "/kompyutery-i-noutbuki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Климатическая техника",
+            "url": "/klimaticheskaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Техника для кухни",
+            "url": "/dlya-kuhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Бытовая техника для дома",
+            "url": "/dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для красоты и здоровья",
+            "url": "/krasota-i-zdorovye/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Спортивные товары",
+            "url": "/trenazhery-dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Телевизоры Аудио Hi-Fi",
+            "url": "/audio-video-foto/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для сада, дома и ремонта",
+            "url": "/dlya-sada-doma-i-remonta/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посуда",
+            "url": "/posuda/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Детские товары",
+            "url": "/detskie-tovary/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для гейминга",
+            "url": "/gaming/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Плоттеры и услуги розницы",
+            "url": "//",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Запасные части",
+            "url": "/zapasnie-chasti/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Стиральные машины с функцией сушки (2 в 1)",
+        "url": "/stiralno-sushilnye-mashiny/",
+        "options": [
+          {
+            "name": "Стиральные машины",
+            "url": "/stiralnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые варочные панели",
+            "url": "/vstraivaemye-varochnye-poverhnosti/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные плиты",
+            "url": "/plity/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Холодильники",
+            "url": "/holodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые духовые шкафы",
+            "url": "/vstraivaemye-duhovye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вытяжки для кухни",
+            "url": "/vytyazhki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посудомоечные машины",
+            "url": "/posudomoechnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые холодильники",
+            "url": "/vstraivaemye-holodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые винные шкафы",
+            "url": "/vstraivaemye-vinnye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые вытяжки для кухни",
+            "url": "/vstraivaemye-vytyazhki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые кофемашины",
+            "url": "/vstraivaemye-kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые морозильные камеры",
+            "url": "/vstraivaemye-morozilnye-kamery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые пароварки",
+            "url": "/vstraivaemye-parovarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые посудомоечные машины",
+            "url": "/vstraivaemye-posudomoechnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые стиральные машины",
+            "url": "/vstraivaemye-stiralnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Сушильные машины для белья",
+            "url": "/sushilnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые микроволновые печи",
+            "url": "/vstraivaemye-mikrovolnovye-pechi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Морозильные камеры",
+            "url": "/morozilnye-kamery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Винные шкафы",
+            "url": "/vinnye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые шкафы для подогрева",
+            "url": "/shkafy-dlya-podogreva-posudy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые вакууматоры",
+            "url": "/vakuumatory/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Измельчители пищевых отходов",
+            "url": "/vstraivaemye-izmelchiteli-pischevyh-othodov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Автохолодильники",
+            "url": "/avtoholodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для крупной бытовой техники",
+            "url": "/aksessuary-krupnaya-bytovaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для холодильников",
+            "url": "/aksessuary-krupnaya-bytovaya-tehnika/filt_naznachenie-k_holodilnikam/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для автохолодильников",
+            "url": "/aksessuary-dlya-avtokholodilnikov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Хьюмидоры",
+            "url": "/khyumidory/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Стиральные машины с функцией сушки (2 в 1) Gorenje",
+        "url": "/stiralno-sushilnye-mashiny/gorenje/",
+        "options": [
+          {
+            "name": "LG",
+            "url": "/stiralno-sushilnye-mashiny/lg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Electrolux",
+            "url": "/stiralno-sushilnye-mashiny/electrolux/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Korting",
+            "url": "/stiralno-sushilnye-mashiny/korting/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Samsung",
+            "url": "/stiralno-sushilnye-mashiny/samsung/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Haier",
+            "url": "/stiralno-sushilnye-mashiny/haier/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "AEG",
+            "url": "/stiralno-sushilnye-mashiny/aeg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Candy",
+            "url": "/stiralno-sushilnye-mashiny/candy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Beko",
+            "url": "/stiralno-sushilnye-mashiny/beko/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Bosch",
+            "url": "/stiralno-sushilnye-mashiny/bosch/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Midea",
+            "url": "/stiralno-sushilnye-mashiny/midea/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "VARD",
+            "url": "/stiralno-sushilnye-mashiny/vard/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Toshiba",
+            "url": "/stiralno-sushilnye-mashiny/toshiba/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Roborock",
+            "url": "/stiralno-sushilnye-mashiny/roborock/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Hisense",
+            "url": "/stiralno-sushilnye-mashiny/hisense/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Whirlpool",
+            "url": "/stiralno-sushilnye-mashiny/whirlpool/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Maunfeld",
+            "url": "/stiralno-sushilnye-mashiny/maunfeld/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Hotpoint",
+            "url": "/stiralno-sushilnye-mashiny/hotpoint/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Kuppersberg",
+            "url": "/stiralno-sushilnye-mashiny/kuppersberg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Panasonic",
+            "url": "/stiralno-sushilnye-mashiny/panasonic/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Miele",
+            "url": "/stiralno-sushilnye-mashiny/miele/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Smeg",
+            "url": "/stiralno-sushilnye-mashiny/smeg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Viomi",
+            "url": "/stiralno-sushilnye-mashiny/viomi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Casarte",
+            "url": "/stiralno-sushilnye-mashiny/casarte/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Siemens",
+            "url": "/stiralno-sushilnye-mashiny/siemens/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Gorenje WDG2P1174A3D2S/C",
+        "url": "stiralno-sushilnaya-mashina-gorenje-wdg2p1174a3d2sc-834685",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      }
+    ],
+    "isArchive": false,
+    "__typename": "ProductV2",
+    "isSberPayOneClickAllowed": false,
+    "isTinkoffPayOneClickAllowed": false,
+    "bonus": null
+  },
+  "details": {
+    "description": "<div id=\"stream24-inpage\"></div> <script> (function (w, d, s, o) {   var f = d.getElementsByTagName(s)[0];   var j = d.createElement(s);   w.TTLStreamReady = new Promise((resolve) => {     j.async = true;     j.src = 'https://content.24ttl.stream/widget.js';     f.parentNode.insertBefore(j, f);     j.onload = function () {       w.ttlStream = new TTLStream(o);       resolve(w.ttlStream);     };   }); })(window, document, 'script', {}); </script> <script> var styleElement = document.createElement('style');  styleElement.innerHTML = \"body #stream24-inpage #stream-container *{ font-family: 'DINPro Technopark' !important; }\"; document.getElementsByTagName(\"head\")[0].appendChild(styleElement);  TTLStreamReady.then(() => {   ttlStream.findAndInsert({     el: '#stream24-inpage',     brand: 'gorenje',     productId: '3838783158482',     retailerDomain: 'www.technopark.ru',     templateType: 'master_template',     resultType: 'html',     contentType: 'minisite'   }); }); </script>",
+    "descriptionType": "RICH_STREAM_24",
+    "descriptionBarcode": "3838783158482",
+    "descriptionBrand": "Gorenje",
+    "specifications": {
+      "short": [
+        {
+          "name": "Конструкция стиральной машины",
+          "value": "полноразмерная",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Максимальная загрузка белья",
+          "value": "11 кг",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Максимальная скорость отжима",
+          "value": "до 1400 об/мин",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Максимальная загрузка белья при сушке",
+          "value": "до 7 кг",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Глубина",
+          "value": "59 см",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "barcode": "3838783158482",
+      "country": "Китай",
+      "full": [
+        {
+          "name": "Основные характеристики",
+          "list": [
+            {
+              "name": "Установка",
+              "value": "отдельностоящая",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Конструкция стиральной машины",
+              "value": "полноразмерная",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество барабанов",
+              "value": "1",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип двигателя",
+              "value": "инверторный",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Основной барабан",
+          "list": [
+            {
+              "name": "Тип загрузки",
+              "value": "фронтальная",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Поверхность барабана",
+              "value": "капли",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная загрузка белья",
+              "value": "11 кг",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная скорость отжима",
+              "value": "до 1400 об/мин",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Класс стирки",
+              "value": "A",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Класс отжима",
+              "value": "B",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Уровень шума при стирке",
+              "value": "56 дБ",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Уровень шума при отжиме",
+              "value": "72 дБ",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Сушка",
+          "list": [
+            {
+              "name": "Сушка",
+              "value": "есть",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип сушки",
+              "value": "по остаточной влажности, по времени",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество программ сушки",
+              "value": "5",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная загрузка белья при сушке",
+              "value": "до 7 кг",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Программы сушки",
+              "value": "в шкаф, очень сухо, под утюг, сушка по времени, функция освежения",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дополнительные программы",
+              "value": "стирка + сушка 59 мин, сушка синтетики, сушка хлопка",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Управление",
+          "list": [
+            {
+              "name": "Тип управления",
+              "value": "электромеханическое",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Переключатели",
+              "value": "поворотные, сенсорные",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Размещение панели управления",
+              "value": "под наклоном",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество программ",
+              "value": "15",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Программы",
+              "value": "Eco 40-60, хлопок, микс/синтетика, шерсть/ручная, постельное белье, супер 49 мин, быстрая 15 мин / стирка + сушка 59 мин, отжим, полоскание, экстра гигиена, освежение, микс сухое, хлопок сухое, лёгкий уход",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Программа очистки барабана",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дополнительные программы",
+              "value": "предварительная стирка, дополнительное полоскание, антисминание, сокращение программы",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Температурные режимы",
+          "list": [
+            {
+              "name": "Регулировка температуры стирки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Дисплей",
+          "list": [
+            {
+              "name": "Цифровой дисплей",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Таймер",
+          "list": [
+            {
+              "name": "Таймер отсрочки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальное время отсрочки стирки",
+              "value": "24 ч",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Индикация",
+          "list": [
+            {
+              "name": "Звуковой сигнал завершения программы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация окончания стирки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация времени до конца программы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация температуры",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация скорости отжима",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация блокировки дверцы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация ошибок",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация включения/паузы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация выбора дополнительных функций",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация времени отложенного старта",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет индикации",
+              "value": "белый",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Расход воды",
+          "list": [
+            {
+              "name": "Расход воды за цикл",
+              "value": "100 л",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автоматическая регулировка уровня воды",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Отжим",
+          "list": [
+            {
+              "name": "Регулировка скорости отжима",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Отмена отжима",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автоматический контроль загрузки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Защита и безопасность",
+          "list": [
+            {
+              "name": "Защита от скачков напряжения",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Защита от детей",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Защита от перелива",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Защита от протечек",
+              "value": "частичная",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Блокировка люка во время работы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Контроль пенообразования",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Защита от перегрева",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Энергопотребление",
+          "list": [
+            {
+              "name": "Класс энергопотребления",
+              "value": "A",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Энергопотребление за цикл",
+              "value": "7.48 кВт/ч",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Энергопотребление за год",
+              "value": "176 кВт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Напряжение",
+              "value": "220 В",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Длина сетевого шнура",
+              "value": "1.5 м",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Особенности конструкции",
+          "list": [
+            {
+              "name": "Автоматический дозатор моющего средства",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Направление открывания люка",
+              "value": "влево",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Диаметр загрузочного люка",
+              "value": "48 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Угол открытия люка",
+              "value": "135 °",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Регулируемые ножки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Дополнительные функции",
+          "list": [
+            {
+              "name": "Самодиагностика",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автобаланс",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автовзвешивание белья",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дополнительная информация",
+              "value": "система прямого впрыска",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Цвет и материал",
+          "list": [
+            {
+              "name": "Цвет",
+              "value": "серый",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет дверцы люка",
+              "value": "чёрный",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал барабана",
+              "value": "нержавеющая сталь",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал бака",
+              "value": "карботек",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Комплектация",
+          "list": [
+            {
+              "name": "Шланг подачи воды",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Сливной шланг",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Держатель шланга",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Сетевой кабель",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Гаечный ключ",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Инструкция",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Размеры и вес",
+          "list": [
+            {
+              "name": "Высота",
+              "value": "84.5 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ширина",
+              "value": "59.5 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Глубина",
+              "value": "59 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вес",
+              "value": "67 кг",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        }
+      ],
+      "grossWeight": "67",
+      "netWeight": "67",
+      "height": "0.88",
+      "instructionUrl": "https://storage.yandexcloud.net/technopark.instructions/834685/instruction/instrukciya-stiralno-sushilnaya-mashina-gorenje-wdg2p1174a3d2sc-834685.pdf",
+      "length": "0.67",
+      "schemeUrl": null,
+      "warranty": "12",
+      "width": "0.65",
+      "__typename": "ProductV2Specifications"
+    },
+    "certificates": ["https://www.technopark.ru/bipublic/Cert/IG0G15BB8FFHB5.pdf"],
+    "isManufacturerCountry": false,
+    "isSellerWarranty": false,
+    "reviews": {
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "total": 0,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "rating": {
+      "average": 0,
+      "canRate": false,
+      "total": {
+        "all": 0,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 0,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "isLoading": false
+  },
+  "shots": [
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/834685/1_834685.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/834685/1_834685.jpg?timestamp=2026-06-24_12-54-15"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/834685/2_834685.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/834685/2_834685.jpg?timestamp=2026-06-24_12-54-15"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/834685/3_834685.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/834685/3_834685.jpg?timestamp=2026-06-24_12-54-16"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/834685/4_834685.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/834685/4_834685.jpg?timestamp=2026-06-24_12-54-16"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/834685/5_834685.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/834685/5_834685.jpg?timestamp=2026-06-24_12-54-16"
+    ]
+  ],
+  "photos": [
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/stiralno-sushilnaya-mashina-gorenje-wdg2p1174a3d2sc-834685-1.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/stiralno-sushilnaya-mashina-gorenje-wdg2p1174a3d2sc-834685-2.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/stiralno-sushilnaya-mashina-gorenje-wdg2p1174a3d2sc-834685-3.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/stiralno-sushilnaya-mashina-gorenje-wdg2p1174a3d2sc-834685-4.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/stiralno-sushilnaya-mashina-gorenje-wdg2p1174a3d2sc-834685-5.jpg"
+  ]
+}

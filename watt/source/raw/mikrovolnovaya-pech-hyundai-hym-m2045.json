@@ -1,0 +1,1570 @@
+{
+  "shelf": "mikrovolnovye-pechi",
+  "slug": "mikrovolnovaya-pech-hyundai-hym-m2045",
+  "product": {
+    "id": "696645",
+    "article": "160918",
+    "slug": "mikrovolnovaya-pech-hyundai-hym-m2045",
+    "hasSmartInstallments": false,
+    "isActive": true,
+    "name": {
+      "default": "Hyundai HYM-M2045",
+      "full": "Микроволновая печь Hyundai HYM-M2045",
+      "pseudo": null,
+      "spare": null,
+      "fullWithoutSection": "Hyundai HYM-M2045",
+      "section": "Микроволновая печь",
+      "__typename": "ProductName"
+    },
+    "price": {
+      "default": 5790,
+      "marketing": null,
+      "old": null,
+      "__typename": "ProductPrice"
+    },
+    "benefit": null,
+    "specifications": {
+      "short": [
+        {
+          "name": "Мощность микроволн",
+          "value": "700 Вт",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Внутренний объем",
+          "value": "20 л",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Диаметр поворотного столика",
+          "value": "24.5 см",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Тип управления",
+          "value": "механическое",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "__typename": "ProductV2Specifications"
+    },
+    "labels": [
+      {
+        "name": "Бонусы Спасибо",
+        "type": "sberspasibo",
+        "items": [
+          {
+            "description": "",
+            "name": "Этот товар можно оплатить бонусами Спасибо от СберБанка",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Рассрочка",
+        "type": "deferred_payment",
+        "items": [
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-6",
+            "url": "/mikrovolnovaya-pech-hyundai-hym-m2045/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-12",
+            "url": "/mikrovolnovaya-pech-hyundai-hym-m2045/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-24",
+            "url": "/mikrovolnovaya-pech-hyundai-hym-m2045/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-18",
+            "url": "/mikrovolnovaya-pech-hyundai-hym-m2045/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      }
+    ],
+    "labelsV2": [
+      {
+        "id": "8",
+        "name": "Бонусы Спасибо",
+        "code": "sberspasibo",
+        "mainColor": "#0C9C0C",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#0C9C0C",
+        "altTextColor": "#FFFFFF",
+        "borderAndTextColor": "#0C9C0C",
+        "items": [
+          {
+            "id": "20938",
+            "text": "Этот товар можно оплатить бонусами Спасибо от СберБанка ",
+            "buttonText": "Подробнее",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      }
+    ],
+    "status": {
+      "id": "IN_STOCK",
+      "name": "В наличии",
+      "type": "POSITIVE",
+      "__typename": "ProductStatus"
+    },
+    "brand": {
+      "code": "hyundai",
+      "id": "40228",
+      "name": "Hyundai",
+      "src": "https://cdn1.technopark.ru/technopark/photos_resized/section_brand_300_100/300_100/40228/1_40228.png",
+      "slug": "hyundai",
+      "sections": [
+        {
+          "name": "Все пылесосы Hyundai",
+          "url": "/pylesosy/hyundai/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/276761698/technopark/photos_resized/product/120_120/690042/1_690042.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Утюги Hyundai",
+          "url": "/utyugi/hyundai/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2414851081/technopark/photos_resized/product/120_120/715222/1_715222.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4175987871/technopark/photos_resized/product/120_120/715222/2_715222.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2290249744/technopark/photos_resized/product/120_120/715222/3_715222.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/294330794/technopark/photos_resized/product/120_120/715222/4_715222.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1406646183/technopark/photos_resized/product/120_120/715222/5_715222.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1720455484/technopark/photos_resized/product/120_120/715222/6_715222.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Стиральные машины Hyundai",
+          "url": "/stiralnye-mashiny/hyundai/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1374649949/technopark/photos_resized/product/120_120/721222/1_721222.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3096238952/technopark/photos_resized/product/120_120/721222/2_721222.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3370528743/technopark/photos_resized/product/120_120/721222/3_721222.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/562399954/technopark/photos_resized/product/120_120/721222/4_721222.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Аэрогрили Hyundai",
+          "url": "/aerogrili/hyundai/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/373763914/technopark/photos_resized/product/120_120/782883/1_782883.jpg?timestamp=2025-03-06_14-24-28",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2404286192/technopark/photos_resized/product/120_120/782883/2_782883.jpg?timestamp=2025-03-06_14-24-28",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4165553766/technopark/photos_resized/product/120_120/782883/3_782883.jpg?timestamp=2025-03-06_14-24-28",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1714281413/technopark/photos_resized/product/120_120/782883/4_782883.jpg?timestamp=2025-03-06_14-24-29",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Кухонные весы Hyundai",
+          "url": "/kuhonnye-vesy/hyundai/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1770738635/technopark/photos_resized/product/120_120/688591/1_688591.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2273653479/technopark/photos_resized/product/120_120/688591/2_688591.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2881856829/technopark/photos_resized/product/120_120/688591/3_688591.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/512516957/technopark/photos_resized/product/120_120/688591/4_688591.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Мультиварки Hyundai",
+          "url": "/multivarki/hyundai/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/450437141/technopark/photos_resized/product/120_120/688241/1_688241.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4107747641/technopark/photos_resized/product/120_120/688241/2_688241.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/498394124/technopark/photos_resized/product/120_120/688241/3_688241.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2835161708/technopark/photos_resized/product/120_120/688241/4_688241.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3147225086/technopark/photos_resized/product/120_120/688241/5_688241.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2597011694/technopark/photos_resized/product/120_120/688241/6_688241.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3432114024/technopark/photos_resized/product/120_120/688241/7_688241.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1813805748/technopark/photos_resized/product/120_120/688241/8_688241.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1436071634/technopark/photos_resized/product/120_120/688241/9_688241.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2623860416/technopark/photos_resized/product/120_120/688241/10_688241.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/998553349/technopark/photos_resized/product/120_120/688241/11_688241.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/215741265/technopark/photos_resized/product/120_120/688241/12_688241.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2547400740/technopark/photos_resized/product/120_120/688241/13_688241.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1802616493/technopark/photos_resized/product/120_120/688241/14_688241.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1657270918/technopark/photos_resized/product/120_120/688241/15_688241.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/253590441/technopark/photos_resized/product/120_120/688241/16_688241.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1907099412/technopark/photos_resized/product/120_120/688241/17_688241.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Телевизоры Hyundai",
+          "url": "/televizory/hyundai/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2286437592/technopark/photos_resized/product/120_120/768674/1_768674.jpg?timestamp=2024-12-17_13-01-03",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1916802175/technopark/photos_resized/product/120_120/768674/2_768674.jpg?timestamp=2024-12-17_13-01-03",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1763548007/technopark/photos_resized/product/120_120/768674/3_768674.jpg?timestamp=2024-12-17_13-01-04",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3947447749/technopark/photos_resized/product/120_120/768674/4_768674.jpg?timestamp=2024-12-17_13-01-07",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1416644470/technopark/photos_resized/product/120_120/768674/5_768674.jpg?timestamp=2024-12-17_13-01-08",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2184740875/technopark/photos_resized/product/120_120/768674/6_768674.jpg?timestamp=2024-12-17_13-01-09",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/596692941/technopark/photos_resized/product/120_120/768674/7_768674.jpg?timestamp=2024-12-17_13-01-09",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1815535911/technopark/photos_resized/product/120_120/768674/8_768674.jpg?timestamp=2024-12-17_13-01-10",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4114591901/technopark/photos_resized/product/120_120/768674/9_768674.jpg?timestamp=2024-12-17_13-01-11",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4163022935/technopark/photos_resized/product/120_120/768674/10_768674.jpg?timestamp=2024-12-17_13-01-12",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/372035963/technopark/photos_resized/product/120_120/768674/11_768674.jpg?timestamp=2024-12-17_13-01-12",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1852858238/technopark/photos_resized/product/120_120/768674/12_768674.jpg?timestamp=2024-12-17_13-01-13",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1878026719/technopark/photos_resized/product/120_120/768674/13_768674.jpg?timestamp=2024-12-17_13-01-14",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3257051231/technopark/photos_resized/product/120_120/768674/14_768674.jpg?timestamp=2024-12-17_13-01-14",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3696516359/technopark/photos_resized/product/120_120/768674/15_768674.jpg?timestamp=2024-12-17_13-01-15",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2490896345/technopark/photos_resized/product/120_120/768674/16_768674.jpg?timestamp=2024-12-17_13-01-16",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/741132659/technopark/photos_resized/product/120_120/768674/17_768674.jpg?timestamp=2024-12-17_13-01-17",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Мини-печи Hyundai",
+          "url": "/mini-pechi/hyundai/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/101001698/technopark/photos_resized/product/120_120/803600/1_803600.jpg?timestamp=2025-09-23_10-27-17",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2556542017/technopark/photos_resized/product/120_120/803600/2_803600.jpg?timestamp=2025-09-23_10-27-18",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/23653883/technopark/photos_resized/product/120_120/803600/3_803600.jpg?timestamp=2025-09-23_10-27-18",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2446848106/technopark/photos_resized/product/120_120/803600/4_803600.jpg?timestamp=2025-09-23_10-27-19",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3872440572/technopark/photos_resized/product/120_120/803600/5_803600.jpg?timestamp=2025-09-23_10-27-19",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2163915681/technopark/photos_resized/product/120_120/803600/6_803600.jpg?timestamp=2025-09-23_10-27-36",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3880842845/technopark/photos_resized/product/120_120/803600/7_803600.jpg?timestamp=2025-09-23_10-27-33",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1029881702/technopark/photos_resized/product/120_120/803600/8_803600.jpg?timestamp=2025-09-23_10-27-31",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/388522537/technopark/photos_resized/product/120_120/803600/9_803600.jpg?timestamp=2025-09-23_10-27-35",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3671757409/technopark/photos_resized/product/120_120/803600/10_803600.jpg?timestamp=2025-09-23_10-27-31",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Все аксессуары Hyundai",
+          "url": "/aksessuary-krupnaya-bytovaya-tehnika/hyundai/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1849372410/technopark/photos_resized/product/120_120/728620/1_728620.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4270076779/technopark/photos_resized/product/120_120/728620/2_728620.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2398013412/technopark/photos_resized/product/120_120/728620/3_728620.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/277500487/technopark/photos_resized/product/120_120/728620/4_728620.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        }
+      ],
+      "__typename": "Brand"
+    },
+    "section": {
+      "slug": "mikrovolnovye-pechi",
+      "id": "906",
+      "name": "Микроволновые печи",
+      "parents": [
+        {
+          "id": "900",
+          "name": "Для кухни",
+          "depth": 1,
+          "__typename": "SectionTreeItem"
+        },
+        {
+          "id": "906",
+          "name": "Микроволновые печи",
+          "depth": 2,
+          "__typename": "SectionTreeItem"
+        }
+      ],
+      "__typename": "Section"
+    },
+    "media": {
+      "gallery": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/696645/1_696645.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/696645/2_696645.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/696645/3_696645.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/696645/4_696645.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/696645/5_696645.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/696645/6_696645.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/696645/7_696645.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/696645/8_696645.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/696645/9_696645.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/696645/10_696645.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "interior": [],
+      "video": [],
+      "vkVideo": null,
+      "view3d": [],
+      "listing": {
+        "default": [
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/696645/1_696645.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/696645/2_696645.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/696645/3_696645.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/696645/4_696645.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/696645/5_696645.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/696645/6_696645.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/696645/7_696645.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/696645/8_696645.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/696645/9_696645.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/696645/10_696645.jpg",
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "ProductListing"
+      },
+      "__typename": "ProductV2Media"
+    },
+    "modifications": {
+      "bigBrother": null,
+      "groups": [],
+      "__typename": "ProductModifications"
+    },
+    "description": {
+      "hasDescription": true,
+      "type": "RICH",
+      "__typename": "ProductDescription"
+    },
+    "collection": {
+      "id": "696645",
+      "products": {
+        "pagination": {
+          "total": 0,
+          "__typename": "Pagination"
+        },
+        "__typename": "ProductV2Pagination"
+      },
+      "__typename": "ProductCollection"
+    },
+    "similar": {
+      "pagination": {
+        "total": 23,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "related": {
+      "pagination": {
+        "total": 18,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "accessories": [
+      {
+        "products": {
+          "pagination": {
+            "total": 1,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 5,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 5,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 19,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      }
+    ],
+    "rating": {
+      "average": 5,
+      "canRate": false,
+      "total": {
+        "all": 2,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 2,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "reviews": {
+      "total": 2,
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "bestCredit": {
+      "monthPayment": 242,
+      "type": "DEFERRED_PAYMENT",
+      "__typename": "ProductBestCredit"
+    },
+    "isSpare": false,
+    "isService": false,
+    "isVipService": false,
+    "isGiftBonusCard": false,
+    "canBuy": true,
+    "canPayOnline": true,
+    "canRequestPrice": false,
+    "canShowPrice": true,
+    "canSubscribe": false,
+    "needPrepaymentForDelivery": false,
+    "needPrepaymentForPreorder": false,
+    "isSberSpasiboPayAvailable": true,
+    "isYandexPayAllowed": false,
+    "yandexSplit": {
+      "payments": [
+        {
+          "amount": 0,
+          "date": "2026-08-17T09:02:14+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 488,
+          "date": "2026-08-31T09:02:14+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 482,
+          "date": "2026-09-14T09:02:14+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 482,
+          "date": "2026-09-28T09:02:14+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 482,
+          "date": "2026-10-12T09:02:14+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 482,
+          "date": "2026-10-26T09:02:14+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 482,
+          "date": "2026-11-09T09:02:14+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 482,
+          "date": "2026-11-23T09:02:14+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 482,
+          "date": "2026-12-07T09:02:14+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 482,
+          "date": "2026-12-21T09:02:14+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 482,
+          "date": "2027-01-04T09:02:14+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 482,
+          "date": "2027-01-18T09:02:14+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 482,
+          "date": "2027-02-01T09:02:14+0300",
+          "__typename": "YandexSplitPayment"
+        }
+      ],
+      "firstPayment": 0,
+      "restPayment": 5790,
+      "description": "https://yandex.ru/support/split/",
+      "maxAmount": 295000,
+      "__typename": "YandexSplit"
+    },
+    "seo": {
+      "description": "Микроволновая печь Hyundai HYM-M2045: купить в интернет-магазине Технопарк с расширенной гарантией и бесплатной доставкой по РФ. Подробные характеристики товара с отзывами реальных покупателей.",
+      "text": "Вы можете купить микроволновую печь Hyundai HYM-M2045 с доставкой по Москве по низкой цене. В интернет-магазине Technopark.ru осуществляется продажа микроволновой печи Hyundai HYM-M2045 на выгодных условиях.",
+      "textHidden": "",
+      "title": "Микроволновая печь Hyundai HYM-M2045 - купить в Москве в интернет-магазине Технопарк",
+      "__typename": "SeoData"
+    },
+    "breadcrumbs": [
+      {
+        "name": "Главная",
+        "url": "/",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Техника для кухни",
+        "url": "/dlya-kuhni/",
+        "options": [
+          {
+            "name": "Центр инноваций",
+            "url": "/tovary-iz-budushchego/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Смартфоны и гаджеты",
+            "url": "/smartfony-i-gadzhety/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Компьютеры и ноутбуки",
+            "url": "/kompyutery-i-noutbuki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Климатическая техника",
+            "url": "/klimaticheskaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Крупная бытовая техника",
+            "url": "/krupnaya-bytovaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Бытовая техника для дома",
+            "url": "/dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для красоты и здоровья",
+            "url": "/krasota-i-zdorovye/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Спортивные товары",
+            "url": "/trenazhery-dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Телевизоры Аудио Hi-Fi",
+            "url": "/audio-video-foto/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для сада, дома и ремонта",
+            "url": "/dlya-sada-doma-i-remonta/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посуда",
+            "url": "/posuda/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Детские товары",
+            "url": "/detskie-tovary/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для гейминга",
+            "url": "/gaming/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Плоттеры и услуги розницы",
+            "url": "//",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Запасные части",
+            "url": "/zapasnie-chasti/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Микроволновые печи",
+        "url": "/mikrovolnovye-pechi/",
+        "options": [
+          {
+            "name": "Аэрогрили",
+            "url": "/aerogrili/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мультиварки",
+            "url": "/multivarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мини-печи",
+            "url": "/mini-pechi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мультишефы BORK",
+            "url": "/multishefy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Миксеры и кухонные машины",
+            "url": "/miksery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрогрили",
+            "url": "/grili/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Уличные грили барбекю",
+            "url": "/ulichnye-grili-barbeku/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Фритюрницы",
+            "url": "/frityurnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Хлебопечки",
+            "url": "/hlebopechki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Пароварки",
+            "url": "/parovarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Настольные плиты",
+            "url": "/induktsionnye-paneli/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мороженицы",
+            "url": "/morozhenitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вакуумные упаковщики (вакууматоры)",
+            "url": "/vakuumnaya-upakovka/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Су виды",
+            "url": "/su-vidy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрические сковороды и воки",
+            "url": "/elektricheskie-skovorody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Автоматические кофемашины",
+            "url": "/kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кофеварки",
+            "url": "/kofevarki-i-kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кофейные станции",
+            "url": "/kofeynye-stantsii/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Капсульные кофемашины",
+            "url": "/kapsulnye-kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Гейзерные кофеварки для дома",
+            "url": "/gejzernye-kofevarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кофемолки",
+            "url": "/kofemolki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вспениватели молока",
+            "url": "/vspenivateli-moloka/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для приготовления кофе",
+            "url": "/prigotovlenie-kofe/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрические чайники",
+            "url": "/chayniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Соковыжималки",
+            "url": "/sokovyzhimalki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Термопоты",
+            "url": "/termopoty/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Декантеры",
+            "url": "/dekantery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кулеры для воды",
+            "url": "/kulery-dlya-vody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Льдогенераторы",
+            "url": "/ledogeneratory/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Системы газации напитков",
+            "url": "/sistema-gazatsii-napitkov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мясорубки",
+            "url": "/myasorubki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Блендеры",
+            "url": "/blendery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные комбайны",
+            "url": "/kuhonnye-kombayny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные измельчители (чопперы)",
+            "url": "/kukhonnye-izmelchiteli/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Ломтерезки",
+            "url": "/lomterezki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Овощерезки",
+            "url": "/elektroterka/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Тостеры",
+            "url": "/tostery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вафельницы",
+            "url": "/vafelnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мультипекари",
+            "url": "/sendvichnitsi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Яйцеварки",
+            "url": "/yaycevarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Блинницы",
+            "url": "/blinnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Йогуртницы",
+            "url": "/yogurtnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Фильтры для воды под мойку",
+            "url": "/filtry-kuvshiny-dlya-ochistki-vody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Фильтры-кувшины для воды",
+            "url": "/filtry-kuvshiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для очистки воды",
+            "url": "/dlya-ochistki-vody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные весы",
+            "url": "/kuhonnye-vesy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Дегидраторы",
+            "url": "/sushki-dlya-ovoschey/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для кухни",
+            "url": "/aksessuary-dlya-kuhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мойки для кухни",
+            "url": "/moyki-dlya-kukhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрошашлычницы",
+            "url": "/shashlychnitsa/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Микроволновые печи Hyundai",
+        "url": "/mikrovolnovye-pechi/hyundai/",
+        "options": [
+          {
+            "name": "BORK",
+            "url": "/mikrovolnovye-pechi/bork/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Kuppersberg",
+            "url": "/mikrovolnovye-pechi/kuppersberg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Smeg",
+            "url": "/mikrovolnovye-pechi/smeg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Midea",
+            "url": "/mikrovolnovye-pechi/midea/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Maunfeld",
+            "url": "/mikrovolnovye-pechi/maunfeld/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "LG",
+            "url": "/mikrovolnovye-pechi/lg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Toshiba",
+            "url": "/mikrovolnovye-pechi/toshiba/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Korting",
+            "url": "/mikrovolnovye-pechi/korting/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Samsung",
+            "url": "/mikrovolnovye-pechi/samsung/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Sharp",
+            "url": "/mikrovolnovye-pechi/sharp/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Gorenje",
+            "url": "/mikrovolnovye-pechi/gorenje/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Bosch",
+            "url": "/mikrovolnovye-pechi/bosch/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Horizont",
+            "url": "/mikrovolnovye-pechi/horizont/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Panasonic",
+            "url": "/mikrovolnovye-pechi/panasonic/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Brayer",
+            "url": "/mikrovolnovye-pechi/brayer/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Ardo",
+            "url": "/mikrovolnovye-pechi/ardo/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Rondell",
+            "url": "/mikrovolnovye-pechi/rondell/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Libhof",
+            "url": "/mikrovolnovye-pechi/libhof/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Hyundai HYM-M2045",
+        "url": "mikrovolnovaya-pech-hyundai-hym-m2045",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      }
+    ],
+    "isArchive": false,
+    "__typename": "ProductV2",
+    "isSberPayOneClickAllowed": false,
+    "isTinkoffPayOneClickAllowed": false,
+    "bonus": null
+  },
+  "details": {
+    "description": "<div id=\"stream24-inpage\"></div> <script> (function (w, d, s, o) {   var f = d.getElementsByTagName(s)[0];   var j = d.createElement(s);   w.TTLStreamReady = new Promise((resolve) => {     j.async = true;     j.src = 'https://content.24ttl.stream/widget.js';     f.parentNode.insertBefore(j, f);     j.onload = function () {       w.ttlStream = new TTLStream(o);       resolve(w.ttlStream);     };   }); })(window, document, 'script', {}); </script> <script> var styleElement = document.createElement('style');  styleElement.innerHTML = \"body #stream24-inpage #stream-container *{ font-family: 'DINPro Technopark' !important; }\"; document.getElementsByTagName(\"head\")[0].appendChild(styleElement);  TTLStreamReady.then(() => {   ttlStream.findAndInsert({     el: '#stream24-inpage',     brand: 'hyundai',     productId: '4630143109962',     retailerDomain: 'www.technopark.ru',     templateType: 'master_template',     resultType: 'html',     contentType: 'minisite'   }); }); </script>",
+    "descriptionType": "RICH_STREAM_24",
+    "descriptionBarcode": "4630143109962",
+    "descriptionBrand": "Hyundai",
+    "specifications": {
+      "short": [
+        {
+          "name": "Мощность микроволн",
+          "value": "700 Вт",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Внутренний объем",
+          "value": "20 л",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Диаметр поворотного столика",
+          "value": "24.5 см",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Тип управления",
+          "value": "механическое",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "barcode": "4630143109962",
+      "country": "Китай",
+      "full": [
+        {
+          "name": "Основные характеристики",
+          "list": [
+            {
+              "name": "Тип",
+              "value": "отдельностоящая",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Мощность микроволн",
+              "value": "700 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Внутренний объем",
+              "value": "20 л",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Внутреннее покрытие камеры",
+              "value": "эмаль",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Диаметр поворотного столика",
+              "value": "24.5 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал поворотного столика",
+              "value": "стекло",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет",
+              "value": "чёрный",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет фурнитуры",
+              "value": "чёрный",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Управление",
+          "list": [
+            {
+              "name": "Тип управления",
+              "value": "механическое",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Переключатели",
+              "value": "поворотные",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Таймер",
+              "value": "механический, таймер выключения",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Звуковой таймер",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Режим работы",
+          "list": [
+            {
+              "name": "Количество режимов работы",
+              "value": "2",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Режимы работы",
+              "value": "микроволны, разморозка",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Число режимов нагрева",
+              "value": "6",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Программа размораживания",
+              "value": "по времени",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество уровней приготовления",
+              "value": "1",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Безопасность",
+          "list": [
+            {
+              "name": "Автоматическое отключение при открытой дверце",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Мощность и энергопотребление",
+          "list": [
+            {
+              "name": "Потребляемая мощность",
+              "value": "1100 Вт",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Дополнительная информация",
+          "list": [
+            {
+              "name": "Очистка камеры",
+              "value": "традиционная",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Внутреннее освещение",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Способ открывания дверцы",
+              "value": "кнопка",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Направление открывания дверцы",
+              "value": "влево",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Комплектация",
+          "list": [
+            {
+              "name": "Сетевой кабель",
+              "value": "1.01 м",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Инструкция",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Размеры и вес",
+          "list": [
+            {
+              "name": "Высота",
+              "value": "24.3 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ширина",
+              "value": "44.6 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Глубина",
+              "value": "33.6 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вес",
+              "value": "9.4 кг",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        }
+      ],
+      "grossWeight": "10.5",
+      "netWeight": "6",
+      "height": "0.26",
+      "instructionUrl": "https://storage.yandexcloud.net/technopark.instructions/696645/instruction/instrukciya-mikrovolnovaya-pech-hyundai-hym-m2045.pdf",
+      "length": "0.47",
+      "schemeUrl": null,
+      "warranty": "12",
+      "width": "0.37",
+      "__typename": "ProductV2Specifications"
+    },
+    "certificates": ["https://www.technopark.ru/bipublic/Cert/I00HH3JNJLIVUP.pdf"],
+    "isManufacturerCountry": false,
+    "isSellerWarranty": false,
+    "reviews": {
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "total": 2,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "rating": {
+      "average": 5,
+      "canRate": false,
+      "total": {
+        "all": 2,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 2,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "isLoading": false
+  },
+  "shots": [
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/696645/1_696645.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/696645/1_696645.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/696645/2_696645.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/696645/2_696645.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/696645/3_696645.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/696645/3_696645.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/696645/4_696645.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/696645/4_696645.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/696645/5_696645.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/696645/5_696645.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/696645/6_696645.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/696645/6_696645.jpg"
+    ]
+  ],
+  "photos": [
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/mikrovolnovaya-pech-hyundai-hym-m2045-1.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/mikrovolnovaya-pech-hyundai-hym-m2045-2.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/mikrovolnovaya-pech-hyundai-hym-m2045-3.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/mikrovolnovaya-pech-hyundai-hym-m2045-4.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/mikrovolnovaya-pech-hyundai-hym-m2045-5.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/mikrovolnovaya-pech-hyundai-hym-m2045-6.jpg"
+  ]
+}

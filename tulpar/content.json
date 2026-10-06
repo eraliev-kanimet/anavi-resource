@@ -1,0 +1,395 @@
+{
+  "faq": [
+    {
+      "key": "fulfilment",
+      "name": {
+        "ru": "Склад и фулфилмент",
+        "en": "Warehouse and fulfilment"
+      },
+      "items": [
+        {
+          "question": {
+            "ru": "Чей товар лежит на складе — ваш или мой?",
+            "en": "Whose goods are on the shelf — yours or mine?"
+          },
+          "answer": {
+            "ru": "Ваш. Мы его храним и отвечаем за сохранность, но продавать, списывать и распоряжаться им можете только вы. В вашем кабинете он стоит отдельной строкой остатка на нашей точке.",
+            "en": "Yours. We keep it and answer for its safety, but only you can sell it, write it off or decide what happens to it. In your back office it shows as a separate stock line at our location."
+          }
+        },
+        {
+          "question": {
+            "ru": "Что будет, если приехало не то количество?",
+            "en": "What if the wrong quantity arrives?"
+          },
+          "answer": {
+            "ru": "Кладовщик записывает, сколько приехало на самом деле. Вы видите расхождение по каждой строке и либо подтверждаете факт, либо оспариваете его. До вашего ответа спорная часть в продажу не идёт.",
+            "en": "The storekeeper records what actually arrived. You see the difference per line and either confirm it or dispute it. Until you answer, the disputed part is not put on sale."
+          }
+        },
+        {
+          "question": {
+            "ru": "Как я узнаю, за что выставлен счёт?",
+            "en": "How do I know what the bill is for?"
+          },
+          "answer": {
+            "ru": "Счёт собирается из операций: каждая приёмка, сборка, упаковка и каждый день хранения. Любая строка счёта раскрывается до документа, из которого она взялась.",
+            "en": "The bill is assembled from operations: every receipt, pick, pack and day of storage. Any line opens down to the document it came from."
+          }
+        },
+        {
+          "question": {
+            "ru": "Можно забрать товар обратно?",
+            "en": "Can I take my goods back?"
+          },
+          "answer": {
+            "ru": "В любой день. Оформляете изъятие в кабинете, мы собираем и выдаём по акту. Договор при этом можно не закрывать.",
+            "en": "Any day. You place a withdrawal in the back office; we pick it and hand it over against an act. The agreement does not have to end."
+          }
+        }
+      ]
+    },
+    {
+      "key": "courier",
+      "name": {
+        "ru": "Курьерская доставка",
+        "en": "Courier delivery"
+      },
+      "items": [
+        {
+          "question": {
+            "ru": "Покупатель не открыл дверь. Что дальше?",
+            "en": "The customer did not answer the door. What next?"
+          },
+          "answer": {
+            "ru": "Курьер отмечает причину и договаривается о новом времени. Попыток три. После третьей отправление семь дней ждёт на пункте выдачи, затем возвращается отправителю.",
+            "en": "The courier records the reason and arranges a new time. There are three attempts. After the third the shipment waits seven days at a pick-up point, then returns to the sender."
+          }
+        },
+        {
+          "question": {
+            "ru": "Когда магазин получает деньги, принятые курьером?",
+            "en": "When does the shop get the money a courier collected?"
+          },
+          "answer": {
+            "ru": "Курьер сдаёт наличные в кассу вечером того же дня. Магазину они перечисляются дважды в неделю, за вычетом цены доставки, с отчётом по каждому отправлению.",
+            "en": "The courier hands cash to the till the same evening. It is passed to the shop twice a week, less the carriage price, with a report for every shipment."
+          }
+        },
+        {
+          "question": {
+            "ru": "Зачем код при вручении?",
+            "en": "Why a code at handover?"
+          },
+          "answer": {
+            "ru": "Чтобы посылку получил тот, кому она отправлена. Код приходит получателю в письме; курьер вводит его в телефон, и вручение записывается с этой минутой.",
+            "en": "So the parcel reaches the person it was sent to. The recipient gets the code by letter; the courier enters it on the phone and the handover is recorded at that minute."
+          }
+        }
+      ]
+    },
+    {
+      "key": "freight",
+      "name": {
+        "ru": "Перевозки между городами",
+        "en": "Line-haul"
+      },
+      "items": [
+        {
+          "question": {
+            "ru": "Что такое объёмный вес?",
+            "en": "What is volumetric weight?"
+          },
+          "answer": {
+            "ru": "Вес, пересчитанный из размеров: длина × ширина × высота в сантиметрах, делённые на 5000. Если он больше фактического, тариф читается по нему.",
+            "en": "Weight worked out from the sizes: length × width × height in centimetres, divided by 5000. If it is greater than the actual weight, the tariff is read at it."
+          }
+        },
+        {
+          "question": {
+            "ru": "Мой груз не поместился в машину. Что с ним?",
+            "en": "My load did not fit on the truck. What happens?"
+          },
+          "answer": {
+            "ru": "Оно стоит на складе с названной причиной и едет следующим рейсом. В отправлении это видно сразу, звонить не нужно.",
+            "en": "It stands at the warehouse with a reason given and rides the next trip. The shipment shows this at once; no need to call."
+          }
+        },
+        {
+          "question": {
+            "ru": "Как работает страховка?",
+            "en": "How does insurance work?"
+          },
+          "answer": {
+            "ru": "Вы объявляете ценность груза при оформлении. Сбор — доля процента от неё, своя на каждом направлении. При утрате или повреждении открывается претензия, и возмещение считается от объявленной суммы.",
+            "en": "You declare the worth of the load when you book. The fee is a fraction of a per cent of it, set per direction. On loss or damage a claim is opened and compensation is counted from the declared sum."
+          }
+        }
+      ]
+    },
+    {
+      "key": "cargo",
+      "name": {
+        "ru": "Карго из Китая",
+        "en": "Cargo from China"
+      },
+      "items": [
+        {
+          "question": {
+            "ru": "Продавец не указал мой код. Посылка пропала?",
+            "en": "The seller left my code off. Is the parcel lost?"
+          },
+          "answer": {
+            "ru": "Нет. Если вы заранее добавили трек-номер в «Мои посылки», её найдут по нему. Если нет, она попадёт в неопознанные: напишите нам трек, и мы привяжем её к вашему коду.",
+            "en": "No. If you added the tracking number to “My parcels” beforehand, it is found by that. If not, it lands among the unidentified: send us the tracking number and we tie it to your code."
+          }
+        },
+        {
+          "question": {
+            "ru": "Почему лёгкая посылка стоит дорого?",
+            "en": "Why is a light parcel expensive?"
+          },
+          "answer": {
+            "ru": "Потому что она большая. Карго считается по плотности: всё, что легче ста килограммов на кубометр, оплачивается за объём. Объединение нескольких посылок в одну коробку обычно снижает цену.",
+            "en": "Because it is big. Cargo is priced by density: anything under a hundred kilograms per cubic metre is charged by volume. Combining several parcels into one box usually lowers the price."
+          }
+        },
+        {
+          "question": {
+            "ru": "В посылке оказался пауэрбанк. Что будет?",
+            "en": "There is a power bank in my parcel. What happens?"
+          },
+          "answer": {
+            "ru": "Аккумуляторы едут с надбавкой и отдельным местом. Склад отметит это при приёмке, и надбавка появится в расчёте до отправки. Запрещённое задерживается, и вы решаете, вернуть его продавцу или утилизировать.",
+            "en": "Batteries travel with a surcharge and as a separate package. The warehouse marks it at intake and the surcharge shows in the calculation before departure. Banned goods are held, and you decide whether to return or dispose of them."
+          }
+        },
+        {
+          "question": {
+            "ru": "Сколько посылка ждёт на пункте выдачи?",
+            "en": "How long does a parcel wait at the point?"
+          },
+          "answer": {
+            "ru": "Пять дней бесплатно. Дальше хранение начисляется по дням и добавляется к сумме при выдаче. Уезжаете — напишите, договоримся.",
+            "en": "Five days free. After that storage is charged by the day and added to the sum at handover. Going away — write to us and we will agree something."
+          }
+        }
+      ]
+    }
+  ],
+  "posts": [
+    {
+      "slug": "volume",
+      "image": "posts/volume",
+      "days": 9,
+      "title": {
+        "ru": "Объёмный вес: почему коробка подушек стоит как гиря",
+        "en": "Volumetric weight: why a box of pillows costs like a kettlebell"
+      },
+      "lede": {
+        "ru": "Самый частый вопрос к диспетчеру, разобранный на двух коробках.",
+        "en": "The question dispatchers hear most, worked through on two boxes."
+      },
+      "body": [
+        {
+          "ru": "В кузов помещается ограниченное число кубометров, и кончаются они обычно раньше, чем грузоподъёмность. Поэтому перевозчик считает не только то, что показали весы, но и то, сколько места груз занял.",
+          "en": "A truck holds a limited number of cubic metres, and they usually run out before the payload does. So a carrier counts not only what the scales say but also how much room the load takes."
+        },
+        {
+          "ru": "Возьмём коробку 60 × 40 × 40 сантиметров с постельным бельём весом шесть килограммов. Объём — 96 000 кубических сантиметров; делим на 5000 и получаем 19,2 килограмма. Тариф читается по девятнадцати с лишним, а не по шести.",
+          "en": "Take a 60 × 40 × 40 centimetre box of bed linen weighing six kilograms. Its volume is 96,000 cubic centimetres; divided by 5000 that is 19.2 kilograms. The tariff is read at nineteen-odd, not at six."
+        },
+        {
+          "ru": "Рядом стоит коробка 30 × 20 × 20 с крепежом весом восемнадцать килограммов. Её объёмный вес — 2,4 килограмма, и считается она по весам. На рейсе в Ош обе стоят одинаково: девятьсот сомов.",
+          "en": "Beside it stands a 30 × 20 × 20 box of fasteners weighing eighteen kilograms. Its volumetric weight is 2.4 kilograms, so it is priced by the scales. On the Osh trip the two cost the same: nine hundred soms."
+        },
+        {
+          "ru": "Что с этим делать: не возить воздух. Коробка по размеру товара и вакуумная упаковка текстиля снижают цену заметнее любой скидки.",
+          "en": "What to do about it: do not ship air. A box that fits the goods and vacuum-packed textiles cut the price more than any discount."
+        }
+      ]
+    },
+    {
+      "slug": "fragile",
+      "image": "posts/fragile",
+      "days": 20,
+      "title": {
+        "ru": "Как упаковать хрупкое, чтобы оно доехало",
+        "en": "How to pack fragile things so they arrive"
+      },
+      "lede": {
+        "ru": "Пять правил упаковочного стола, которые экономят претензии.",
+        "en": "Five rules from the packing bench that save claims."
+      },
+      "body": [
+        {
+          "ru": "Коробка должна быть двухслойной и на пять сантиметров больше предмета с каждой стороны. Зазор заполняется бумагой или пеной так, чтобы предмет не двигался, если коробку потрясти.",
+          "en": "The box should be double-walled and five centimetres larger than the item on every side. The gap is filled with paper or foam so that nothing moves when the box is shaken."
+        },
+        {
+          "ru": "Каждая вещь заворачивается отдельно. Две тарелки, завёрнутые вместе, бьются друг о друга, даже если коробка цела.",
+          "en": "Each thing is wrapped on its own. Two plates wrapped together break against each other even when the box is intact."
+        },
+        {
+          "ru": "Углы защищаются уголками, а не лишним слоем скотча. Скотч держит клапаны, от удара он не спасает.",
+          "en": "Corners are protected with corner pieces, not an extra layer of tape. Tape holds the flaps; it does not stop a blow."
+        },
+        {
+          "ru": "Стекло, зеркала и керамика крупнее полуметра едут в обрешётке. Мы делаем её на складе, и стоит она дешевле разбитого груза.",
+          "en": "Glass, mirrors and ceramics over half a metre travel in a crate. We build it at the warehouse, and it costs less than a broken load."
+        },
+        {
+          "ru": "И последнее: объявите ценность. Страховка работает от суммы, которую вы назвали при отправке, а не от той, что вспомнили после.",
+          "en": "And last: declare the worth. Insurance works from the sum you named when sending, not the one you recalled afterwards."
+        }
+      ]
+    },
+    {
+      "slug": "route",
+      "image": "posts/route",
+      "days": 33,
+      "title": {
+        "ru": "Ташкент теперь по четвергам",
+        "en": "Tashkent now runs on Thursdays"
+      },
+      "lede": {
+        "ru": "Новое направление сборных рейсов и как оно устроено.",
+        "en": "A new groupage direction and how it is arranged."
+      },
+      "body": [
+        {
+          "ru": "С этого месяца сборный рейс из Бишкека в Ташкент уходит каждый четверг. Груз принимаем на складе на Льва Толстого до шести вечера среды.",
+          "en": "From this month a groupage trip from Bishkek to Tashkent leaves every Thursday. Loads are taken in at the Lev Tolstoy warehouse until six on Wednesday evening."
+        },
+        {
+          "ru": "Машина идёт через Шымкент, где груз переходит на вторую машину. Для вас это ничего не меняет: номер отправления один, и в нём видно, какое плечо пройдено.",
+          "en": "The truck goes through Shymkent, where the load moves to a second truck. Nothing changes for you: one tracking number, and it shows which leg is done."
+        },
+        {
+          "ru": "В пути от двух до четырёх дней в зависимости от границы. Тарифы стоят в общей сетке, калькулятор уже считает по ним.",
+          "en": "Transit takes two to four days depending on the border. The rates are in the common grid and the calculator already reads them."
+        }
+      ]
+    },
+    {
+      "slug": "papers",
+      "image": "posts/papers",
+      "days": 47,
+      "title": {
+        "ru": "Какие документы нужны на груз",
+        "en": "Which papers a load needs"
+      },
+      "lede": {
+        "ru": "По Кыргызстану, в Казахстан и в Узбекистан: что готовить заранее.",
+        "en": "Within Kyrgyzstan, to Kazakhstan and to Uzbekistan: what to prepare."
+      },
+      "body": [
+        {
+          "ru": "Внутри страны достаточно накладной, которую мы печатаем сами при приёмке. От вас нужны только получатель и объявленная ценность.",
+          "en": "Inside the country the waybill we print at intake is enough. From you we need only the recipient and the declared worth."
+        },
+        {
+          "ru": "В Алматы груз организации едет со счётом и товарной накладной: Казахстан и Кыргызстан в одном таможенном союзе, декларация не нужна, но происхождение товара подтвердить придётся.",
+          "en": "To Almaty a company’s load travels with an invoice and a goods waybill: Kazakhstan and Kyrgyzstan share a customs union, so no declaration is needed, but the origin of the goods must be shown."
+        },
+        {
+          "ru": "В Ташкент нужна экспортная декларация. Её готовит брокер; мы передаём ему данные отправления и берём оформление на себя, если вы попросите об этом в заявке.",
+          "en": "Tashkent needs an export declaration. A broker prepares it; we pass on the shipment data and handle the paperwork if you ask for it in the request."
+        },
+        {
+          "ru": "Частные посылки без коммерческой партии идут проще, но список запрещённого для них тот же.",
+          "en": "Private parcels that are not a commercial lot are simpler, but the list of banned goods is the same for them."
+        }
+      ]
+    },
+    {
+      "slug": "season",
+      "image": "posts/season",
+      "days": 61,
+      "title": {
+        "ru": "Высокий сезон: как сдать груз и не ждать",
+        "en": "Peak season: handing in a load without the wait"
+      },
+      "lede": {
+        "ru": "В ноябре и декабре склад работает на треть больше. Что стоит сделать заранее.",
+        "en": "In November and December the warehouse handles a third more. What to do ahead."
+      },
+      "body": [
+        {
+          "ru": "Объявляйте поставки за три дня, а не накануне. Объявленную поставку ждут ворота и люди; необъявленная встаёт в очередь.",
+          "en": "Announce supplies three days ahead, not the day before. An announced supply has a dock door and people waiting; an unannounced one joins the queue."
+        },
+        {
+          "ru": "Перед сезоном попросите пересчёт ходовых позиций. Расхождение, найденное в октябре, стоит одного документа; найденное в декабре — проданного товара, которого нет.",
+          "en": "Before the season ask for a recount of your fast movers. A difference found in October costs one document; found in December it costs goods sold that are not there."
+        },
+        {
+          "ru": "Карго из Гуанчжоу в сезон идёт на три–пять дней дольше. Подарки к Новому году стоит покупать до середины ноября.",
+          "en": "Cargo from Guangzhou takes three to five days longer in season. New Year presents are best bought before mid-November."
+        }
+      ]
+    }
+  ],
+  "works": [
+    {
+      "image": "works/electronics",
+      "client": "Вега",
+      "title": {
+        "ru": "Ноутбуки и смартфоны на ответственном хранении",
+        "en": "Laptops and smartphones in storage"
+      },
+      "text": {
+        "ru": "Часть ассортимента магазина лежит у нас по ячейкам с серийным учётом. Заказы собирает наш кладовщик, а магазин видит остаток и каждое начисление.",
+        "en": "Part of the shop’s range lies in our bins with serial tracking. Our storekeeper picks the orders, and the shop sees the stock and every charge."
+      }
+    },
+    {
+      "image": "works/groceries",
+      "client": "Дыйкан",
+      "title": {
+        "ru": "Утренняя развозка продуктового рынка",
+        "en": "A food market’s morning round"
+      },
+      "text": {
+        "ru": "Заказы рынка раскладываются по районам и окнам к восьми утра. Покупатель видит на странице заказа, где курьер.",
+        "en": "The market’s orders are sorted by district and window by eight in the morning. The customer sees on the order page where the courier is."
+      }
+    },
+    {
+      "image": "works/oil",
+      "client": "Ханако",
+      "title": {
+        "ru": "Моторное масло из Бишкека в Ташкент",
+        "en": "Motor oil from Bishkek to Tashkent"
+      },
+      "text": {
+        "ru": "Импортёр перемещает товар между своими складами нашим рейсом. Пока паллета в дороге, она стоит у него «в пути», а не пропадает из остатка.",
+        "en": "The importer moves stock between its own warehouses on our trip. While the pallet is on the road it shows as “in transit” instead of vanishing from stock."
+      }
+    },
+    {
+      "image": "works/garments",
+      "client": "Сайма",
+      "title": {
+        "ru": "Оптовая партия швейного цеха в Ош",
+        "en": "A sewing workshop’s wholesale lot to Osh"
+      },
+      "text": {
+        "ru": "Двенадцать коробок на двух паллетах сборным рейсом. Каждое место взвешено, и заказчик в Оше получил номер ещё до выезда машины.",
+        "en": "Twelve cartons on two pallets by groupage. Every package was weighed, and the buyer in Osh had the number before the truck left."
+      }
+    },
+    {
+      "image": "works/appliances",
+      "client": "Ватт",
+      "title": {
+        "ru": "Бытовая техника из Гуанчжоу",
+        "en": "Home appliances from Guangzhou"
+      },
+      "text": {
+        "ru": "Магазин везёт товар под своим кодом клиента. Крупное едет в обрешётке, а пришедшее он принимает на свой склад приходом.",
+        "en": "The shop ships under its own client code. Large items travel crated, and what arrives is booked into its own warehouse as a receipt."
+      }
+    }
+  ]
+}
