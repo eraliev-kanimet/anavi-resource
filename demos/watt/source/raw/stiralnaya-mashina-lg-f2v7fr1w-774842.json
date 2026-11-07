@@ -1,0 +1,2073 @@
+{
+  "shelf": "stiralnye-mashiny",
+  "slug": "stiralnaya-mashina-lg-f2v7fr1w-774842",
+  "product": {
+    "id": "774842",
+    "article": "175117",
+    "slug": "stiralnaya-mashina-lg-f2v7fr1w-774842",
+    "hasSmartInstallments": false,
+    "isActive": true,
+    "name": {
+      "default": "LG F2V7FR1W",
+      "full": "Стирально-сушильная машина LG F2V7FR1W",
+      "pseudo": null,
+      "spare": null,
+      "fullWithoutSection": "LG F2V7FR1W",
+      "section": "Стирально-сушильная машина",
+      "__typename": "ProductName"
+    },
+    "price": {
+      "default": 59990,
+      "marketing": null,
+      "old": 73990,
+      "__typename": "ProductPrice"
+    },
+    "benefit": 14000,
+    "specifications": {
+      "short": [
+        {
+          "name": "Конструкция стиральной машины",
+          "value": "узкая",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Максимальная загрузка белья",
+          "value": "9 кг",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Максимальная скорость отжима",
+          "value": "до 1200 об/мин",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Максимальная загрузка белья при сушке",
+          "value": "до 5 кг",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Глубина",
+          "value": "47.5 см",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "__typename": "ProductV2Specifications"
+    },
+    "labels": [
+      {
+        "name": "Бонусы Спасибо",
+        "type": "sberspasibo",
+        "items": [
+          {
+            "description": "",
+            "name": "Этот товар можно оплатить бонусами Спасибо от СберБанка",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Выгодное предложение",
+        "type": "special_offer",
+        "items": [
+          {
+            "description": "",
+            "name": "Техника и электроника",
+            "url": "/action/vygodnaya-tsena/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "5 000 бонусов за покупки",
+            "url": "/action/5-000-bonusov-za-pokupki/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Рассрочка",
+        "type": "deferred_payment",
+        "items": [
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-6",
+            "url": "/stiralnaya-mashina-lg-f2v7fr1w-774842/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-12",
+            "url": "/stiralnaya-mashina-lg-f2v7fr1w-774842/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-24",
+            "url": "/stiralnaya-mashina-lg-f2v7fr1w-774842/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-6",
+            "url": "/stiralnaya-mashina-lg-f2v7fr1w-774842/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-18",
+            "url": "/stiralnaya-mashina-lg-f2v7fr1w-774842/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      }
+    ],
+    "labelsV2": [
+      {
+        "id": "14",
+        "name": "-15% на технику",
+        "code": "15-na-tekhniku",
+        "mainColor": "#F54B4B",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#FFFFFF",
+        "altTextColor": "#F54B4B",
+        "borderAndTextColor": "#F54B4B",
+        "items": [
+          {
+            "id": "162000",
+            "text": "Выгода при покупке крупной бытовой техники",
+            "buttonText": "Подробнее",
+            "url": "/action/vygoda-pri-pokupke-krupnoy-bytovoy-tekhniki/",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      },
+      {
+        "id": "8",
+        "name": "Бонусы Спасибо",
+        "code": "sberspasibo",
+        "mainColor": "#0C9C0C",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#0C9C0C",
+        "altTextColor": "#FFFFFF",
+        "borderAndTextColor": "#0C9C0C",
+        "items": [
+          {
+            "id": "100017",
+            "text": "Этот товар можно оплатить бонусами Спасибо от СберБанка ",
+            "buttonText": "Подробнее",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      },
+      {
+        "id": "5",
+        "name": "Выгода",
+        "code": "vygoda",
+        "mainColor": "#fd9600",
+        "mainTextColor": "#ffffff",
+        "altColor": "#fd9600",
+        "altTextColor": "#ffffff",
+        "borderAndTextColor": "#fd9600",
+        "items": [
+          {
+            "id": "1142",
+            "text": "Выгодное предложение",
+            "buttonText": "Подробнее",
+            "url": "/action/vygodnaya-tsena/",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      }
+    ],
+    "status": {
+      "id": "IN_STOCK",
+      "name": "В наличии",
+      "type": "POSITIVE",
+      "__typename": "ProductStatus"
+    },
+    "brand": {
+      "code": "lg",
+      "id": "40183",
+      "name": "LG",
+      "src": "https://cdn1.technopark.ru/technopark/photos_resized/section_brand_300_100/300_100/40183/1_40183.png",
+      "slug": "lg",
+      "sections": [
+        {
+          "name": "Все кондиционеры LG",
+          "url": "/konditsionery/lg/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2407554420/technopark/photos_resized/product/120_120/509856/1_509856.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4293569019/technopark/photos_resized/product/120_120/509856/2_509856.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1636711512/technopark/photos_resized/product/120_120/509856/3_509856.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1125458864/technopark/photos_resized/product/120_120/509856/4_509856.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2632689894/technopark/photos_resized/product/120_120/509856/5_509856.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/486131741/technopark/photos_resized/product/120_120/509856/6_509856.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2247137703/technopark/photos_resized/product/120_120/509856/7_509856.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4076316977/technopark/photos_resized/product/120_120/509856/8_509856.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2964012860/technopark/photos_resized/product/120_120/509856/9_509856.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Микроволновые печи LG",
+          "url": "/mikrovolnovye-pechi/lg/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3061544755/technopark/photos_resized/product/120_120/780247/1_780247.jpg?timestamp=2025-02-14_10-21-08",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3760312501/technopark/photos_resized/product/120_120/780247/2_780247.jpg?timestamp=2025-02-14_10-21-14",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3834289236/technopark/photos_resized/product/120_120/780247/3_780247.jpg?timestamp=2025-02-14_10-21-08",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/53653843/technopark/photos_resized/product/120_120/780247/4_780247.jpg?timestamp=2025-02-14_10-21-08",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2475535554/technopark/photos_resized/product/120_120/780247/5_780247.jpg?timestamp=2025-02-14_10-21-08",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2769322657/technopark/photos_resized/product/120_120/780247/6_780247.jpg?timestamp=2025-02-14_10-21-20",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/997463810/technopark/photos_resized/product/120_120/780247/7_780247.jpg?timestamp=2025-02-14_10-21-21",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/635787895/technopark/photos_resized/product/120_120/780247/8_780247.jpg?timestamp=2025-02-14_10-21-32",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3704371717/technopark/photos_resized/product/120_120/780247/9_780247.jpg?timestamp=2025-02-14_10-21-21",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3538946586/technopark/photos_resized/product/120_120/780247/10_780247.jpg?timestamp=2025-02-14_10-21-27",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1282615188/technopark/photos_resized/product/120_120/780247/11_780247.jpg?timestamp=2025-02-14_10-21-21",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Холодильники LG",
+          "url": "/holodilniki/lg/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1872808130/technopark/photos_resized/product/120_120/253031/1_253031.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2019586481/technopark/photos_resized/product/120_120/253031/2_253031.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1855681374/technopark/photos_resized/product/120_120/253031/3_253031.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/413661268/technopark/photos_resized/product/120_120/253031/4_253031.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4138310008/technopark/photos_resized/product/120_120/253031/5_253031.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/258425127/technopark/photos_resized/product/120_120/253031/6_253031.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3216928826/technopark/photos_resized/product/120_120/253031/7_253031.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/788622763/technopark/photos_resized/product/120_120/253031/8_253031.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2004894239/technopark/photos_resized/product/120_120/253031/9_253031.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1539364293/technopark/photos_resized/product/120_120/253031/10_253031.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1476812093/technopark/photos_resized/product/120_120/253031/11_253031.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Музыкальные центры LG",
+          "url": "/muzykalnye-tsentry/lg/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/290532315/technopark/photos_resized/product/120_120/802137/1_802137.jpg?timestamp=2025-09-08_09-24-51",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4164062958/technopark/photos_resized/product/120_120/802137/2_802137.jpg?timestamp=2025-09-08_09-24-49",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2402664056/technopark/photos_resized/product/120_120/802137/3_802137.jpg?timestamp=2025-09-08_09-24-50",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1903237651/technopark/photos_resized/product/120_120/802137/4_802137.jpg?timestamp=2025-09-08_09-24-50",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4142466780/technopark/photos_resized/product/120_120/802137/5_802137.jpg?timestamp=2025-09-08_09-24-51",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2585157097/technopark/photos_resized/product/120_120/802137/6_802137.jpg?timestamp=2025-09-08_09-25-00",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2198695080/technopark/photos_resized/product/120_120/802137/7_802137.jpg?timestamp=2025-09-08_09-25-03",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3427596911/technopark/photos_resized/product/120_120/802137/8_802137.jpg?timestamp=2025-09-08_09-25-05",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2220927153/technopark/photos_resized/product/120_120/802137/9_802137.jpg?timestamp=2025-09-08_09-25-04",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2030386191/technopark/photos_resized/product/120_120/802137/10_802137.jpg?timestamp=2025-09-08_09-25-14",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/493484299/technopark/photos_resized/product/120_120/802137/11_802137.jpg?timestamp=2025-09-08_09-25-04",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/402556405/technopark/photos_resized/product/120_120/802137/12_802137.jpg?timestamp=2025-09-08_09-25-14",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/249935028/technopark/photos_resized/product/120_120/802137/13_802137.jpg?timestamp=2025-09-08_09-25-17",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4193314009/technopark/photos_resized/product/120_120/802137/14_802137.jpg?timestamp=2025-09-08_09-25-15",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4271710400/technopark/photos_resized/product/120_120/802137/15_802137.jpg?timestamp=2025-09-08_09-25-16",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Саундбары и звуковые панели LG",
+          "url": "/domashnie-kinoteatry/lg/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1691431015/technopark/photos_resized/product/120_120/739657/1_739657.jpg?timestamp=2024-05-30_11-40-10",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1835498572/technopark/photos_resized/product/120_120/739657/2_739657.jpg?timestamp=2024-05-30_11-40-10",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2329891147/technopark/photos_resized/product/120_120/739657/3_739657.jpg?timestamp=2024-05-30_11-40-10",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2057815359/technopark/photos_resized/product/120_120/739657/4_739657.jpg?timestamp=2024-05-30_11-40-11",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1565916161/technopark/photos_resized/product/120_120/739657/5_739657.jpg?timestamp=2024-05-30_11-40-20",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2494145555/technopark/photos_resized/product/120_120/739657/6_739657.jpg?timestamp=2024-05-30_11-40-11",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2669349623/technopark/photos_resized/product/120_120/739657/7_739657.jpg?timestamp=2024-05-30_11-40-21",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3192298983/technopark/photos_resized/product/120_120/739657/8_739657.jpg?timestamp=2024-05-30_11-40-31",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/147444607/technopark/photos_resized/product/120_120/739657/9_739657.jpg?timestamp=2024-05-30_11-40-23",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1513633816/technopark/photos_resized/product/120_120/739657/10_739657.jpg?timestamp=2024-05-30_11-40-19",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/101866317/technopark/photos_resized/product/120_120/739657/11_739657.jpg?timestamp=2024-05-30_11-40-21",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Сушильные машины LG",
+          "url": "/sushilnye-mashiny/lg/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3864067012/technopark/photos_resized/product/120_120/250711/1_250711.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1754862349/technopark/photos_resized/product/120_120/250711/2_250711.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/530457499/technopark/photos_resized/product/120_120/250711/3_250711.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1144929530/technopark/photos_resized/product/120_120/250711/4_250711.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4052763319/technopark/photos_resized/product/120_120/250711/5_250711.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2258072097/technopark/photos_resized/product/120_120/250711/6_250711.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3711397184/technopark/photos_resized/product/120_120/250711/7_250711.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Все аксессуары LG",
+          "url": "/aksessuary-krupnaya-bytovaya-tehnika/lg/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3433992389/technopark/photos_resized/product/120_120/225442/1_225442.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/722910658/technopark/photos_resized/product/120_120/225442/2_225442.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3148456019/technopark/photos_resized/product/120_120/225442/3_225442.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/580973033/technopark/photos_resized/product/120_120/225442/4_225442.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1437057407/technopark/photos_resized/product/120_120/225442/5_225442.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1544654164/technopark/photos_resized/product/120_120/225442/6_225442.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/387772255/technopark/photos_resized/product/120_120/225442/7_225442.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2275668686/technopark/photos_resized/product/120_120/225442/8_225442.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1612439497/technopark/photos_resized/product/120_120/225442/9_225442.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Проекторы LG",
+          "url": "/proektory/lg/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2776189968/technopark/photos_resized/product/120_120/736149/1_736149.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2127246218/technopark/photos_resized/product/120_120/736149/2_736149.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3769607721/technopark/photos_resized/product/120_120/736149/3_736149.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1852198624/technopark/photos_resized/product/120_120/736149/4_736149.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/843853237/technopark/photos_resized/product/120_120/736149/5_736149.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/8015671/technopark/photos_resized/product/120_120/736149/6_736149.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1276832037/technopark/photos_resized/product/120_120/736149/7_736149.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1013980586/technopark/photos_resized/product/120_120/736149/8_736149.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1673015744/technopark/photos_resized/product/120_120/736149/9_736149.jpg?timestamp=2024-06-05_16-48-12",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/144573296/technopark/photos_resized/product/120_120/736149/10_736149.jpg?timestamp=2024-06-10_09-47-01",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Гаджеты для здоровья и сна LG",
+          "url": "/gadzhety-dlya-zdorovya-i-sna/lg/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/87639976/technopark/photos_resized/product/120_120/273392/1_273392.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1166445383/technopark/photos_resized/product/120_120/273392/2_273392.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3800132271/technopark/photos_resized/product/120_120/273392/3_273392.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1916696382/technopark/photos_resized/product/120_120/273392/4_273392.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/847363025/technopark/photos_resized/product/120_120/273392/5_273392.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2508610105/technopark/photos_resized/product/120_120/273392/6_273392.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4114731996/technopark/photos_resized/product/120_120/273392/7_273392.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        }
+      ],
+      "__typename": "Brand"
+    },
+    "section": {
+      "slug": "stiralno-sushilnye-mashiny",
+      "id": "2637",
+      "name": "Стиральные машины с сушкой",
+      "parents": [
+        {
+          "id": "877",
+          "name": "Крупная бытовая",
+          "depth": 1,
+          "__typename": "SectionTreeItem"
+        },
+        {
+          "id": "2637",
+          "name": "Стиральные машины с сушкой",
+          "depth": 2,
+          "__typename": "SectionTreeItem"
+        }
+      ],
+      "__typename": "Section"
+    },
+    "media": {
+      "gallery": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/774842/1_774842.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/774842/1_774842.jpg",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/774842/2_774842.jpg?timestamp=2025-01-09_10-24-33",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/774842/2_774842.jpg?timestamp=2025-01-09_10-25-27",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/774842/3_774842.jpg?timestamp=2025-01-09_10-24-34",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/774842/3_774842.jpg?timestamp=2025-01-09_10-25-27",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/774842/4_774842.jpg?timestamp=2025-01-09_10-24-34",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/774842/4_774842.jpg?timestamp=2025-01-09_10-25-32",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/774842/5_774842.jpg?timestamp=2025-01-09_10-24-49",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/774842/5_774842.jpg?timestamp=2025-01-09_10-25-35",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/774842/6_774842.jpg?timestamp=2025-01-09_10-24-33",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/774842/6_774842.jpg?timestamp=2025-01-09_10-25-26",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/774842/7_774842.jpg?timestamp=2025-01-09_10-24-49",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/774842/7_774842.jpg?timestamp=2025-01-09_10-25-35",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/774842/8_774842.jpg?timestamp=2025-01-09_10-25-07",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/774842/8_774842.jpg?timestamp=2025-01-09_10-25-45",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/774842/9_774842.jpg?timestamp=2025-01-09_10-24-50",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/774842/9_774842.jpg?timestamp=2025-01-09_10-25-36",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/774842/10_774842.jpg?timestamp=2025-01-09_10-24-50",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/774842/10_774842.jpg?timestamp=2025-01-09_10-25-36",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/774842/11_774842.jpg?timestamp=2025-01-09_10-24-50",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/774842/11_774842.jpg?timestamp=2025-01-09_10-25-44",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/774842/12_774842.jpg?timestamp=2025-01-09_10-25-07",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/774842/12_774842.jpg?timestamp=2025-01-09_10-25-51",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/774842/13_774842.jpg?timestamp=2025-01-09_10-25-06",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/774842/13_774842.jpg?timestamp=2025-01-09_10-25-41",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/774842/14_774842.jpg?timestamp=2025-01-09_10-25-04",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/774842/14_774842.jpg?timestamp=2025-01-09_10-25-42",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/774842/15_774842.jpg?timestamp=2025-01-09_10-25-07",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/774842/15_774842.jpg?timestamp=2025-01-09_10-25-45",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "interior": [],
+      "video": [],
+      "vkVideo": null,
+      "view3d": [],
+      "listing": {
+        "default": [
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/774842/1_774842.jpg?timestamp=2025-01-09_10-24-38",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/774842/2_774842.jpg?timestamp=2025-01-09_10-24-38",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/774842/3_774842.jpg?timestamp=2025-01-09_10-24-39",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/774842/4_774842.jpg?timestamp=2025-01-09_10-24-38",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/774842/5_774842.jpg?timestamp=2025-01-09_10-24-54",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/774842/6_774842.jpg?timestamp=2025-01-09_10-24-38",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/774842/7_774842.jpg?timestamp=2025-01-09_10-24-54",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/774842/8_774842.jpg?timestamp=2025-01-09_10-25-13",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/774842/9_774842.jpg?timestamp=2025-01-09_10-24-55",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/774842/10_774842.jpg?timestamp=2025-01-09_10-24-55",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/774842/11_774842.jpg?timestamp=2025-01-09_10-24-56",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/774842/12_774842.jpg?timestamp=2025-01-09_10-25-12",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/774842/13_774842.jpg?timestamp=2025-01-09_10-25-10",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/774842/14_774842.jpg?timestamp=2025-01-09_10-25-08",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/774842/15_774842.jpg?timestamp=2025-01-09_10-25-12",
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "ProductListing"
+      },
+      "__typename": "ProductV2Media"
+    },
+    "modifications": {
+      "bigBrother": null,
+      "groups": [],
+      "__typename": "ProductModifications"
+    },
+    "description": {
+      "hasDescription": true,
+      "type": "RICH",
+      "__typename": "ProductDescription"
+    },
+    "collection": {
+      "id": "774842",
+      "products": {
+        "pagination": {
+          "total": 0,
+          "__typename": "Pagination"
+        },
+        "__typename": "ProductV2Pagination"
+      },
+      "__typename": "ProductCollection"
+    },
+    "similar": {
+      "pagination": {
+        "total": 20,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "related": {
+      "pagination": {
+        "total": 20,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "accessories": [
+      {
+        "products": {
+          "pagination": {
+            "total": 18,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      }
+    ],
+    "rating": {
+      "average": 5,
+      "canRate": false,
+      "total": {
+        "all": 13,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 13,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "reviews": {
+      "total": 13,
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "bestCredit": {
+      "monthPayment": 2500,
+      "type": "DEFERRED_PAYMENT",
+      "__typename": "ProductBestCredit"
+    },
+    "isSpare": false,
+    "isService": false,
+    "isVipService": false,
+    "isGiftBonusCard": false,
+    "canBuy": true,
+    "canPayOnline": true,
+    "canRequestPrice": false,
+    "canShowPrice": true,
+    "canSubscribe": false,
+    "needPrepaymentForDelivery": false,
+    "needPrepaymentForPreorder": false,
+    "isSberSpasiboPayAvailable": true,
+    "isYandexPayAllowed": false,
+    "yandexSplit": {
+      "payments": [
+        {
+          "amount": 0,
+          "date": "2026-08-17T08:59:56+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 5001,
+          "date": "2026-08-31T08:59:56+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4999,
+          "date": "2026-09-14T08:59:56+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4999,
+          "date": "2026-09-28T08:59:56+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4999,
+          "date": "2026-10-12T08:59:56+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4999,
+          "date": "2026-10-26T08:59:56+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4999,
+          "date": "2026-11-09T08:59:56+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4999,
+          "date": "2026-11-23T08:59:56+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4999,
+          "date": "2026-12-07T08:59:56+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4999,
+          "date": "2026-12-21T08:59:56+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4999,
+          "date": "2027-01-04T08:59:56+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4999,
+          "date": "2027-01-18T08:59:56+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4999,
+          "date": "2027-02-01T08:59:56+0300",
+          "__typename": "YandexSplitPayment"
+        }
+      ],
+      "firstPayment": 0,
+      "restPayment": 59990,
+      "description": "https://yandex.ru/support/split/",
+      "maxAmount": 295000,
+      "__typename": "YandexSplit"
+    },
+    "seo": {
+      "description": "Стирально-сушильная машина LG F2V7FR1W: купить в интернет-магазине Технопарк с расширенной гарантией и бесплатной доставкой по РФ. Подробные характеристики товара с отзывами реальных покупателей.",
+      "text": "Вы можете купить стирально-сушильную машину LG F2V7FR1W с доставкой по Москве по низкой цене. В интернет-магазине Technopark.ru осуществляется продажа стирально-сушильной машины LG F2V7FR1W на выгодных условиях.",
+      "textHidden": "",
+      "title": "Стирально-сушильная машина LG F2V7FR1W - купить в Москве в интернет-магазине Технопарк",
+      "__typename": "SeoData"
+    },
+    "breadcrumbs": [
+      {
+        "name": "Главная",
+        "url": "/",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Крупная бытовая техника",
+        "url": "/krupnaya-bytovaya-tehnika/",
+        "options": [
+          {
+            "name": "Центр инноваций",
+            "url": "/tovary-iz-budushchego/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Смартфоны и гаджеты",
+            "url": "/smartfony-i-gadzhety/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Компьютеры и ноутбуки",
+            "url": "/kompyutery-i-noutbuki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Климатическая техника",
+            "url": "/klimaticheskaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Техника для кухни",
+            "url": "/dlya-kuhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Бытовая техника для дома",
+            "url": "/dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для красоты и здоровья",
+            "url": "/krasota-i-zdorovye/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Спортивные товары",
+            "url": "/trenazhery-dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Телевизоры Аудио Hi-Fi",
+            "url": "/audio-video-foto/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для сада, дома и ремонта",
+            "url": "/dlya-sada-doma-i-remonta/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посуда",
+            "url": "/posuda/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Детские товары",
+            "url": "/detskie-tovary/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для гейминга",
+            "url": "/gaming/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Плоттеры и услуги розницы",
+            "url": "//",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Запасные части",
+            "url": "/zapasnie-chasti/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Стиральные машины с функцией сушки (2 в 1)",
+        "url": "/stiralno-sushilnye-mashiny/",
+        "options": [
+          {
+            "name": "Стиральные машины",
+            "url": "/stiralnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые варочные панели",
+            "url": "/vstraivaemye-varochnye-poverhnosti/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные плиты",
+            "url": "/plity/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Холодильники",
+            "url": "/holodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые духовые шкафы",
+            "url": "/vstraivaemye-duhovye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вытяжки для кухни",
+            "url": "/vytyazhki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посудомоечные машины",
+            "url": "/posudomoechnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые холодильники",
+            "url": "/vstraivaemye-holodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые винные шкафы",
+            "url": "/vstraivaemye-vinnye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые вытяжки для кухни",
+            "url": "/vstraivaemye-vytyazhki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые кофемашины",
+            "url": "/vstraivaemye-kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые морозильные камеры",
+            "url": "/vstraivaemye-morozilnye-kamery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые пароварки",
+            "url": "/vstraivaemye-parovarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые посудомоечные машины",
+            "url": "/vstraivaemye-posudomoechnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые стиральные машины",
+            "url": "/vstraivaemye-stiralnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Сушильные машины для белья",
+            "url": "/sushilnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые микроволновые печи",
+            "url": "/vstraivaemye-mikrovolnovye-pechi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Морозильные камеры",
+            "url": "/morozilnye-kamery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Винные шкафы",
+            "url": "/vinnye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые шкафы для подогрева",
+            "url": "/shkafy-dlya-podogreva-posudy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые вакууматоры",
+            "url": "/vakuumatory/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Измельчители пищевых отходов",
+            "url": "/vstraivaemye-izmelchiteli-pischevyh-othodov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Автохолодильники",
+            "url": "/avtoholodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для крупной бытовой техники",
+            "url": "/aksessuary-krupnaya-bytovaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для холодильников",
+            "url": "/aksessuary-krupnaya-bytovaya-tehnika/filt_naznachenie-k_holodilnikam/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для автохолодильников",
+            "url": "/aksessuary-dlya-avtokholodilnikov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Хьюмидоры",
+            "url": "/khyumidory/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Стиральные машины с функцией сушки (2 в 1) LG",
+        "url": "/stiralno-sushilnye-mashiny/lg/",
+        "options": [
+          {
+            "name": "Electrolux",
+            "url": "/stiralno-sushilnye-mashiny/electrolux/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Korting",
+            "url": "/stiralno-sushilnye-mashiny/korting/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Samsung",
+            "url": "/stiralno-sushilnye-mashiny/samsung/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Haier",
+            "url": "/stiralno-sushilnye-mashiny/haier/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "AEG",
+            "url": "/stiralno-sushilnye-mashiny/aeg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Candy",
+            "url": "/stiralno-sushilnye-mashiny/candy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Beko",
+            "url": "/stiralno-sushilnye-mashiny/beko/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Bosch",
+            "url": "/stiralno-sushilnye-mashiny/bosch/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Gorenje",
+            "url": "/stiralno-sushilnye-mashiny/gorenje/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Midea",
+            "url": "/stiralno-sushilnye-mashiny/midea/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "VARD",
+            "url": "/stiralno-sushilnye-mashiny/vard/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Toshiba",
+            "url": "/stiralno-sushilnye-mashiny/toshiba/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Roborock",
+            "url": "/stiralno-sushilnye-mashiny/roborock/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Hisense",
+            "url": "/stiralno-sushilnye-mashiny/hisense/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Whirlpool",
+            "url": "/stiralno-sushilnye-mashiny/whirlpool/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Maunfeld",
+            "url": "/stiralno-sushilnye-mashiny/maunfeld/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Hotpoint",
+            "url": "/stiralno-sushilnye-mashiny/hotpoint/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Kuppersberg",
+            "url": "/stiralno-sushilnye-mashiny/kuppersberg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Panasonic",
+            "url": "/stiralno-sushilnye-mashiny/panasonic/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Miele",
+            "url": "/stiralno-sushilnye-mashiny/miele/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Smeg",
+            "url": "/stiralno-sushilnye-mashiny/smeg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Viomi",
+            "url": "/stiralno-sushilnye-mashiny/viomi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Casarte",
+            "url": "/stiralno-sushilnye-mashiny/casarte/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Siemens",
+            "url": "/stiralno-sushilnye-mashiny/siemens/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "LG F2V7FR1W",
+        "url": "stiralnaya-mashina-lg-f2v7fr1w-774842",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      }
+    ],
+    "isArchive": false,
+    "__typename": "ProductV2",
+    "isSberPayOneClickAllowed": false,
+    "isTinkoffPayOneClickAllowed": false,
+    "bonus": null
+  },
+  "details": {
+    "description": "<style> #flix-privacy-policy{display:none}#flix-mbl-page .flix-mbl-images .flixpgw .ps-current .ps-next,#flix-mbl-page .flix-mbl-images .flixpgw .ps-current .ps-prev{z-index:1!important}.flix-mbl-image.flix-mbl-clmn-sm-10{display:flex;flex-direction:column;align-items:center}#flix-akg-inpage .flix-std-row.flix-info-align,#flix-jbl-inpage .flix-std-row.flix-info-align{display:flex;flex-direction:column-reverse;align-items:stretch}#flix-akg-inpage .flix-std-row.flix-info-align .flix-std-clmn-lg-4.flix-std-clmn-xs-12,#flix-jbl-inpage .flix-std-row.flix-info-align .flix-std-clmn-lg-4.flix-std-clmn-xs-12{width:auto}#flix-akg-inpage .flix-std-row.flix-info-align .flix_navigation,#flix-jbl-inpage .flix-std-row.flix-info-align .flix_navigation{max-width:none!important}#flix-akg-inpage .flix-std-row.flix-info-align .inpage_selector_gallery,#flix-jbl-inpage .flix-std-row.flix-info-align .inpage_selector_gallery{display:flex;flex-direction:column}#flix-akg-inpage .flix-std-clmn-lg-8.flix-std-clmn-xs-12.flix-std-info-picture,#flix-jbl-inpage .flix-std-clmn-lg-8.flix-std-clmn-xs-12.flix-std-info-picture{width:100%}#flix-akg-inpage .flix-std-section-title.flix-d-h2,#flix-jbl-inpage .flix-std-section-title.flix-d-h2{margin-left:30px!important;font-family:HelveticaNeueW01-55Roma,Helvetica,sans-serif!important}#flix-akg-inpage .flix-mbl-image.flix-mbl-clmn-sm-10,#flix-jbl-inpage .flix-mbl-image.flix-mbl-clmn-sm-10{text-align:center!important}#flix-akg-inpage .inpage_block_inner.jcarousel-list.jcarousel-list-horizontal,#flix-jbl-inpage .inpage_block_inner.jcarousel-list.jcarousel-list-horizontal{display:flex;flex-direction:row;align-items:center}#flix-akg-inpage .flix-feature-image.flix-box-image,#flix-jbl-inpage .flix-feature-image.flix-box-image{text-align:center}#flix-akg-inpage .inpage_selector_box .flix-std-content,#flix-jbl-inpage .inpage_selector_box .flix-std-content{padding-left:0!important}.product__desc #flix-mbl-page .flix-mbl-catHeader .flix-mbl-opener b:nth-child(2){left:-1px}.product__desc #flix-mbl-page .flix-mbl-catHeader .flix-mbl-opener b:nth-child(3){bottom:-1px}.product__desc #flix-mbl-page .flix-mbl-catHeader .flix-mbl-opener b:nth-child(4){left:-3px}#flix-sony-manual .flix-std-section-title{padding-left:28px!important}.product__desc #flix-sony-inpage{background-color:#fff;color:#000;padding:0 12px}#flix-lg-inpage .flix-headline.flix-d-h2{margin-left:40px!important}#flix-lg-inpage .flix-features{display:flex;justify-content:center;flex-wrap:wrap}#flix-lg-inpage.flix-lg4 .specs-has-bg{background-image:none!important}#flix-Hotpoint-inpage .flix-std-section-title.flix-d-h2{padding-left:15px}#flix-Elux-inpage #flix-std-inpage{padding:0 12px}#flix-Elux-inpage .flix-bar-plus{cursor:pointer}#flix-philips-inpage #flix-std-inpage{background-color:#fff;color:#000;padding:0 12px} </style> <div id=\"flix-inpage\"></div> <script type=\"text/javascript\"         src=\"https://media.flixfacts.com/js/loader.js\"         data-flix-distributor=\"974\"         data-flix-language=\"ru\"         data-flix-brand=\"lg\"         data-flix-mpn=\"\"         data-flix-ean=\"8806087998849\"         data-flix-inpage=\"flix-inpage\"         data-flix-button-image=\"\"         data-flix-price=\"\"         onload=\"flixJsCallbacks.setLoadCallback(() => { window.hasFlixContent = true })\"         async> </script>",
+    "descriptionType": "RICH_FLIXFACTS",
+    "descriptionBarcode": "8806087998849",
+    "descriptionBrand": "LG",
+    "specifications": {
+      "short": [
+        {
+          "name": "Конструкция стиральной машины",
+          "value": "узкая",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Максимальная загрузка белья",
+          "value": "9 кг",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Максимальная скорость отжима",
+          "value": "до 1200 об/мин",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Максимальная загрузка белья при сушке",
+          "value": "до 5 кг",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Глубина",
+          "value": "47.5 см",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "barcode": "8806087998849",
+      "country": "Китай",
+      "full": [
+        {
+          "name": "Основные характеристики",
+          "list": [
+            {
+              "name": "Установка",
+              "value": "отдельностоящая",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Конструкция стиральной машины",
+              "value": "узкая",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество барабанов",
+              "value": "1",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип двигателя",
+              "value": "инверторный",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Основной барабан",
+          "list": [
+            {
+              "name": "Тип загрузки",
+              "value": "фронтальная",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Поверхность барабана",
+              "value": "пузырьки",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная загрузка белья",
+              "value": "9 кг",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная скорость отжима",
+              "value": "до 1200 об/мин",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Класс стирки",
+              "value": "A",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Класс отжима",
+              "value": "B",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Уровень шума при стирке",
+              "value": "53 дБ",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Уровень шума при отжиме",
+              "value": "71 дБ",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Сушка",
+          "list": [
+            {
+              "name": "Сушка",
+              "value": "есть",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип сушки",
+              "value": "по времени",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество программ сушки",
+              "value": "5",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная загрузка белья при сушке",
+              "value": "до 5 кг",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Программы сушки",
+              "value": "стандартная, для глажки, эко сушка, низкая температура, стирка + сушка",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Сушка по таймеру",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Управление",
+          "list": [
+            {
+              "name": "Тип управления",
+              "value": "электромеханическое",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Переключатели",
+              "value": "поворотные, сенсорные",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Размещение панели управления",
+              "value": "под наклоном",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество программ",
+              "value": "14",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Программы",
+              "value": "хлопок, эко 40-60, TurboWash 39, смешанная, повседневная, гипоаллергенная, освежить, деликатная, шерсть, быстро 14, сушка, стирка + сушка (5 кг), моя программа",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Программа очистки барабана",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дополнительные программы",
+              "value": "предварительная стирка, полоскание+, без складок",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Занесение программ в память",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Поддержка Wi-Fi",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Управление c мобильного устройства",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Поддержка мобильного приложения",
+              "value": "LG ThinQ",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Умный дом",
+              "value": "LG ThinQ",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Температурные режимы",
+          "list": [
+            {
+              "name": "Регулировка температуры стирки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество температурных режимов",
+              "value": "5",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Минимальная температура воды",
+              "value": "20 °С",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная температура воды",
+              "value": "95 °С",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Дисплей",
+          "list": [
+            {
+              "name": "Цифровой дисплей",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип дисплея",
+              "value": "LED",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Таймер",
+          "list": [
+            {
+              "name": "Таймер отсрочки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальное время отсрочки стирки",
+              "value": "19 ч",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Индикация",
+          "list": [
+            {
+              "name": "Звуковой сигнал завершения программы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация окончания стирки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация времени до конца программы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация температуры",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация скорости отжима",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация блокировки дверцы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация ошибок",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация включения/паузы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация выбора дополнительных функций",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация цикла стирки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация времени отложенного старта",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет индикации",
+              "value": "белый",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Расход воды",
+          "list": [
+            {
+              "name": "Расход воды за цикл",
+              "value": "150 л",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Отжим",
+          "list": [
+            {
+              "name": "Регулировка скорости отжима",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество скоростей отжима",
+              "value": "5",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Отмена отжима",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Остаточная влажность",
+              "value": "53 %",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Технологии",
+          "list": [
+            {
+              "name": "Функция дозагрузки белья",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Защита и безопасность",
+          "list": [
+            {
+              "name": "Защита от скачков напряжения",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Защита от детей",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Защита от протечек",
+              "value": "частичная",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Блокировка люка во время работы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Контроль пенообразования",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Энергопотребление",
+          "list": [
+            {
+              "name": "Класс энергопотребления",
+              "value": "A",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Напряжение",
+              "value": "220-240 В",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Особенности конструкции",
+          "list": [
+            {
+              "name": "Направление открывания люка",
+              "value": "влево",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Диаметр загрузочного люка",
+              "value": "30 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Угол открытия люка",
+              "value": "150 °",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Регулируемые ножки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Дополнительные функции",
+          "list": [
+            {
+              "name": "Самодиагностика",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автобаланс",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автовзвешивание белья",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дополнительная информация",
+              "value": "система определения типа ткани AI DD, мобильная диагностика Smart Diagnosis",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Цвет и материал",
+          "list": [
+            {
+              "name": "Цвет",
+              "value": "белый",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет дверцы люка",
+              "value": "чёрный, серебристый",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал барабана",
+              "value": "нержавеющая сталь",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Комплектация",
+          "list": [
+            {
+              "name": "Шланг подачи воды",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Сливной шланг",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Держатель шланга",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Сетевой кабель",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Гаечный ключ",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Заглушка",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Инструкция",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Размеры и вес",
+          "list": [
+            {
+              "name": "Высота",
+              "value": "85 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ширина",
+              "value": "60 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Глубина",
+              "value": "47.5 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вес",
+              "value": "63 кг",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        }
+      ],
+      "grossWeight": "67",
+      "netWeight": "63",
+      "height": "0.9",
+      "instructionUrl": "https://storage.yandexcloud.net/technopark.instructions/774842/instruction/instrukciya-stiralnaya-mashina-lg-f2v7fr1w-774842.pdf",
+      "length": "0.57",
+      "schemeUrl": null,
+      "warranty": "12",
+      "width": "0.65",
+      "__typename": "ProductV2Specifications"
+    },
+    "certificates": ["https://www.technopark.ru/bipublic/Cert/1408H10ACA1EDO.pdf"],
+    "isManufacturerCountry": false,
+    "isSellerWarranty": false,
+    "reviews": {
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "total": 13,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "rating": {
+      "average": 5,
+      "canRate": false,
+      "total": {
+        "all": 13,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 13,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "isLoading": false
+  },
+  "shots": [
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/774842/1_774842.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/774842/1_774842.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/774842/1_774842.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/774842/2_774842.jpg?timestamp=2025-01-09_10-25-27",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/774842/2_774842.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/774842/2_774842.jpg?timestamp=2025-01-09_10-24-33"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/774842/3_774842.jpg?timestamp=2025-01-09_10-25-27",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/774842/3_774842.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/774842/3_774842.jpg?timestamp=2025-01-09_10-24-34"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/774842/4_774842.jpg?timestamp=2025-01-09_10-25-32",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/774842/4_774842.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/774842/4_774842.jpg?timestamp=2025-01-09_10-24-34"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/774842/5_774842.jpg?timestamp=2025-01-09_10-25-35",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/774842/5_774842.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/774842/5_774842.jpg?timestamp=2025-01-09_10-24-49"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/774842/6_774842.jpg?timestamp=2025-01-09_10-25-26",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/774842/6_774842.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/774842/6_774842.jpg?timestamp=2025-01-09_10-24-33"
+    ]
+  ],
+  "photos": [
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/stiralnaya-mashina-lg-f2v7fr1w-774842-1.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/stiralnaya-mashina-lg-f2v7fr1w-774842-2.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/stiralnaya-mashina-lg-f2v7fr1w-774842-3.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/stiralnaya-mashina-lg-f2v7fr1w-774842-4.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/stiralnaya-mashina-lg-f2v7fr1w-774842-5.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/stiralnaya-mashina-lg-f2v7fr1w-774842-6.jpg"
+  ]
+}

@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Устройство в студии",
+    "extra": false,
+    "steps": [
+      {
+        "kind": "look",
+        "part": "brief",
+        "task": "",
+        "role": "text",
+        "when": "always"
+      },
+      {
+        "kind": "look",
+        "part": "anatomy",
+        "task": "Every port, key, button, display and lettering, and where it is on the device.",
+        "role": "look",
+        "when": "always"
+      },
+      {
+        "kind": "look",
+        "part": "stains",
+        "task": "",
+        "role": "text",
+        "when": "new"
+      },
+      {
+        "kind": "draw",
+        "part": "picture",
+        "task": "Устройство на чистом светлом фоне, вид спереди, экран без бликов. Ноутбук открыт, экран к зрителю. Мягкая тень под устройством.",
+        "role": "image",
+        "when": "always"
+      },
+      {
+        "kind": "code",
+        "part": "whiten",
+        "task": "",
+        "role": "text",
+        "when": "always"
+      },
+      {
+        "kind": "code",
+        "part": "colour",
+        "task": "",
+        "role": "text",
+        "when": "always"
+      },
+      {
+        "kind": "check",
+        "part": "added_lost",
+        "task": "",
+        "role": "text",
+        "when": "always"
+      }
+    ]
+  }
+]

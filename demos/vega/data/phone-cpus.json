@@ -1,0 +1,60 @@
+[
+  {
+    "name": "Mediatek Helio G81 Ultra",
+    "gpu_name": "Mali-G52 MC2",
+    "core_count": 8,
+    "base_clock": 1800,
+    "max_clock": 2000
+  },
+  {
+    "name": "MediaTek Helio G99 Ultra",
+    "gpu_name": "Mali-G57 MC2",
+    "core_count": 8,
+    "base_clock": 2000,
+    "max_clock": 2200
+  },
+  {
+    "name": "Mediatek Dimensity 7300 Ultra",
+    "gpu_name": "Mali-G615 MC2",
+    "core_count": 8,
+    "max_clock": 2500
+  },
+  {
+    "name": "MediaTek Dimensity 8400 Ultra",
+    "gpu_name": "Mali-G720 MC7",
+    "core_count": 8,
+    "max_clock": 3250
+  },
+  {
+    "name": "Mediatek Helio G91",
+    "gpu_name": "Mali-G52 MC2",
+    "core_count": 8,
+    "base_clock": 1800,
+    "max_clock": 2000
+  },
+  {
+    "name": "MediaTek Helio G85 (MT6769Z)",
+    "gpu_name": "Mali-G52",
+    "core_count": 8,
+    "max_clock": 2000
+  },
+  {
+    "name": "Apple A18 Pro",
+    "gpu_name": "Apple A18 Pro GPU",
+    "core_count": 6,
+    "max_clock": 4050,
+    "gpu_core_count": 6
+  },
+  {
+    "name": "Apple A18",
+    "core_count": 6,
+    "base_clock": 2200,
+    "max_clock": 4040
+  },
+  {
+    "name": "A17 Pro",
+    "core_count": 6,
+    "base_clock": 2110,
+    "max_clock": 3780
+  }
+]

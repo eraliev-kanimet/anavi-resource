@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Как на прилавке",
+    "extra": true,
+    "steps": [
+      {
+        "kind": "look",
+        "part": "brief",
+        "task": "",
+        "role": "text",
+        "when": "always"
+      },
+      {
+        "kind": "draw",
+        "part": "picture",
+        "task": "Продукт как на прилавке, без магазинной упаковки, на светлом фоне. Вид чуть сверху, продукт целиком, ровный дневной свет.",
+        "role": "image",
+        "when": "always"
+      },
+      {
+        "kind": "code",
+        "part": "whiten",
+        "task": "",
+        "role": "text",
+        "when": "always"
+      },
+      {
+        "kind": "code",
+        "part": "colour",
+        "task": "",
+        "role": "text",
+        "when": "always"
+      },
+      {
+        "kind": "check",
+        "part": "added_lost",
+        "task": "",
+        "role": "text",
+        "when": "always"
+      }
+    ]
+  },
+  {
+    "name": "Упаковка в студии",
+    "extra": true,
+    "steps": [
+      {
+        "kind": "look",
+        "part": "brief",
+        "task": "",
+        "role": "text",
+        "when": "always"
+      },
+      {
+        "kind": "look",
+        "part": "anatomy",
+        "task": "Все надписи этикетки буква в букву: название, вкус или аромат, объём.",
+        "role": "look",
+        "when": "always"
+      },
+      {
+        "kind": "draw",
+        "part": "picture",
+        "task": "Упаковка целиком, лицевой стороной, этикетка читается. Светлый ровный фон, мягкий свет и мягкая тень под упаковкой, без рук и полок.",
+        "role": "image",
+        "when": "always"
+      },
+      {
+        "kind": "code",
+        "part": "whiten",
+        "task": "",
+        "role": "text",
+        "when": "always"
+      },
+      {
+        "kind": "code",
+        "part": "colour",
+        "task": "",
+        "role": "text",
+        "when": "always"
+      },
+      {
+        "kind": "check",
+        "part": "added_lost",
+        "task": "",
+        "role": "text",
+        "when": "always"
+      }
+    ]
+  }
+]

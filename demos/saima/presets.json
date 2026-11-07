@@ -1,0 +1,126 @@
+[
+  {
+    "name": "Невидимый манекен",
+    "extra": true,
+    "steps": [
+      {
+        "kind": "look",
+        "part": "brief",
+        "task": "",
+        "role": "text",
+        "when": "always"
+      },
+      {
+        "kind": "look",
+        "part": "anatomy",
+        "task": "Каждая надпись, нашивка, принт и бирка буква в букву, и где на вещи она стоит.",
+        "role": "look",
+        "when": "always"
+      },
+      {
+        "kind": "look",
+        "part": "stains",
+        "task": "",
+        "role": "text",
+        "when": "new"
+      },
+      {
+        "kind": "draw",
+        "part": "picture",
+        "task": "Одежда на невидимом манекене: сидит по фигуре, как на человеке, но ни человека, ни манекена, ни вешалки не видно. Вид спереди, вещь целиком, расправлена и застёгнута; платье — во весь рост. Ровный мягкий студийный свет, без лиц.",
+        "role": "image",
+        "when": "always"
+      },
+      {
+        "kind": "code",
+        "part": "whiten",
+        "task": "",
+        "role": "text",
+        "when": "always"
+      },
+      {
+        "kind": "code",
+        "part": "colour",
+        "task": "",
+        "role": "text",
+        "when": "always"
+      },
+      {
+        "kind": "code",
+        "part": "shape",
+        "task": "",
+        "role": "text",
+        "when": "always"
+      },
+      {
+        "kind": "check",
+        "part": "added_lost",
+        "task": "Сверить каждую надпись и нашивку со списком деталей.",
+        "role": "text",
+        "when": "always"
+      }
+    ]
+  },
+  {
+    "name": "Плоская раскладка",
+    "extra": true,
+    "steps": [
+      {
+        "kind": "look",
+        "part": "brief",
+        "task": "",
+        "role": "text",
+        "when": "always"
+      },
+      {
+        "kind": "look",
+        "part": "anatomy",
+        "task": "Каждая надпись, нашивка, принт и бирка буква в букву, и где на вещи она стоит.",
+        "role": "look",
+        "when": "always"
+      },
+      {
+        "kind": "look",
+        "part": "stains",
+        "task": "",
+        "role": "text",
+        "when": "new"
+      },
+      {
+        "kind": "draw",
+        "part": "picture",
+        "task": "Вещь разложена ровно, вид строго сверху, без складок и заломов. Рукава и края лежат симметрично. Ровный мягкий свет без жёстких теней.",
+        "role": "image",
+        "when": "always"
+      },
+      {
+        "kind": "code",
+        "part": "whiten",
+        "task": "",
+        "role": "text",
+        "when": "always"
+      },
+      {
+        "kind": "code",
+        "part": "colour",
+        "task": "",
+        "role": "text",
+        "when": "always"
+      },
+      {
+        "kind": "code",
+        "part": "shape",
+        "task": "",
+        "role": "text",
+        "when": "always"
+      },
+      {
+        "kind": "check",
+        "part": "added_lost",
+        "task": "Сверить каждую надпись и нашивку со списком деталей.",
+        "role": "text",
+        "when": "always"
+      }
+    ]
+  }
+]

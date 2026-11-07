@@ -1,0 +1,2419 @@
+{
+  "since": 182,
+  "directions": [
+    "Цех",
+    "Розница"
+  ],
+  "direction": "Розница",
+  "rates": [
+    {
+      "currency": "USD",
+      "rate": 87.45
+    },
+    {
+      "currency": "USD",
+      "rate": 87.62,
+      "days": 182
+    },
+    {
+      "currency": "USD",
+      "rate": 87.81,
+      "days": 150
+    },
+    {
+      "currency": "USD",
+      "rate": 87.93,
+      "days": 120
+    },
+    {
+      "currency": "USD",
+      "rate": 87.7,
+      "days": 90
+    },
+    {
+      "currency": "USD",
+      "rate": 87.55,
+      "days": 60
+    },
+    {
+      "currency": "USD",
+      "rate": 87.48,
+      "days": 30
+    },
+    {
+      "currency": "USD",
+      "rate": 87.5,
+      "days": 15
+    }
+  ],
+  "places": [
+    {
+      "kind": "bank",
+      "name": "Оптима Банк, долларовый счёт для экспорта",
+      "currency": "USD"
+    }
+  ],
+  "capital": 6000000,
+  "founder": "Учредитель «Сайма»",
+  "float": 10000,
+  "takings": "Инкассация",
+  "materials": {
+    "supplier": {
+      "name": "Текстиль Сити, «Дордой», ряд 7",
+      "phone": "+996555700417",
+      "address": "Рынок «Дордой», ряд 7, контейнер 112",
+      "note": "Ткань рулонами из Турции и Китая, фурнитура; привоз по заявке"
+    },
+    "items": [
+      {
+        "key": "crepe",
+        "name": {
+          "ru": "Креп вискозный",
+          "en": "Viscose crepe",
+          "ar": "كريب فيسكوز"
+        },
+        "unit": {
+          "ru": "м",
+          "en": "m",
+          "ar": "م"
+        },
+        "cost": 380,
+        "stock": 420
+      },
+      {
+        "key": "tencel",
+        "name": {
+          "ru": "Тенсел",
+          "en": "Tencel",
+          "ar": "تنسل"
+        },
+        "unit": {
+          "ru": "м",
+          "en": "m",
+          "ar": "م"
+        },
+        "cost": 520,
+        "stock": 420
+      },
+      {
+        "key": "ribana",
+        "name": {
+          "ru": "Рибана",
+          "en": "Rib knit",
+          "ar": "ريبانا"
+        },
+        "unit": {
+          "ru": "м",
+          "en": "m",
+          "ar": "م"
+        },
+        "cost": 300,
+        "stock": 420
+      },
+      {
+        "key": "linen",
+        "name": {
+          "ru": "Лён",
+          "en": "Linen",
+          "ar": "كتان"
+        },
+        "unit": {
+          "ru": "м",
+          "en": "m",
+          "ar": "م"
+        },
+        "cost": 560,
+        "stock": 420
+      },
+      {
+        "key": "satin",
+        "name": {
+          "ru": "Креп-сатин",
+          "en": "Crepe satin",
+          "ar": "كريب ساتان"
+        },
+        "unit": {
+          "ru": "м",
+          "en": "m",
+          "ar": "م"
+        },
+        "cost": 420,
+        "stock": 420
+      },
+      {
+        "key": "twill",
+        "name": {
+          "ru": "Твил хлопковый",
+          "en": "Cotton twill",
+          "ar": "تويل قطني"
+        },
+        "unit": {
+          "ru": "м",
+          "en": "m",
+          "ar": "م"
+        },
+        "cost": 340,
+        "stock": 420
+      },
+      {
+        "key": "silk",
+        "name": {
+          "ru": "Шёлк",
+          "en": "Silk",
+          "ar": "حرير"
+        },
+        "unit": {
+          "ru": "м",
+          "en": "m",
+          "ar": "م"
+        },
+        "cost": 980,
+        "stock": 420
+      },
+      {
+        "key": "poplin",
+        "name": {
+          "ru": "Поплин",
+          "en": "Poplin",
+          "ar": "بوبلين"
+        },
+        "unit": {
+          "ru": "м",
+          "en": "m",
+          "ar": "م"
+        },
+        "cost": 260,
+        "stock": 420
+      },
+      {
+        "key": "wool",
+        "name": {
+          "ru": "Шерстяной микс",
+          "en": "Wool blend",
+          "ar": "مزيج صوف"
+        },
+        "unit": {
+          "ru": "м",
+          "en": "m",
+          "ar": "م"
+        },
+        "cost": 640,
+        "stock": 420
+      },
+      {
+        "key": "denim",
+        "name": {
+          "ru": "Деним",
+          "en": "Denim",
+          "ar": "دينيم"
+        },
+        "unit": {
+          "ru": "м",
+          "en": "m",
+          "ar": "م"
+        },
+        "cost": 420,
+        "stock": 420
+      },
+      {
+        "key": "fleece",
+        "name": {
+          "ru": "Футер с начёсом",
+          "en": "Fleece-backed French terry",
+          "ar": "فوتر مبطن"
+        },
+        "unit": {
+          "ru": "м",
+          "en": "m",
+          "ar": "م"
+        },
+        "cost": 360,
+        "stock": 420
+      },
+      {
+        "key": "jersey",
+        "name": {
+          "ru": "Джерси",
+          "en": "Jersey",
+          "ar": "جيرسي"
+        },
+        "unit": {
+          "ru": "м",
+          "en": "m",
+          "ar": "م"
+        },
+        "cost": 280,
+        "stock": 420
+      },
+      {
+        "key": "merino",
+        "name": {
+          "ru": "Мериносовый микс",
+          "en": "Merino blend",
+          "ar": "مزيج ميرينو"
+        },
+        "unit": {
+          "ru": "м",
+          "en": "m",
+          "ar": "م"
+        },
+        "cost": 760,
+        "stock": 420
+      },
+      {
+        "key": "gabardine",
+        "name": {
+          "ru": "Габардин",
+          "en": "Gabardine",
+          "ar": "غاباردين"
+        },
+        "unit": {
+          "ru": "м",
+          "en": "m",
+          "ar": "م"
+        },
+        "cost": 480,
+        "stock": 420
+      },
+      {
+        "key": "thread",
+        "name": {
+          "ru": "Нитки армированные, бобина",
+          "en": "Core-spun thread, cone",
+          "ar": "خيوط مقواة، بكرة"
+        },
+        "unit": {
+          "ru": "шт",
+          "en": "pcs",
+          "ar": "قطعة"
+        },
+        "cost": 120,
+        "stock": 160
+      },
+      {
+        "key": "buttons",
+        "name": {
+          "ru": "Пуговицы",
+          "en": "Buttons",
+          "ar": "أزرار"
+        },
+        "cost": 6,
+        "stock": 6000
+      },
+      {
+        "key": "zip",
+        "name": {
+          "ru": "Молния потайная",
+          "en": "Concealed zip",
+          "ar": "سحاب مخفي"
+        },
+        "cost": 35,
+        "stock": 900
+      },
+      {
+        "key": "elastic",
+        "name": {
+          "ru": "Резинка поясная",
+          "en": "Waistband elastic",
+          "ar": "مطاط للخصر"
+        },
+        "unit": {
+          "ru": "м",
+          "en": "m",
+          "ar": "م"
+        },
+        "cost": 30,
+        "stock": 800
+      },
+      {
+        "key": "lining",
+        "name": {
+          "ru": "Подкладочная ткань",
+          "en": "Lining fabric",
+          "ar": "قماش بطانة"
+        },
+        "unit": {
+          "ru": "м",
+          "en": "m",
+          "ar": "م"
+        },
+        "cost": 160,
+        "stock": 500
+      },
+      {
+        "key": "interfacing",
+        "name": {
+          "ru": "Дублерин клеевой",
+          "en": "Fusible interfacing",
+          "ar": "بطانة لاصقة"
+        },
+        "unit": {
+          "ru": "м",
+          "en": "m",
+          "ar": "م"
+        },
+        "cost": 110,
+        "stock": 300
+      },
+      {
+        "key": "label",
+        "name": {
+          "ru": "Этикетка тканая с размером",
+          "en": "Woven size label",
+          "ar": "ملصق منسوج بالمقاس"
+        },
+        "cost": 8,
+        "stock": 5000
+      },
+      {
+        "key": "bag",
+        "name": {
+          "ru": "Пакет упаковочный",
+          "en": "Packing bag",
+          "ar": "كيس تغليف"
+        },
+        "cost": 12,
+        "stock": 4000
+      }
+    ]
+  },
+  "cards": {
+    "plate-midi-poyas": {
+      "materials": {
+        "crepe": 2.8,
+        "thread": 0.3,
+        "buttons": 4,
+        "label": 1,
+        "bag": 1
+      },
+      "operations": [
+        {
+          "name": "Раскрой",
+          "rate": 70,
+          "by": "cutter"
+        },
+        {
+          "name": "Пошив",
+          "rate": 320,
+          "by": "sewing"
+        },
+        {
+          "name": "Оверлок",
+          "rate": 60,
+          "by": "sewing"
+        },
+        {
+          "name": "ВТО",
+          "rate": 40,
+          "by": "sewing"
+        },
+        {
+          "name": "ОТК и упаковка",
+          "rate": 20,
+          "by": "sewing"
+        }
+      ]
+    },
+    "plate-midi-poyas-black": {
+      "materials": {
+        "crepe": 2.8,
+        "thread": 0.3,
+        "buttons": 4,
+        "label": 1,
+        "bag": 1
+      },
+      "operations": [
+        {
+          "name": "Раскрой",
+          "rate": 70,
+          "by": "cutter"
+        },
+        {
+          "name": "Пошив",
+          "rate": 320,
+          "by": "sewing"
+        },
+        {
+          "name": "Оверлок",
+          "rate": 60,
+          "by": "sewing"
+        },
+        {
+          "name": "ВТО",
+          "rate": 40,
+          "by": "sewing"
+        },
+        {
+          "name": "ОТК и упаковка",
+          "rate": 20,
+          "by": "sewing"
+        }
+      ]
+    },
+    "plate-midi-poyas-indigo": {
+      "materials": {
+        "crepe": 2.8,
+        "thread": 0.3,
+        "buttons": 4,
+        "label": 1,
+        "bag": 1
+      },
+      "operations": [
+        {
+          "name": "Раскрой",
+          "rate": 70,
+          "by": "cutter"
+        },
+        {
+          "name": "Пошив",
+          "rate": 320,
+          "by": "sewing"
+        },
+        {
+          "name": "Оверлок",
+          "rate": 60,
+          "by": "sewing"
+        },
+        {
+          "name": "ВТО",
+          "rate": 40,
+          "by": "sewing"
+        },
+        {
+          "name": "ОТК и упаковка",
+          "rate": 20,
+          "by": "sewing"
+        }
+      ]
+    },
+    "plate-rubashka": {
+      "materials": {
+        "tencel": 2.6,
+        "thread": 0.3,
+        "buttons": 4,
+        "label": 1,
+        "bag": 1
+      },
+      "operations": [
+        {
+          "name": "Раскрой",
+          "rate": 70,
+          "by": "cutter"
+        },
+        {
+          "name": "Пошив",
+          "rate": 320,
+          "by": "sewing"
+        },
+        {
+          "name": "Оверлок",
+          "rate": 60,
+          "by": "sewing"
+        },
+        {
+          "name": "ВТО",
+          "rate": 40,
+          "by": "sewing"
+        },
+        {
+          "name": "ОТК и упаковка",
+          "rate": 20,
+          "by": "sewing"
+        }
+      ]
+    },
+    "plate-trikotazh": {
+      "materials": {
+        "ribana": 2.0,
+        "thread": 0.3,
+        "buttons": 4,
+        "label": 1,
+        "bag": 1
+      },
+      "operations": [
+        {
+          "name": "Раскрой",
+          "rate": 70,
+          "by": "cutter"
+        },
+        {
+          "name": "Пошив",
+          "rate": 320,
+          "by": "sewing"
+        },
+        {
+          "name": "Оверлок",
+          "rate": 60,
+          "by": "sewing"
+        },
+        {
+          "name": "ВТО",
+          "rate": 40,
+          "by": "sewing"
+        },
+        {
+          "name": "ОТК и упаковка",
+          "rate": 20,
+          "by": "sewing"
+        }
+      ]
+    },
+    "plate-lnyanoe": {
+      "materials": {
+        "linen": 2.6,
+        "thread": 0.3,
+        "buttons": 4,
+        "label": 1,
+        "bag": 1
+      },
+      "operations": [
+        {
+          "name": "Раскрой",
+          "rate": 70,
+          "by": "cutter"
+        },
+        {
+          "name": "Пошив",
+          "rate": 320,
+          "by": "sewing"
+        },
+        {
+          "name": "Оверлок",
+          "rate": 60,
+          "by": "sewing"
+        },
+        {
+          "name": "ВТО",
+          "rate": 40,
+          "by": "sewing"
+        },
+        {
+          "name": "ОТК и упаковка",
+          "rate": 20,
+          "by": "sewing"
+        }
+      ]
+    },
+    "plate-vechernee": {
+      "materials": {
+        "satin": 3.2,
+        "thread": 0.3,
+        "buttons": 4,
+        "label": 1,
+        "bag": 1
+      },
+      "operations": [
+        {
+          "name": "Раскрой",
+          "rate": 70,
+          "by": "cutter"
+        },
+        {
+          "name": "Пошив",
+          "rate": 320,
+          "by": "sewing"
+        },
+        {
+          "name": "Оверлок",
+          "rate": 60,
+          "by": "sewing"
+        },
+        {
+          "name": "ВТО",
+          "rate": 40,
+          "by": "sewing"
+        },
+        {
+          "name": "ОТК и упаковка",
+          "rate": 20,
+          "by": "sewing"
+        }
+      ]
+    },
+    "sarafan": {
+      "materials": {
+        "twill": 2.2,
+        "thread": 0.3,
+        "buttons": 4,
+        "label": 1,
+        "bag": 1
+      },
+      "operations": [
+        {
+          "name": "Раскрой",
+          "rate": 70,
+          "by": "cutter"
+        },
+        {
+          "name": "Пошив",
+          "rate": 320,
+          "by": "sewing"
+        },
+        {
+          "name": "Оверлок",
+          "rate": 60,
+          "by": "sewing"
+        },
+        {
+          "name": "ВТО",
+          "rate": 40,
+          "by": "sewing"
+        },
+        {
+          "name": "ОТК и упаковка",
+          "rate": 20,
+          "by": "sewing"
+        }
+      ]
+    },
+    "bluza-shelk": {
+      "materials": {
+        "silk": 1.6,
+        "thread": 0.2,
+        "buttons": 7,
+        "label": 1,
+        "bag": 1
+      },
+      "operations": [
+        {
+          "name": "Раскрой",
+          "rate": 50,
+          "by": "cutter"
+        },
+        {
+          "name": "Пошив",
+          "rate": 230,
+          "by": "sewing"
+        },
+        {
+          "name": "Оверлок",
+          "rate": 40,
+          "by": "sewing"
+        },
+        {
+          "name": "Петли и пуговицы",
+          "rate": 50,
+          "by": "sewing"
+        },
+        {
+          "name": "ВТО",
+          "rate": 30,
+          "by": "sewing"
+        },
+        {
+          "name": "ОТК и упаковка",
+          "rate": 15,
+          "by": "sewing"
+        }
+      ]
+    },
+    "bluza-shelk-black": {
+      "materials": {
+        "silk": 1.6,
+        "thread": 0.2,
+        "buttons": 7,
+        "label": 1,
+        "bag": 1
+      },
+      "operations": [
+        {
+          "name": "Раскрой",
+          "rate": 50,
+          "by": "cutter"
+        },
+        {
+          "name": "Пошив",
+          "rate": 230,
+          "by": "sewing"
+        },
+        {
+          "name": "Оверлок",
+          "rate": 40,
+          "by": "sewing"
+        },
+        {
+          "name": "Петли и пуговицы",
+          "rate": 50,
+          "by": "sewing"
+        },
+        {
+          "name": "ВТО",
+          "rate": 30,
+          "by": "sewing"
+        },
+        {
+          "name": "ОТК и упаковка",
+          "rate": 15,
+          "by": "sewing"
+        }
+      ]
+    },
+    "rubashka-oversize": {
+      "materials": {
+        "poplin": 2.0,
+        "thread": 0.2,
+        "buttons": 7,
+        "label": 1,
+        "bag": 1
+      },
+      "operations": [
+        {
+          "name": "Раскрой",
+          "rate": 50,
+          "by": "cutter"
+        },
+        {
+          "name": "Пошив",
+          "rate": 230,
+          "by": "sewing"
+        },
+        {
+          "name": "Оверлок",
+          "rate": 40,
+          "by": "sewing"
+        },
+        {
+          "name": "Петли и пуговицы",
+          "rate": 50,
+          "by": "sewing"
+        },
+        {
+          "name": "ВТО",
+          "rate": 30,
+          "by": "sewing"
+        },
+        {
+          "name": "ОТК и упаковка",
+          "rate": 15,
+          "by": "sewing"
+        }
+      ]
+    },
+    "rubashka-oversize-white": {
+      "materials": {
+        "poplin": 2.0,
+        "thread": 0.2,
+        "buttons": 7,
+        "label": 1,
+        "bag": 1
+      },
+      "operations": [
+        {
+          "name": "Раскрой",
+          "rate": 50,
+          "by": "cutter"
+        },
+        {
+          "name": "Пошив",
+          "rate": 230,
+          "by": "sewing"
+        },
+        {
+          "name": "Оверлок",
+          "rate": 40,
+          "by": "sewing"
+        },
+        {
+          "name": "Петли и пуговицы",
+          "rate": 50,
+          "by": "sewing"
+        },
+        {
+          "name": "ВТО",
+          "rate": 30,
+          "by": "sewing"
+        },
+        {
+          "name": "ОТК и упаковка",
+          "rate": 15,
+          "by": "sewing"
+        }
+      ]
+    },
+    "bluza-volan": {
+      "materials": {
+        "crepe": 1.6,
+        "thread": 0.2,
+        "buttons": 7,
+        "label": 1,
+        "bag": 1
+      },
+      "operations": [
+        {
+          "name": "Раскрой",
+          "rate": 50,
+          "by": "cutter"
+        },
+        {
+          "name": "Пошив",
+          "rate": 230,
+          "by": "sewing"
+        },
+        {
+          "name": "Оверлок",
+          "rate": 40,
+          "by": "sewing"
+        },
+        {
+          "name": "Петли и пуговицы",
+          "rate": 50,
+          "by": "sewing"
+        },
+        {
+          "name": "ВТО",
+          "rate": 30,
+          "by": "sewing"
+        },
+        {
+          "name": "ОТК и упаковка",
+          "rate": 15,
+          "by": "sewing"
+        }
+      ]
+    },
+    "rubashka-len": {
+      "materials": {
+        "linen": 1.8,
+        "thread": 0.2,
+        "buttons": 7,
+        "label": 1,
+        "bag": 1
+      },
+      "operations": [
+        {
+          "name": "Раскрой",
+          "rate": 50,
+          "by": "cutter"
+        },
+        {
+          "name": "Пошив",
+          "rate": 230,
+          "by": "sewing"
+        },
+        {
+          "name": "Оверлок",
+          "rate": 40,
+          "by": "sewing"
+        },
+        {
+          "name": "Петли и пуговицы",
+          "rate": 50,
+          "by": "sewing"
+        },
+        {
+          "name": "ВТО",
+          "rate": 30,
+          "by": "sewing"
+        },
+        {
+          "name": "ОТК и упаковка",
+          "rate": 15,
+          "by": "sewing"
+        }
+      ]
+    },
+    "top-bazovyj": {
+      "materials": {
+        "ribana": 0.8,
+        "thread": 0.2,
+        "buttons": 7,
+        "label": 1,
+        "bag": 1
+      },
+      "operations": [
+        {
+          "name": "Раскрой",
+          "rate": 50,
+          "by": "cutter"
+        },
+        {
+          "name": "Пошив",
+          "rate": 230,
+          "by": "sewing"
+        },
+        {
+          "name": "Оверлок",
+          "rate": 40,
+          "by": "sewing"
+        },
+        {
+          "name": "Петли и пуговицы",
+          "rate": 50,
+          "by": "sewing"
+        },
+        {
+          "name": "ВТО",
+          "rate": 30,
+          "by": "sewing"
+        },
+        {
+          "name": "ОТК и упаковка",
+          "rate": 15,
+          "by": "sewing"
+        }
+      ]
+    },
+    "bluza-poplin": {
+      "materials": {
+        "poplin": 1.6,
+        "thread": 0.2,
+        "buttons": 7,
+        "label": 1,
+        "bag": 1
+      },
+      "operations": [
+        {
+          "name": "Раскрой",
+          "rate": 50,
+          "by": "cutter"
+        },
+        {
+          "name": "Пошив",
+          "rate": 230,
+          "by": "sewing"
+        },
+        {
+          "name": "Оверлок",
+          "rate": 40,
+          "by": "sewing"
+        },
+        {
+          "name": "Петли и пуговицы",
+          "rate": 50,
+          "by": "sewing"
+        },
+        {
+          "name": "ВТО",
+          "rate": 30,
+          "by": "sewing"
+        },
+        {
+          "name": "ОТК и упаковка",
+          "rate": 15,
+          "by": "sewing"
+        }
+      ]
+    },
+    "bryuki-palacco": {
+      "materials": {
+        "crepe": 2.2,
+        "thread": 0.25,
+        "zip": 1,
+        "buttons": 1,
+        "elastic": 0.8,
+        "label": 1,
+        "bag": 1
+      },
+      "operations": [
+        {
+          "name": "Раскрой",
+          "rate": 50,
+          "by": "cutter"
+        },
+        {
+          "name": "Пошив",
+          "rate": 240,
+          "by": "sewing"
+        },
+        {
+          "name": "Оверлок",
+          "rate": 50,
+          "by": "sewing"
+        },
+        {
+          "name": "ВТО",
+          "rate": 35,
+          "by": "sewing"
+        },
+        {
+          "name": "ОТК и упаковка",
+          "rate": 15,
+          "by": "sewing"
+        }
+      ]
+    },
+    "bryuki-palacco-sand": {
+      "materials": {
+        "crepe": 2.2,
+        "thread": 0.25,
+        "zip": 1,
+        "buttons": 1,
+        "elastic": 0.8,
+        "label": 1,
+        "bag": 1
+      },
+      "operations": [
+        {
+          "name": "Раскрой",
+          "rate": 50,
+          "by": "cutter"
+        },
+        {
+          "name": "Пошив",
+          "rate": 240,
+          "by": "sewing"
+        },
+        {
+          "name": "Оверлок",
+          "rate": 50,
+          "by": "sewing"
+        },
+        {
+          "name": "ВТО",
+          "rate": 35,
+          "by": "sewing"
+        },
+        {
+          "name": "ОТК и упаковка",
+          "rate": 15,
+          "by": "sewing"
+        }
+      ]
+    },
+    "bryuki-pryamye": {
+      "materials": {
+        "wool": 1.4,
+        "thread": 0.25,
+        "zip": 1,
+        "buttons": 1,
+        "elastic": 0.8,
+        "label": 1,
+        "bag": 1
+      },
+      "operations": [
+        {
+          "name": "Раскрой",
+          "rate": 50,
+          "by": "cutter"
+        },
+        {
+          "name": "Пошив",
+          "rate": 240,
+          "by": "sewing"
+        },
+        {
+          "name": "Оверлок",
+          "rate": 50,
+          "by": "sewing"
+        },
+        {
+          "name": "ВТО",
+          "rate": 35,
+          "by": "sewing"
+        },
+        {
+          "name": "ОТК и упаковка",
+          "rate": 15,
+          "by": "sewing"
+        }
+      ]
+    },
+    "dzhinsy-mom": {
+      "materials": {
+        "denim": 1.4,
+        "thread": 0.25,
+        "zip": 1,
+        "buttons": 1,
+        "elastic": 0.8,
+        "label": 1,
+        "bag": 1
+      },
+      "operations": [
+        {
+          "name": "Раскрой",
+          "rate": 50,
+          "by": "cutter"
+        },
+        {
+          "name": "Пошив",
+          "rate": 240,
+          "by": "sewing"
+        },
+        {
+          "name": "Оверлок",
+          "rate": 50,
+          "by": "sewing"
+        },
+        {
+          "name": "ВТО",
+          "rate": 35,
+          "by": "sewing"
+        },
+        {
+          "name": "ОТК и упаковка",
+          "rate": 15,
+          "by": "sewing"
+        }
+      ]
+    },
+    "dzhinsy-mom-black": {
+      "materials": {
+        "denim": 1.4,
+        "thread": 0.25,
+        "zip": 1,
+        "buttons": 1,
+        "elastic": 0.8,
+        "label": 1,
+        "bag": 1
+      },
+      "operations": [
+        {
+          "name": "Раскрой",
+          "rate": 50,
+          "by": "cutter"
+        },
+        {
+          "name": "Пошив",
+          "rate": 240,
+          "by": "sewing"
+        },
+        {
+          "name": "Оверлок",
+          "rate": 50,
+          "by": "sewing"
+        },
+        {
+          "name": "ВТО",
+          "rate": 35,
+          "by": "sewing"
+        },
+        {
+          "name": "ОТК и упаковка",
+          "rate": 15,
+          "by": "sewing"
+        }
+      ]
+    },
+    "yubka-midi": {
+      "materials": {
+        "satin": 1.4,
+        "thread": 0.25,
+        "zip": 1,
+        "buttons": 1,
+        "elastic": 0.8,
+        "label": 1,
+        "bag": 1
+      },
+      "operations": [
+        {
+          "name": "Раскрой",
+          "rate": 50,
+          "by": "cutter"
+        },
+        {
+          "name": "Пошив",
+          "rate": 240,
+          "by": "sewing"
+        },
+        {
+          "name": "Оверлок",
+          "rate": 50,
+          "by": "sewing"
+        },
+        {
+          "name": "ВТО",
+          "rate": 35,
+          "by": "sewing"
+        },
+        {
+          "name": "ОТК и упаковка",
+          "rate": 15,
+          "by": "sewing"
+        }
+      ]
+    },
+    "yubka-karandash": {
+      "materials": {
+        "wool": 0.9,
+        "thread": 0.25,
+        "zip": 1,
+        "buttons": 1,
+        "elastic": 0.8,
+        "label": 1,
+        "bag": 1
+      },
+      "operations": [
+        {
+          "name": "Раскрой",
+          "rate": 50,
+          "by": "cutter"
+        },
+        {
+          "name": "Пошив",
+          "rate": 240,
+          "by": "sewing"
+        },
+        {
+          "name": "Оверлок",
+          "rate": 50,
+          "by": "sewing"
+        },
+        {
+          "name": "ВТО",
+          "rate": 35,
+          "by": "sewing"
+        },
+        {
+          "name": "ОТК и упаковка",
+          "rate": 15,
+          "by": "sewing"
+        }
+      ]
+    },
+    "shorty": {
+      "materials": {
+        "linen": 0.9,
+        "thread": 0.25,
+        "zip": 1,
+        "buttons": 1,
+        "elastic": 0.8,
+        "label": 1,
+        "bag": 1
+      },
+      "operations": [
+        {
+          "name": "Раскрой",
+          "rate": 50,
+          "by": "cutter"
+        },
+        {
+          "name": "Пошив",
+          "rate": 240,
+          "by": "sewing"
+        },
+        {
+          "name": "Оверлок",
+          "rate": 50,
+          "by": "sewing"
+        },
+        {
+          "name": "ВТО",
+          "rate": 35,
+          "by": "sewing"
+        },
+        {
+          "name": "ОТК и упаковка",
+          "rate": 15,
+          "by": "sewing"
+        }
+      ]
+    },
+    "svitshot": {
+      "materials": {
+        "fleece": 1.5,
+        "thread": 0.3,
+        "label": 1,
+        "bag": 1
+      },
+      "operations": [
+        {
+          "name": "Раскрой",
+          "rate": 40,
+          "by": "cutter"
+        },
+        {
+          "name": "Пошив",
+          "rate": 180,
+          "by": "sewing"
+        },
+        {
+          "name": "Оверлок",
+          "rate": 60,
+          "by": "sewing"
+        },
+        {
+          "name": "ВТО",
+          "rate": 20,
+          "by": "sewing"
+        },
+        {
+          "name": "ОТК и упаковка",
+          "rate": 15,
+          "by": "sewing"
+        }
+      ]
+    },
+    "svitshot-sand": {
+      "materials": {
+        "fleece": 1.5,
+        "thread": 0.3,
+        "label": 1,
+        "bag": 1
+      },
+      "operations": [
+        {
+          "name": "Раскрой",
+          "rate": 40,
+          "by": "cutter"
+        },
+        {
+          "name": "Пошив",
+          "rate": 180,
+          "by": "sewing"
+        },
+        {
+          "name": "Оверлок",
+          "rate": 60,
+          "by": "sewing"
+        },
+        {
+          "name": "ВТО",
+          "rate": 20,
+          "by": "sewing"
+        },
+        {
+          "name": "ОТК и упаковка",
+          "rate": 15,
+          "by": "sewing"
+        }
+      ]
+    },
+    "svitshot-indigo": {
+      "materials": {
+        "fleece": 1.5,
+        "thread": 0.3,
+        "label": 1,
+        "bag": 1
+      },
+      "operations": [
+        {
+          "name": "Раскрой",
+          "rate": 40,
+          "by": "cutter"
+        },
+        {
+          "name": "Пошив",
+          "rate": 180,
+          "by": "sewing"
+        },
+        {
+          "name": "Оверлок",
+          "rate": 60,
+          "by": "sewing"
+        },
+        {
+          "name": "ВТО",
+          "rate": 20,
+          "by": "sewing"
+        },
+        {
+          "name": "ОТК и упаковка",
+          "rate": 15,
+          "by": "sewing"
+        }
+      ]
+    },
+    "hudi": {
+      "materials": {
+        "fleece": 1.9,
+        "thread": 0.3,
+        "label": 1,
+        "bag": 1
+      },
+      "operations": [
+        {
+          "name": "Раскрой",
+          "rate": 40,
+          "by": "cutter"
+        },
+        {
+          "name": "Пошив",
+          "rate": 180,
+          "by": "sewing"
+        },
+        {
+          "name": "Оверлок",
+          "rate": 60,
+          "by": "sewing"
+        },
+        {
+          "name": "ВТО",
+          "rate": 20,
+          "by": "sewing"
+        },
+        {
+          "name": "ОТК и упаковка",
+          "rate": 15,
+          "by": "sewing"
+        }
+      ]
+    },
+    "longsliv": {
+      "materials": {
+        "ribana": 1.2,
+        "thread": 0.3,
+        "label": 1,
+        "bag": 1
+      },
+      "operations": [
+        {
+          "name": "Раскрой",
+          "rate": 40,
+          "by": "cutter"
+        },
+        {
+          "name": "Пошив",
+          "rate": 180,
+          "by": "sewing"
+        },
+        {
+          "name": "Оверлок",
+          "rate": 60,
+          "by": "sewing"
+        },
+        {
+          "name": "ВТО",
+          "rate": 20,
+          "by": "sewing"
+        },
+        {
+          "name": "ОТК и упаковка",
+          "rate": 15,
+          "by": "sewing"
+        }
+      ]
+    },
+    "futbolka": {
+      "materials": {
+        "jersey": 1.1,
+        "thread": 0.3,
+        "label": 1,
+        "bag": 1
+      },
+      "operations": [
+        {
+          "name": "Раскрой",
+          "rate": 40,
+          "by": "cutter"
+        },
+        {
+          "name": "Пошив",
+          "rate": 180,
+          "by": "sewing"
+        },
+        {
+          "name": "Оверлок",
+          "rate": 60,
+          "by": "sewing"
+        },
+        {
+          "name": "ВТО",
+          "rate": 20,
+          "by": "sewing"
+        },
+        {
+          "name": "ОТК и упаковка",
+          "rate": 15,
+          "by": "sewing"
+        }
+      ]
+    },
+    "futbolka-black": {
+      "materials": {
+        "jersey": 1.1,
+        "thread": 0.3,
+        "label": 1,
+        "bag": 1
+      },
+      "operations": [
+        {
+          "name": "Раскрой",
+          "rate": 40,
+          "by": "cutter"
+        },
+        {
+          "name": "Пошив",
+          "rate": 180,
+          "by": "sewing"
+        },
+        {
+          "name": "Оверлок",
+          "rate": 60,
+          "by": "sewing"
+        },
+        {
+          "name": "ВТО",
+          "rate": 20,
+          "by": "sewing"
+        },
+        {
+          "name": "ОТК и упаковка",
+          "rate": 15,
+          "by": "sewing"
+        }
+      ]
+    },
+    "kardigan": {
+      "materials": {
+        "merino": 1.6,
+        "thread": 0.3,
+        "label": 1,
+        "bag": 1
+      },
+      "operations": [
+        {
+          "name": "Раскрой",
+          "rate": 40,
+          "by": "cutter"
+        },
+        {
+          "name": "Пошив",
+          "rate": 180,
+          "by": "sewing"
+        },
+        {
+          "name": "Оверлок",
+          "rate": 60,
+          "by": "sewing"
+        },
+        {
+          "name": "ВТО",
+          "rate": 20,
+          "by": "sewing"
+        },
+        {
+          "name": "ОТК и упаковка",
+          "rate": 15,
+          "by": "sewing"
+        }
+      ]
+    },
+    "dzhemper": {
+      "materials": {
+        "wool": 1.5,
+        "thread": 0.3,
+        "label": 1,
+        "bag": 1
+      },
+      "operations": [
+        {
+          "name": "Раскрой",
+          "rate": 40,
+          "by": "cutter"
+        },
+        {
+          "name": "Пошив",
+          "rate": 180,
+          "by": "sewing"
+        },
+        {
+          "name": "Оверлок",
+          "rate": 60,
+          "by": "sewing"
+        },
+        {
+          "name": "ВТО",
+          "rate": 20,
+          "by": "sewing"
+        },
+        {
+          "name": "ОТК и упаковка",
+          "rate": 15,
+          "by": "sewing"
+        }
+      ]
+    },
+    "zhaket": {
+      "materials": {
+        "wool": 1.9,
+        "thread": 0.4,
+        "buttons": 6,
+        "interfacing": 1,
+        "label": 1,
+        "bag": 1,
+        "lining": 2.2
+      },
+      "operations": [
+        {
+          "name": "Раскрой",
+          "rate": 120,
+          "by": "cutter"
+        },
+        {
+          "name": "Пошив",
+          "rate": 650,
+          "by": "sewing"
+        },
+        {
+          "name": "Оверлок",
+          "rate": 60,
+          "by": "sewing"
+        },
+        {
+          "name": "Петли и пуговицы",
+          "rate": 60,
+          "by": "sewing"
+        },
+        {
+          "name": "ВТО",
+          "rate": 90,
+          "by": "sewing"
+        },
+        {
+          "name": "ОТК и упаковка",
+          "rate": 25,
+          "by": "sewing"
+        }
+      ]
+    },
+    "zhaket-sand": {
+      "materials": {
+        "wool": 1.9,
+        "thread": 0.4,
+        "buttons": 6,
+        "interfacing": 1,
+        "label": 1,
+        "bag": 1,
+        "lining": 2.2
+      },
+      "operations": [
+        {
+          "name": "Раскрой",
+          "rate": 120,
+          "by": "cutter"
+        },
+        {
+          "name": "Пошив",
+          "rate": 650,
+          "by": "sewing"
+        },
+        {
+          "name": "Оверлок",
+          "rate": 60,
+          "by": "sewing"
+        },
+        {
+          "name": "Петли и пуговицы",
+          "rate": 60,
+          "by": "sewing"
+        },
+        {
+          "name": "ВТО",
+          "rate": 90,
+          "by": "sewing"
+        },
+        {
+          "name": "ОТК и упаковка",
+          "rate": 25,
+          "by": "sewing"
+        }
+      ]
+    },
+    "trench": {
+      "materials": {
+        "gabardine": 3.2,
+        "thread": 0.4,
+        "buttons": 6,
+        "interfacing": 1,
+        "label": 1,
+        "bag": 1,
+        "lining": 2.2
+      },
+      "operations": [
+        {
+          "name": "Раскрой",
+          "rate": 120,
+          "by": "cutter"
+        },
+        {
+          "name": "Пошив",
+          "rate": 650,
+          "by": "sewing"
+        },
+        {
+          "name": "Оверлок",
+          "rate": 60,
+          "by": "sewing"
+        },
+        {
+          "name": "Петли и пуговицы",
+          "rate": 60,
+          "by": "sewing"
+        },
+        {
+          "name": "ВТО",
+          "rate": 90,
+          "by": "sewing"
+        },
+        {
+          "name": "ОТК и упаковка",
+          "rate": 25,
+          "by": "sewing"
+        }
+      ]
+    },
+    "trench-black": {
+      "materials": {
+        "gabardine": 3.2,
+        "thread": 0.4,
+        "buttons": 6,
+        "interfacing": 1,
+        "label": 1,
+        "bag": 1,
+        "lining": 2.2
+      },
+      "operations": [
+        {
+          "name": "Раскрой",
+          "rate": 120,
+          "by": "cutter"
+        },
+        {
+          "name": "Пошив",
+          "rate": 650,
+          "by": "sewing"
+        },
+        {
+          "name": "Оверлок",
+          "rate": 60,
+          "by": "sewing"
+        },
+        {
+          "name": "Петли и пуговицы",
+          "rate": 60,
+          "by": "sewing"
+        },
+        {
+          "name": "ВТО",
+          "rate": 90,
+          "by": "sewing"
+        },
+        {
+          "name": "ОТК и упаковка",
+          "rate": 25,
+          "by": "sewing"
+        }
+      ]
+    },
+    "palto": {
+      "materials": {
+        "wool": 3.4,
+        "thread": 0.4,
+        "buttons": 6,
+        "interfacing": 1,
+        "label": 1,
+        "bag": 1,
+        "lining": 2.2
+      },
+      "operations": [
+        {
+          "name": "Раскрой",
+          "rate": 120,
+          "by": "cutter"
+        },
+        {
+          "name": "Пошив",
+          "rate": 650,
+          "by": "sewing"
+        },
+        {
+          "name": "Оверлок",
+          "rate": 60,
+          "by": "sewing"
+        },
+        {
+          "name": "Петли и пуговицы",
+          "rate": 60,
+          "by": "sewing"
+        },
+        {
+          "name": "ВТО",
+          "rate": 90,
+          "by": "sewing"
+        },
+        {
+          "name": "ОТК и упаковка",
+          "rate": 25,
+          "by": "sewing"
+        }
+      ]
+    },
+    "zhilet-udlinennyj": {
+      "materials": {
+        "wool": 1.8,
+        "thread": 0.4,
+        "buttons": 6,
+        "interfacing": 1,
+        "label": 1,
+        "bag": 1
+      },
+      "operations": [
+        {
+          "name": "Раскрой",
+          "rate": 120,
+          "by": "cutter"
+        },
+        {
+          "name": "Пошив",
+          "rate": 650,
+          "by": "sewing"
+        },
+        {
+          "name": "Оверлок",
+          "rate": 60,
+          "by": "sewing"
+        },
+        {
+          "name": "Петли и пуговицы",
+          "rate": 60,
+          "by": "sewing"
+        },
+        {
+          "name": "ВТО",
+          "rate": 90,
+          "by": "sewing"
+        },
+        {
+          "name": "ОТК и упаковка",
+          "rate": 25,
+          "by": "sewing"
+        }
+      ]
+    },
+    "bomber": {
+      "materials": {
+        "twill": 2.0,
+        "thread": 0.4,
+        "buttons": 6,
+        "interfacing": 1,
+        "label": 1,
+        "bag": 1,
+        "lining": 2.2
+      },
+      "operations": [
+        {
+          "name": "Раскрой",
+          "rate": 120,
+          "by": "cutter"
+        },
+        {
+          "name": "Пошив",
+          "rate": 650,
+          "by": "sewing"
+        },
+        {
+          "name": "Оверлок",
+          "rate": 60,
+          "by": "sewing"
+        },
+        {
+          "name": "Петли и пуговицы",
+          "rate": 60,
+          "by": "sewing"
+        },
+        {
+          "name": "ВТО",
+          "rate": 90,
+          "by": "sewing"
+        },
+        {
+          "name": "ОТК и упаковка",
+          "rate": 25,
+          "by": "sewing"
+        }
+      ]
+    },
+    "plash-lnyanoj": {
+      "materials": {
+        "linen": 3.0,
+        "thread": 0.4,
+        "buttons": 6,
+        "interfacing": 1,
+        "label": 1,
+        "bag": 1
+      },
+      "operations": [
+        {
+          "name": "Раскрой",
+          "rate": 120,
+          "by": "cutter"
+        },
+        {
+          "name": "Пошив",
+          "rate": 650,
+          "by": "sewing"
+        },
+        {
+          "name": "Оверлок",
+          "rate": 60,
+          "by": "sewing"
+        },
+        {
+          "name": "Петли и пуговицы",
+          "rate": 60,
+          "by": "sewing"
+        },
+        {
+          "name": "ВТО",
+          "rate": 90,
+          "by": "sewing"
+        },
+        {
+          "name": "ОТК и упаковка",
+          "rate": 25,
+          "by": "sewing"
+        }
+      ]
+    },
+    "kostyum-bryuki": {
+      "materials": {
+        "wool": 3.4,
+        "thread": 0.45,
+        "buttons": 4,
+        "zip": 1,
+        "elastic": 0.8,
+        "label": 2,
+        "bag": 1
+      },
+      "operations": [
+        {
+          "name": "Раскрой",
+          "rate": 110,
+          "by": "cutter"
+        },
+        {
+          "name": "Пошив",
+          "rate": 520,
+          "by": "sewing"
+        },
+        {
+          "name": "Оверлок",
+          "rate": 90,
+          "by": "sewing"
+        },
+        {
+          "name": "ВТО",
+          "rate": 70,
+          "by": "sewing"
+        },
+        {
+          "name": "ОТК и упаковка",
+          "rate": 25,
+          "by": "sewing"
+        }
+      ]
+    },
+    "kostyum-yubka": {
+      "materials": {
+        "wool": 3.0,
+        "thread": 0.45,
+        "buttons": 4,
+        "zip": 1,
+        "elastic": 0.8,
+        "label": 2,
+        "bag": 1
+      },
+      "operations": [
+        {
+          "name": "Раскрой",
+          "rate": 110,
+          "by": "cutter"
+        },
+        {
+          "name": "Пошив",
+          "rate": 520,
+          "by": "sewing"
+        },
+        {
+          "name": "Оверлок",
+          "rate": 90,
+          "by": "sewing"
+        },
+        {
+          "name": "ВТО",
+          "rate": 70,
+          "by": "sewing"
+        },
+        {
+          "name": "ОТК и упаковка",
+          "rate": 25,
+          "by": "sewing"
+        }
+      ]
+    },
+    "kostyum-trikotazh": {
+      "materials": {
+        "merino": 3.0,
+        "thread": 0.45,
+        "buttons": 4,
+        "zip": 1,
+        "elastic": 0.8,
+        "label": 2,
+        "bag": 1
+      },
+      "operations": [
+        {
+          "name": "Раскрой",
+          "rate": 110,
+          "by": "cutter"
+        },
+        {
+          "name": "Пошив",
+          "rate": 520,
+          "by": "sewing"
+        },
+        {
+          "name": "Оверлок",
+          "rate": 90,
+          "by": "sewing"
+        },
+        {
+          "name": "ВТО",
+          "rate": 70,
+          "by": "sewing"
+        },
+        {
+          "name": "ОТК и упаковка",
+          "rate": 25,
+          "by": "sewing"
+        }
+      ]
+    },
+    "kostyum-len": {
+      "materials": {
+        "linen": 3.2,
+        "thread": 0.45,
+        "buttons": 4,
+        "zip": 1,
+        "elastic": 0.8,
+        "label": 2,
+        "bag": 1
+      },
+      "operations": [
+        {
+          "name": "Раскрой",
+          "rate": 110,
+          "by": "cutter"
+        },
+        {
+          "name": "Пошив",
+          "rate": 520,
+          "by": "sewing"
+        },
+        {
+          "name": "Оверлок",
+          "rate": 90,
+          "by": "sewing"
+        },
+        {
+          "name": "ВТО",
+          "rate": 70,
+          "by": "sewing"
+        },
+        {
+          "name": "ОТК и упаковка",
+          "rate": 25,
+          "by": "sewing"
+        }
+      ]
+    },
+    "kostyum-sportivnyj": {
+      "materials": {
+        "fleece": 3.2,
+        "thread": 0.45,
+        "buttons": 4,
+        "zip": 1,
+        "elastic": 0.8,
+        "label": 2,
+        "bag": 1
+      },
+      "operations": [
+        {
+          "name": "Раскрой",
+          "rate": 110,
+          "by": "cutter"
+        },
+        {
+          "name": "Пошив",
+          "rate": 520,
+          "by": "sewing"
+        },
+        {
+          "name": "Оверлок",
+          "rate": 90,
+          "by": "sewing"
+        },
+        {
+          "name": "ВТО",
+          "rate": 70,
+          "by": "sewing"
+        },
+        {
+          "name": "ОТК и упаковка",
+          "rate": 25,
+          "by": "sewing"
+        }
+      ]
+    },
+    "komplekt-domashnij": {
+      "materials": {
+        "jersey": 2.6,
+        "thread": 0.45,
+        "buttons": 4,
+        "zip": 1,
+        "elastic": 0.8,
+        "label": 2,
+        "bag": 1
+      },
+      "operations": [
+        {
+          "name": "Раскрой",
+          "rate": 110,
+          "by": "cutter"
+        },
+        {
+          "name": "Пошив",
+          "rate": 520,
+          "by": "sewing"
+        },
+        {
+          "name": "Оверлок",
+          "rate": 90,
+          "by": "sewing"
+        },
+        {
+          "name": "ВТО",
+          "rate": 70,
+          "by": "sewing"
+        },
+        {
+          "name": "ОТК и упаковка",
+          "rate": 25,
+          "by": "sewing"
+        }
+      ]
+    }
+  },
+  "people": [
+    {
+      "login": "saima-raskroj",
+      "name": "Жыпар Мамытова",
+      "title": {
+        "ru": "Закройщица",
+        "en": "Cutter",
+        "ar": "قاطعة الأقمشة"
+      },
+      "role": "storekeeper",
+      "salary": 15000,
+      "does": "cutter"
+    },
+    {
+      "login": "saima-shvea-1",
+      "name": "Гульнара Алымкулова",
+      "title": {
+        "ru": "Швея",
+        "en": "Seamstress",
+        "ar": "خياطة"
+      },
+      "role": "storekeeper",
+      "salary": 0,
+      "does": "sewing"
+    },
+    {
+      "login": "saima-shvea-2",
+      "name": "Назира Темирова",
+      "title": {
+        "ru": "Швея",
+        "en": "Seamstress",
+        "ar": "خياطة"
+      },
+      "role": "storekeeper",
+      "salary": 0,
+      "does": "sewing"
+    },
+    {
+      "login": "saima-shvea-3",
+      "name": "Чынара Абдылдаева",
+      "title": {
+        "ru": "Швея",
+        "en": "Seamstress",
+        "ar": "خياطة"
+      },
+      "role": "storekeeper",
+      "salary": 0,
+      "does": "sewing"
+    },
+    {
+      "login": "saima-shvea-4",
+      "name": "Венера Осмонова",
+      "title": {
+        "ru": "Швея",
+        "en": "Seamstress",
+        "ar": "خياطة"
+      },
+      "role": "storekeeper",
+      "salary": 0,
+      "does": "sewing"
+    },
+    {
+      "login": "saima-tehnolog",
+      "name": "Эльвира Каримова",
+      "title": {
+        "ru": "Технолог",
+        "en": "Technologist",
+        "ar": "تقنية الإنتاج"
+      },
+      "role": "storekeeper",
+      "salary": 32000
+    }
+  ],
+  "machines": [
+    {
+      "name": "Прямострочная машина Juki DDL-8700, №1",
+      "cost": 42000,
+      "life": 84
+    },
+    {
+      "name": "Прямострочная машина Juki DDL-8700, №2",
+      "cost": 42000,
+      "life": 84
+    },
+    {
+      "name": "Прямострочная машина Juki DDL-8700, №3",
+      "cost": 42000,
+      "life": 84
+    },
+    {
+      "name": "Прямострочная машина Juki DDL-8700, №4",
+      "cost": 42000,
+      "life": 84
+    },
+    {
+      "name": "Оверлок Jack E4, №1",
+      "cost": 36000,
+      "life": 84
+    },
+    {
+      "name": "Оверлок Jack E4, №2",
+      "cost": 36000,
+      "life": 84
+    },
+    {
+      "name": "Распошивальная машина Siruba F007",
+      "cost": 58000,
+      "life": 84
+    },
+    {
+      "name": "Петельный полуавтомат Brother HE-800",
+      "cost": 95000,
+      "life": 96
+    },
+    {
+      "name": "Раскройный стол 3 м",
+      "cost": 24000,
+      "life": 120
+    },
+    {
+      "name": "Парогенератор с утюжильным столом",
+      "cost": 31000,
+      "life": 60
+    },
+    {
+      "name": "Прямострочная машина Juki DDL-5550, старая",
+      "cost": 28000,
+      "life": 84,
+      "owned": {
+        "worn": 21000
+      },
+      "sold": {
+        "days": 75,
+        "amount": 12000
+      }
+    },
+    {
+      "name": "Оверлок Siruba 747, старый",
+      "cost": 24000,
+      "life": 84,
+      "owned": {
+        "worn": 15000
+      },
+      "scrapped": {
+        "days": 110
+      }
+    }
+  ],
+  "monthly": [
+    {
+      "party": {
+        "name": "ОсОО «Ак-Ордо Текстиль Парк»",
+        "phone": "+996312541870",
+        "address": "Бишкек, ул. Льва Толстого, 36/1",
+        "note": "Аренда цеха 180 м², второй этаж"
+      },
+      "account": {
+        "key": "rent"
+      },
+      "amount": 55000,
+      "day": 1,
+      "pay": 5,
+      "note": "Аренда цеха"
+    },
+    {
+      "party": {
+        "name": "ОАО «Северэлектро»",
+        "phone": "+996312611000",
+        "address": "Бишкек, ул. Жибек Жолу, 504"
+      },
+      "account": {
+        "name": "Электроэнергия"
+      },
+      "amount": 9500,
+      "swing": 0.15,
+      "day": 25,
+      "pay": 28,
+      "note": "Электроэнергия цеха"
+    }
+  ],
+  "taxes": [
+    {
+      "kind": "turnover",
+      "name": "Единый налог",
+      "rate": 4,
+      "basis": "accrual",
+      "dueDay": 20
+    },
+    {
+      "kind": "social",
+      "name": "Соцфонд — работодатель",
+      "rate": 17.25,
+      "dueDay": 20
+    },
+    {
+      "kind": "withheld",
+      "name": "Соцфонд — работник",
+      "rate": 10,
+      "dueDay": 20
+    },
+    {
+      "kind": "income",
+      "name": "Подоходный налог",
+      "rate": 10,
+      "amount": 650,
+      "dueDay": 20
+    }
+  ],
+  "mistakes": {
+    "arrival": {
+      "paper": 3,
+      "factor": 10,
+      "reason": "Цена набрана с лишним нулём — накладная введена заново"
+    }
+  },
+  "payday": 5,
+  "opened": "Сшито до учёта в Anavi",
+  "benches": [
+    {
+      "item": "yubka-midi",
+      "pick": 1,
+      "qty": 10,
+      "days": 4,
+      "void": "Ткань пришла другого оттенка, чем в образце: партию перекроят из новой поставки"
+    },
+    {
+      "item": "palto",
+      "pick": 2,
+      "qty": 6,
+      "days": 0
+    }
+  ]
+}

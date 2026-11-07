@@ -1,0 +1,1648 @@
+{
+  "shelf": "posudomoechnye-mashiny",
+  "slug": "posudomoechnaya-mashina-midea-mfd45s150wi",
+  "product": {
+    "id": "703344",
+    "article": "158871",
+    "slug": "posudomoechnaya-mashina-midea-mfd45s150wi",
+    "hasSmartInstallments": false,
+    "isActive": true,
+    "name": {
+      "default": "Midea MFD45S150Wi",
+      "full": "Посудомоечная машина Midea MFD45S150Wi",
+      "pseudo": null,
+      "spare": null,
+      "fullWithoutSection": "Midea MFD45S150Wi",
+      "section": "Посудомоечная машина",
+      "__typename": "ProductName"
+    },
+    "price": {
+      "default": 28690,
+      "marketing": null,
+      "old": 33990,
+      "__typename": "ProductPrice"
+    },
+    "benefit": 5300,
+    "specifications": {
+      "short": [
+        {
+          "name": "Вид сушки",
+          "value": "конденсационный",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Загрузка",
+          "value": "10 комплектов",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Количество программ",
+          "value": "9",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Высота",
+          "value": "84.5 см",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Ширина",
+          "value": "44.8 см",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "__typename": "ProductV2Specifications"
+    },
+    "labels": [
+      {
+        "name": "Бонусы Спасибо",
+        "type": "sberspasibo",
+        "items": [
+          {
+            "description": "",
+            "name": "Этот товар можно оплатить бонусами Спасибо от СберБанка",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Выгодное предложение",
+        "type": "special_offer",
+        "items": [
+          {
+            "description": "",
+            "name": "Техника и электроника",
+            "url": "/action/vygodnaya-tsena/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Рассрочка",
+        "type": "deferred_payment",
+        "items": [
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-12",
+            "url": "/posudomoechnaya-mashina-midea-mfd45s150wi/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-6",
+            "url": "/posudomoechnaya-mashina-midea-mfd45s150wi/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-6",
+            "url": "/posudomoechnaya-mashina-midea-mfd45s150wi/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      }
+    ],
+    "labelsV2": [
+      {
+        "id": "14",
+        "name": "-15% на технику",
+        "code": "15-na-tekhniku",
+        "mainColor": "#F54B4B",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#FFFFFF",
+        "altTextColor": "#F54B4B",
+        "borderAndTextColor": "#F54B4B",
+        "items": [
+          {
+            "id": "155926",
+            "text": "Выгода при покупке крупной бытовой техники",
+            "buttonText": "Подробнее",
+            "url": "/action/vygoda-pri-pokupke-krupnoy-bytovoy-tekhniki/",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      },
+      {
+        "id": "8",
+        "name": "Бонусы Спасибо",
+        "code": "sberspasibo",
+        "mainColor": "#0C9C0C",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#0C9C0C",
+        "altTextColor": "#FFFFFF",
+        "borderAndTextColor": "#0C9C0C",
+        "items": [
+          {
+            "id": "34060",
+            "text": "Этот товар можно оплатить бонусами Спасибо от СберБанка ",
+            "buttonText": "Подробнее",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      },
+      {
+        "id": "5",
+        "name": "Выгода",
+        "code": "vygoda",
+        "mainColor": "#fd9600",
+        "mainTextColor": "#ffffff",
+        "altColor": "#fd9600",
+        "altTextColor": "#ffffff",
+        "borderAndTextColor": "#fd9600",
+        "items": [
+          {
+            "id": "838",
+            "text": "Выгодное предложение",
+            "buttonText": "Подробнее",
+            "url": "/action/vygodnaya-tsena/",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      }
+    ],
+    "status": {
+      "id": "IN_STOCK",
+      "name": "В наличии",
+      "type": "POSITIVE",
+      "__typename": "ProductStatus"
+    },
+    "brand": {
+      "code": "midea",
+      "id": "40383",
+      "name": "Midea",
+      "src": "https://cdn1.technopark.ru/technopark/photos_resized/section_brand_300_100/300_100/40383/1_40383.png",
+      "slug": "midea",
+      "sections": [
+        {
+          "name": "Все пылесосы Midea",
+          "url": "/pylesosy/midea/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/966200394/technopark/photos_resized/product/120_120/764402/1_764402.jpg?timestamp=2024-10-22_14-20-36",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3617156454/technopark/photos_resized/product/120_120/764402/2_764402.jpg?timestamp=2024-10-22_14-20-37",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3897931523/technopark/photos_resized/product/120_120/764402/3_764402.jpg?timestamp=2024-10-22_14-21-04",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1078703342/technopark/photos_resized/product/120_120/764402/4_764402.jpg?timestamp=2024-10-22_14-20-38",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3804417021/technopark/photos_resized/product/120_120/764402/5_764402.jpg?timestamp=2024-10-22_14-20-45",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2694733296/technopark/photos_resized/product/120_120/764402/6_764402.jpg?timestamp=2024-10-22_14-20-37",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3723078069/technopark/photos_resized/product/120_120/764402/7_764402.jpg?timestamp=2024-10-22_14-20-51",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2672986005/technopark/photos_resized/product/120_120/764402/8_764402.jpg?timestamp=2024-10-22_14-21-04",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/870828185/technopark/photos_resized/product/120_120/764402/9_764402.jpg?timestamp=2024-10-22_14-20-51",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/764493249/technopark/photos_resized/product/120_120/764402/10_764402.jpg?timestamp=2024-10-22_14-20-49",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1155594255/technopark/photos_resized/product/120_120/764402/11_764402.jpg?timestamp=2024-10-22_14-20-51",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1749538808/technopark/photos_resized/product/120_120/764402/12_764402.jpg?timestamp=2024-10-22_14-21-02",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3868081969/technopark/photos_resized/product/120_120/764402/13_764402.jpg?timestamp=2024-10-22_14-21-06",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Микроволновые печи Midea",
+          "url": "/mikrovolnovye-pechi/midea/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3442564709/technopark/photos_resized/product/120_120/802804/1_802804.jpg?timestamp=2025-09-16_10-31-35",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/985904677/technopark/photos_resized/product/120_120/802804/2_802804.jpg?timestamp=2025-09-16_10-31-37",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/591347529/technopark/photos_resized/product/120_120/802804/3_802804.jpg?timestamp=2025-09-16_10-31-35",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3395066492/technopark/photos_resized/product/120_120/802804/4_802804.jpg?timestamp=2025-09-16_10-31-34",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Чайники электрические Midea",
+          "url": "/chayniki/midea/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3146537034/technopark/photos_resized/product/120_120/802833/1_802833.jpg?timestamp=2025-09-16_14-28-59",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1434597734/technopark/photos_resized/product/120_120/802833/2_802833.jpg?timestamp=2025-09-16_14-28-58",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/579144176/technopark/photos_resized/product/120_120/802833/3_802833.jpg?timestamp=2025-09-16_14-28-58",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/636014057/technopark/photos_resized/product/120_120/802833/4_802833.jpg?timestamp=2025-09-16_14-28-59",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3431688412/technopark/photos_resized/product/120_120/802833/5_802833.jpg?timestamp=2025-09-16_14-28-59",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Вытяжки встраиваемые Midea",
+          "url": "/vstraivaemye-vytyazhki/midea/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1228303280/technopark/photos_resized/product/120_120/832678/1_832678.jpg?timestamp=2026-06-01_14-39-25",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2928559799/technopark/photos_resized/product/120_120/832678/2_832678.jpg?timestamp=2026-06-01_14-39-25",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1593234115/technopark/photos_resized/product/120_120/832678/3_832678.jpg?timestamp=2026-06-01_14-39-25",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1318012520/technopark/photos_resized/product/120_120/832678/4_832678.jpg?timestamp=2026-06-01_14-39-29",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4113455574/technopark/photos_resized/product/120_120/832678/5_832678.jpg?timestamp=2026-06-01_14-39-28",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/703717973/technopark/photos_resized/product/120_120/832678/6_832678.jpg?timestamp=2026-06-01_14-39-25",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/455096570/technopark/photos_resized/product/120_120/832678/7_832678.jpg?timestamp=2026-06-01_14-39-28",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2817319773/technopark/photos_resized/product/120_120/832678/8_832678.jpg?timestamp=2026-06-01_14-39-29",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1043421990/technopark/photos_resized/product/120_120/832678/9_832678.jpg?timestamp=2026-06-01_14-39-25",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1055240935/technopark/photos_resized/product/120_120/832678/10_832678.jpg?timestamp=2026-06-01_14-39-29",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3806179657/technopark/photos_resized/product/120_120/832678/11_832678.jpg?timestamp=2026-06-01_14-39-31",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Морозильные камеры встраиваемые Midea",
+          "url": "/vstraivaemye-morozilnye-kamery/midea/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/4074042652/technopark/photos_resized/product/120_120/719527/1_719527.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2355464609/technopark/photos_resized/product/120_120/719527/2_719527.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2961728273/technopark/photos_resized/product/120_120/719527/3_719527.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3970039876/technopark/photos_resized/product/120_120/719527/4_719527.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1925617127/technopark/photos_resized/product/120_120/719527/5_719527.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3752964316/technopark/photos_resized/product/120_120/719527/6_719527.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1326361933/technopark/photos_resized/product/120_120/719527/7_719527.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Стиральные машины встраиваемые Midea",
+          "url": "/vstraivaemye-stiralnye-mashiny/midea/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1584106284/technopark/photos_resized/product/120_120/824506/1_824506.jpg?timestamp=2026-03-16_15-38-37",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3345144470/technopark/photos_resized/product/120_120/824506/2_824506.jpg?timestamp=2026-03-16_15-38-37",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/694991802/technopark/photos_resized/product/120_120/824506/3_824506.jpg?timestamp=2026-03-16_15-38-37",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2959469056/technopark/photos_resized/product/120_120/824506/4_824506.jpg?timestamp=2026-03-16_15-38-37",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2606221980/technopark/photos_resized/product/120_120/824506/5_824506.jpg?timestamp=2026-03-16_15-38-44",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3946659347/technopark/photos_resized/product/120_120/824506/6_824506.jpg?timestamp=2026-03-16_15-38-43",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1051460297/technopark/photos_resized/product/120_120/824506/7_824506.jpg?timestamp=2026-03-16_15-38-37",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Все аксессуары Midea",
+          "url": "/aksessuary-krupnaya-bytovaya-tehnika/midea/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3138764650/technopark/photos_resized/product/120_120/833080/1_833080.jpg?timestamp=2026-06-05_16-43-51",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/628173513/technopark/photos_resized/product/120_120/833080/2_833080.jpg?timestamp=2026-06-05_16-43-52",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1383471711/technopark/photos_resized/product/120_120/833080/3_833080.jpg?timestamp=2026-06-05_16-43-51",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1004562364/technopark/photos_resized/product/120_120/833080/4_833080.jpg?timestamp=2026-06-05_16-43-51",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3696773819/technopark/photos_resized/product/120_120/833080/5_833080.jpg?timestamp=2026-06-05_16-43-51",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Мульти сплит-системы Midea",
+          "url": "/multisplit-sistemy/midea/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/132096095/technopark/photos_resized/product/120_120/791794/1_791794.jpg?timestamp=2025-06-05_09-45-26",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2664886757/technopark/photos_resized/product/120_120/791794/2_791794.jpg?timestamp=2025-06-05_09-45-26",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4005299562/technopark/photos_resized/product/120_120/791794/3_791794.jpg?timestamp=2025-06-05_09-45-26",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1893241033/technopark/photos_resized/product/120_120/791794/4_791794.jpg?timestamp=2025-06-05_09-45-26",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2579183100/technopark/photos_resized/product/120_120/791794/5_791794.jpg?timestamp=2025-06-05_09-45-26",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2479616303/technopark/photos_resized/product/120_120/791794/6_791794.jpg?timestamp=2025-06-05_09-45-38",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1672701275/technopark/photos_resized/product/120_120/791794/7_791794.jpg?timestamp=2025-06-05_09-45-44",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Стиральные машины с сушкой Midea",
+          "url": "/stiralno-sushilnye-mashiny/midea/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1155282215/technopark/photos_resized/product/120_120/832781/1_832781.jpg?timestamp=2026-06-02_16-22-39",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/884392360/technopark/photos_resized/product/120_120/832781/2_832781.jpg?timestamp=2026-06-02_16-22-39",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3669532804/technopark/photos_resized/product/120_120/832781/3_832781.jpg?timestamp=2026-06-02_16-22-39",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2477858880/technopark/photos_resized/product/120_120/832781/4_832781.jpg?timestamp=2026-06-02_16-22-42",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/179859962/technopark/photos_resized/product/120_120/832781/5_832781.jpg?timestamp=2026-06-02_16-22-42",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2915012626/technopark/photos_resized/product/120_120/832781/6_832781.jpg?timestamp=2026-06-02_16-22-39",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1135735102/technopark/photos_resized/product/120_120/832781/7_832781.jpg?timestamp=2026-06-02_16-22-39",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        }
+      ],
+      "__typename": "Brand"
+    },
+    "section": {
+      "slug": "posudomoechnye-mashiny",
+      "id": "920",
+      "name": "Посудомоечные машины",
+      "parents": [
+        {
+          "id": "877",
+          "name": "Крупная бытовая",
+          "depth": 1,
+          "__typename": "SectionTreeItem"
+        },
+        {
+          "id": "920",
+          "name": "Посудомоечные машины",
+          "depth": 2,
+          "__typename": "SectionTreeItem"
+        }
+      ],
+      "__typename": "Section"
+    },
+    "media": {
+      "gallery": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/703344/1_703344.jpg?timestamp=2025-05-15_08-32-26",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/703344/2_703344.jpg?timestamp=2025-05-15_08-32-26",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/703344/3_703344.jpg?timestamp=2025-05-15_08-32-37",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/703344/4_703344.jpg?timestamp=2025-05-15_08-32-39",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/703344/5_703344.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/703344/6_703344.jpg?timestamp=2025-05-15_08-32-25",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/703344/7_703344.jpg?timestamp=2025-05-15_08-32-25",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/703344/8_703344.jpg?timestamp=2025-05-15_08-32-38",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/703344/9_703344.jpg?timestamp=2025-05-15_08-32-37",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/703344/10_703344.jpg?timestamp=2025-05-15_08-32-37",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "interior": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior/1000_1000/703344/1_703344.jpg?timestamp=2025-05-15_08-32-50",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior/1000_1000/703344/2_703344.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior/1000_1000/703344/3_703344.jpg?timestamp=2025-05-15_08-32-51",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "video": [],
+      "vkVideo": null,
+      "view3d": [],
+      "listing": {
+        "default": [
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/703344/1_703344.jpg?timestamp=2025-05-15_08-32-30",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/703344/2_703344.jpg?timestamp=2025-05-15_08-32-30",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/703344/3_703344.jpg?timestamp=2025-05-15_08-32-42",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/703344/4_703344.jpg?timestamp=2025-05-15_08-32-43",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/703344/5_703344.jpg?timestamp=2025-05-15_08-32-28",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/703344/6_703344.jpg?timestamp=2025-05-15_08-32-28",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/703344/7_703344.jpg?timestamp=2025-05-15_08-32-30",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/703344/8_703344.jpg?timestamp=2025-05-15_08-32-43",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/703344/9_703344.jpg?timestamp=2025-05-15_08-32-42",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/703344/10_703344.jpg?timestamp=2025-05-15_08-32-42",
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "ProductListing"
+      },
+      "__typename": "ProductV2Media"
+    },
+    "modifications": {
+      "bigBrother": null,
+      "groups": [],
+      "__typename": "ProductModifications"
+    },
+    "description": {
+      "hasDescription": true,
+      "type": "RICH",
+      "__typename": "ProductDescription"
+    },
+    "collection": {
+      "id": "703344",
+      "products": {
+        "pagination": {
+          "total": 0,
+          "__typename": "Pagination"
+        },
+        "__typename": "ProductV2Pagination"
+      },
+      "__typename": "ProductCollection"
+    },
+    "similar": {
+      "pagination": {
+        "total": 19,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "related": {
+      "pagination": {
+        "total": 20,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "accessories": [
+      {
+        "products": {
+          "pagination": {
+            "total": 16,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      }
+    ],
+    "rating": {
+      "average": 5,
+      "canRate": false,
+      "total": {
+        "all": 5,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 5,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "reviews": {
+      "total": 5,
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "bestCredit": {
+      "monthPayment": 2391,
+      "type": "DEFERRED_PAYMENT",
+      "__typename": "ProductBestCredit"
+    },
+    "isSpare": false,
+    "isService": false,
+    "isVipService": false,
+    "isGiftBonusCard": false,
+    "canBuy": true,
+    "canPayOnline": true,
+    "canRequestPrice": false,
+    "canShowPrice": true,
+    "canSubscribe": false,
+    "needPrepaymentForDelivery": false,
+    "needPrepaymentForPreorder": false,
+    "isSberSpasiboPayAvailable": true,
+    "isYandexPayAllowed": false,
+    "yandexSplit": {
+      "payments": [
+        {
+          "amount": 0,
+          "date": "2026-08-17T09:00:04+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2400,
+          "date": "2026-08-31T09:00:04+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2390,
+          "date": "2026-09-14T09:00:04+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2390,
+          "date": "2026-09-28T09:00:04+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2390,
+          "date": "2026-10-12T09:00:04+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2390,
+          "date": "2026-10-26T09:00:04+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2390,
+          "date": "2026-11-09T09:00:04+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2390,
+          "date": "2026-11-23T09:00:04+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2390,
+          "date": "2026-12-07T09:00:04+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2390,
+          "date": "2026-12-21T09:00:04+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2390,
+          "date": "2027-01-04T09:00:04+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2390,
+          "date": "2027-01-18T09:00:04+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2390,
+          "date": "2027-02-01T09:00:04+0300",
+          "__typename": "YandexSplitPayment"
+        }
+      ],
+      "firstPayment": 0,
+      "restPayment": 28690,
+      "description": "https://yandex.ru/support/split/",
+      "maxAmount": 295000,
+      "__typename": "YandexSplit"
+    },
+    "seo": {
+      "description": "Посудомоечная машина Midea MFD45S150Wi: купить в интернет-магазине Технопарк с расширенной гарантией и бесплатной доставкой по РФ. Подробные характеристики товара с отзывами реальных покупателей.",
+      "text": "Вы можете купить посудомоечную машину Midea MFD45S150Wi с доставкой по Москве по низкой цене. В интернет-магазине Technopark.ru осуществляется продажа посудомоечной машины Midea MFD45S150Wi на выгодных условиях.",
+      "textHidden": "",
+      "title": "Посудомоечная машина Midea MFD45S150Wi - купить в Москве в интернет-магазине Технопарк",
+      "__typename": "SeoData"
+    },
+    "breadcrumbs": [
+      {
+        "name": "Главная",
+        "url": "/",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Крупная бытовая техника",
+        "url": "/krupnaya-bytovaya-tehnika/",
+        "options": [
+          {
+            "name": "Центр инноваций",
+            "url": "/tovary-iz-budushchego/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Смартфоны и гаджеты",
+            "url": "/smartfony-i-gadzhety/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Компьютеры и ноутбуки",
+            "url": "/kompyutery-i-noutbuki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Климатическая техника",
+            "url": "/klimaticheskaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Техника для кухни",
+            "url": "/dlya-kuhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Бытовая техника для дома",
+            "url": "/dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для красоты и здоровья",
+            "url": "/krasota-i-zdorovye/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Спортивные товары",
+            "url": "/trenazhery-dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Телевизоры Аудио Hi-Fi",
+            "url": "/audio-video-foto/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для сада, дома и ремонта",
+            "url": "/dlya-sada-doma-i-remonta/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посуда",
+            "url": "/posuda/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Детские товары",
+            "url": "/detskie-tovary/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для гейминга",
+            "url": "/gaming/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Плоттеры и услуги розницы",
+            "url": "//",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Запасные части",
+            "url": "/zapasnie-chasti/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Посудомоечные машины",
+        "url": "/posudomoechnye-mashiny/",
+        "options": [
+          {
+            "name": "Стиральные машины",
+            "url": "/stiralnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые варочные панели",
+            "url": "/vstraivaemye-varochnye-poverhnosti/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные плиты",
+            "url": "/plity/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Холодильники",
+            "url": "/holodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые духовые шкафы",
+            "url": "/vstraivaemye-duhovye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вытяжки для кухни",
+            "url": "/vytyazhki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые холодильники",
+            "url": "/vstraivaemye-holodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые винные шкафы",
+            "url": "/vstraivaemye-vinnye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые вытяжки для кухни",
+            "url": "/vstraivaemye-vytyazhki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые кофемашины",
+            "url": "/vstraivaemye-kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые морозильные камеры",
+            "url": "/vstraivaemye-morozilnye-kamery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые пароварки",
+            "url": "/vstraivaemye-parovarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые посудомоечные машины",
+            "url": "/vstraivaemye-posudomoechnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые стиральные машины",
+            "url": "/vstraivaemye-stiralnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Сушильные машины для белья",
+            "url": "/sushilnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые микроволновые печи",
+            "url": "/vstraivaemye-mikrovolnovye-pechi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Морозильные камеры",
+            "url": "/morozilnye-kamery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Винные шкафы",
+            "url": "/vinnye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые шкафы для подогрева",
+            "url": "/shkafy-dlya-podogreva-posudy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Стиральные машины с функцией сушки (2 в 1)",
+            "url": "/stiralno-sushilnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые вакууматоры",
+            "url": "/vakuumatory/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Измельчители пищевых отходов",
+            "url": "/vstraivaemye-izmelchiteli-pischevyh-othodov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Автохолодильники",
+            "url": "/avtoholodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для крупной бытовой техники",
+            "url": "/aksessuary-krupnaya-bytovaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для холодильников",
+            "url": "/aksessuary-krupnaya-bytovaya-tehnika/filt_naznachenie-k_holodilnikam/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для автохолодильников",
+            "url": "/aksessuary-dlya-avtokholodilnikov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Хьюмидоры",
+            "url": "/khyumidory/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Посудомоечные машины Midea",
+        "url": "/posudomoechnye-mashiny/midea/",
+        "options": [
+          {
+            "name": "Korting",
+            "url": "/posudomoechnye-mashiny/korting/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Maunfeld",
+            "url": "/posudomoechnye-mashiny/maunfeld/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Bosch",
+            "url": "/posudomoechnye-mashiny/bosch/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Beko",
+            "url": "/posudomoechnye-mashiny/beko/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Electrolux",
+            "url": "/posudomoechnye-mashiny/electrolux/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Toshiba",
+            "url": "/posudomoechnye-mashiny/toshiba/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Hotpoint",
+            "url": "/posudomoechnye-mashiny/hotpoint/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Asko",
+            "url": "/posudomoechnye-mashiny/asko/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Midea MFD45S150Wi",
+        "url": "posudomoechnaya-mashina-midea-mfd45s150wi",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      }
+    ],
+    "isArchive": false,
+    "__typename": "ProductV2",
+    "isSberPayOneClickAllowed": false,
+    "isTinkoffPayOneClickAllowed": false,
+    "bonus": null
+  },
+  "details": {
+    "description": "<div id=\"stream24-inpage\"></div> <script> (function (w, d, s, o) {   var f = d.getElementsByTagName(s)[0];   var j = d.createElement(s);   w.TTLStreamReady = new Promise((resolve) => {     j.async = true;     j.src = 'https://content.24ttl.stream/widget.js';     f.parentNode.insertBefore(j, f);     j.onload = function () {       w.ttlStream = new TTLStream(o);       resolve(w.ttlStream);     };   }); })(window, document, 'script', {}); </script> <script> var styleElement = document.createElement('style');  styleElement.innerHTML = \"body #stream24-inpage #stream-container *{ font-family: 'DINPro Technopark' !important; }\"; document.getElementsByTagName(\"head\")[0].appendChild(styleElement);  TTLStreamReady.then(() => {   ttlStream.findAndInsert({     el: '#stream24-inpage',     brand: 'midea',     productId: '4657804510073',     retailerDomain: 'www.technopark.ru',     templateType: 'master_template',     resultType: 'html',     contentType: 'minisite'   }); }); </script>",
+    "descriptionType": "RICH_STREAM_24",
+    "descriptionBarcode": "4657804510073",
+    "descriptionBrand": "Midea",
+    "specifications": {
+      "short": [
+        {
+          "name": "Вид сушки",
+          "value": "конденсационный",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Загрузка",
+          "value": "10 комплектов",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Количество программ",
+          "value": "9",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Высота",
+          "value": "84.5 см",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Ширина",
+          "value": "44.8 см",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "barcode": "4657804510073",
+      "country": "Китай",
+      "full": [
+        {
+          "name": "Основные характеристики",
+          "list": [
+            {
+              "name": "Установка",
+              "value": "отдельностоящая",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Конструкция",
+              "value": "узкая",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вид сушки",
+              "value": "конденсационный",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Загрузка",
+              "value": "10 комплектов",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип двигателя",
+              "value": "коллекторный",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Управление",
+          "list": [
+            {
+              "name": "Тип управления",
+              "value": "электронное",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Переключатели",
+              "value": "кнопочные",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество программ",
+              "value": "9",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Программы",
+              "value": "стандартная, Cloud Wash, 90 мин, быстрая 30 мин, стекло 40 °C, ночная, Hygiene Care+",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Экономичная программа",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Интенсивная мойка",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дополнительные программы",
+              "value": "Extra Drying, зональная мойка",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Класс мойки",
+              "value": "A",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Класс сушки",
+              "value": "A",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Управление c мобильного устройства",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Поддержка мобильного приложения",
+              "value": "SmartHome",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Поддержка Wi-Fi",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Температурные режимы",
+          "list": [
+            {
+              "name": "Температурные режимы",
+              "value": "40, 45, 50, 60, 65, 72 °С",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная температура воды",
+              "value": "72 °С",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество температурных режимов",
+              "value": "6",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Дисплей",
+          "list": [
+            {
+              "name": "Функции дисплея",
+              "value": "программирование отсрочки включения, отображение времени до окончания цикла, индикация",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Таймер",
+          "list": [
+            {
+              "name": "Таймер отсрочки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальное время отсрочки",
+              "value": "12 ч",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Индикация",
+          "list": [
+            {
+              "name": "Индикация режимов работы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет индикации",
+              "value": "белый",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Звуковой сигнал завершения программы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикатор отсутствия соли",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикатор отсутствия ополаскивателя",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Защита и безопасность",
+          "list": [
+            {
+              "name": "Защита от протечек",
+              "value": "полная",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Технология защиты от протечки",
+              "value": "Aqua Stop",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Защита от детей",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Энергопотребление",
+          "list": [
+            {
+              "name": "Класс энергопотребления",
+              "value": "A",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная потребляемая мощность",
+              "value": "2100 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Энергопотребление за цикл",
+              "value": "0.8 кВт/ч",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Напряжение",
+              "value": "220-240 В",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Сетевой кабель",
+              "value": "1.5 м",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Отделения",
+          "list": [
+            {
+              "name": "Количество корзин",
+              "value": "3",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Регулировка высоты корзины",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Корзина для столовых приборов",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Полка для чашек",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Откидная полка для чашек",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Особенности конструкции",
+          "list": [
+            {
+              "name": "Проточный водонагреватель",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Верхний разбрызгиватель",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество разбрызгивателей",
+              "value": "2",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Возможность сокращения программы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Мытье тонкого стекла",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Уровень шума",
+              "value": "49 дБ",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Расход воды за цикл",
+              "value": "8 л",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Использование средств 3 в 1",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Режим половинной загрузки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дополнительная информация",
+              "value": "антибактериальный фильтр, работает с голосовым помощником Алисой, функция самоочистки",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Артикул производителя",
+              "value": "MFD45S150Wi",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Цвет и материал",
+          "list": [
+            {
+              "name": "Материал корпуса",
+              "value": "металл",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал внутренней камеры",
+              "value": "нержавеющая сталь",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет",
+              "value": "белый",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Комплектация",
+          "list": [
+            {
+              "name": "Заливной шланг",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Сливной шланг",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Инструкция",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Размеры и вес",
+          "list": [
+            {
+              "name": "Высота",
+              "value": "84.5 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ширина",
+              "value": "44.8 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Глубина",
+              "value": "60 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вес",
+              "value": "40 кг",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        }
+      ],
+      "grossWeight": "38",
+      "netWeight": "33",
+      "height": "0.89",
+      "instructionUrl": null,
+      "length": "0.5",
+      "schemeUrl": null,
+      "warranty": "24",
+      "width": "0.65",
+      "__typename": "ProductV2Specifications"
+    },
+    "certificates": [],
+    "isManufacturerCountry": false,
+    "isSellerWarranty": false,
+    "reviews": {
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "total": 5,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "rating": {
+      "average": 5,
+      "canRate": false,
+      "total": {
+        "all": 5,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 5,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "isLoading": false
+  },
+  "shots": [
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/703344/1_703344.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/703344/1_703344.jpg?timestamp=2025-05-15_08-32-26"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/703344/2_703344.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/703344/2_703344.jpg?timestamp=2025-05-15_08-32-26"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/703344/3_703344.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/703344/3_703344.jpg?timestamp=2025-05-15_08-32-37"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/703344/4_703344.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/703344/4_703344.jpg?timestamp=2025-05-15_08-32-39"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/703344/5_703344.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/703344/5_703344.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/703344/6_703344.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/703344/6_703344.jpg?timestamp=2025-05-15_08-32-25"
+    ]
+  ],
+  "photos": [
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/posudomoechnaya-mashina-midea-mfd45s150wi-1.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/posudomoechnaya-mashina-midea-mfd45s150wi-2.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/posudomoechnaya-mashina-midea-mfd45s150wi-3.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/posudomoechnaya-mashina-midea-mfd45s150wi-4.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/posudomoechnaya-mashina-midea-mfd45s150wi-5.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/posudomoechnaya-mashina-midea-mfd45s150wi-6.jpg"
+  ]
+}

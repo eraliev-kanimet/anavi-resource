@@ -1,0 +1,20 @@
+{
+  "name": "@anavi/resource",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "typecheck": "tsc --noEmit --incremental",
+    "lint:fix": "oxfmt --write seed demos/*/seed demos/watt/source && oxlint --fix seed demos/*/seed demos/watt/source"
+  },
+  "dependencies": {
+    "@anavi/backend": "link:@anavi/backend",
+    "@anavi/shared": "link:@anavi/shared"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.4.4",
+    "oxfmt": "^0.77.0",
+    "oxlint": "^1.92.0",
+    "typescript": "^7.0.2"
+  }
+}

@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Техника фронтально",
+    "extra": false,
+    "steps": [
+      {
+        "kind": "look",
+        "part": "brief",
+        "task": "",
+        "role": "text",
+        "when": "always"
+      },
+      {
+        "kind": "look",
+        "part": "anatomy",
+        "task": "Every burner and cooking plate, one by one: a gas burner with its cap and grid, or a round flat cast-iron electric plate, and where it is on the hob; every knob, button, display and lettering. A burner or plate covered by something standing on it — a kettle — is told by what shows of it at its edges and by its knob: a flat dark ring with no grid over it is an electric plate, and so is one whose knob is numbered 1, 2, 3; a knob with a flame mark runs a gas burner. Never guess a covered one to be like the others.",
+        "role": "look",
+        "when": "always"
+      },
+      {
+        "kind": "look",
+        "part": "stains",
+        "task": "",
+        "role": "text",
+        "when": "new"
+      },
+      {
+        "kind": "draw",
+        "part": "picture",
+        "task": "Техника целиком, фронтально, на светлом фоне, без упаковочной плёнки. Двери и люки закрыты, панель управления видна. Мягкая тень под техникой.",
+        "role": "image",
+        "when": "always"
+      },
+      {
+        "kind": "code",
+        "part": "whiten",
+        "task": "",
+        "role": "text",
+        "when": "always"
+      },
+      {
+        "kind": "code",
+        "part": "colour",
+        "task": "",
+        "role": "text",
+        "when": "always"
+      },
+      {
+        "kind": "check",
+        "part": "added_lost",
+        "task": "",
+        "role": "text",
+        "when": "always"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1545 @@
+{
+  "shelf": "mikrovolnovye-pechi",
+  "slug": "mikrovolnovaya-pech-libhof-mwo-2930-774996",
+  "product": {
+    "id": "774996",
+    "article": "196359",
+    "slug": "mikrovolnovaya-pech-libhof-mwo-2930-774996",
+    "hasSmartInstallments": false,
+    "isActive": true,
+    "name": {
+      "default": "Libhof MWO-2930",
+      "full": "Микроволновая печь Libhof MWO-2930",
+      "pseudo": null,
+      "spare": null,
+      "fullWithoutSection": "Libhof MWO-2930",
+      "section": "Микроволновая печь",
+      "__typename": "ProductName"
+    },
+    "price": {
+      "default": 13690,
+      "marketing": null,
+      "old": null,
+      "__typename": "ProductPrice"
+    },
+    "benefit": null,
+    "specifications": {
+      "short": [
+        {
+          "name": "Мощность микроволн",
+          "value": "950 Вт",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Мощность гриля",
+          "value": "1100 Вт",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Внутренний объем",
+          "value": "30 л",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Внутреннее покрытие камеры",
+          "value": "эмаль",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Диаметр поворотного столика",
+          "value": "31.5 см",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "__typename": "ProductV2Specifications"
+    },
+    "labels": [
+      {
+        "name": "Бонусы Спасибо",
+        "type": "sberspasibo",
+        "items": [
+          {
+            "description": "",
+            "name": "Этот товар можно оплатить бонусами Спасибо от СберБанка",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      }
+    ],
+    "labelsV2": [
+      {
+        "id": "8",
+        "name": "Бонусы Спасибо",
+        "code": "sberspasibo",
+        "mainColor": "#0C9C0C",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#0C9C0C",
+        "altTextColor": "#FFFFFF",
+        "borderAndTextColor": "#0C9C0C",
+        "items": [
+          {
+            "id": "21025",
+            "text": "Этот товар можно оплатить бонусами Спасибо от СберБанка ",
+            "buttonText": "Подробнее",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      }
+    ],
+    "status": {
+      "id": "IN_STOCK",
+      "name": "В наличии",
+      "type": "POSITIVE",
+      "__typename": "ProductStatus"
+    },
+    "brand": {
+      "code": "libhof",
+      "id": "653786",
+      "name": "Libhof",
+      "src": "https://cdn1.technopark.ru/technopark/photos_resized/section_brand_300_100/300_100/653786/1_653786.png",
+      "slug": "libhof",
+      "sections": [
+        {
+          "name": "Обогреватели Libhof",
+          "url": "/obogrevateli-i-teplovye-zavesy/libhof/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1023805150/technopark/photos_resized/product/120_120/693226/1_693226.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1241593416/technopark/photos_resized/product/120_120/693226/2_693226.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/418438447/technopark/photos_resized/product/120_120/693226/3_693226.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3669896153/technopark/photos_resized/product/120_120/693226/4_693226.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2815025052/technopark/photos_resized/product/120_120/693226/5_693226.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2914589519/technopark/photos_resized/product/120_120/693226/6_693226.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3503222538/technopark/photos_resized/product/120_120/693226/7_693226.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Все пылесосы Libhof",
+          "url": "/pylesosy/libhof/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2632073956/technopark/photos_resized/product/120_120/829401/1_829401.jpg?timestamp=2026-04-30_11-59-48",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3939103132/technopark/photos_resized/product/120_120/829401/2_829401.jpg?timestamp=2026-04-30_11-59-34",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1491989477/technopark/photos_resized/product/120_120/829401/3_829401.jpg?timestamp=2026-04-30_11-59-34",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/80187568/technopark/photos_resized/product/120_120/829401/4_829401.jpg?timestamp=2026-04-30_11-59-34",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3360878196/technopark/photos_resized/product/120_120/829401/5_829401.jpg?timestamp=2026-04-30_11-59-34",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3210075874/technopark/photos_resized/product/120_120/829401/6_829401.jpg?timestamp=2026-04-30_11-59-34",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2393191576/technopark/photos_resized/product/120_120/829401/7_829401.jpg?timestamp=2026-04-30_11-59-38",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/300753621/technopark/photos_resized/product/120_120/829401/8_829401.jpg?timestamp=2026-04-30_11-59-44",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4188144654/technopark/photos_resized/product/120_120/829401/9_829401.jpg?timestamp=2026-04-30_11-59-38",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3889492310/technopark/photos_resized/product/120_120/829401/10_829401.jpg?timestamp=2026-04-30_11-59-38",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3910105444/technopark/photos_resized/product/120_120/829401/11_829401.jpg?timestamp=2026-04-30_11-59-39",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1615654297/technopark/photos_resized/product/120_120/829401/12_829401.jpg?timestamp=2026-04-30_11-59-39",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3453297019/technopark/photos_resized/product/120_120/829401/13_829401.jpg?timestamp=2026-04-30_11-59-42",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3784685217/technopark/photos_resized/product/120_120/829401/14_829401.jpg?timestamp=2026-04-30_11-59-43",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3134329325/technopark/photos_resized/product/120_120/829401/15_829401.jpg?timestamp=2026-04-30_11-59-42",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4170090464/technopark/photos_resized/product/120_120/829401/16_829401.jpg?timestamp=2026-04-30_11-59-44",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/937259484/technopark/photos_resized/product/120_120/829401/17_829401.jpg?timestamp=2026-04-30_11-59-46",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3654488304/technopark/photos_resized/product/120_120/829401/18_829401.jpg?timestamp=2026-04-30_11-59-46",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Аэрогрили Libhof",
+          "url": "/aerogrili/libhof/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/438037347/technopark/photos_resized/product/120_120/783629/1_783629.jpg?timestamp=2025-03-13_11-05-37",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1785798636/technopark/photos_resized/product/120_120/783629/2_783629.jpg?timestamp=2025-03-13_11-05-36",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4084747862/technopark/photos_resized/product/120_120/783629/3_783629.jpg?timestamp=2025-03-13_11-05-37",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1379383741/technopark/photos_resized/product/120_120/783629/4_783629.jpg?timestamp=2025-03-13_11-05-37",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2822760730/technopark/photos_resized/product/120_120/783629/5_783629.jpg?timestamp=2025-03-13_11-05-44",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2832748855/technopark/photos_resized/product/120_120/783629/6_783629.jpg?timestamp=2025-03-13_11-05-47",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3357530322/technopark/photos_resized/product/120_120/783629/7_783629.jpg?timestamp=2025-03-13_11-05-47",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3755958689/technopark/photos_resized/product/120_120/783629/8_783629.jpg?timestamp=2025-03-13_11-05-47",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1188442139/technopark/photos_resized/product/120_120/783629/9_783629.jpg?timestamp=2025-03-13_11-05-47",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Кофеварки Libhof",
+          "url": "/kofevarki-i-kofemashiny/libhof/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/732720159/technopark/photos_resized/product/120_120/707761/1_707761.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3138613646/technopark/photos_resized/product/120_120/707761/2_707761.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3423879448/technopark/photos_resized/product/120_120/707761/3_707761.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3625087123/technopark/photos_resized/product/120_120/707761/4_707761.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3749688458/technopark/photos_resized/product/120_120/707761/5_707761.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1427968162/technopark/photos_resized/product/120_120/707761/6_707761.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/572137524/technopark/photos_resized/product/120_120/707761/7_707761.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/907809215/technopark/photos_resized/product/120_120/707761/8_707761.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Чайники электрические Libhof",
+          "url": "/chayniki/libhof/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2694001379/technopark/photos_resized/product/120_120/736412/1_736412.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1240504278/technopark/photos_resized/product/120_120/736412/2_736412.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/966419289/technopark/photos_resized/product/120_120/736412/3_736412.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2818504442/technopark/photos_resized/product/120_120/736412/4_736412.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1056417600/technopark/photos_resized/product/120_120/736412/5_736412.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1658700821/technopark/photos_resized/product/120_120/736412/6_736412.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4240003510/technopark/photos_resized/product/120_120/736412/7_736412.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Грили Libhof",
+          "url": "/grili/libhof/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2527161023/technopark/photos_resized/product/120_120/809408/1_809408.jpg?timestamp=2025-11-11_16-30-17",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3785775657/technopark/photos_resized/product/120_120/809408/2_809408.jpg?timestamp=2025-11-11_16-30-17",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2450138718/technopark/photos_resized/product/120_120/809408/3_809408.jpg?timestamp=2025-11-11_16-30-30",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3945866967/technopark/photos_resized/product/120_120/809408/4_809408.jpg?timestamp=2025-11-11_16-30-35",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4073566139/technopark/photos_resized/product/120_120/809408/5_809408.jpg?timestamp=2025-11-11_16-30-31",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2170672076/technopark/photos_resized/product/120_120/809408/6_809408.jpg?timestamp=2025-11-11_16-30-16",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3816997027/technopark/photos_resized/product/120_120/809408/7_809408.jpg?timestamp=2025-11-11_16-30-43",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2481468460/technopark/photos_resized/product/120_120/809408/8_809408.jpg?timestamp=2025-11-11_16-30-41",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1974602585/technopark/photos_resized/product/120_120/809408/9_809408.jpg?timestamp=2025-11-11_16-30-30",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/70970788/technopark/photos_resized/product/120_120/809408/10_809408.jpg?timestamp=2025-11-11_16-30-44",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Настольные плиты Libhof",
+          "url": "/induktsionnye-paneli/libhof/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/444483071/technopark/photos_resized/product/120_120/831975/0_831975.jpg?timestamp=2026-05-25_12-49-23",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1836676457/technopark/photos_resized/product/120_120/831975/1_831975.jpg?timestamp=2026-05-25_12-49-23",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3160176141/technopark/photos_resized/product/120_120/831975/2_831975.jpg?timestamp=2026-05-25_12-49-23",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/626337719/technopark/photos_resized/product/120_120/831975/3_831975.jpg?timestamp=2026-05-25_12-49-24",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Автохолодильники Libhof",
+          "url": "/avtoholodilniki/libhof/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1557374256/technopark/photos_resized/product/120_120/660464/0_660464.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1760529703/technopark/photos_resized/product/120_120/660464/1_660464.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/885386866/technopark/photos_resized/product/120_120/660464/2_660464.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/209930275/technopark/photos_resized/product/120_120/660464/3_660464.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Льдогенераторы Libhof",
+          "url": "/ledogeneratory/libhof/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1937187772/technopark/photos_resized/product/120_120/693028/1_693028.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2379497466/technopark/photos_resized/product/120_120/693028/2_693028.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1204721493/technopark/photos_resized/product/120_120/693028/3_693028.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/179018520/technopark/photos_resized/product/120_120/693028/4_693028.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2102072227/technopark/photos_resized/product/120_120/693028/5_693028.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3846694982/technopark/photos_resized/product/120_120/693028/6_693028.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        }
+      ],
+      "__typename": "Brand"
+    },
+    "section": {
+      "slug": "mikrovolnovye-pechi",
+      "id": "906",
+      "name": "Микроволновые печи",
+      "parents": [
+        {
+          "id": "900",
+          "name": "Для кухни",
+          "depth": 1,
+          "__typename": "SectionTreeItem"
+        },
+        {
+          "id": "906",
+          "name": "Микроволновые печи",
+          "depth": 2,
+          "__typename": "SectionTreeItem"
+        }
+      ],
+      "__typename": "Section"
+    },
+    "media": {
+      "gallery": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/774996/1_774996.jpg?timestamp=2025-01-09_21-05-21",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/774996/2_774996.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/774996/3_774996.jpg?timestamp=2025-01-09_21-05-25",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/774996/4_774996.jpg?timestamp=2025-01-09_21-05-21",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/774996/5_774996.jpg?timestamp=2025-01-09_21-05-25",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/774996/6_774996.jpg?timestamp=2025-01-09_21-05-32",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/774996/7_774996.jpg?timestamp=2025-01-09_21-05-32",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/774996/8_774996.jpg?timestamp=2025-01-09_21-05-33",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "interior": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior/1000_1000/774996/1_774996.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior/1000_1000/774996/2_774996.jpg?timestamp=2025-01-09_21-06-06",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior/1000_1000/774996/3_774996.jpg?timestamp=2025-01-09_21-06-05",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior/1000_1000/774996/4_774996.jpg?timestamp=2025-01-09_21-06-06",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "video": [],
+      "vkVideo": null,
+      "view3d": [],
+      "listing": {
+        "default": [
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/774996/1_774996.jpg?timestamp=2025-01-09_21-05-25",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/774996/2_774996.jpg?timestamp=2025-01-09_21-05-24",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/774996/3_774996.jpg?timestamp=2025-01-09_21-05-29",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/774996/4_774996.jpg?timestamp=2025-01-09_21-05-24",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/774996/5_774996.jpg?timestamp=2025-01-09_21-05-29",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/774996/6_774996.jpg?timestamp=2025-01-09_21-05-36",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/774996/7_774996.jpg?timestamp=2025-01-09_21-05-36",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/774996/8_774996.jpg?timestamp=2025-01-09_21-05-37",
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "ProductListing"
+      },
+      "__typename": "ProductV2Media"
+    },
+    "modifications": {
+      "bigBrother": null,
+      "groups": [],
+      "__typename": "ProductModifications"
+    },
+    "description": {
+      "hasDescription": true,
+      "type": "DEFAULT",
+      "__typename": "ProductDescription"
+    },
+    "collection": {
+      "id": "774996",
+      "products": {
+        "pagination": {
+          "total": 0,
+          "__typename": "Pagination"
+        },
+        "__typename": "ProductV2Pagination"
+      },
+      "__typename": "ProductCollection"
+    },
+    "similar": {
+      "pagination": {
+        "total": 23,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "related": {
+      "pagination": {
+        "total": 20,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "accessories": [
+      {
+        "products": {
+          "pagination": {
+            "total": 1,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 5,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 5,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 19,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      }
+    ],
+    "rating": {
+      "average": 0,
+      "canRate": false,
+      "total": {
+        "all": 0,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 0,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "reviews": {
+      "total": 0,
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "bestCredit": null,
+    "isSpare": false,
+    "isService": false,
+    "isVipService": false,
+    "isGiftBonusCard": false,
+    "canBuy": true,
+    "canPayOnline": true,
+    "canRequestPrice": false,
+    "canShowPrice": true,
+    "canSubscribe": false,
+    "needPrepaymentForDelivery": false,
+    "needPrepaymentForPreorder": false,
+    "isSberSpasiboPayAvailable": true,
+    "isYandexPayAllowed": false,
+    "yandexSplit": null,
+    "seo": {
+      "description": "Микроволновая печь Libhof MWO-2930: купить в интернет-магазине Технопарк с расширенной гарантией и бесплатной доставкой по РФ. Подробные характеристики товара с отзывами реальных покупателей.",
+      "text": "Вы можете купить микроволновую печь Libhof MWO-2930 с доставкой по Москве по низкой цене. В интернет-магазине Technopark.ru осуществляется продажа микроволновой печи Libhof MWO-2930 на выгодных условиях.",
+      "textHidden": "",
+      "title": "Микроволновая печь Libhof MWO-2930 - купить в Москве в интернет-магазине Технопарк",
+      "__typename": "SeoData"
+    },
+    "breadcrumbs": [
+      {
+        "name": "Главная",
+        "url": "/",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Техника для кухни",
+        "url": "/dlya-kuhni/",
+        "options": [
+          {
+            "name": "Центр инноваций",
+            "url": "/tovary-iz-budushchego/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Смартфоны и гаджеты",
+            "url": "/smartfony-i-gadzhety/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Компьютеры и ноутбуки",
+            "url": "/kompyutery-i-noutbuki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Климатическая техника",
+            "url": "/klimaticheskaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Крупная бытовая техника",
+            "url": "/krupnaya-bytovaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Бытовая техника для дома",
+            "url": "/dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для красоты и здоровья",
+            "url": "/krasota-i-zdorovye/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Спортивные товары",
+            "url": "/trenazhery-dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Телевизоры Аудио Hi-Fi",
+            "url": "/audio-video-foto/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для сада, дома и ремонта",
+            "url": "/dlya-sada-doma-i-remonta/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посуда",
+            "url": "/posuda/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Детские товары",
+            "url": "/detskie-tovary/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для гейминга",
+            "url": "/gaming/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Плоттеры и услуги розницы",
+            "url": "//",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Запасные части",
+            "url": "/zapasnie-chasti/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Микроволновые печи",
+        "url": "/mikrovolnovye-pechi/",
+        "options": [
+          {
+            "name": "Аэрогрили",
+            "url": "/aerogrili/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мультиварки",
+            "url": "/multivarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мини-печи",
+            "url": "/mini-pechi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мультишефы BORK",
+            "url": "/multishefy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Миксеры и кухонные машины",
+            "url": "/miksery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрогрили",
+            "url": "/grili/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Уличные грили барбекю",
+            "url": "/ulichnye-grili-barbeku/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Фритюрницы",
+            "url": "/frityurnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Хлебопечки",
+            "url": "/hlebopechki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Пароварки",
+            "url": "/parovarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Настольные плиты",
+            "url": "/induktsionnye-paneli/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мороженицы",
+            "url": "/morozhenitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вакуумные упаковщики (вакууматоры)",
+            "url": "/vakuumnaya-upakovka/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Су виды",
+            "url": "/su-vidy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрические сковороды и воки",
+            "url": "/elektricheskie-skovorody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Автоматические кофемашины",
+            "url": "/kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кофеварки",
+            "url": "/kofevarki-i-kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кофейные станции",
+            "url": "/kofeynye-stantsii/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Капсульные кофемашины",
+            "url": "/kapsulnye-kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Гейзерные кофеварки для дома",
+            "url": "/gejzernye-kofevarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кофемолки",
+            "url": "/kofemolki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вспениватели молока",
+            "url": "/vspenivateli-moloka/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для приготовления кофе",
+            "url": "/prigotovlenie-kofe/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрические чайники",
+            "url": "/chayniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Соковыжималки",
+            "url": "/sokovyzhimalki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Термопоты",
+            "url": "/termopoty/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Декантеры",
+            "url": "/dekantery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кулеры для воды",
+            "url": "/kulery-dlya-vody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Льдогенераторы",
+            "url": "/ledogeneratory/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Системы газации напитков",
+            "url": "/sistema-gazatsii-napitkov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мясорубки",
+            "url": "/myasorubki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Блендеры",
+            "url": "/blendery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные комбайны",
+            "url": "/kuhonnye-kombayny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные измельчители (чопперы)",
+            "url": "/kukhonnye-izmelchiteli/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Ломтерезки",
+            "url": "/lomterezki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Овощерезки",
+            "url": "/elektroterka/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Тостеры",
+            "url": "/tostery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вафельницы",
+            "url": "/vafelnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мультипекари",
+            "url": "/sendvichnitsi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Яйцеварки",
+            "url": "/yaycevarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Блинницы",
+            "url": "/blinnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Йогуртницы",
+            "url": "/yogurtnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Фильтры для воды под мойку",
+            "url": "/filtry-kuvshiny-dlya-ochistki-vody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Фильтры-кувшины для воды",
+            "url": "/filtry-kuvshiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для очистки воды",
+            "url": "/dlya-ochistki-vody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные весы",
+            "url": "/kuhonnye-vesy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Дегидраторы",
+            "url": "/sushki-dlya-ovoschey/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для кухни",
+            "url": "/aksessuary-dlya-kuhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мойки для кухни",
+            "url": "/moyki-dlya-kukhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрошашлычницы",
+            "url": "/shashlychnitsa/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Микроволновые печи Libhof",
+        "url": "/mikrovolnovye-pechi/libhof/",
+        "options": [
+          {
+            "name": "BORK",
+            "url": "/mikrovolnovye-pechi/bork/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Hyundai",
+            "url": "/mikrovolnovye-pechi/hyundai/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Kuppersberg",
+            "url": "/mikrovolnovye-pechi/kuppersberg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Smeg",
+            "url": "/mikrovolnovye-pechi/smeg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Midea",
+            "url": "/mikrovolnovye-pechi/midea/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Maunfeld",
+            "url": "/mikrovolnovye-pechi/maunfeld/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "LG",
+            "url": "/mikrovolnovye-pechi/lg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Toshiba",
+            "url": "/mikrovolnovye-pechi/toshiba/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Korting",
+            "url": "/mikrovolnovye-pechi/korting/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Samsung",
+            "url": "/mikrovolnovye-pechi/samsung/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Sharp",
+            "url": "/mikrovolnovye-pechi/sharp/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Gorenje",
+            "url": "/mikrovolnovye-pechi/gorenje/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Bosch",
+            "url": "/mikrovolnovye-pechi/bosch/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Horizont",
+            "url": "/mikrovolnovye-pechi/horizont/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Panasonic",
+            "url": "/mikrovolnovye-pechi/panasonic/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Brayer",
+            "url": "/mikrovolnovye-pechi/brayer/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Ardo",
+            "url": "/mikrovolnovye-pechi/ardo/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Rondell",
+            "url": "/mikrovolnovye-pechi/rondell/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Libhof MWO-2930",
+        "url": "mikrovolnovaya-pech-libhof-mwo-2930-774996",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      }
+    ],
+    "isArchive": false,
+    "__typename": "ProductV2",
+    "isSberPayOneClickAllowed": false,
+    "isTinkoffPayOneClickAllowed": false,
+    "bonus": null
+  },
+  "details": {
+    "description": "<style> *{box-sizing:border-box;outline:0}body{font-family:'DINPro Technopark',Arial;font-size:14px;font-weight:400;font-display:swap;margin:0;overflow-x:hidden;position:relative;min-height:95vh;-webkit-tap-highlight-color:transparent}body.lock-scroll{overflow:hidden;position:fixed;right:0;left:0;bottom:0}@media (min-width:1192px){body.lock-scroll{position:relative}}@media screen and (max-device-width:480px){body{-webkit-text-size-adjust:none}}.label-for-seo{width:100%}.label-for-seo__span{display:none}a{color:#0093c4;text-decoration:none}.is-visible{display:block!important}.is-hidden{display:none!important}.is-visually-hidden{opacity:0!important;visibility:hidden!important;pointer-events:none!important}.is-link{color:#0093c4}.no-wrap{white-space:nowrap}.container{margin:auto;width:100%}@media (min-width:960px){.container{width:calc(100% - 48px)}}@media (min-width:1482px){.container{max-width:1397px}}.is-overflow-hidden{overflow:hidden}.is-mobile-not{display:none!important}@media (min-width:960px){.is-mobile-not{display:block!important}}@media (min-width:960px){.is-mobile-only{display:none!important}}@media (max-width:959px){.hide-phone{display:none}}@media (min-width:960px) and (max-width:1481px){.hide-tablet{display:none}}.is-hidden{display:none!important}.nowrap-text{white-space:nowrap}.textcenter{text-align:center}ul.list{margin:0;padding:6px 0 18px}@media (min-width:960px){ul.list{padding:6px 0 24px}}ul.list li{font-family:'DINPro Technopark',Arial;font-size:15px;font-weight:400;font-display:swap;color:#fff;line-height:20px;list-style:none;margin:0;padding-left:9px;position:relative}@media (min-width:960px){ul.list li{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:400;font-display:swap;line-height:21px;padding-left:26px}}ul.list>li:before{background-color:#fff;border-radius:50%;content:\"\";display:block;height:3px;left:0;position:absolute;top:10px;width:3px}@media (min-width:960px){ul.list>li:before{border-radius:0;height:1px;width:13px}}ul.list>li>ul{padding:6px 0 6px 15px}@media (min-width:960px){ul.list>li>ul{padding:3px 0 3px 4px}}ul.list>li>ul>li:before{background-color:rgba(255,255,255,.5)}ul.list>li>ul>li>ul{padding:6px 0 0 15px}@media (min-width:960px){ul.list>li>ul>li>ul{padding:3px 0 0 4px}}ul.list>li>ul>li>ul>li:before{background-color:rgba(255,255,255,.2)}ol.list{margin:0;padding:6px 0 18px;counter-reset:list1}@media (min-width:960px){ol.list{padding:6px 0 24px}}ol.list li{font-family:'DINPro Technopark',Arial;font-size:15px;font-weight:400;font-display:swap;color:#fff;line-height:20px;list-style:none;margin:0;padding-left:9px;position:relative}@media (min-width:960px){ol.list li{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:400;font-display:swap;line-height:21px;padding-left:26px}}ol.list>li{padding-left:24px}ol.list>li:before{counter-increment:list1;content:counter(list1) \". \";left:0;position:absolute}ol.list>li>ol{counter-reset:list2;padding:6px 0}@media (min-width:960px){ol.list>li>ol{padding:3px 0}}ol.list>li>ol>li{padding-left:42px}ol.list>li>ol>li:before{counter-increment:list2;content:counter(list1) \".\" counter(list2) \". \"}ol.list>li>ol>li>ol{counter-reset:list3}ol.list>li>ol>li>ol>li:before{counter-increment:list3;content:counter(list1) \".\" counter(list2) \".\" counter(list3) \". \"}ol.list--compact{padding:0}.list--line-interval li:not(:last-child){margin-bottom:1em}input::-ms-clear{display:none}input::-webkit-clear-button{display:none}@media (max-width:767px){.footer{padding-bottom:66px}}.page-container{margin:auto;padding:0 18px;width:100%}@media (min-width:960px){.page-container{padding:0 24px;width:100%}}@media (min-width:1482px){.page-container{width:1481px}}@media (min-width:960px){.page-container--extra-padding{padding:0 42px}}.default-container{width:100%;max-width:1481px;margin:auto;padding:0 12px}@media (min-width:960px){.default-container{padding:0 24px}}button,input,select,textarea{font-family:inherit;font-size:100%;margin:0}textarea{resize:none;overflow:auto}form{margin:0}button{color:inherit}dd,dl,dt{margin:0;padding:0}input[type=search]{-webkit-appearance:none}input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration,input[type=search]::-webkit-search-results-button,input[type=search]::-webkit-search-results-decoration{display:none}input:invalid{box-shadow:none}textarea:invalid{box-shadow:none}svg *{pointer-events:none}.product__desc{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:300;font-display:swap;color:#878787;display:none}.product__desc b{font-family:'DINPro Technopark',Arial;font-size:20px;font-weight:400;font-display:swap;color:#fff}.dyson-v10-picking,.dyson-v10-properties,.dyson-v10-wrapper,.dyson-v10-wrapper .dyson-v10__list span{color:#fff;padding:0 12px}@media (max-width:1154px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:170px}}@media (max-width:1100px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:270px}}@media (max-width:960px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:27px}}.dyson-v10-first-row li.dyson-v10-item{max-width:calc(100% / 3 - 10);padding-right:5px}@media (max-width:959px){.dyson-v10-first-row{flex-direction:column;align-items:flex-start}.dyson-v10-first-row li.dyson-v10-item{max-width:none}}@media (min-width:960px) and (max-width:1303px){.dyson-v10-first-row{flex-direction:column;align-items:flex-start}.dyson-v10-first-row li.dyson-v10-item{max-width:none}}.dyson-v10-chapter{text-align:center!important}.dyson-v10__list li.dyson-v10__list-item{background-size:contain;background-position:left} </style> <p>  \tБлагодаря микроволновке Libhof MWO-2930 вы сможете не только быстро и легко разогревать и готовить еду, но и использовать гриль, чтобы придать вашим блюдам неповторимый вкус. Металлический ТЭН гриля гарантирует равномерную прожарку и хрустящую корочку. Прибор имеет 10 уровней мощности микроволн. Благодаря общей мощности 950 Вт обеспечивается быстрое и равномерное приготовление.  </p>  <h2>Особенности</h2>  <ul class=\"list\">  \t<li><b>Программы и функции</b><br>  \t Комбинированный режим, сочетающий микроволны и гриль, гарантирует высокую эффективность и даёт возможность готовить различные блюда. Функция разморозки позволяет быстро и эффективно подготовить продукты к приготовлению. Отдельностоящая микроволновка оснащена 8 автопрограммами для приготовления различных блюд </li>  \t<li><b>Вместительная камера</b><br>  \t Объём микроволновки в 30 литров позволяет готовить блюда для всей семьи или разогревать большие порции еды. Диаметр вращающейся тарелки этой микроволновой печи составляет 31.5 см. Наличие часов, таймера на 99 минут и функции блокировки от детей повышает уровень удобства и безопасности при использовании этой печи </li>  \t<li><b>Удобство использования</b><br>  \t Внутренняя часть микроволновой печи покрыта антипригарной эмалью серого цвета, что обеспечивает простоту в уходе и долгий срок службы. Сенсорное управление и цифровой дисплей с подсветкой делают взаимодействие с СВЧ-печью максимально комфортным и лёгким </li>  </ul>",
+    "descriptionType": "DEFAULT",
+    "descriptionBarcode": "8583720014783",
+    "descriptionBrand": "Libhof",
+    "specifications": {
+      "short": [
+        {
+          "name": "Мощность микроволн",
+          "value": "950 Вт",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Мощность гриля",
+          "value": "1100 Вт",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Внутренний объем",
+          "value": "30 л",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Внутреннее покрытие камеры",
+          "value": "эмаль",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Диаметр поворотного столика",
+          "value": "31.5 см",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "barcode": "8583720014783",
+      "country": "Китай",
+      "full": [
+        {
+          "name": "Основные характеристики",
+          "list": [
+            {
+              "name": "Тип",
+              "value": "отдельностоящая",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Мощность микроволн",
+              "value": "950 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Мощность гриля",
+              "value": "1100 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Внутренний объем",
+              "value": "30 л",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Внутреннее покрытие камеры",
+              "value": "эмаль",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Диаметр поворотного столика",
+              "value": "31.5 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал поворотного столика",
+              "value": "стекло",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет",
+              "value": "серый",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет фурнитуры",
+              "value": "серебристый",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Управление",
+          "list": [
+            {
+              "name": "Тип управления",
+              "value": "электронное",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Переключатели",
+              "value": "сенсорные",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Таймер",
+              "value": "таймер выключения",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Звуковой таймер",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Часы",
+              "value": "электронные",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Режим работы",
+          "list": [
+            {
+              "name": "Количество режимов работы",
+              "value": "3",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Режимы работы",
+              "value": "микроволны, гриль, микроволны + гриль",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Число режимов нагрева",
+              "value": "10",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Гриль",
+              "value": "есть",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип гриля",
+              "value": "тэновый",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Программа размораживания",
+              "value": "по весу, по времени",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество автоматических программ",
+              "value": "8",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Программы автоматического приготовления",
+              "value": "картофель, паста, пицца, попкорн, овощи, напитки, мясо, рыба",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Быстрый старт",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Безопасность",
+          "list": [
+            {
+              "name": "Блокировка от детей",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Мощность и энергопотребление",
+          "list": [
+            {
+              "name": "Потребляемая мощность",
+              "value": "1320 Вт",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Дополнительная информация",
+          "list": [
+            {
+              "name": "Внутреннее освещение",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип освещения",
+              "value": "светодиодное (LED)",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Способ открывания дверцы",
+              "value": "ручка",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип ручки",
+              "value": "наружная",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Направление открывания дверцы",
+              "value": "влево",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Комплектация",
+          "list": [
+            {
+              "name": "Комплект поставки",
+              "value": "решётка для гриля",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Сетевой кабель",
+              "value": "0.85 м",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Инструкция",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Размеры и вес",
+          "list": [
+            {
+              "name": "Высота",
+              "value": "30.3 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ширина",
+              "value": "51 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Глубина",
+              "value": "38.2 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вес",
+              "value": "15.1 кг",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        }
+      ],
+      "grossWeight": "18.3",
+      "netWeight": "15.1",
+      "height": "0.35",
+      "instructionUrl": "https://storage.yandexcloud.net/technopark.instructions/774996/instruction/instruction-mikrovolnovaya-pech-libhof-mwo-2930-774996.pdf",
+      "length": "0.6",
+      "schemeUrl": null,
+      "warranty": "12",
+      "width": "0.46",
+      "__typename": "ProductV2Specifications"
+    },
+    "certificates": [],
+    "isManufacturerCountry": false,
+    "isSellerWarranty": false,
+    "reviews": {
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "total": 0,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "rating": {
+      "average": 0,
+      "canRate": false,
+      "total": {
+        "all": 0,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 0,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "isLoading": false
+  },
+  "shots": [
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/774996/1_774996.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/774996/1_774996.jpg?timestamp=2025-01-09_21-05-21"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/774996/2_774996.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/774996/2_774996.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/774996/3_774996.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/774996/3_774996.jpg?timestamp=2025-01-09_21-05-25"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/774996/4_774996.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/774996/4_774996.jpg?timestamp=2025-01-09_21-05-21"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/774996/5_774996.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/774996/5_774996.jpg?timestamp=2025-01-09_21-05-25"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/774996/6_774996.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/774996/6_774996.jpg?timestamp=2025-01-09_21-05-32"
+    ]
+  ],
+  "photos": [
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/mikrovolnovaya-pech-libhof-mwo-2930-774996-1.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/mikrovolnovaya-pech-libhof-mwo-2930-774996-2.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/mikrovolnovaya-pech-libhof-mwo-2930-774996-3.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/mikrovolnovaya-pech-libhof-mwo-2930-774996-4.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/mikrovolnovaya-pech-libhof-mwo-2930-774996-5.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/mikrovolnovaya-pech-libhof-mwo-2930-774996-6.jpg"
+  ]
+}

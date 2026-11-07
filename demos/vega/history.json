@@ -1,0 +1,4009 @@
+{
+  "people": [
+    {
+      "key": "r1",
+      "name": "Айбек Токтоматов",
+      "phone": "+996 770 235 770"
+    },
+    {
+      "key": "r2",
+      "name": "Елена Сергеева",
+      "phone": "+996 505 524 531"
+    },
+    {
+      "key": "r3",
+      "name": "Бекжан Усенов",
+      "phone": "+996 705 299 907"
+    },
+    {
+      "key": "r4",
+      "name": "Нуриза Абдиева",
+      "phone": "+996 557 850 789"
+    },
+    {
+      "key": "r5",
+      "name": "Артур Ким",
+      "phone": "+996 705 357 780"
+    },
+    {
+      "key": "r6",
+      "name": "Сайкал Жумабаева",
+      "phone": "+996 505 571 837"
+    },
+    {
+      "key": "r7",
+      "name": "Даниэль Осмонов",
+      "phone": "+996 557 956 610"
+    },
+    {
+      "key": "r8",
+      "name": "Гулина Мамбетова",
+      "phone": "+996 701 832 917"
+    },
+    {
+      "key": "r9",
+      "name": "Эркин Сатаров",
+      "phone": "+996 557 802 219"
+    },
+    {
+      "key": "r10",
+      "name": "Виктория Пак",
+      "phone": "+996 557 688 912"
+    },
+    {
+      "key": "r11",
+      "name": "Азамат Бекназаров",
+      "phone": "+996 555 208 222"
+    },
+    {
+      "key": "r12",
+      "name": "Айжамал Токтосунова",
+      "phone": "+996 700 136 937"
+    },
+    {
+      "key": "r13",
+      "name": "Нурсултан Иманов",
+      "phone": "+996 505 401 884"
+    },
+    {
+      "key": "r14",
+      "name": "Мария Литвинова",
+      "phone": "+996 555 310 692"
+    },
+    {
+      "key": "r15",
+      "name": "Улукбек Касымалиев",
+      "phone": "+996 505 915 527"
+    },
+    {
+      "key": "r16",
+      "name": "Аида Абдразакова",
+      "phone": "+996 999 989 137"
+    },
+    {
+      "key": "r17",
+      "name": "Тимур Бейшенов",
+      "phone": "+996 770 922 617"
+    },
+    {
+      "key": "r18",
+      "name": "Жанара Курманова",
+      "phone": "+996 705 652 573"
+    },
+    {
+      "key": "r19",
+      "name": "Кирилл Демченко",
+      "phone": "+996 700 198 910"
+    },
+    {
+      "key": "r20",
+      "name": "Айпери Сыдыкова",
+      "phone": "+996 505 259 219"
+    },
+    {
+      "key": "r21",
+      "name": "Бакытбек Алымов",
+      "phone": "+996 505 726 133"
+    },
+    {
+      "key": "r22",
+      "name": "Наргиза Юсупова",
+      "phone": "+996 701 825 400"
+    },
+    {
+      "key": "r23",
+      "name": "Эмир Асаналиев",
+      "phone": "+996 557 461 832"
+    },
+    {
+      "key": "r24",
+      "name": "Салтанат Омурова",
+      "phone": "+996 555 248 422"
+    },
+    {
+      "key": "o1",
+      "name": "ОсОО «Ноутбук Сервис Ош»",
+      "phone": "+996 3222 55 410",
+      "direction": "Опт",
+      "contract": 10
+    },
+    {
+      "key": "o2",
+      "name": "ИП Абдыкадыров «Телефон Маркет»",
+      "phone": "+996 555 318 902",
+      "direction": "Опт",
+      "contract": 10
+    },
+    {
+      "key": "o3",
+      "name": "ОсОО «ДигиталСтор Каракол»",
+      "phone": "+996 3922 5 77 12",
+      "direction": "Опт",
+      "contract": 10
+    },
+    {
+      "key": "o4",
+      "name": "ИП Мамытов «Смарт Джалал-Абад»",
+      "phone": "+996 700 641 233",
+      "direction": "Опт",
+      "contract": 10
+    }
+  ],
+  "sales": [
+    {
+      "days": 180,
+      "at": [
+        18,
+        0
+      ],
+      "person": "r12",
+      "lines": [
+        {
+          "item": "x1605va-vivobook-16-mb875",
+          "pick": 1,
+          "qty": 1,
+          "price": 62280
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 179,
+      "at": [
+        13,
+        15
+      ],
+      "person": "r11",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-note-14-4g-8-256gb-midnight-black-60833-mzb0ikwru",
+          "pick": 1,
+          "qty": 1,
+          "price": 19570
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 179,
+      "at": [
+        15,
+        30
+      ],
+      "person": "r4",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-note-14-4g-8-256gb-midnight-black-60833-mzb0ikwru",
+          "pick": 1,
+          "qty": 1,
+          "price": 19570
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 178,
+      "at": [
+        11,
+        0
+      ],
+      "person": "o4",
+      "lines": [
+        {
+          "item": "xiaomi-poco-x7-5g-8-256gb-silver-mzb0iq9ru",
+          "pick": 1,
+          "qty": 4
+        },
+        {
+          "item": "thinkbook-14-g6-21kg00b8cd-win11p",
+          "pick": 1,
+          "qty": 2
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-aziz"
+    },
+    {
+      "days": 178,
+      "at": [
+        11,
+        30
+      ],
+      "person": "r1",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-note-14-4g-8-256gb-midnight-black-60833-mzb0ikwru",
+          "pick": 1,
+          "qty": 1,
+          "price": 19570
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 177,
+      "at": [
+        12,
+        15
+      ],
+      "person": "r4",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-13c-4-128gb-midnight-black-51130",
+          "pick": 1,
+          "qty": 1,
+          "price": 12460
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 175,
+      "at": [
+        12,
+        0
+      ],
+      "person": "r8",
+      "lines": [
+        {
+          "item": "legion-pro-5-16irx9-83df00e9rk",
+          "pick": 1,
+          "qty": 1,
+          "price": 161400
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 175,
+      "at": [
+        17,
+        15
+      ],
+      "person": "r2",
+      "lines": [
+        {
+          "item": "m5406wa-vivobook-s14-oled-pp086w",
+          "pick": 1,
+          "qty": 1,
+          "price": 133610
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 173,
+      "at": [
+        15,
+        0
+      ],
+      "person": "r24",
+      "lines": [
+        {
+          "item": "apple-iphone-16-128gb-white-mye93hn-a",
+          "pick": 1,
+          "qty": 1,
+          "price": 77460
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 171,
+      "at": [
+        11,
+        0
+      ],
+      "person": "o2",
+      "lines": [
+        {
+          "item": "x1605va-vivobook-16-mb875",
+          "pick": 1,
+          "qty": 2
+        },
+        {
+          "item": "xiaomi-redmi-13c-4-128gb-midnight-black-51130",
+          "pick": 1,
+          "qty": 4
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-aziz"
+    },
+    {
+      "days": 171,
+      "at": [
+        14,
+        15
+      ],
+      "person": "r19",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-14c-8-256gb-midnight-black-58586",
+          "pick": 1,
+          "qty": 1,
+          "price": 13500
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 171,
+      "at": [
+        18,
+        45
+      ],
+      "person": "r9",
+      "lines": [
+        {
+          "item": "xiaomi-poco-x7-5g-8-256gb-silver-mzb0iq9ru",
+          "pick": 1,
+          "qty": 1,
+          "price": 26530
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 170,
+      "at": [
+        11,
+        30
+      ],
+      "person": "r10",
+      "lines": [
+        {
+          "item": "m5406wa-vivobook-s14-oled-pp086w",
+          "pick": 1,
+          "qty": 1,
+          "price": 133610
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 170,
+      "at": [
+        12,
+        10
+      ],
+      "person": "r1",
+      "lines": [
+        {
+          "item": "x1605va-vivobook-16-mb875",
+          "pick": 1,
+          "qty": 1,
+          "price": 62280
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur",
+      "instalment": {
+        "program": "Рассрочка от Vega на 6 месяцев",
+        "unpaid": 0,
+        "early": 60
+      }
+    },
+    {
+      "days": 169,
+      "at": [
+        16,
+        30
+      ],
+      "person": "r17",
+      "lines": [
+        {
+          "item": "xiaomi-poco-x7-pro-5g-12-256gb-green-mzb0j2kru",
+          "pick": 1,
+          "qty": 1,
+          "price": 34040
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 168,
+      "at": [
+        16,
+        30
+      ],
+      "person": "r3",
+      "lines": [
+        {
+          "item": "xiaomi-poco-c75-8-256gb-black-58879",
+          "pick": 1,
+          "qty": 1,
+          "price": 12200
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 166,
+      "at": [
+        10,
+        0
+      ],
+      "person": "r20",
+      "lines": [
+        {
+          "item": "xiaomi-poco-x7-pro-5g-12-256gb-green-mzb0j2kru",
+          "pick": 1,
+          "qty": 1,
+          "price": 34040
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 165,
+      "at": [
+        16,
+        40
+      ],
+      "person": "r6",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-note-14-4g-8-256gb-midnight-black-60833-mzb0ikwru",
+          "pick": 1,
+          "qty": 1,
+          "price": 19570
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur",
+      "instalment": {
+        "program": "Рассрочка от Vega на 12 месяцев",
+        "unpaid": 3,
+        "writeOff": {
+          "after": 140,
+          "reason": "Не платит четвёртый месяц, телефон отключён, по адресу не живёт"
+        }
+      }
+    },
+    {
+      "days": 165,
+      "at": [
+        19,
+        30
+      ],
+      "person": "r7",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-14c-8-256gb-midnight-black-58586",
+          "pick": 1,
+          "qty": 1,
+          "price": 13500
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 164,
+      "at": [
+        11,
+        0
+      ],
+      "person": "o4",
+      "lines": [
+        {
+          "item": "v15-g4-iru-83a100abrm",
+          "pick": 1,
+          "qty": 3
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-aziz"
+    },
+    {
+      "days": 164,
+      "at": [
+        12,
+        15
+      ],
+      "person": "r3",
+      "lines": [
+        {
+          "item": "xiaomi-poco-x7-pro-5g-12-256gb-green-mzb0j2kru",
+          "pick": 1,
+          "qty": 1,
+          "price": 34040
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 164,
+      "at": [
+        17,
+        15
+      ],
+      "person": "r1",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-14c-8-256gb-midnight-black-58586",
+          "pick": 1,
+          "qty": 1,
+          "price": 13500
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 163,
+      "at": [
+        12,
+        0
+      ],
+      "person": "r1",
+      "lines": [
+        {
+          "item": "e1504fa-vivobook-go-bq831w",
+          "pick": 1,
+          "qty": 1,
+          "price": 42890
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 162,
+      "at": [
+        19,
+        30
+      ],
+      "person": "r9",
+      "lines": [
+        {
+          "item": "v15-g4-iru-83a100abrm",
+          "pick": 1,
+          "qty": 1,
+          "price": 52220
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 161,
+      "at": [
+        13,
+        30
+      ],
+      "person": "r24",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-note-14-4g-8-256gb-midnight-black-60833-mzb0ikwru",
+          "pick": 1,
+          "qty": 1,
+          "price": 19570
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 161,
+      "at": [
+        19,
+        15
+      ],
+      "person": "r5",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-note-14-4g-8-256gb-midnight-black-60833-mzb0ikwru",
+          "pick": 1,
+          "qty": 1,
+          "price": 19570
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 160,
+      "at": [
+        16,
+        15
+      ],
+      "person": "r19",
+      "lines": [
+        {
+          "item": "x1504va-vivobook-15-bq003",
+          "pick": 1,
+          "qty": 1,
+          "price": 45310
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 159,
+      "at": [
+        13,
+        0
+      ],
+      "person": "r20",
+      "lines": [
+        {
+          "item": "xiaomi-poco-c75-8-256gb-black-58879",
+          "pick": 1,
+          "qty": 1,
+          "price": 12200
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 157,
+      "at": [
+        10,
+        0
+      ],
+      "person": "r1",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-13-6-128gb-sandy-gold-x56070",
+          "pick": 1,
+          "qty": 1,
+          "price": 12860
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 157,
+      "at": [
+        11,
+        0
+      ],
+      "person": "o2",
+      "lines": [
+        {
+          "item": "fa506ncr-tuf-gaming-a15-hn044",
+          "pick": 1,
+          "qty": 2
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-aziz"
+    },
+    {
+      "days": 154,
+      "at": [
+        19,
+        45
+      ],
+      "person": "r14",
+      "lines": [
+        {
+          "item": "ideapad-pro-5-14imh9-83d20027rk",
+          "pick": 1,
+          "qty": 1,
+          "price": 127780
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 153,
+      "at": [
+        11,
+        30
+      ],
+      "person": "r20",
+      "lines": [
+        {
+          "item": "x1605va-vivobook-16-mb875",
+          "pick": 1,
+          "qty": 1,
+          "price": 62280
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 152,
+      "at": [
+        12,
+        30
+      ],
+      "person": "r18",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-13-6-128gb-sandy-gold-x56070",
+          "pick": 1,
+          "qty": 1,
+          "price": 12860
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 151,
+      "at": [
+        14,
+        0
+      ],
+      "person": "r2",
+      "lines": [
+        {
+          "item": "xiaomi-poco-x7-pro-5g-12-256gb-green-mzb0j2kru",
+          "pick": 1,
+          "qty": 1,
+          "price": 34040
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 150,
+      "at": [
+        11,
+        0
+      ],
+      "person": "o1",
+      "lines": [
+        {
+          "item": "xiaomi-poco-c75-8-256gb-black-58879",
+          "pick": 1,
+          "qty": 5
+        },
+        {
+          "item": "e1504fa-vivobook-go-bq831w",
+          "pick": 1,
+          "qty": 2
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-aziz"
+    },
+    {
+      "days": 150,
+      "at": [
+        11,
+        5
+      ],
+      "person": "r3",
+      "lines": [
+        {
+          "item": "x1605va-vivobook-16-mb875",
+          "pick": 1,
+          "qty": 1,
+          "price": 62280
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur",
+      "instalment": {
+        "program": "Рассрочка от Vega на 6 месяцев",
+        "unpaid": 2
+      }
+    },
+    {
+      "days": 150,
+      "at": [
+        17,
+        45
+      ],
+      "person": "r17",
+      "lines": [
+        {
+          "item": "xiaomi-poco-x7-pro-5g-12-256gb-green-mzb0j2kru",
+          "pick": 1,
+          "qty": 1,
+          "price": 34040
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 150,
+      "at": [
+        18,
+        0
+      ],
+      "person": "r21",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-note-14-4g-8-256gb-midnight-black-60833-mzb0ikwru",
+          "pick": 1,
+          "qty": 1,
+          "price": 19570
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 149,
+      "at": [
+        10,
+        45
+      ],
+      "person": "r14",
+      "lines": [
+        {
+          "item": "xiaomi-poco-x7-pro-5g-12-256gb-green-mzb0j2kru",
+          "pick": 1,
+          "qty": 1,
+          "price": 34040
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 147,
+      "at": [
+        10,
+        45
+      ],
+      "person": "r14",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-14c-8-256gb-midnight-black-58586",
+          "pick": 1,
+          "qty": 1,
+          "price": 13500
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 145,
+      "at": [
+        16,
+        45
+      ],
+      "person": "r14",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-14c-8-256gb-midnight-black-58586",
+          "pick": 1,
+          "qty": 1,
+          "price": 13500
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 145,
+      "at": [
+        17,
+        20
+      ],
+      "person": "r7",
+      "lines": [
+        {
+          "item": "x1605va-vivobook-16-mb875",
+          "pick": 1,
+          "qty": 1,
+          "price": 62280
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur",
+      "instalment": {
+        "program": "Рассрочка от Vega на 6 месяцев",
+        "unpaid": 2,
+        "repossess": {
+          "after": 120,
+          "keep": 5000,
+          "reason": "Не платит два месяца; ноутбук вернул сам, пользовался четыре месяца"
+        }
+      }
+    },
+    {
+      "days": 144,
+      "at": [
+        16,
+        45
+      ],
+      "person": "r20",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-13-6-128gb-sandy-gold-x56070",
+          "pick": 1,
+          "qty": 1,
+          "price": 12860
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 144,
+      "at": [
+        18,
+        15
+      ],
+      "person": "r3",
+      "lines": [
+        {
+          "item": "xiaomi-poco-x7-pro-5g-12-256gb-green-mzb0j2kru",
+          "pick": 1,
+          "qty": 1,
+          "price": 34040
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 143,
+      "at": [
+        11,
+        0
+      ],
+      "person": "o2",
+      "lines": [
+        {
+          "item": "e1504fa-vivobook-go-bq831w",
+          "pick": 1,
+          "qty": 2
+        },
+        {
+          "item": "xiaomi-redmi-note-14-4g-8-256gb-midnight-black-60833-mzb0ikwru",
+          "pick": 1,
+          "qty": 6
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-aziz"
+    },
+    {
+      "days": 143,
+      "at": [
+        15,
+        30
+      ],
+      "person": "r24",
+      "lines": [
+        {
+          "item": "ideapad-pro-5-14imh9-83d20027rk",
+          "pick": 1,
+          "qty": 1,
+          "price": 127780
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 142,
+      "at": [
+        13,
+        0
+      ],
+      "person": "r22",
+      "lines": [
+        {
+          "item": "m5406wa-vivobook-s14-oled-pp086w",
+          "pick": 1,
+          "qty": 1,
+          "price": 133610
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 142,
+      "at": [
+        13,
+        30
+      ],
+      "person": "r3",
+      "lines": [
+        {
+          "item": "x1605va-vivobook-16-mb693",
+          "pick": 1,
+          "qty": 1,
+          "price": 53310
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 141,
+      "at": [
+        11,
+        30
+      ],
+      "person": "r2",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-13-6-128gb-sandy-gold-x56070",
+          "pick": 1,
+          "qty": 1,
+          "price": 12860
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 141,
+      "at": [
+        12,
+        45
+      ],
+      "person": "r12",
+      "lines": [
+        {
+          "item": "legion-pro-5-16irx9-83df00e9rk",
+          "pick": 1,
+          "qty": 1,
+          "price": 161400
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 140,
+      "at": [
+        18,
+        30
+      ],
+      "person": "r8",
+      "lines": [
+        {
+          "item": "m5406wa-vivobook-s14-oled-pp086w",
+          "pick": 1,
+          "qty": 1,
+          "price": 133610
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 139,
+      "at": [
+        11,
+        15
+      ],
+      "person": "r7",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-note-14-4g-8-256gb-midnight-black-60833-mzb0ikwru",
+          "pick": 1,
+          "qty": 1,
+          "price": 19570
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 138,
+      "at": [
+        18,
+        30
+      ],
+      "person": "r6",
+      "lines": [
+        {
+          "item": "xiaomi-poco-x7-5g-8-256gb-silver-mzb0iq9ru",
+          "pick": 1,
+          "qty": 1,
+          "price": 26530
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 137,
+      "at": [
+        19,
+        0
+      ],
+      "person": "r4",
+      "lines": [
+        {
+          "item": "ux3405ma-zenbook-14-oled-qd379w",
+          "pick": 1,
+          "qty": 1,
+          "price": 102930
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 136,
+      "at": [
+        11,
+        0
+      ],
+      "person": "o1",
+      "lines": [
+        {
+          "item": "x1504va-vivobook-15-bq003",
+          "pick": 1,
+          "qty": 2
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-aziz"
+    },
+    {
+      "days": 136,
+      "at": [
+        11,
+        15
+      ],
+      "person": "r24",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-note-14-4g-8-256gb-midnight-black-60833-mzb0ikwru",
+          "pick": 1,
+          "qty": 1,
+          "price": 19570
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 136,
+      "at": [
+        17,
+        0
+      ],
+      "person": "r8",
+      "lines": [
+        {
+          "item": "xiaomi-poco-c75-8-256gb-black-58879",
+          "pick": 1,
+          "qty": 1,
+          "price": 12200
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 135,
+      "at": [
+        14,
+        15
+      ],
+      "person": "r3",
+      "lines": [
+        {
+          "item": "x1605va-vivobook-16-mb875",
+          "pick": 1,
+          "qty": 1,
+          "price": 62280
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 133,
+      "at": [
+        13,
+        0
+      ],
+      "person": "r8",
+      "lines": [
+        {
+          "item": "e1504fa-vivobook-go-bq831w",
+          "pick": 1,
+          "qty": 1,
+          "price": 42890
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 132,
+      "at": [
+        12,
+        45
+      ],
+      "person": "r22",
+      "lines": [
+        {
+          "item": "x1605va-vivobook-16-mb693",
+          "pick": 1,
+          "qty": 1,
+          "price": 53310
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 132,
+      "at": [
+        19,
+        30
+      ],
+      "person": "r22",
+      "lines": [
+        {
+          "item": "legion-pro-5-16irx9-83df00e9rk",
+          "pick": 1,
+          "qty": 1,
+          "price": 161400
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 131,
+      "at": [
+        12,
+        0
+      ],
+      "person": "r18",
+      "lines": [
+        {
+          "item": "ideapad-pro-5-14imh9-83d20027rk",
+          "pick": 1,
+          "qty": 1,
+          "price": 127780
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 131,
+      "at": [
+        12,
+        45
+      ],
+      "person": "r19",
+      "lines": [
+        {
+          "item": "thinkbook-14-g6-21kg00b8cd-win11p",
+          "pick": 1,
+          "qty": 1,
+          "price": 85580
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 130,
+      "at": [
+        17,
+        30
+      ],
+      "person": "r22",
+      "lines": [
+        {
+          "item": "thinkbook-14-g6-21kg00b8cd-win11p",
+          "pick": 1,
+          "qty": 1,
+          "price": 85580
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 129,
+      "at": [
+        11,
+        0
+      ],
+      "person": "o2",
+      "lines": [
+        {
+          "item": "xiaomi-poco-x7-5g-8-256gb-silver-mzb0iq9ru",
+          "pick": 1,
+          "qty": 3
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-aziz"
+    },
+    {
+      "days": 129,
+      "at": [
+        14,
+        0
+      ],
+      "person": "r10",
+      "lines": [
+        {
+          "item": "ux3405ma-zenbook-14-oled-qd379w",
+          "pick": 1,
+          "qty": 1,
+          "price": 102930
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 128,
+      "at": [
+        11,
+        15
+      ],
+      "person": "r13",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-14c-8-256gb-midnight-black-58586",
+          "pick": 1,
+          "qty": 1,
+          "price": 13500
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 127,
+      "at": [
+        10,
+        0
+      ],
+      "person": "r10",
+      "lines": [
+        {
+          "item": "ideapad-pro-5-14imh9-83d20027rk",
+          "pick": 1,
+          "qty": 1,
+          "price": 127780
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 126,
+      "at": [
+        14,
+        15
+      ],
+      "person": "r11",
+      "lines": [
+        {
+          "item": "x1605va-vivobook-16-mb875",
+          "pick": 1,
+          "qty": 1,
+          "price": 62280
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 125,
+      "at": [
+        15,
+        15
+      ],
+      "person": "r7",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-13-6-128gb-sandy-gold-x56070",
+          "pick": 1,
+          "qty": 1,
+          "price": 12860
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 124,
+      "at": [
+        15,
+        15
+      ],
+      "person": "r16",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-14c-8-256gb-midnight-black-58586",
+          "pick": 1,
+          "qty": 1,
+          "price": 13500
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 123,
+      "at": [
+        14,
+        30
+      ],
+      "person": "r16",
+      "lines": [
+        {
+          "item": "xiaomi-poco-x7-pro-5g-12-256gb-green-mzb0j2kru",
+          "pick": 1,
+          "qty": 1,
+          "price": 34040
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 122,
+      "at": [
+        11,
+        0
+      ],
+      "person": "o3",
+      "lines": [
+        {
+          "item": "v15-g4-iru-83a100abrm",
+          "pick": 1,
+          "qty": 3
+        },
+        {
+          "item": "xiaomi-poco-c75-8-256gb-black-58879",
+          "pick": 1,
+          "qty": 3
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-aziz"
+    },
+    {
+      "days": 122,
+      "at": [
+        17,
+        0
+      ],
+      "person": "r16",
+      "lines": [
+        {
+          "item": "x1504va-vivobook-15-bq003",
+          "pick": 1,
+          "qty": 1,
+          "price": 45310
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 121,
+      "at": [
+        19,
+        30
+      ],
+      "person": "r19",
+      "lines": [
+        {
+          "item": "x1504va-vivobook-15-bq003",
+          "pick": 1,
+          "qty": 1,
+          "price": 45310
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 119,
+      "at": [
+        15,
+        15
+      ],
+      "person": "r16",
+      "lines": [
+        {
+          "item": "legion-pro-5-16irx9-83df00e9rk",
+          "pick": 1,
+          "qty": 1,
+          "price": 161400
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 118,
+      "at": [
+        19,
+        45
+      ],
+      "person": "r18",
+      "lines": [
+        {
+          "item": "apple-iphone-16-128gb-white-mye93hn-a",
+          "pick": 1,
+          "qty": 1,
+          "price": 77460
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 117,
+      "at": [
+        15,
+        30
+      ],
+      "person": "r13",
+      "lines": [
+        {
+          "item": "e1504fa-vivobook-go-bq831w",
+          "pick": 1,
+          "qty": 1,
+          "price": 42890
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 116,
+      "at": [
+        10,
+        0
+      ],
+      "person": "r18",
+      "lines": [
+        {
+          "item": "v15-g4-iru-83a100abrm",
+          "pick": 1,
+          "qty": 1,
+          "price": 52220
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 115,
+      "at": [
+        11,
+        0
+      ],
+      "person": "r14",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-13-6-128gb-sandy-gold-x56070",
+          "pick": 1,
+          "qty": 1,
+          "price": 12860
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 115,
+      "at": [
+        11,
+        0
+      ],
+      "person": "o4",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-13c-4-128gb-midnight-black-51130",
+          "pick": 1,
+          "qty": 5
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-aziz"
+    },
+    {
+      "days": 114,
+      "at": [
+        13,
+        0
+      ],
+      "person": "r4",
+      "lines": [
+        {
+          "item": "xiaomi-poco-x7-pro-5g-12-256gb-green-mzb0j2kru",
+          "pick": 1,
+          "qty": 1,
+          "price": 34040
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 113,
+      "at": [
+        10,
+        45
+      ],
+      "person": "r4",
+      "lines": [
+        {
+          "item": "xiaomi-poco-c75-8-256gb-black-58879",
+          "pick": 1,
+          "qty": 1,
+          "price": 12200
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 113,
+      "at": [
+        18,
+        30
+      ],
+      "person": "r5",
+      "lines": [
+        {
+          "item": "apple-iphone-16-128gb-white-mye93hn-a",
+          "pick": 1,
+          "qty": 1,
+          "price": 77460
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 112,
+      "at": [
+        16,
+        45
+      ],
+      "person": "r1",
+      "lines": [
+        {
+          "item": "ux3405ma-zenbook-14-oled-qd379w",
+          "pick": 1,
+          "qty": 1,
+          "price": 102930
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 111,
+      "at": [
+        15,
+        30
+      ],
+      "person": "r15",
+      "lines": [
+        {
+          "item": "fa506ncr-tuf-gaming-a15-hn044",
+          "pick": 1,
+          "qty": 1,
+          "price": 63920
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 111,
+      "at": [
+        18,
+        30
+      ],
+      "person": "r23",
+      "lines": [
+        {
+          "item": "thinkbook-14-g7-21mr0096ru",
+          "pick": 1,
+          "qty": 1,
+          "price": 94600
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 109,
+      "at": [
+        18,
+        15
+      ],
+      "person": "r10",
+      "lines": [
+        {
+          "item": "fa506ncr-tuf-gaming-a15-hn044",
+          "pick": 1,
+          "qty": 1,
+          "price": 63920
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 108,
+      "at": [
+        11,
+        0
+      ],
+      "person": "o2",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-13-6-128gb-sandy-gold-x56070",
+          "pick": 1,
+          "qty": 6
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-aziz"
+    },
+    {
+      "days": 108,
+      "at": [
+        11,
+        30
+      ],
+      "person": "r10",
+      "lines": [
+        {
+          "item": "thinkbook-14-g7-21mr0096ru",
+          "pick": 1,
+          "qty": 1,
+          "price": 94600
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 107,
+      "at": [
+        11,
+        15
+      ],
+      "person": "r3",
+      "lines": [
+        {
+          "item": "xiaomi-poco-x7-5g-8-256gb-silver-mzb0iq9ru",
+          "pick": 1,
+          "qty": 1,
+          "price": 26530
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 104,
+      "at": [
+        13,
+        45
+      ],
+      "person": "r21",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-note-14-4g-8-256gb-midnight-black-60833-mzb0ikwru",
+          "pick": 1,
+          "qty": 1,
+          "price": 19570
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 103,
+      "at": [
+        15,
+        0
+      ],
+      "person": "r5",
+      "lines": [
+        {
+          "item": "x1605va-vivobook-16-mb693",
+          "pick": 1,
+          "qty": 1,
+          "price": 53310
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 102,
+      "at": [
+        13,
+        15
+      ],
+      "person": "r20",
+      "lines": [
+        {
+          "item": "e1504fa-vivobook-go-bq831w",
+          "pick": 1,
+          "qty": 1,
+          "price": 42890
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 101,
+      "at": [
+        11,
+        0
+      ],
+      "person": "o1",
+      "lines": [
+        {
+          "item": "x1605va-vivobook-16-mb693",
+          "pick": 1,
+          "qty": 2
+        },
+        {
+          "item": "xiaomi-redmi-note-14-4g-8-256gb-midnight-black-60833-mzb0ikwru",
+          "pick": 1,
+          "qty": 5
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-aziz"
+    },
+    {
+      "days": 100,
+      "at": [
+        10,
+        0
+      ],
+      "person": "r3",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-note-14-4g-8-256gb-midnight-black-60833-mzb0ikwru",
+          "pick": 1,
+          "qty": 1,
+          "price": 19570
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 100,
+      "at": [
+        14,
+        0
+      ],
+      "person": "r2",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-note-14-4g-8-256gb-midnight-black-60833-mzb0ikwru",
+          "pick": 1,
+          "qty": 1,
+          "price": 19570
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur",
+      "instalment": {
+        "program": "Рассрочка от Vega на 12 месяцев",
+        "unpaid": 0
+      }
+    },
+    {
+      "days": 99,
+      "at": [
+        17,
+        0
+      ],
+      "person": "r1",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-13c-4-128gb-midnight-black-51130",
+          "pick": 1,
+          "qty": 1,
+          "price": 12460
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 98,
+      "at": [
+        14,
+        15
+      ],
+      "person": "r15",
+      "lines": [
+        {
+          "item": "e1504fa-vivobook-go-bq831w",
+          "pick": 1,
+          "qty": 1,
+          "price": 42890
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 97,
+      "at": [
+        17,
+        15
+      ],
+      "person": "r18",
+      "lines": [
+        {
+          "item": "fa506ncr-tuf-gaming-a15-hn044",
+          "pick": 1,
+          "qty": 1,
+          "price": 63920
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 96,
+      "at": [
+        11,
+        45
+      ],
+      "person": "r3",
+      "lines": [
+        {
+          "item": "xiaomi-poco-x7-5g-8-256gb-silver-mzb0iq9ru",
+          "pick": 1,
+          "qty": 1,
+          "price": 26530
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 96,
+      "at": [
+        16,
+        0
+      ],
+      "person": "r17",
+      "lines": [
+        {
+          "item": "xiaomi-poco-x7-pro-5g-12-256gb-green-mzb0j2kru",
+          "pick": 1,
+          "qty": 1,
+          "price": 34040
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 95,
+      "at": [
+        14,
+        0
+      ],
+      "person": "r11",
+      "lines": [
+        {
+          "item": "x1605va-vivobook-16-mb875",
+          "pick": 1,
+          "qty": 1,
+          "price": 62280
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 94,
+      "at": [
+        10,
+        45
+      ],
+      "person": "r16",
+      "lines": [
+        {
+          "item": "legion-pro-5-16irx9-83df00e9rk",
+          "pick": 1,
+          "qty": 1,
+          "price": 161400
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 94,
+      "at": [
+        11,
+        0
+      ],
+      "person": "o4",
+      "lines": [
+        {
+          "item": "fa506ncr-tuf-gaming-a15-hn044",
+          "pick": 1,
+          "qty": 3
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-aziz"
+    },
+    {
+      "days": 94,
+      "at": [
+        14,
+        15
+      ],
+      "person": "r8",
+      "lines": [
+        {
+          "item": "x1605va-vivobook-16-mb693",
+          "pick": 1,
+          "qty": 1,
+          "price": 53310
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 93,
+      "at": [
+        11,
+        0
+      ],
+      "person": "r21",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-13c-4-128gb-midnight-black-51130",
+          "pick": 1,
+          "qty": 1,
+          "price": 12460
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 93,
+      "at": [
+        11,
+        15
+      ],
+      "person": "r19",
+      "lines": [
+        {
+          "item": "ideapad-pro-5-14imh9-83d20027rk",
+          "pick": 1,
+          "qty": 1,
+          "price": 127780
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 92,
+      "at": [
+        17,
+        45
+      ],
+      "person": "r5",
+      "lines": [
+        {
+          "item": "thinkbook-14-g6-21kg00b8cd-win11p",
+          "pick": 1,
+          "qty": 1,
+          "price": 85580
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 91,
+      "at": [
+        16,
+        45
+      ],
+      "person": "r1",
+      "lines": [
+        {
+          "item": "apple-iphone-16-128gb-white-mye93hn-a",
+          "pick": 1,
+          "qty": 1,
+          "price": 77460
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 90,
+      "at": [
+        15,
+        30
+      ],
+      "person": "r9",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-note-14-4g-8-256gb-midnight-black-60833-mzb0ikwru",
+          "pick": 1,
+          "qty": 1,
+          "price": 19570
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur",
+      "instalment": {
+        "program": "Рассрочка от Vega на 6 месяцев",
+        "unpaid": 0,
+        "back": {
+          "after": 10
+        }
+      }
+    },
+    {
+      "days": 89,
+      "at": [
+        12,
+        15
+      ],
+      "person": "r20",
+      "lines": [
+        {
+          "item": "xiaomi-poco-x7-5g-8-256gb-silver-mzb0iq9ru",
+          "pick": 1,
+          "qty": 1,
+          "price": 26530
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 88,
+      "at": [
+        19,
+        15
+      ],
+      "person": "r24",
+      "lines": [
+        {
+          "item": "x1504va-vivobook-15-bq003",
+          "pick": 1,
+          "qty": 1,
+          "price": 45310
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 87,
+      "at": [
+        11,
+        0
+      ],
+      "person": "o1",
+      "lines": [
+        {
+          "item": "v15-g4-iru-83a100abrm",
+          "pick": 1,
+          "qty": 3
+        },
+        {
+          "item": "xiaomi-redmi-14c-8-256gb-midnight-black-58586",
+          "pick": 1,
+          "qty": 3
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-aziz"
+    },
+    {
+      "days": 87,
+      "at": [
+        17,
+        45
+      ],
+      "person": "r1",
+      "lines": [
+        {
+          "item": "xiaomi-poco-c75-8-256gb-black-58879",
+          "pick": 1,
+          "qty": 1,
+          "price": 12200
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 86,
+      "at": [
+        13,
+        45
+      ],
+      "person": "r6",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-13c-4-128gb-midnight-black-51130",
+          "pick": 1,
+          "qty": 1,
+          "price": 12460
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 86,
+      "at": [
+        18,
+        15
+      ],
+      "person": "r10",
+      "lines": [
+        {
+          "item": "xiaomi-poco-x7-5g-8-256gb-silver-mzb0iq9ru",
+          "pick": 1,
+          "qty": 1,
+          "price": 26530
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 85,
+      "at": [
+        15,
+        30
+      ],
+      "person": "r18",
+      "lines": [
+        {
+          "item": "x1605va-vivobook-16-mb875",
+          "pick": 1,
+          "qty": 1,
+          "price": 62280
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 85,
+      "at": [
+        19,
+        45
+      ],
+      "person": "r2",
+      "lines": [
+        {
+          "item": "fa506ncr-tuf-gaming-a15-hn044",
+          "pick": 1,
+          "qty": 1,
+          "price": 63920
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 82,
+      "at": [
+        10,
+        0
+      ],
+      "person": "r18",
+      "lines": [
+        {
+          "item": "e1504fa-vivobook-go-bq831w",
+          "pick": 1,
+          "qty": 1,
+          "price": 42890
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 81,
+      "at": [
+        12,
+        45
+      ],
+      "person": "r8",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-13-6-128gb-sandy-gold-x56070",
+          "pick": 1,
+          "qty": 1,
+          "price": 12860
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 81,
+      "at": [
+        16,
+        45
+      ],
+      "person": "r18",
+      "lines": [
+        {
+          "item": "xiaomi-poco-x7-pro-5g-12-256gb-green-mzb0j2kru",
+          "pick": 1,
+          "qty": 1,
+          "price": 34040
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 80,
+      "at": [
+        11,
+        0
+      ],
+      "person": "o2",
+      "lines": [
+        {
+          "item": "v15-g4-iru-83a100abrm",
+          "pick": 1,
+          "qty": 2
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-aziz"
+    },
+    {
+      "days": 77,
+      "at": [
+        18,
+        30
+      ],
+      "person": "r19",
+      "lines": [
+        {
+          "item": "m5406wa-vivobook-s14-oled-pp086w",
+          "pick": 1,
+          "qty": 1,
+          "price": 133610
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 77,
+      "at": [
+        19,
+        15
+      ],
+      "person": "r1",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-13c-4-128gb-midnight-black-51130",
+          "pick": 1,
+          "qty": 1,
+          "price": 12460
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 75,
+      "at": [
+        17,
+        30
+      ],
+      "person": "r17",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-13-6-128gb-sandy-gold-x56070",
+          "pick": 1,
+          "qty": 1,
+          "price": 12860
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 74,
+      "at": [
+        12,
+        45
+      ],
+      "person": "r17",
+      "lines": [
+        {
+          "item": "x1605va-vivobook-16-mb693",
+          "pick": 1,
+          "qty": 1,
+          "price": 53310
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 73,
+      "at": [
+        11,
+        0
+      ],
+      "person": "o1",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-13c-4-128gb-midnight-black-51130",
+          "pick": 1,
+          "qty": 6
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-aziz"
+    },
+    {
+      "days": 72,
+      "at": [
+        14,
+        15
+      ],
+      "person": "r21",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-note-14-4g-8-256gb-midnight-black-60833-mzb0ikwru",
+          "pick": 1,
+          "qty": 1,
+          "price": 19570
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 71,
+      "at": [
+        16,
+        0
+      ],
+      "person": "r17",
+      "lines": [
+        {
+          "item": "xiaomi-poco-x7-pro-5g-12-256gb-green-mzb0j2kru",
+          "pick": 1,
+          "qty": 1,
+          "price": 34040
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 70,
+      "at": [
+        19,
+        30
+      ],
+      "person": "r10",
+      "lines": [
+        {
+          "item": "thinkbook-14-g6-21kg00b8cd-win11p",
+          "pick": 1,
+          "qty": 1,
+          "price": 85580
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 69,
+      "at": [
+        15,
+        15
+      ],
+      "person": "r5",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-note-14-4g-8-256gb-midnight-black-60833-mzb0ikwru",
+          "pick": 1,
+          "qty": 1,
+          "price": 19570
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 68,
+      "at": [
+        13,
+        15
+      ],
+      "person": "r17",
+      "lines": [
+        {
+          "item": "xiaomi-poco-x7-5g-8-256gb-silver-mzb0iq9ru",
+          "pick": 1,
+          "qty": 1,
+          "price": 26530
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 67,
+      "at": [
+        12,
+        45
+      ],
+      "person": "r11",
+      "lines": [
+        {
+          "item": "v15-g4-iru-83a100abrm",
+          "pick": 1,
+          "qty": 1,
+          "price": 52220
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 66,
+      "at": [
+        19,
+        45
+      ],
+      "person": "r2",
+      "lines": [
+        {
+          "item": "xiaomi-poco-x7-5g-8-256gb-silver-mzb0iq9ru",
+          "pick": 1,
+          "qty": 1,
+          "price": 26530
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 65,
+      "at": [
+        14,
+        15
+      ],
+      "person": "r4",
+      "lines": [
+        {
+          "item": "xiaomi-poco-x7-pro-5g-12-256gb-green-mzb0j2kru",
+          "pick": 1,
+          "qty": 1,
+          "price": 34040
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 64,
+      "at": [
+        13,
+        15
+      ],
+      "person": "r23",
+      "lines": [
+        {
+          "item": "fa506ncr-tuf-gaming-a15-hn044",
+          "pick": 1,
+          "qty": 1,
+          "price": 63920
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 63,
+      "at": [
+        17,
+        30
+      ],
+      "person": "r24",
+      "lines": [
+        {
+          "item": "thinkbook-14-g6-21kg00b8cd-win11p",
+          "pick": 1,
+          "qty": 1,
+          "price": 85580
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 61,
+      "at": [
+        16,
+        45
+      ],
+      "person": "r20",
+      "lines": [
+        {
+          "item": "v15-g4-iru-83a100abrm",
+          "pick": 1,
+          "qty": 1,
+          "price": 52220
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 59,
+      "at": [
+        11,
+        0
+      ],
+      "person": "o4",
+      "lines": [
+        {
+          "item": "xiaomi-poco-c75-8-256gb-black-58879",
+          "pick": 1,
+          "qty": 6
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-aziz"
+    },
+    {
+      "days": 59,
+      "at": [
+        19,
+        15
+      ],
+      "person": "r18",
+      "lines": [
+        {
+          "item": "xiaomi-poco-x7-pro-5g-12-256gb-green-mzb0j2kru",
+          "pick": 1,
+          "qty": 1,
+          "price": 34040
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 58,
+      "at": [
+        14,
+        15
+      ],
+      "person": "r18",
+      "lines": [
+        {
+          "item": "xiaomi-poco-x7-pro-5g-12-256gb-green-mzb0j2kru",
+          "pick": 1,
+          "qty": 1,
+          "price": 34040
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 57,
+      "at": [
+        11,
+        45
+      ],
+      "person": "r21",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-note-14-4g-8-256gb-midnight-black-60833-mzb0ikwru",
+          "pick": 1,
+          "qty": 1,
+          "price": 19570
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 56,
+      "at": [
+        18,
+        30
+      ],
+      "person": "r6",
+      "lines": [
+        {
+          "item": "fa506ncr-tuf-gaming-a15-hn044",
+          "pick": 1,
+          "qty": 1,
+          "price": 63920
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 55,
+      "at": [
+        14,
+        45
+      ],
+      "person": "r1",
+      "lines": [
+        {
+          "item": "ux3405ma-zenbook-14-oled-qd379w",
+          "pick": 1,
+          "qty": 1,
+          "price": 102930
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 53,
+      "at": [
+        11,
+        30
+      ],
+      "person": "r6",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-13-6-128gb-sandy-gold-x56070",
+          "pick": 1,
+          "qty": 1,
+          "price": 12860
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 53,
+      "at": [
+        14,
+        0
+      ],
+      "person": "r22",
+      "lines": [
+        {
+          "item": "xiaomi-poco-c75-8-256gb-black-58879",
+          "pick": 1,
+          "qty": 1,
+          "price": 12200
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 52,
+      "at": [
+        11,
+        0
+      ],
+      "person": "o4",
+      "lines": [
+        {
+          "item": "xiaomi-poco-x7-5g-8-256gb-silver-mzb0iq9ru",
+          "pick": 1,
+          "qty": 4
+        },
+        {
+          "item": "thinkbook-14-g6-21kg00b8cd-win11p",
+          "pick": 1,
+          "qty": 2
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-aziz"
+    },
+    {
+      "days": 52,
+      "at": [
+        16,
+        15
+      ],
+      "person": "r20",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-note-14-4g-8-256gb-midnight-black-60833-mzb0ikwru",
+          "pick": 1,
+          "qty": 1,
+          "price": 19570
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 51,
+      "at": [
+        19,
+        0
+      ],
+      "person": "r8",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-note-14-4g-8-256gb-midnight-black-60833-mzb0ikwru",
+          "pick": 1,
+          "qty": 1,
+          "price": 19570
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 50,
+      "at": [
+        19,
+        0
+      ],
+      "person": "r18",
+      "lines": [
+        {
+          "item": "xiaomi-poco-x7-5g-8-256gb-silver-mzb0iq9ru",
+          "pick": 1,
+          "qty": 1,
+          "price": 26530
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 49,
+      "at": [
+        10,
+        45
+      ],
+      "person": "r6",
+      "lines": [
+        {
+          "item": "ux3405ma-zenbook-14-oled-qd379w",
+          "pick": 1,
+          "qty": 1,
+          "price": 102930
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 48,
+      "at": [
+        18,
+        0
+      ],
+      "person": "r16",
+      "lines": [
+        {
+          "item": "x1504va-vivobook-15-bq003",
+          "pick": 1,
+          "qty": 1,
+          "price": 45310
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 47,
+      "at": [
+        11,
+        45
+      ],
+      "person": "r24",
+      "lines": [
+        {
+          "item": "x1504va-vivobook-15-bq003",
+          "pick": 1,
+          "qty": 1,
+          "price": 45310
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 46,
+      "at": [
+        12,
+        30
+      ],
+      "person": "r8",
+      "lines": [
+        {
+          "item": "apple-iphone-16-128gb-white-mye93hn-a",
+          "pick": 1,
+          "qty": 1,
+          "price": 77460
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 46,
+      "at": [
+        16,
+        15
+      ],
+      "person": "r1",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-13c-4-128gb-midnight-black-51130",
+          "pick": 1,
+          "qty": 1,
+          "price": 12460
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 45,
+      "at": [
+        11,
+        0
+      ],
+      "person": "o1",
+      "lines": [
+        {
+          "item": "thinkbook-14-g6-21kg00b8cd-win11p",
+          "pick": 1,
+          "qty": 2
+        },
+        {
+          "item": "xiaomi-redmi-note-14-4g-8-256gb-midnight-black-60833-mzb0ikwru",
+          "pick": 1,
+          "qty": 4
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-aziz"
+    },
+    {
+      "days": 44,
+      "at": [
+        11,
+        30
+      ],
+      "person": "r21",
+      "lines": [
+        {
+          "item": "xiaomi-poco-c75-8-256gb-black-58879",
+          "pick": 1,
+          "qty": 1,
+          "price": 12200
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 44,
+      "at": [
+        18,
+        45
+      ],
+      "person": "r12",
+      "lines": [
+        {
+          "item": "xiaomi-poco-c75-8-256gb-black-58879",
+          "pick": 1,
+          "qty": 1,
+          "price": 12200
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 43,
+      "at": [
+        13,
+        15
+      ],
+      "person": "r2",
+      "lines": [
+        {
+          "item": "xiaomi-poco-x7-5g-8-256gb-silver-mzb0iq9ru",
+          "pick": 1,
+          "qty": 1,
+          "price": 26530
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 42,
+      "at": [
+        14,
+        0
+      ],
+      "person": "r1",
+      "lines": [
+        {
+          "item": "ux3405ma-zenbook-14-oled-qd379w",
+          "pick": 1,
+          "qty": 1,
+          "price": 102930
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 41,
+      "at": [
+        12,
+        0
+      ],
+      "person": "r22",
+      "lines": [
+        {
+          "item": "x1504va-vivobook-15-bq003",
+          "pick": 1,
+          "qty": 1,
+          "price": 45310
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 41,
+      "at": [
+        15,
+        15
+      ],
+      "person": "r4",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-14c-8-256gb-midnight-black-58586",
+          "pick": 1,
+          "qty": 1,
+          "price": 13500
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 40,
+      "at": [
+        11,
+        45
+      ],
+      "person": "r16",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-13c-4-128gb-midnight-black-51130",
+          "pick": 1,
+          "qty": 1,
+          "price": 12460
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 39,
+      "at": [
+        18,
+        15
+      ],
+      "person": "r7",
+      "lines": [
+        {
+          "item": "v15-g4-iru-83a100abrm",
+          "pick": 1,
+          "qty": 1,
+          "price": 52220
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 39,
+      "at": [
+        19,
+        45
+      ],
+      "person": "r20",
+      "lines": [
+        {
+          "item": "x1504va-vivobook-15-bq003",
+          "pick": 1,
+          "qty": 1,
+          "price": 45310
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 38,
+      "at": [
+        11,
+        0
+      ],
+      "person": "o3",
+      "lines": [
+        {
+          "item": "xiaomi-poco-c75-8-256gb-black-58879",
+          "pick": 1,
+          "qty": 4
+        },
+        {
+          "item": "ux3405ma-zenbook-14-oled-qd379w",
+          "pick": 1,
+          "qty": 2
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-aziz"
+    },
+    {
+      "days": 38,
+      "at": [
+        13,
+        15
+      ],
+      "person": "r2",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-13c-4-128gb-midnight-black-51130",
+          "pick": 1,
+          "qty": 1,
+          "price": 12460
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 35,
+      "at": [
+        11,
+        45
+      ],
+      "person": "r24",
+      "lines": [
+        {
+          "item": "x1605va-vivobook-16-mb875",
+          "pick": 1,
+          "qty": 1,
+          "price": 62280
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 35,
+      "at": [
+        15,
+        0
+      ],
+      "person": "r5",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-13-6-128gb-sandy-gold-x56070",
+          "pick": 1,
+          "qty": 1,
+          "price": 12860
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 33,
+      "at": [
+        16,
+        30
+      ],
+      "person": "r18",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-13-6-128gb-sandy-gold-x56070",
+          "pick": 1,
+          "qty": 1,
+          "price": 12860
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 32,
+      "at": [
+        16,
+        45
+      ],
+      "person": "r13",
+      "lines": [
+        {
+          "item": "thinkbook-14-g6-21kg00b8cd-win11p",
+          "pick": 1,
+          "qty": 1,
+          "price": 85580
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 32,
+      "at": [
+        18,
+        15
+      ],
+      "person": "r15",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-note-14-4g-8-256gb-midnight-black-60833-mzb0ikwru",
+          "pick": 1,
+          "qty": 1,
+          "price": 19570
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 31,
+      "at": [
+        11,
+        0
+      ],
+      "person": "o4",
+      "lines": [
+        {
+          "item": "xiaomi-poco-c75-8-256gb-black-58879",
+          "pick": 1,
+          "qty": 6
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-aziz"
+    },
+    {
+      "days": 31,
+      "at": [
+        13,
+        30
+      ],
+      "person": "r10",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-14c-8-256gb-midnight-black-58586",
+          "pick": 1,
+          "qty": 1,
+          "price": 13500
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 30,
+      "at": [
+        19,
+        30
+      ],
+      "person": "r19",
+      "lines": [
+        {
+          "item": "x1605va-vivobook-16-mb693",
+          "pick": 1,
+          "qty": 1,
+          "price": 53310
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 29,
+      "at": [
+        16,
+        45
+      ],
+      "person": "r9",
+      "lines": [
+        {
+          "item": "xiaomi-poco-c75-8-256gb-black-58879",
+          "pick": 1,
+          "qty": 1,
+          "price": 12200
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 28,
+      "at": [
+        19,
+        15
+      ],
+      "person": "r18",
+      "lines": [
+        {
+          "item": "xiaomi-poco-x7-5g-8-256gb-silver-mzb0iq9ru",
+          "pick": 1,
+          "qty": 1,
+          "price": 26530
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 27,
+      "at": [
+        18,
+        45
+      ],
+      "person": "r24",
+      "lines": [
+        {
+          "item": "x1605va-vivobook-16-mb693",
+          "pick": 1,
+          "qty": 1,
+          "price": 53310
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 26,
+      "at": [
+        16,
+        0
+      ],
+      "person": "r11",
+      "lines": [
+        {
+          "item": "ux3405ma-zenbook-14-oled-qd379w",
+          "pick": 1,
+          "qty": 1,
+          "price": 102930
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 25,
+      "at": [
+        17,
+        0
+      ],
+      "person": "r5",
+      "lines": [
+        {
+          "item": "thinkbook-14-g7-21mr0096ru",
+          "pick": 1,
+          "qty": 1,
+          "price": 94600
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 24,
+      "at": [
+        10,
+        15
+      ],
+      "person": "r23",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-13-6-128gb-sandy-gold-x56070",
+          "pick": 1,
+          "qty": 1,
+          "price": 12860
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 24,
+      "at": [
+        11,
+        0
+      ],
+      "person": "o2",
+      "lines": [
+        {
+          "item": "ux3405ma-zenbook-14-oled-qd379w",
+          "pick": 1,
+          "qty": 2
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-aziz"
+    },
+    {
+      "days": 23,
+      "at": [
+        10,
+        45
+      ],
+      "person": "r19",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-13c-4-128gb-midnight-black-51130",
+          "pick": 1,
+          "qty": 1,
+          "price": 12460
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 23,
+      "at": [
+        16,
+        0
+      ],
+      "person": "r18",
+      "lines": [
+        {
+          "item": "legion-pro-5-16irx9-83df00e9rk",
+          "pick": 1,
+          "qty": 1,
+          "price": 161400
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 22,
+      "at": [
+        11,
+        0
+      ],
+      "person": "r3",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-13c-4-128gb-midnight-black-51130",
+          "pick": 1,
+          "qty": 1,
+          "price": 12460
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 22,
+      "at": [
+        14,
+        15
+      ],
+      "person": "r5",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-note-14-4g-8-256gb-midnight-black-60833-mzb0ikwru",
+          "pick": 1,
+          "qty": 1,
+          "price": 19570
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 21,
+      "at": [
+        11,
+        15
+      ],
+      "person": "r20",
+      "lines": [
+        {
+          "item": "ideapad-pro-5-14imh9-83d20027rk",
+          "pick": 1,
+          "qty": 1,
+          "price": 127780
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 20,
+      "at": [
+        11,
+        45
+      ],
+      "person": "r7",
+      "lines": [
+        {
+          "item": "e1504fa-vivobook-go-bq831w",
+          "pick": 1,
+          "qty": 1,
+          "price": 42890
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 19,
+      "at": [
+        12,
+        30
+      ],
+      "person": "r12",
+      "lines": [
+        {
+          "item": "ideapad-pro-5-14imh9-83d20027rk",
+          "pick": 1,
+          "qty": 1,
+          "price": 127780
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 19,
+      "at": [
+        16,
+        30
+      ],
+      "person": "r6",
+      "lines": [
+        {
+          "item": "apple-iphone-16-128gb-white-mye93hn-a",
+          "pick": 1,
+          "qty": 1,
+          "price": 77460
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 17,
+      "at": [
+        11,
+        0
+      ],
+      "person": "o4",
+      "lines": [
+        {
+          "item": "fa506ncr-tuf-gaming-a15-hn044",
+          "pick": 1,
+          "qty": 3
+        },
+        {
+          "item": "xiaomi-poco-c75-8-256gb-black-58879",
+          "pick": 1,
+          "qty": 6
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-aziz"
+    },
+    {
+      "days": 16,
+      "at": [
+        19,
+        15
+      ],
+      "person": "r18",
+      "lines": [
+        {
+          "item": "fa506ncr-tuf-gaming-a15-hn044",
+          "pick": 1,
+          "qty": 1,
+          "price": 63920
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 15,
+      "at": [
+        16,
+        30
+      ],
+      "person": "r15",
+      "lines": [
+        {
+          "item": "apple-iphone-16-128gb-white-mye93hn-a",
+          "pick": 1,
+          "qty": 1,
+          "price": 77460
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 14,
+      "at": [
+        16,
+        45
+      ],
+      "person": "r23",
+      "lines": [
+        {
+          "item": "x1504va-vivobook-15-bq003",
+          "pick": 1,
+          "qty": 1,
+          "price": 45310
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 13,
+      "at": [
+        15,
+        30
+      ],
+      "person": "r11",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-14c-8-256gb-midnight-black-58586",
+          "pick": 1,
+          "qty": 1,
+          "price": 13500
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 12,
+      "at": [
+        12,
+        0
+      ],
+      "person": "r2",
+      "lines": [
+        {
+          "item": "x1504va-vivobook-15-bq003",
+          "pick": 1,
+          "qty": 1,
+          "price": 45310
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 11,
+      "at": [
+        16,
+        15
+      ],
+      "person": "r4",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-14c-8-256gb-midnight-black-58586",
+          "pick": 1,
+          "qty": 1,
+          "price": 13500
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 10,
+      "at": [
+        11,
+        0
+      ],
+      "person": "o1",
+      "lines": [
+        {
+          "item": "x1605va-vivobook-16-mb875",
+          "pick": 1,
+          "qty": 3
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-aziz"
+    },
+    {
+      "days": 10,
+      "at": [
+        13,
+        45
+      ],
+      "person": "r3",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-note-14-4g-8-256gb-midnight-black-60833-mzb0ikwru",
+          "pick": 1,
+          "qty": 1,
+          "price": 19570
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur",
+      "instalment": {
+        "program": "Рассрочка от Vega на 6 месяцев"
+      }
+    },
+    {
+      "days": 10,
+      "at": [
+        19,
+        30
+      ],
+      "person": "r22",
+      "lines": [
+        {
+          "item": "ux3405ma-zenbook-14-oled-qd379w",
+          "pick": 1,
+          "qty": 1,
+          "price": 102930
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 9,
+      "at": [
+        13,
+        0
+      ],
+      "person": "r19",
+      "lines": [
+        {
+          "item": "ideapad-pro-5-14imh9-83d20027rk",
+          "pick": 1,
+          "qty": 1,
+          "price": 127780
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 9,
+      "at": [
+        13,
+        0
+      ],
+      "person": "r20",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-13c-4-128gb-midnight-black-51130",
+          "pick": 1,
+          "qty": 1,
+          "price": 12460
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 7,
+      "at": [
+        18,
+        30
+      ],
+      "person": "r23",
+      "lines": [
+        {
+          "item": "xiaomi-poco-x7-5g-8-256gb-silver-mzb0iq9ru",
+          "pick": 1,
+          "qty": 1,
+          "price": 26530
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 6,
+      "at": [
+        14,
+        0
+      ],
+      "person": "r15",
+      "lines": [
+        {
+          "item": "x1504va-vivobook-15-bq003",
+          "pick": 1,
+          "qty": 1,
+          "price": 45310
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    },
+    {
+      "days": 5,
+      "at": [
+        18,
+        10
+      ],
+      "person": "r10",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-note-14-4g-8-256gb-midnight-black-60833-mzb0ikwru",
+          "pick": 1,
+          "qty": 1,
+          "price": 19570
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur",
+      "hall": 1,
+      "instalment": {
+        "program": "Рассрочка от Vega на 6 месяцев",
+        "unpaid": 0
+      }
+    },
+    {
+      "days": 4,
+      "at": [
+        12,
+        45
+      ],
+      "person": "r11",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-13-6-128gb-sandy-gold-x56070",
+          "pick": 1,
+          "qty": 1,
+          "price": 12860
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 3,
+      "at": [
+        11,
+        0
+      ],
+      "person": "o3",
+      "lines": [
+        {
+          "item": "xiaomi-poco-x7-5g-8-256gb-silver-mzb0iq9ru",
+          "pick": 1,
+          "qty": 3
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-aziz"
+    },
+    {
+      "days": 2,
+      "at": [
+        10,
+        45
+      ],
+      "person": "r24",
+      "lines": [
+        {
+          "item": "x1504va-vivobook-15-bq003",
+          "pick": 1,
+          "qty": 1,
+          "price": 45310
+        }
+      ],
+      "paid": "cash",
+      "by": "vega-timur"
+    },
+    {
+      "days": 2,
+      "at": [
+        16,
+        30
+      ],
+      "person": "r24",
+      "lines": [
+        {
+          "item": "xiaomi-redmi-13c-4-128gb-midnight-black-51130",
+          "pick": 1,
+          "qty": 1,
+          "price": 12460
+        }
+      ],
+      "paid": "transfer",
+      "by": "vega-timur"
+    }
+  ]
+}

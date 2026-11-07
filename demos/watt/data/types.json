@@ -1,0 +1,3542 @@
+[
+ {
+  "slug": "holodilniki",
+  "name": {
+   "ru": "Холодильники",
+   "en": "Refrigerators",
+   "ar": "ثلاجات"
+  },
+  "section": "krupnaya-tehnika",
+  "summary": [
+   {
+    "ru": "{obschiy-poleznyy-obem}",
+    "en": "{obschiy-poleznyy-obem}",
+    "ar": "{obschiy-poleznyy-obem}"
+   },
+   {
+    "ru": "{razmorazhivanie-holodilnoy-kamery}",
+    "en": "{razmorazhivanie-holodilnoy-kamery}",
+    "ar": "{razmorazhivanie-holodilnoy-kamery}"
+   },
+   {
+    "ru": "{kolichestvo-kamer} камеры",
+    "en": "{kolichestvo-kamer} chambers",
+    "ar": "{kolichestvo-kamer} حجرات"
+   },
+   {
+    "ru": "{vysota}",
+    "en": "{vysota}",
+    "ar": "{vysota}"
+   },
+   {
+    "ru": "{klass-energopotrebleniya?}",
+    "en": "{klass-energopotrebleniya?}",
+    "ar": "{klass-energopotrebleniya?}"
+   }
+  ],
+  "properties": [
+   {
+    "property": "holodilniki-tip",
+    "group": "main",
+    "isFilterable": true,
+    "filterWidget": "checkbox",
+    "showInCard": true
+   },
+   {
+    "property": "tip-ustanovki",
+    "group": "main"
+   },
+   {
+    "property": "tip-kompressora",
+    "group": "main",
+    "showInCard": true
+   },
+   {
+    "property": "kolichestvo-kompressorov",
+    "group": "main"
+   },
+   {
+    "property": "kolichestvo-kamer",
+    "group": "main",
+    "isFilterable": true,
+    "filterWidget": "range",
+    "showInCard": true
+   },
+   {
+    "property": "obschiy-poleznyy-obem",
+    "group": "main",
+    "isFilterable": true,
+    "filterWidget": "range",
+    "showInCard": true
+   },
+   {
+    "property": "obem-holodilnoy-kamery",
+    "group": "chambers"
+   },
+   {
+    "property": "regulirovka-temperatury-v-holodilnoy-kamere",
+    "group": "chambers"
+   },
+   {
+    "property": "ustanovka-temperatury",
+    "group": "chambers",
+    "isMultivalued": true
+   },
+   {
+    "property": "kolichestvo-otdeleniy-v-holodilnoy-kamere",
+    "group": "chambers"
+   },
+   {
+    "property": "razmorazhivanie-holodilnoy-kamery",
+    "group": "chambers",
+    "isFilterable": true,
+    "filterWidget": "checkbox",
+    "showInCard": true
+   },
+   {
+    "property": "obem-morozilnoy-kamery",
+    "group": "chambers"
+   },
+   {
+    "property": "raspolozhenie-morozilnoy-kamery",
+    "group": "chambers"
+   },
+   {
+    "property": "razmorazhivanie-morozilnoy-kamery",
+    "group": "chambers"
+   },
+   {
+    "property": "kolichestvo-otdeleniy-v-morozilnoy-kamere",
+    "group": "chambers"
+   },
+   {
+    "property": "moschnost-zamorazhivaniya",
+    "group": "chambers"
+   },
+   {
+    "property": "hranenie-produktov-pri-otklyuchenii-pitaniya",
+    "group": "chambers"
+   },
+   {
+    "property": "regulirovka-temperatury-v-morozilnoy-kamere",
+    "group": "chambers"
+   },
+   {
+    "property": "minimalnaya-temperatura-v-morozilnoy-kamere",
+    "group": "chambers"
+   },
+   {
+    "property": "maksimalnaya-temperatura-v-morozilnoy-kamere",
+    "group": "chambers"
+   },
+   {
+    "property": "zona-svezhesti",
+    "group": "chambers"
+   },
+   {
+    "property": "tip-zony-svezhesti",
+    "group": "chambers",
+    "isMultivalued": true
+   },
+   {
+    "property": "regulirovka-temperatury-v-zone-svezhesti",
+    "group": "chambers"
+   },
+   {
+    "property": "tip-upravleniya",
+    "group": "control",
+    "isFilterable": true,
+    "filterWidget": "checkbox"
+   },
+   {
+    "property": "sposob-upravleniya",
+    "group": "control",
+    "isFilterable": true,
+    "filterWidget": "checkbox"
+   },
+   {
+    "property": "raspolozhenie-paneli-upravleniya",
+    "group": "control"
+   },
+   {
+    "property": "podderzhka-wi-fi",
+    "group": "control"
+   },
+   {
+    "property": "upravlenie-c-mobilnogo-ustroystva",
+    "group": "control"
+   },
+   {
+    "property": "holodilniki-podderzhka-mobilnogo-prilozheniya",
+    "group": "control"
+   },
+   {
+    "property": "holodilniki-displey",
+    "group": "display"
+   },
+   {
+    "property": "tip-displeya",
+    "group": "display",
+    "isMultivalued": true
+   },
+   {
+    "property": "vid-displeya",
+    "group": "display",
+    "isMultivalued": true
+   },
+   {
+    "property": "indikaciya-temperatury-morozilnoy-kamery",
+    "group": "display"
+   },
+   {
+    "property": "indikaciya-temperatury-holodilnoy-kamery",
+    "group": "display"
+   },
+   {
+    "property": "indikaciya-vklyucheniya",
+    "group": "display"
+   },
+   {
+    "property": "indikaciya-rezhima-raboty",
+    "group": "display"
+   },
+   {
+    "property": "indikaciya-otkrytoy-dveri",
+    "group": "display",
+    "isMultivalued": true
+   },
+   {
+    "property": "napryazhenie",
+    "group": "power"
+   },
+   {
+    "property": "dlina-setevogo-shnura",
+    "group": "power"
+   },
+   {
+    "property": "klass-energopotrebleniya",
+    "group": "power",
+    "isFilterable": true,
+    "filterWidget": "checkbox",
+    "showInCard": true
+   },
+   {
+    "property": "energopotreblenie",
+    "group": "power"
+   },
+   {
+    "property": "klimaticheskiy-klass",
+    "group": "power",
+    "isMultivalued": true
+   },
+   {
+    "property": "uroven-shuma",
+    "group": "power",
+    "showInCard": true
+   },
+   {
+    "property": "tip-signalizacii",
+    "group": "safety",
+    "isMultivalued": true
+   },
+   {
+    "property": "signalizaciya-ob-otkrytoy-dveri",
+    "group": "safety"
+   },
+   {
+    "property": "zaschita-ot-detey",
+    "group": "safety"
+   },
+   {
+    "property": "osveschenie-holodilnoy-kamery",
+    "group": "display"
+   },
+   {
+    "property": "tip-osvescheniya",
+    "group": "display"
+   },
+   {
+    "property": "kolichestvo-lamp-osvescheniya",
+    "group": "display"
+   },
+   {
+    "property": "holodilniki-moschnost-odnoy-lampy",
+    "group": "display"
+   },
+   {
+    "property": "superzamorozka",
+    "group": "modes"
+   },
+   {
+    "property": "nezavisimaya-regulirovka-temperatury-v-kamerah",
+    "group": "modes"
+   },
+   {
+    "property": "superohlazhdenie",
+    "group": "modes"
+   },
+   {
+    "property": "rezhim-otpusk",
+    "group": "modes"
+   },
+   {
+    "property": "dopolnitelnaya-informaciya",
+    "group": "modes"
+   },
+   {
+    "property": "kolichestvo-dverey",
+    "group": "body"
+   },
+   {
+    "property": "otkrytie-dvercy",
+    "group": "body",
+    "isMultivalued": true
+   },
+   {
+    "property": "kolichestvo-polok-v-holodilnoy-kamere",
+    "group": "chambers"
+   },
+   {
+    "property": "reguliruemye-po-vysote-polki-v-holodilnoy-kamere",
+    "group": "chambers"
+   },
+   {
+    "property": "kolichestvo-polok-na-dverce-holodilnoy-kamery",
+    "group": "chambers"
+   },
+   {
+    "property": "kolichestvo-konteynerov-v-morozilnoy-kamere",
+    "group": "chambers"
+   },
+   {
+    "property": "kolichestvo-konteynerov-v-zone-svezhesti",
+    "group": "chambers"
+   },
+   {
+    "property": "cvet",
+    "group": "body",
+    "isMultivalued": true
+   },
+   {
+    "property": "cvet-polok",
+    "group": "body",
+    "isMultivalued": true
+   },
+   {
+    "property": "cvet-yaschikov",
+    "group": "body",
+    "isMultivalued": true
+   },
+   {
+    "property": "material-dveri",
+    "group": "body",
+    "isMultivalued": true
+   },
+   {
+    "property": "material-polok",
+    "group": "body"
+   },
+   {
+    "property": "material-yaschikov",
+    "group": "body"
+   },
+   {
+    "property": "formochki-dlya-lda",
+    "group": "kit"
+   },
+   {
+    "property": "kolichestvo-formochek-dlya-lda",
+    "group": "kit"
+   },
+   {
+    "property": "podstavka-dlya-yaic",
+    "group": "kit"
+   },
+   {
+    "property": "vysota",
+    "group": "size",
+    "isFilterable": true,
+    "filterWidget": "range",
+    "showInCard": true
+   },
+   {
+    "property": "shirina",
+    "group": "size"
+   },
+   {
+    "property": "glubina",
+    "group": "size"
+   },
+   {
+    "property": "ves",
+    "group": "size"
+   },
+   {
+    "property": "vstroennyy-ventilyator-dlya-raspredeleniya-tempe",
+    "group": "body"
+   },
+   {
+    "property": "kolichestvo-konteynerov-v-holodilnoy-kamere",
+    "group": "chambers"
+   },
+   {
+    "property": "material-bokovyh-stenok",
+    "group": "body"
+   },
+   {
+    "property": "regulirovka-vlazhnosti-v-zone-svezhesti",
+    "group": "chambers"
+   },
+   {
+    "property": "indikaciya-povysheniya-temperatury",
+    "group": "display",
+    "isMultivalued": true
+   },
+   {
+    "property": "rezhim-energosberezheniya",
+    "group": "power"
+   },
+   {
+    "property": "signalizaciya-o-povyshenii-temperatury",
+    "group": "safety"
+   },
+   {
+    "property": "samodiagnostika-neispravnostey",
+    "group": "safety"
+   },
+   {
+    "property": "perenaveshivaemye-dveri",
+    "group": "body"
+   },
+   {
+    "property": "polka-dlya-vina",
+    "group": "chambers"
+   },
+   {
+    "property": "signalizaciya-o-neispravnosti",
+    "group": "safety"
+   },
+   {
+    "property": "cvet-indikacii",
+    "group": "display",
+    "isMultivalued": true
+   }
+  ]
+ },
+ {
+  "slug": "stiralnye-mashiny",
+  "name": {
+   "ru": "Стиральные машины",
+   "en": "Washing machines",
+   "ar": "غسالات ملابس"
+  },
+  "section": "krupnaya-tehnika",
+  "summary": [
+   {
+    "ru": "{maksimalnaya-zagruzka-belya}",
+    "en": "{maksimalnaya-zagruzka-belya}",
+    "ar": "{maksimalnaya-zagruzka-belya}"
+   },
+   {
+    "ru": "{maksimalnaya-skorost-otzhima}",
+    "en": "{maksimalnaya-skorost-otzhima}",
+    "ar": "{maksimalnaya-skorost-otzhima}"
+   },
+   {
+    "ru": "{tip-zagruzki} загрузка",
+    "en": "{tip-zagruzki} loading",
+    "ar": "تعبئة {tip-zagruzki}"
+   },
+   {
+    "ru": "{kolichestvo-programm} программ",
+    "en": "{kolichestvo-programm} programs",
+    "ar": "{kolichestvo-programm} برامج"
+   },
+   {
+    "ru": "{klass-energopotrebleniya?}",
+    "en": "{klass-energopotrebleniya?}",
+    "ar": "{klass-energopotrebleniya?}"
+   }
+  ],
+  "properties": [
+   {
+    "property": "tip-upravleniya",
+    "group": "control",
+    "isFilterable": true,
+    "filterWidget": "checkbox"
+   },
+   {
+    "property": "podderzhka-wi-fi",
+    "group": "control"
+   },
+   {
+    "property": "upravlenie-c-mobilnogo-ustroystva",
+    "group": "control"
+   },
+   {
+    "property": "stiralnye-mashiny-podderzhka-mobilnogo-prilozheniya",
+    "group": "control"
+   },
+   {
+    "property": "tip-displeya",
+    "group": "display",
+    "isMultivalued": true
+   },
+   {
+    "property": "napryazhenie",
+    "group": "power"
+   },
+   {
+    "property": "dlina-setevogo-shnura",
+    "group": "power"
+   },
+   {
+    "property": "klass-energopotrebleniya",
+    "group": "power",
+    "isFilterable": true,
+    "filterWidget": "checkbox",
+    "showInCard": true
+   },
+   {
+    "property": "zaschita-ot-detey",
+    "group": "safety"
+   },
+   {
+    "property": "dopolnitelnaya-informaciya",
+    "group": "modes"
+   },
+   {
+    "property": "cvet",
+    "group": "body",
+    "isFilterable": true,
+    "filterWidget": "checkbox",
+    "isMultivalued": true
+   },
+   {
+    "property": "vysota",
+    "group": "size"
+   },
+   {
+    "property": "shirina",
+    "group": "size"
+   },
+   {
+    "property": "glubina",
+    "group": "size"
+   },
+   {
+    "property": "ves",
+    "group": "size"
+   },
+   {
+    "property": "rezhim-energosberezheniya",
+    "group": "power"
+   },
+   {
+    "property": "cvet-indikacii",
+    "group": "display",
+    "isMultivalued": true
+   },
+   {
+    "property": "ustanovka",
+    "group": "main",
+    "showInCard": true
+   },
+   {
+    "property": "konstrukciya-stiralnoy-mashiny",
+    "group": "main",
+    "isFilterable": true,
+    "filterWidget": "checkbox",
+    "showInCard": true
+   },
+   {
+    "property": "kolichestvo-barabanov",
+    "group": "main"
+   },
+   {
+    "property": "tip-dvigatelya",
+    "group": "main",
+    "isFilterable": true,
+    "filterWidget": "checkbox",
+    "showInCard": true
+   },
+   {
+    "property": "tip-zagruzki",
+    "group": "drum",
+    "showInCard": true
+   },
+   {
+    "property": "poverhnost-barabana",
+    "group": "drum"
+   },
+   {
+    "property": "maksimalnaya-zagruzka-belya",
+    "group": "drum",
+    "isFilterable": true,
+    "filterWidget": "range",
+    "showInCard": true
+   },
+   {
+    "property": "maksimalnaya-skorost-otzhima",
+    "group": "drum",
+    "isFilterable": true,
+    "filterWidget": "range",
+    "showInCard": true
+   },
+   {
+    "property": "klass-stirki",
+    "group": "drum"
+   },
+   {
+    "property": "klass-otzhima",
+    "group": "drum"
+   },
+   {
+    "property": "uroven-shuma-pri-stirke",
+    "group": "drum"
+   },
+   {
+    "property": "uroven-shuma-pri-otzhime",
+    "group": "drum"
+   },
+   {
+    "property": "sushka",
+    "group": "drum"
+   },
+   {
+    "property": "tip-sushki",
+    "group": "drum",
+    "isMultivalued": true
+   },
+   {
+    "property": "kolichestvo-programm-sushki",
+    "group": "drum"
+   },
+   {
+    "property": "maksimalnaya-zagruzka-belya-pri-sushke",
+    "group": "drum"
+   },
+   {
+    "property": "programmy-sushki",
+    "group": "drum",
+    "isMultivalued": true
+   },
+   {
+    "property": "pereklyuchateli",
+    "group": "control",
+    "isMultivalued": true
+   },
+   {
+    "property": "razmeschenie-paneli-upravleniya",
+    "group": "control"
+   },
+   {
+    "property": "kolichestvo-programm",
+    "group": "control",
+    "isFilterable": true,
+    "filterWidget": "range",
+    "showInCard": true
+   },
+   {
+    "property": "programmy",
+    "group": "control"
+   },
+   {
+    "property": "programma-ochistki-barabana",
+    "group": "control"
+   },
+   {
+    "property": "dopolnitelnye-programmy",
+    "group": "control"
+   },
+   {
+    "property": "regulirovka-temperatury-stirki",
+    "group": "modes"
+   },
+   {
+    "property": "kolichestvo-temperaturnyh-rezhimov",
+    "group": "modes"
+   },
+   {
+    "property": "minimalnaya-temperatura-vody",
+    "group": "modes"
+   },
+   {
+    "property": "maksimalnaya-temperatura-vody",
+    "group": "modes"
+   },
+   {
+    "property": "cifrovoy-displey",
+    "group": "display"
+   },
+   {
+    "property": "taymer-otsrochki",
+    "group": "control"
+   },
+   {
+    "property": "maksimalnoe-vremya-otsrochki-stirki",
+    "group": "control"
+   },
+   {
+    "property": "indikaciya-vremeni-do-konca-programmy",
+    "group": "display"
+   },
+   {
+    "property": "indikaciya-temperatury",
+    "group": "display"
+   },
+   {
+    "property": "indikaciya-skorosti-otzhima",
+    "group": "display"
+   },
+   {
+    "property": "indikaciya-blokirovki-dvercy",
+    "group": "display"
+   },
+   {
+    "property": "indikaciya-oshibok",
+    "group": "display"
+   },
+   {
+    "property": "indikaciya-vklyucheniya-pauzy",
+    "group": "display"
+   },
+   {
+    "property": "indikaciya-vybora-dopolnitelnyh-funkciy",
+    "group": "display"
+   },
+   {
+    "property": "indikaciya-vremeni-otlozhennogo-starta",
+    "group": "display"
+   },
+   {
+    "property": "kontrol-rashoda-vody",
+    "group": "performance"
+   },
+   {
+    "property": "avtomaticheskaya-regulirovka-urovnya-vody",
+    "group": "performance"
+   },
+   {
+    "property": "regulirovka-skorosti-otzhima",
+    "group": "drum"
+   },
+   {
+    "property": "kolichestvo-skorostey-otzhima",
+    "group": "drum"
+   },
+   {
+    "property": "otmena-otzhima",
+    "group": "drum"
+   },
+   {
+    "property": "avtomaticheskiy-kontrol-zagruzki",
+    "group": "drum"
+   },
+   {
+    "property": "funkciya-dozagruzki-belya",
+    "group": "modes"
+   },
+   {
+    "property": "zaschita-ot-protechek",
+    "group": "safety"
+   },
+   {
+    "property": "blokirovka-lyuka-vo-vremya-raboty",
+    "group": "safety"
+   },
+   {
+    "property": "podsvetka-barabana",
+    "group": "body"
+   },
+   {
+    "property": "avtomaticheskiy-dozator-moyuschego-sredstva",
+    "group": "body"
+   },
+   {
+    "property": "napravlenie-otkryvaniya-lyuka",
+    "group": "body"
+   },
+   {
+    "property": "diametr-zagruzochnogo-lyuka",
+    "group": "body"
+   },
+   {
+    "property": "reguliruemye-nozhki",
+    "group": "body"
+   },
+   {
+    "property": "samodiagnostika",
+    "group": "modes"
+   },
+   {
+    "property": "avtovzveshivanie-belya",
+    "group": "modes"
+   },
+   {
+    "property": "cvet-dvercy-lyuka",
+    "group": "body",
+    "isMultivalued": true
+   },
+   {
+    "property": "material-dvercy-lyuka",
+    "group": "body",
+    "isMultivalued": true
+   },
+   {
+    "property": "material-barabana",
+    "group": "body"
+   },
+   {
+    "property": "shlang-podachi-vody",
+    "group": "kit"
+   },
+   {
+    "property": "slivnoy-shlang",
+    "group": "kit"
+   },
+   {
+    "property": "stiralnye-mashiny-setevoy-kabel",
+    "group": "kit"
+   },
+   {
+    "property": "gaechnyy-klyuch",
+    "group": "kit"
+   },
+   {
+    "property": "zaglushka",
+    "group": "kit"
+   },
+   {
+    "property": "funkciya-par",
+    "group": "control"
+   },
+   {
+    "property": "sistema-zaschity-ot-protechek",
+    "group": "safety"
+   },
+   {
+    "property": "kontrol-penoobrazovaniya",
+    "group": "safety"
+   },
+   {
+    "property": "energopotreblenie-za-cikl",
+    "group": "power"
+   },
+   {
+    "property": "avtobalans",
+    "group": "modes"
+   },
+   {
+    "property": "material-baka",
+    "group": "body"
+   },
+   {
+    "property": "zvukovoy-signal-zaversheniya-programmy",
+    "group": "display"
+   },
+   {
+    "property": "indikaciya-okonchaniya-stirki",
+    "group": "display"
+   },
+   {
+    "property": "indikaciya-cikla-stirki",
+    "group": "display"
+   },
+   {
+    "property": "material-korpusa",
+    "group": "body",
+    "isMultivalued": true
+   },
+   {
+    "property": "derzhatel-shlanga",
+    "group": "kit"
+   },
+   {
+    "property": "rashod-vody-za-cikl",
+    "group": "performance"
+   },
+   {
+    "property": "ostatochnaya-vlazhnost",
+    "group": "drum"
+   },
+   {
+    "property": "dlina-zalivnogo-shlanga",
+    "group": "body"
+   },
+   {
+    "property": "dlina-slivnogo-shlanga",
+    "group": "body"
+   },
+   {
+    "property": "zvukovoy-signal-okonchaniya-stirki",
+    "group": "display"
+   },
+   {
+    "property": "podderzhka-bluetooth",
+    "group": "control"
+   },
+   {
+    "property": "godovoe-potreblenie-vody",
+    "group": "performance"
+   },
+   {
+    "property": "stiralnye-mashiny-energopotreblenie-za-god",
+    "group": "power"
+   },
+   {
+    "property": "zanesenie-programm-v-pamyat",
+    "group": "control"
+   },
+   {
+    "property": "ugol-otkrytiya-lyuka",
+    "group": "body"
+   },
+   {
+    "property": "zaschita-ot-skachkov-napryazheniya",
+    "group": "safety"
+   }
+  ]
+ },
+ {
+  "slug": "posudomoechnye-mashiny",
+  "name": {
+   "ru": "Посудомоечные машины",
+   "en": "Dishwashers",
+   "ar": "غسالات أطباق"
+  },
+  "section": "krupnaya-tehnika",
+  "summary": [
+   {
+    "ru": "{kolichestvo-programm} программ",
+    "en": "{kolichestvo-programm} programs",
+    "ar": "{kolichestvo-programm} برامج"
+   },
+   {
+    "ru": "{vid-sushki} сушка",
+    "en": "{vid-sushki} drying",
+    "ar": "تجفيف {vid-sushki}"
+   },
+   {
+    "ru": "{ustanovka}",
+    "en": "{ustanovka}",
+    "ar": "{ustanovka}"
+   },
+   {
+    "ru": "{klass-energopotrebleniya?}",
+    "en": "{klass-energopotrebleniya?}",
+    "ar": "{klass-energopotrebleniya?}"
+   }
+  ],
+  "properties": [
+   {
+    "property": "tip-upravleniya",
+    "group": "control",
+    "isFilterable": true,
+    "filterWidget": "checkbox"
+   },
+   {
+    "property": "podderzhka-wi-fi",
+    "group": "control"
+   },
+   {
+    "property": "upravlenie-c-mobilnogo-ustroystva",
+    "group": "control"
+   },
+   {
+    "property": "posudomoechnye-mashiny-podderzhka-mobilnogo-prilozheniya",
+    "group": "control"
+   },
+   {
+    "property": "tip-displeya",
+    "group": "display",
+    "isMultivalued": true
+   },
+   {
+    "property": "napryazhenie",
+    "group": "power"
+   },
+   {
+    "property": "klass-energopotrebleniya",
+    "group": "power",
+    "isFilterable": true,
+    "filterWidget": "checkbox",
+    "showInCard": true
+   },
+   {
+    "property": "uroven-shuma",
+    "group": "power",
+    "showInCard": true
+   },
+   {
+    "property": "zaschita-ot-detey",
+    "group": "safety"
+   },
+   {
+    "property": "dopolnitelnaya-informaciya",
+    "group": "modes"
+   },
+   {
+    "property": "cvet",
+    "group": "body",
+    "isFilterable": true,
+    "filterWidget": "checkbox",
+    "isMultivalued": true
+   },
+   {
+    "property": "vysota",
+    "group": "size"
+   },
+   {
+    "property": "shirina",
+    "group": "size"
+   },
+   {
+    "property": "glubina",
+    "group": "size"
+   },
+   {
+    "property": "ves",
+    "group": "size"
+   },
+   {
+    "property": "cvet-indikacii",
+    "group": "display",
+    "isMultivalued": true
+   },
+   {
+    "property": "ustanovka",
+    "group": "main",
+    "showInCard": true
+   },
+   {
+    "property": "tip-dvigatelya",
+    "group": "main"
+   },
+   {
+    "property": "pereklyuchateli",
+    "group": "control",
+    "isFilterable": true,
+    "filterWidget": "checkbox",
+    "isMultivalued": true
+   },
+   {
+    "property": "kolichestvo-programm",
+    "group": "control",
+    "isFilterable": true,
+    "filterWidget": "range",
+    "showInCard": true
+   },
+   {
+    "property": "programmy",
+    "group": "control"
+   },
+   {
+    "property": "dopolnitelnye-programmy",
+    "group": "control"
+   },
+   {
+    "property": "kolichestvo-temperaturnyh-rezhimov",
+    "group": "modes"
+   },
+   {
+    "property": "maksimalnaya-temperatura-vody",
+    "group": "modes"
+   },
+   {
+    "property": "cifrovoy-displey",
+    "group": "display"
+   },
+   {
+    "property": "taymer-otsrochki",
+    "group": "control"
+   },
+   {
+    "property": "indikaciya-vremeni-do-konca-programmy",
+    "group": "display"
+   },
+   {
+    "property": "zaschita-ot-protechek",
+    "group": "safety",
+    "isFilterable": true,
+    "filterWidget": "checkbox",
+    "showInCard": true
+   },
+   {
+    "property": "slivnoy-shlang",
+    "group": "kit"
+   },
+   {
+    "property": "posudomoechnye-mashiny-setevoy-kabel",
+    "group": "power"
+   },
+   {
+    "property": "energopotreblenie-za-cikl",
+    "group": "power"
+   },
+   {
+    "property": "zvukovoy-signal-zaversheniya-programmy",
+    "group": "display"
+   },
+   {
+    "property": "material-korpusa",
+    "group": "body",
+    "isMultivalued": true
+   },
+   {
+    "property": "rashod-vody-za-cikl",
+    "group": "performance",
+    "showInCard": true
+   },
+   {
+    "property": "dlina-zalivnogo-shlanga",
+    "group": "body"
+   },
+   {
+    "property": "dlina-slivnogo-shlanga",
+    "group": "body"
+   },
+   {
+    "property": "posudomoechnye-mashiny-energopotreblenie-za-god",
+    "group": "power"
+   },
+   {
+    "property": "konstrukciya",
+    "group": "main",
+    "isFilterable": true,
+    "filterWidget": "checkbox"
+   },
+   {
+    "property": "vid-sushki",
+    "group": "main",
+    "isFilterable": true,
+    "filterWidget": "checkbox",
+    "showInCard": true
+   },
+   {
+    "property": "zagruzka",
+    "group": "main"
+   },
+   {
+    "property": "ekonomichnaya-programma",
+    "group": "control"
+   },
+   {
+    "property": "intensivnaya-moyka",
+    "group": "control"
+   },
+   {
+    "property": "klass-moyki",
+    "group": "control"
+   },
+   {
+    "property": "klass-sushki",
+    "group": "control"
+   },
+   {
+    "property": "temperaturnye-rezhimy",
+    "group": "modes",
+    "isMultivalued": true
+   },
+   {
+    "property": "maksimalnoe-vremya-otsrochki",
+    "group": "control"
+   },
+   {
+    "property": "indikaciya-rezhimov-raboty",
+    "group": "display"
+   },
+   {
+    "property": "indikator-nalichiya-soli",
+    "group": "display"
+   },
+   {
+    "property": "indikator-nalichiya-opolaskivatelya",
+    "group": "display"
+   },
+   {
+    "property": "blokirovka-upravleniya",
+    "group": "safety"
+   },
+   {
+    "property": "tehnologiya-zaschity-ot-protechki",
+    "group": "safety"
+   },
+   {
+    "property": "maksimalnaya-potreblyaemaya-moschnost",
+    "group": "power"
+   },
+   {
+    "property": "kolichestvo-korzin",
+    "group": "chambers",
+    "showInCard": true
+   },
+   {
+    "property": "regulirovka-vysoty-korziny",
+    "group": "chambers"
+   },
+   {
+    "property": "kolichestvo-razbryzgivateley",
+    "group": "body"
+   },
+   {
+    "property": "kolichestvo-zon-podachi-vody",
+    "group": "body"
+   },
+   {
+    "property": "ispolzovanie-sredstv-3-v-1",
+    "group": "body"
+   },
+   {
+    "property": "rezhim-polovinnoy-zagruzki",
+    "group": "body"
+   },
+   {
+    "property": "material-koromysla",
+    "group": "body"
+   },
+   {
+    "property": "semnaya-korzina-dlya-stolovyh-priborov",
+    "group": "kit"
+   },
+   {
+    "property": "zalivnogo-shlanga",
+    "group": "kit"
+   },
+   {
+    "property": "funkcii-displeya",
+    "group": "display"
+   },
+   {
+    "property": "klass-energopotrebleniya-moyki",
+    "group": "power"
+   },
+   {
+    "property": "klass-energopotrebleniya-sushki",
+    "group": "power"
+   },
+   {
+    "property": "korzina-dlya-stolovyh-priborov",
+    "group": "chambers"
+   },
+   {
+    "property": "polka-dlya-chashek",
+    "group": "chambers"
+   },
+   {
+    "property": "otkidnaya-polka-dlya-chashek",
+    "group": "chambers"
+   },
+   {
+    "property": "skladnye-derzhateli",
+    "group": "chambers"
+   },
+   {
+    "property": "regulirovka-zhestkosti-vody",
+    "group": "control"
+   },
+   {
+    "property": "protochnyy-vodonagrevatel",
+    "group": "body"
+   },
+   {
+    "property": "verhniy-razbryzgivatel",
+    "group": "body"
+   },
+   {
+    "property": "avtomaticheskoe-otkryvanie-dvercy-v-konce-moyki",
+    "group": "body"
+   },
+   {
+    "property": "prodolzhitelnost-normativnogo-cikla",
+    "group": "body"
+   },
+   {
+    "property": "material-vnutrenney-kamery",
+    "group": "body"
+   },
+   {
+    "property": "indikator-otsutstviya-soli",
+    "group": "display"
+   },
+   {
+    "property": "indikator-otsutstviya-opolaskivatelya",
+    "group": "display"
+   },
+   {
+    "property": "kolichestvo-polok-dlya-chashek",
+    "group": "chambers"
+   },
+   {
+    "property": "zalivnoy-shlang",
+    "group": "kit"
+   },
+   {
+    "property": "glubina-s-otkrytoy-dverkoy",
+    "group": "size"
+   },
+   {
+    "property": "kolichestvo-urovney-regulirovki-po-vysote",
+    "group": "chambers"
+   },
+   {
+    "property": "vozmozhnost-sokrascheniya-programmy",
+    "group": "body"
+   }
+  ]
+ },
+ {
+  "slug": "plity",
+  "name": {
+   "ru": "Плиты",
+   "en": "Cookers",
+   "ar": "أفران ومواقد طهي"
+  },
+  "section": "krupnaya-tehnika",
+  "summary": [
+   {
+    "ru": "{plity-tip}",
+    "en": "{plity-tip}",
+    "ar": "{plity-tip}"
+   },
+   {
+    "ru": "{vsego-konforok} конфорки",
+    "en": "{vsego-konforok} burners",
+    "ar": "{vsego-konforok} شعلات"
+   },
+   {
+    "ru": "{obem-duhovki}",
+    "en": "{obem-duhovki}",
+    "ar": "{obem-duhovki}"
+   },
+   {
+    "ru": "{rabochaya-poverhnost}",
+    "en": "{rabochaya-poverhnost}",
+    "ar": "{rabochaya-poverhnost}"
+   },
+   {
+    "ru": "{shirina}",
+    "en": "{shirina}",
+    "ar": "{shirina}"
+   }
+  ],
+  "properties": [
+   {
+    "property": "plity-tip",
+    "group": "main",
+    "isFilterable": true,
+    "filterWidget": "checkbox",
+    "showInCard": true
+   },
+   {
+    "property": "tip-upravleniya",
+    "group": "control",
+    "isFilterable": true,
+    "filterWidget": "checkbox",
+    "showInCard": true
+   },
+   {
+    "property": "tip-displeya",
+    "group": "display",
+    "isMultivalued": true
+   },
+   {
+    "property": "indikaciya-vklyucheniya",
+    "group": "display"
+   },
+   {
+    "property": "indikaciya-rezhima-raboty",
+    "group": "display"
+   },
+   {
+    "property": "klass-energopotrebleniya",
+    "group": "power",
+    "isFilterable": true,
+    "filterWidget": "checkbox",
+    "showInCard": true
+   },
+   {
+    "property": "tip-osvescheniya",
+    "group": "display"
+   },
+   {
+    "property": "kolichestvo-lamp-osvescheniya",
+    "group": "display"
+   },
+   {
+    "property": "plity-moschnost-odnoy-lampy",
+    "group": "extra"
+   },
+   {
+    "property": "dopolnitelnaya-informaciya",
+    "group": "modes"
+   },
+   {
+    "property": "cvet",
+    "group": "body",
+    "isFilterable": true,
+    "filterWidget": "checkbox",
+    "isMultivalued": true
+   },
+   {
+    "property": "vysota",
+    "group": "size"
+   },
+   {
+    "property": "shirina",
+    "group": "size",
+    "isFilterable": true,
+    "filterWidget": "range",
+    "showInCard": true
+   },
+   {
+    "property": "glubina",
+    "group": "size"
+   },
+   {
+    "property": "ves",
+    "group": "size"
+   },
+   {
+    "property": "pereklyuchateli",
+    "group": "control",
+    "isMultivalued": true
+   },
+   {
+    "property": "varochnaya-panel",
+    "group": "main"
+   },
+   {
+    "property": "duhovka",
+    "group": "main"
+   },
+   {
+    "property": "rabochaya-poverhnost",
+    "group": "main",
+    "isFilterable": true,
+    "filterWidget": "checkbox",
+    "showInCard": true
+   },
+   {
+    "property": "cvet-paneli-konforok",
+    "group": "main"
+   },
+   {
+    "property": "cvet-furnitury",
+    "group": "main",
+    "isMultivalued": true
+   },
+   {
+    "property": "elektropodzhig",
+    "group": "control"
+   },
+   {
+    "property": "vsego-konforok",
+    "group": "cooking",
+    "isFilterable": true,
+    "filterWidget": "range",
+    "showInCard": true
+   },
+   {
+    "property": "kolichestvo-gazovyh-konforok",
+    "group": "cooking"
+   },
+   {
+    "property": "konforok-s-dvoynym-ryadom-plameni",
+    "group": "cooking"
+   },
+   {
+    "property": "moschnost-zadney-levoy-konforki",
+    "group": "cooking"
+   },
+   {
+    "property": "moschnost-zadney-pravoy-konforki",
+    "group": "cooking"
+   },
+   {
+    "property": "moschnost-peredney-levoy-konforki",
+    "group": "cooking"
+   },
+   {
+    "property": "moschnost-peredney-pravoy-konforki",
+    "group": "cooking"
+   },
+   {
+    "property": "moschnost-centralnoy-zadney-konforki",
+    "group": "cooking"
+   },
+   {
+    "property": "moschnost-centralnoy-peredney-konforki",
+    "group": "cooking"
+   },
+   {
+    "property": "konforka-wok",
+    "group": "cooking"
+   },
+   {
+    "property": "kolichestvo-duhovok",
+    "group": "cooking"
+   },
+   {
+    "property": "obem-duhovki",
+    "group": "cooking",
+    "isFilterable": true,
+    "filterWidget": "range",
+    "showInCard": true
+   },
+   {
+    "property": "material-rabochey-kamery",
+    "group": "cooking"
+   },
+   {
+    "property": "ochistka-duhovki",
+    "group": "cooking",
+    "isMultivalued": true,
+    "showInCard": true
+   },
+   {
+    "property": "plity-kolichestvo-rezhimov-raboty",
+    "group": "cooking"
+   },
+   {
+    "property": "rezhimy-raboty",
+    "group": "cooking"
+   },
+   {
+    "property": "tip-grilya",
+    "group": "cooking"
+   },
+   {
+    "property": "kolichestvo-urovney-prigotovleniya",
+    "group": "cooking"
+   },
+   {
+    "property": "maksimalnaya-temperatura-duhovogo-shkafa",
+    "group": "cooking"
+   },
+   {
+    "property": "kolichestvo-stekol-dvercy",
+    "group": "cooking"
+   },
+   {
+    "property": "polozya-dlya-protivney",
+    "group": "cooking",
+    "isMultivalued": true
+   },
+   {
+    "property": "plity-teleskopicheskie-napravlyayuschie",
+    "group": "cooking"
+   },
+   {
+    "property": "gaz-kontrol-konforok",
+    "group": "safety"
+   },
+   {
+    "property": "potreblyaemaya-moschnost",
+    "group": "power"
+   },
+   {
+    "property": "tip-gaza",
+    "group": "power",
+    "isMultivalued": true
+   },
+   {
+    "property": "reshetki-varochnoy-poverhnosti",
+    "group": "extra"
+   },
+   {
+    "property": "komplekt-postavki",
+    "group": "kit"
+   },
+   {
+    "property": "yaschik-dlya-posudy",
+    "group": "kit"
+   },
+   {
+    "property": "taymer",
+    "group": "control",
+    "isMultivalued": true
+   },
+   {
+    "property": "zvukovoy-taymer",
+    "group": "control"
+   },
+   {
+    "property": "tip-elektrokonforok",
+    "group": "cooking"
+   },
+   {
+    "property": "razmer-levoy-zadney-konforki",
+    "group": "cooking"
+   },
+   {
+    "property": "razmer-levoy-peredney-konforki",
+    "group": "cooking"
+   },
+   {
+    "property": "razmer-pravoy-zadney-konforki",
+    "group": "cooking"
+   },
+   {
+    "property": "razmer-pravoy-peredney-konforki",
+    "group": "cooking"
+   },
+   {
+    "property": "indikatornaya-lampochka",
+    "group": "display"
+   },
+   {
+    "property": "indikator-raboty-duhovki",
+    "group": "display"
+   },
+   {
+    "property": "indikator-vremeni-prigotovleniya",
+    "group": "display"
+   },
+   {
+    "property": "indikaciya-ostatochnogo-tepla",
+    "group": "display"
+   },
+   {
+    "property": "blokirovka-paneli-upravleniya",
+    "group": "safety"
+   },
+   {
+    "property": "moschnost-podklyucheniya",
+    "group": "power"
+   },
+   {
+    "property": "plity-dopolnitelnye-vozmozhnosti-duhovogo-shkafa",
+    "group": "extra",
+    "isMultivalued": true
+   },
+   {
+    "property": "chasy",
+    "group": "extra"
+   },
+   {
+    "property": "termoschup",
+    "group": "cooking"
+   },
+   {
+    "property": "indikaciya-okonchaniya-prigotovleniya",
+    "group": "display"
+   },
+   {
+    "property": "indikator-tekuschey-temperatury",
+    "group": "display"
+   },
+   {
+    "property": "rezhim-usilennogo-nagreva",
+    "group": "cooking"
+   },
+   {
+    "property": "kolichestvo-konforok-s-rezhimom-usileniya",
+    "group": "cooking"
+   },
+   {
+    "property": "tangencialnoe-ohlazhdenie",
+    "group": "safety"
+   },
+   {
+    "property": "plity-moschnost-grilya",
+    "group": "power",
+    "isMultivalued": true
+   }
+  ]
+ },
+ {
+  "slug": "duhovye-shkafy",
+  "name": {
+   "ru": "Духовые шкафы",
+   "en": "Ovens",
+   "ar": "أفران مدمجة"
+  },
+  "section": "kuhnya",
+  "summary": [
+   {
+    "ru": "{obem-duhovki}",
+    "en": "{obem-duhovki}",
+    "ar": "{obem-duhovki}"
+   },
+   {
+    "ru": "{duhovye-shkafy-kolichestvo-rezhimov-raboty} режимов",
+    "en": "{duhovye-shkafy-kolichestvo-rezhimov-raboty} modes",
+    "ar": "{duhovye-shkafy-kolichestvo-rezhimov-raboty} أوضاع"
+   },
+   {
+    "ru": "{ochistka}",
+    "en": "{ochistka}",
+    "ar": "{ochistka}"
+   },
+   {
+    "ru": "{maksimalnaya-temperatura-duhovogo-shkafa?}",
+    "en": "{maksimalnaya-temperatura-duhovogo-shkafa?}",
+    "ar": "{maksimalnaya-temperatura-duhovogo-shkafa?}"
+   },
+   {
+    "ru": "{klass-energopotrebleniya?}",
+    "en": "{klass-energopotrebleniya?}",
+    "ar": "{klass-energopotrebleniya?}"
+   }
+  ],
+  "properties": [
+   {
+    "property": "duhovye-shkafy-tip",
+    "group": "main",
+    "showInCard": true
+   },
+   {
+    "property": "tip-upravleniya",
+    "group": "control",
+    "isFilterable": true,
+    "filterWidget": "checkbox",
+    "showInCard": true
+   },
+   {
+    "property": "tip-displeya",
+    "group": "display",
+    "isMultivalued": true
+   },
+   {
+    "property": "indikaciya-vklyucheniya",
+    "group": "display"
+   },
+   {
+    "property": "indikaciya-rezhima-raboty",
+    "group": "display"
+   },
+   {
+    "property": "klass-energopotrebleniya",
+    "group": "power",
+    "isFilterable": true,
+    "filterWidget": "checkbox",
+    "showInCard": true
+   },
+   {
+    "property": "tip-osvescheniya",
+    "group": "display"
+   },
+   {
+    "property": "kolichestvo-lamp-osvescheniya",
+    "group": "display"
+   },
+   {
+    "property": "duhovye-shkafy-moschnost-odnoy-lampy",
+    "group": "extra"
+   },
+   {
+    "property": "dopolnitelnaya-informaciya",
+    "group": "modes"
+   },
+   {
+    "property": "cvet",
+    "group": "body",
+    "isMultivalued": true
+   },
+   {
+    "property": "vysota",
+    "group": "size"
+   },
+   {
+    "property": "shirina",
+    "group": "size"
+   },
+   {
+    "property": "glubina",
+    "group": "size"
+   },
+   {
+    "property": "ves",
+    "group": "size"
+   },
+   {
+    "property": "pereklyuchateli",
+    "group": "control",
+    "isFilterable": true,
+    "filterWidget": "checkbox",
+    "isMultivalued": true
+   },
+   {
+    "property": "duhovye-shkafy-setevoy-kabel",
+    "group": "kit"
+   },
+   {
+    "property": "cvet-furnitury",
+    "group": "main",
+    "isMultivalued": true
+   },
+   {
+    "property": "obem-duhovki",
+    "group": "cooking",
+    "isFilterable": true,
+    "filterWidget": "range",
+    "showInCard": true
+   },
+   {
+    "property": "duhovye-shkafy-kolichestvo-rezhimov-raboty",
+    "group": "modes",
+    "isFilterable": true,
+    "filterWidget": "range",
+    "showInCard": true
+   },
+   {
+    "property": "rezhimy-raboty",
+    "group": "cooking"
+   },
+   {
+    "property": "tip-grilya",
+    "group": "cooking"
+   },
+   {
+    "property": "maksimalnaya-temperatura-duhovogo-shkafa",
+    "group": "cooking",
+    "isFilterable": true,
+    "filterWidget": "range",
+    "showInCard": true
+   },
+   {
+    "property": "kolichestvo-stekol-dvercy",
+    "group": "cooking"
+   },
+   {
+    "property": "polozya-dlya-protivney",
+    "group": "cooking",
+    "isMultivalued": true
+   },
+   {
+    "property": "duhovye-shkafy-teleskopicheskie-napravlyayuschie",
+    "group": "extra"
+   },
+   {
+    "property": "potreblyaemaya-moschnost",
+    "group": "power"
+   },
+   {
+    "property": "komplekt-postavki",
+    "group": "kit"
+   },
+   {
+    "property": "taymer",
+    "group": "control",
+    "isFilterable": true,
+    "filterWidget": "checkbox",
+    "isMultivalued": true
+   },
+   {
+    "property": "zvukovoy-taymer",
+    "group": "control"
+   },
+   {
+    "property": "indikator-vremeni-prigotovleniya",
+    "group": "display"
+   },
+   {
+    "property": "blokirovka-paneli-upravleniya",
+    "group": "safety"
+   },
+   {
+    "property": "moschnost-podklyucheniya",
+    "group": "power"
+   },
+   {
+    "property": "duhovye-shkafy-dopolnitelnye-vozmozhnosti-duhovogo-shkafa",
+    "group": "extra",
+    "isMultivalued": true
+   },
+   {
+    "property": "chasy",
+    "group": "extra"
+   },
+   {
+    "property": "indikaciya-okonchaniya-prigotovleniya",
+    "group": "display"
+   },
+   {
+    "property": "indikator-tekuschey-temperatury",
+    "group": "display"
+   },
+   {
+    "property": "tangencialnoe-ohlazhdenie",
+    "group": "safety"
+   },
+   {
+    "property": "duhovye-shkafy-moschnost-grilya",
+    "group": "power"
+   },
+   {
+    "property": "tip-podklyucheniya",
+    "group": "main"
+   },
+   {
+    "property": "ochistka",
+    "group": "main",
+    "isFilterable": true,
+    "filterWidget": "checkbox",
+    "isMultivalued": true,
+    "showInCard": true
+   },
+   {
+    "property": "material-kamery",
+    "group": "main",
+    "showInCard": true
+   },
+   {
+    "property": "material-frontalnoy-paneli",
+    "group": "main"
+   },
+   {
+    "property": "cvet-ruchki",
+    "group": "main"
+   },
+   {
+    "property": "raspolozhenie-pereklyuchatelya",
+    "group": "control"
+   },
+   {
+    "property": "prigotovlenie-na-paru",
+    "group": "modes"
+   },
+   {
+    "property": "programma-razmorazhivaniya",
+    "group": "modes",
+    "isMultivalued": true
+   },
+   {
+    "property": "kolichestvo-avtomaticheskih-programm",
+    "group": "modes"
+   },
+   {
+    "property": "blokirovka-ot-detey",
+    "group": "safety"
+   },
+   {
+    "property": "osobennosti-konstrukcii-duhovogo-shkafa",
+    "group": "extra",
+    "isMultivalued": true
+   },
+   {
+    "property": "dverca-duhovki",
+    "group": "extra"
+   },
+   {
+    "property": "rezhim-shabbat",
+    "group": "extra"
+   },
+   {
+    "property": "kolichestvo-urovney-napravlyayuschih",
+    "group": "extra"
+   },
+   {
+    "property": "razmeschenie-teleskopicheskih-napravlyayuschih",
+    "group": "extra",
+    "isMultivalued": true
+   },
+   {
+    "property": "vysota-vstraivaniya",
+    "group": "size"
+   },
+   {
+    "property": "shirina-vstraivaniya",
+    "group": "size"
+   },
+   {
+    "property": "glubina-vstraivaniya",
+    "group": "size"
+   },
+   {
+    "property": "avtomaticheskoe-otklyuchenie",
+    "group": "safety"
+   },
+   {
+    "property": "rezhim-podderzhaniya-temperatury",
+    "group": "modes"
+   },
+   {
+    "property": "indikaciya-tekuschey-programmy",
+    "group": "display"
+   },
+   {
+    "property": "avtomaticheskoe-otklyuchenie-pri-otkrytoy-dverce",
+    "group": "safety"
+   }
+  ]
+ },
+ {
+  "slug": "mikrovolnovye-pechi",
+  "name": {
+   "ru": "Микроволновые печи",
+   "en": "Microwave ovens",
+   "ar": "أفران ميكروويف"
+  },
+  "section": "kuhnya",
+  "summary": [
+   {
+    "ru": "{vnutrenniy-obem}",
+    "en": "{vnutrenniy-obem}",
+    "ar": "{vnutrenniy-obem}"
+   },
+   {
+    "ru": "{moschnost-mikrovoln}",
+    "en": "{moschnost-mikrovoln}",
+    "ar": "{moschnost-mikrovoln}"
+   },
+   {
+    "ru": "{tip-upravleniya} управление",
+    "en": "{tip-upravleniya} control",
+    "ar": "تحكم {tip-upravleniya}"
+   },
+   {
+    "ru": "{vnutrennee-pokrytie-kamery?}",
+    "en": "{vnutrennee-pokrytie-kamery?}",
+    "ar": "{vnutrennee-pokrytie-kamery?}"
+   }
+  ],
+  "properties": [
+   {
+    "property": "mikrovolnovye-pechi-tip",
+    "group": "main",
+    "showInCard": true
+   },
+   {
+    "property": "tip-upravleniya",
+    "group": "control",
+    "isFilterable": true,
+    "filterWidget": "checkbox",
+    "showInCard": true
+   },
+   {
+    "property": "tip-displeya",
+    "group": "display",
+    "isMultivalued": true
+   },
+   {
+    "property": "tip-osvescheniya",
+    "group": "display"
+   },
+   {
+    "property": "kolichestvo-lamp-osvescheniya",
+    "group": "display"
+   },
+   {
+    "property": "dopolnitelnaya-informaciya",
+    "group": "modes"
+   },
+   {
+    "property": "cvet",
+    "group": "body",
+    "isFilterable": true,
+    "filterWidget": "checkbox",
+    "isMultivalued": true
+   },
+   {
+    "property": "vysota",
+    "group": "size"
+   },
+   {
+    "property": "shirina",
+    "group": "size"
+   },
+   {
+    "property": "glubina",
+    "group": "size"
+   },
+   {
+    "property": "ves",
+    "group": "size"
+   },
+   {
+    "property": "rezhim-energosberezheniya",
+    "group": "power"
+   },
+   {
+    "property": "pereklyuchateli",
+    "group": "control",
+    "isFilterable": true,
+    "filterWidget": "checkbox",
+    "isMultivalued": true
+   },
+   {
+    "property": "mikrovolnovye-pechi-setevoy-kabel",
+    "group": "kit"
+   },
+   {
+    "property": "cvet-furnitury",
+    "group": "main",
+    "isMultivalued": true
+   },
+   {
+    "property": "mikrovolnovye-pechi-kolichestvo-rezhimov-raboty",
+    "group": "modes",
+    "showInCard": true
+   },
+   {
+    "property": "rezhimy-raboty",
+    "group": "cooking"
+   },
+   {
+    "property": "tip-grilya",
+    "group": "cooking"
+   },
+   {
+    "property": "kolichestvo-urovney-prigotovleniya",
+    "group": "cooking"
+   },
+   {
+    "property": "potreblyaemaya-moschnost",
+    "group": "power",
+    "showInCard": true
+   },
+   {
+    "property": "komplekt-postavki",
+    "group": "kit"
+   },
+   {
+    "property": "taymer",
+    "group": "control",
+    "isMultivalued": true
+   },
+   {
+    "property": "zvukovoy-taymer",
+    "group": "control"
+   },
+   {
+    "property": "blokirovka-paneli-upravleniya",
+    "group": "safety"
+   },
+   {
+    "property": "chasy",
+    "group": "extra"
+   },
+   {
+    "property": "mikrovolnovye-pechi-moschnost-grilya",
+    "group": "main"
+   },
+   {
+    "property": "programma-razmorazhivaniya",
+    "group": "modes",
+    "isFilterable": true,
+    "filterWidget": "checkbox",
+    "isMultivalued": true
+   },
+   {
+    "property": "kolichestvo-avtomaticheskih-programm",
+    "group": "modes"
+   },
+   {
+    "property": "blokirovka-ot-detey",
+    "group": "safety"
+   },
+   {
+    "property": "avtomaticheskoe-otklyuchenie",
+    "group": "safety"
+   },
+   {
+    "property": "rezhim-podderzhaniya-temperatury",
+    "group": "modes"
+   },
+   {
+    "property": "avtomaticheskoe-otklyuchenie-pri-otkrytoy-dverce",
+    "group": "safety"
+   },
+   {
+    "property": "moschnost-mikrovoln",
+    "group": "main",
+    "isFilterable": true,
+    "filterWidget": "range",
+    "showInCard": true
+   },
+   {
+    "property": "vnutrenniy-obem",
+    "group": "main",
+    "isFilterable": true,
+    "filterWidget": "range",
+    "showInCard": true
+   },
+   {
+    "property": "vnutrennee-pokrytie-kamery",
+    "group": "main",
+    "isFilterable": true,
+    "filterWidget": "checkbox",
+    "showInCard": true
+   },
+   {
+    "property": "diametr-povorotnogo-stolika",
+    "group": "main",
+    "isFilterable": true,
+    "filterWidget": "checkbox",
+    "showInCard": true
+   },
+   {
+    "property": "material-povorotnogo-stolika",
+    "group": "main"
+   },
+   {
+    "property": "chislo-rezhimov-nagreva",
+    "group": "modes"
+   },
+   {
+    "property": "gril",
+    "group": "modes"
+   },
+   {
+    "property": "programmy-avtomaticheskogo-prigotovleniya",
+    "group": "modes"
+   },
+   {
+    "property": "bystryy-start",
+    "group": "modes"
+   },
+   {
+    "property": "ochistka-kamery",
+    "group": "extra"
+   },
+   {
+    "property": "vnutrennee-osveschenie",
+    "group": "extra"
+   },
+   {
+    "property": "sposob-otkryvaniya-dvercy",
+    "group": "extra"
+   },
+   {
+    "property": "tip-ruchki",
+    "group": "extra"
+   },
+   {
+    "property": "napravlenie-otkryvaniya-dvercy",
+    "group": "extra"
+   },
+   {
+    "property": "sistema-ravnomernogo-raspredeleniya-mikrovoln",
+    "group": "extra"
+   }
+  ]
+ },
+ {
+  "slug": "kofemashiny",
+  "name": {
+   "ru": "Кофеварки и кофемашины",
+   "en": "Coffee makers and machines",
+   "ar": "ماكينات القهوة"
+  },
+  "section": "kuhnya",
+  "summary": [
+   {
+    "ru": "{kofemashiny-tip}",
+    "en": "{kofemashiny-tip}",
+    "ar": "{kofemashiny-tip}"
+   },
+   {
+    "ru": "{ispolzuemyy-kofe} кофе",
+    "en": "{ispolzuemyy-kofe} coffee",
+    "ar": "قهوة {ispolzuemyy-kofe}"
+   },
+   {
+    "ru": "{obem-rezervuara-dlya-vody}",
+    "en": "{obem-rezervuara-dlya-vody}",
+    "ar": "{obem-rezervuara-dlya-vody}"
+   },
+   {
+    "ru": "{potreblyaemaya-moschnost?}",
+    "en": "{potreblyaemaya-moschnost?}",
+    "ar": "{potreblyaemaya-moschnost?}"
+   }
+  ],
+  "properties": [
+   {
+    "property": "kofemashiny-tip",
+    "group": "main",
+    "isFilterable": true,
+    "filterWidget": "checkbox",
+    "showInCard": true
+   },
+   {
+    "property": "kofemashiny-displey",
+    "group": "control"
+   },
+   {
+    "property": "tip-displeya",
+    "group": "display",
+    "isMultivalued": true
+   },
+   {
+    "property": "indikaciya-vklyucheniya",
+    "group": "display"
+   },
+   {
+    "property": "napryazhenie",
+    "group": "power",
+    "isFilterable": true,
+    "filterWidget": "checkbox"
+   },
+   {
+    "property": "dlina-setevogo-shnura",
+    "group": "power"
+   },
+   {
+    "property": "dopolnitelnaya-informaciya",
+    "group": "modes"
+   },
+   {
+    "property": "cvet",
+    "group": "body",
+    "isFilterable": true,
+    "filterWidget": "checkbox",
+    "isMultivalued": true
+   },
+   {
+    "property": "vysota",
+    "group": "size"
+   },
+   {
+    "property": "shirina",
+    "group": "size"
+   },
+   {
+    "property": "glubina",
+    "group": "size"
+   },
+   {
+    "property": "ves",
+    "group": "size"
+   },
+   {
+    "property": "ustanovka",
+    "group": "main",
+    "showInCard": true
+   },
+   {
+    "property": "material-korpusa",
+    "group": "body",
+    "isFilterable": true,
+    "filterWidget": "checkbox",
+    "isMultivalued": true,
+    "showInCard": true
+   },
+   {
+    "property": "potreblyaemaya-moschnost",
+    "group": "power",
+    "isFilterable": true,
+    "filterWidget": "range",
+    "showInCard": true
+   },
+   {
+    "property": "taymer",
+    "group": "control",
+    "isMultivalued": true
+   },
+   {
+    "property": "avtomaticheskoe-otklyuchenie",
+    "group": "safety"
+   },
+   {
+    "property": "ispolzuemyy-kofe",
+    "group": "main",
+    "isFilterable": true,
+    "filterWidget": "checkbox",
+    "isMultivalued": true,
+    "showInCard": true
+   },
+   {
+    "property": "obem-rezervuara-dlya-vody",
+    "group": "main",
+    "isFilterable": true,
+    "filterWidget": "range",
+    "showInCard": true
+   },
+   {
+    "property": "kolichestvo-porciy",
+    "group": "main"
+   },
+   {
+    "property": "upravlenie",
+    "group": "control",
+    "isFilterable": true,
+    "filterWidget": "checkbox",
+    "isMultivalued": true
+   },
+   {
+    "property": "semnyy-rezervuar-dlya-kofe",
+    "group": "extra"
+   },
+   {
+    "property": "protivokapelnaya-sistema",
+    "group": "extra"
+   },
+   {
+    "property": "indikator-urovnya-vody",
+    "group": "display"
+   },
+   {
+    "property": "prorezinennye-nozhki",
+    "group": "body"
+   },
+   {
+    "property": "avtomaticheskoe-pereklyuchenie-napryazheniya",
+    "group": "power"
+   },
+   {
+    "property": "maksimalnoe-davlenie",
+    "group": "main",
+    "showInCard": true
+   },
+   {
+    "property": "semnyy-konteyner-dlya-vody",
+    "group": "main"
+   },
+   {
+    "property": "tip-nagrevatelya",
+    "group": "main",
+    "isMultivalued": true
+   },
+   {
+    "property": "kapuchinator",
+    "group": "main",
+    "showInCard": true
+   },
+   {
+    "property": "prigotovlenie-espresso",
+    "group": "cooking"
+   },
+   {
+    "property": "rezhim-prigotovleniya-espresso",
+    "group": "cooking"
+   },
+   {
+    "property": "vozmozhnost-prigotovleniya-kapuchino",
+    "group": "cooking"
+   },
+   {
+    "property": "rezhim-prigotovleniya-kapuchino",
+    "group": "cooking"
+   },
+   {
+    "property": "odnovremennoe-prigotovlenie-dvuh-chashek",
+    "group": "cooking"
+   },
+   {
+    "property": "regulirovka-polozheniya-trubki",
+    "group": "extra"
+   },
+   {
+    "property": "trubka-podachi-para",
+    "group": "extra"
+   },
+   {
+    "property": "semnyy-lotok-dlya-sbora-kapel",
+    "group": "extra"
+   },
+   {
+    "property": "indikator-gotovnosti-k-rabote",
+    "group": "display"
+   },
+   {
+    "property": "material-rozhka",
+    "group": "body"
+   },
+   {
+    "property": "material-ruchki",
+    "group": "body"
+   },
+   {
+    "property": "filtr-dlya-holdera",
+    "group": "kit"
+   },
+   {
+    "property": "kolichestvo-filtrov-dlya-holdera",
+    "group": "kit"
+   },
+   {
+    "property": "mernaya-lozhechka",
+    "group": "kit"
+   },
+   {
+    "property": "dopolnitelnaya-komplektaciya",
+    "group": "kit"
+   },
+   {
+    "property": "material-kuvshina-dlya-kofe",
+    "group": "body"
+   },
+   {
+    "property": "regulirovka-porciy",
+    "group": "control"
+   },
+   {
+    "property": "regulirovka-temperatury-kofe",
+    "group": "control"
+   },
+   {
+    "property": "molochnaya-pena",
+    "group": "cooking"
+   },
+   {
+    "property": "podogrev-chashek",
+    "group": "modes"
+   },
+   {
+    "property": "avtomaticheskaya-dekalcinaciya",
+    "group": "modes"
+   },
+   {
+    "property": "indikator-neobhodimosti-ochistki",
+    "group": "display"
+   },
+   {
+    "property": "podstavka-dlya-hraneniya-chashek",
+    "group": "body"
+   },
+   {
+    "property": "goryachaya-voda",
+    "group": "modes"
+   }
+  ]
+ },
+ {
+  "slug": "chayniki",
+  "name": {
+   "ru": "Чайники",
+   "en": "Kettles",
+   "ar": "غلايات كهربائية"
+  },
+  "section": "kuhnya",
+  "summary": [
+   {
+    "ru": "{obem}",
+    "en": "{obem}",
+    "ar": "{obem}"
+   },
+   {
+    "ru": "{moschnost}",
+    "en": "{moschnost}",
+    "ar": "{moschnost}"
+   },
+   {
+    "ru": "{material-korpusa}",
+    "en": "{material-korpusa}",
+    "ar": "{material-korpusa}"
+   },
+   {
+    "ru": "{nagrevatelnyy-element?}",
+    "en": "{nagrevatelnyy-element?}",
+    "ar": "{nagrevatelnyy-element?}"
+   }
+  ],
+  "properties": [
+   {
+    "property": "dlina-setevogo-shnura",
+    "group": "power"
+   },
+   {
+    "property": "dopolnitelnaya-informaciya",
+    "group": "modes"
+   },
+   {
+    "property": "cvet",
+    "group": "body",
+    "isFilterable": true,
+    "filterWidget": "checkbox",
+    "isMultivalued": true,
+    "showInCard": true
+   },
+   {
+    "property": "vysota",
+    "group": "size"
+   },
+   {
+    "property": "shirina",
+    "group": "size"
+   },
+   {
+    "property": "glubina",
+    "group": "size"
+   },
+   {
+    "property": "ves",
+    "group": "size"
+   },
+   {
+    "property": "material-korpusa",
+    "group": "body",
+    "isFilterable": true,
+    "filterWidget": "checkbox",
+    "isMultivalued": true,
+    "showInCard": true
+   },
+   {
+    "property": "upravlenie",
+    "group": "control",
+    "isFilterable": true,
+    "filterWidget": "checkbox",
+    "isMultivalued": true
+   },
+   {
+    "property": "moschnost",
+    "group": "main",
+    "isFilterable": true,
+    "filterWidget": "range",
+    "showInCard": true
+   },
+   {
+    "property": "obem",
+    "group": "main",
+    "isFilterable": true,
+    "filterWidget": "range",
+    "showInCard": true
+   },
+   {
+    "property": "nagrevatelnyy-element",
+    "group": "main",
+    "isFilterable": true,
+    "filterWidget": "checkbox",
+    "showInCard": true
+   },
+   {
+    "property": "regulirovka-temperatury",
+    "group": "control"
+   },
+   {
+    "property": "podderzhanie-temperatury",
+    "group": "modes"
+   },
+   {
+    "property": "kolichestvo-rezhimov-nagreva",
+    "group": "modes",
+    "showInCard": true
+   },
+   {
+    "property": "podogrev-do-zadannoy-temperatury",
+    "group": "modes"
+   },
+   {
+    "property": "filtr-ot-nakipi",
+    "group": "filtration",
+    "showInCard": true
+   },
+   {
+    "property": "material-filtra",
+    "group": "filtration"
+   },
+   {
+    "property": "zaschita-ot-peregreva",
+    "group": "safety"
+   },
+   {
+    "property": "avtootklyuchenie-pri-snyatii-s-podstavki",
+    "group": "safety"
+   },
+   {
+    "property": "avtootklyuchenie-pri-otsutstvii-vody",
+    "group": "safety"
+   },
+   {
+    "property": "avtootklyuchenie-pri-zakipanii",
+    "group": "safety"
+   },
+   {
+    "property": "shkala-urovnya-vody",
+    "group": "extra"
+   },
+   {
+    "property": "indikator-nagreva",
+    "group": "extra"
+   },
+   {
+    "property": "indikator-temperatury",
+    "group": "extra"
+   },
+   {
+    "property": "vraschenie-na-podstavke-na-360-gradusov",
+    "group": "extra"
+   },
+   {
+    "property": "otkryvanie-kryshki",
+    "group": "extra",
+    "isFilterable": true,
+    "filterWidget": "checkbox",
+    "showInCard": true
+   },
+   {
+    "property": "istochnik-pitaniya",
+    "group": "power",
+    "isFilterable": true,
+    "filterWidget": "checkbox"
+   },
+   {
+    "property": "dopolnitelnyy-material",
+    "group": "main",
+    "isMultivalued": true
+   },
+   {
+    "property": "minimalnaya-temperatura-nagreva-vody",
+    "group": "modes"
+   },
+   {
+    "property": "maksimalnaya-temperatura-nagreva-vody",
+    "group": "modes"
+   },
+   {
+    "property": "zvukovoy-signal",
+    "group": "safety"
+   },
+   {
+    "property": "teploizolirovannaya-ruchka",
+    "group": "extra"
+   },
+   {
+    "property": "podsvetka-vody",
+    "group": "extra"
+   },
+   {
+    "property": "indikator-vklyucheniya",
+    "group": "extra"
+   },
+   {
+    "property": "podstavka-s-elektronnym-upravleniem",
+    "group": "control"
+   },
+   {
+    "property": "podstavka-s-otsekom-dlya-hraneniya-shnura",
+    "group": "kit"
+   },
+   {
+    "property": "blokirovka-kryshki",
+    "group": "safety"
+   }
+  ]
+ },
+ {
+  "slug": "pylesosy",
+  "name": {
+   "ru": "Пылесосы",
+   "en": "Vacuum cleaners",
+   "ar": "مكانس كهربائية"
+  },
+  "section": "uborka-i-klimat",
+  "summary": [
+   {
+    "ru": "{pylesosy-tip}",
+    "en": "{pylesosy-tip}",
+    "ar": "{pylesosy-tip}"
+   },
+   {
+    "ru": "{uborka} уборка",
+    "en": "{uborka} cleaning",
+    "ar": "تنظيف {uborka}"
+   },
+   {
+    "ru": "{pylesbornik}",
+    "en": "{pylesbornik}",
+    "ar": "{pylesbornik}"
+   },
+   {
+    "ru": "{moschnost-vsasyvaniya?}",
+    "en": "{moschnost-vsasyvaniya?}",
+    "ar": "{moschnost-vsasyvaniya?}"
+   },
+   {
+    "ru": "{vremya-raboty-ot-akkumulyatora?}",
+    "en": "{vremya-raboty-ot-akkumulyatora?}",
+    "ar": "{vremya-raboty-ot-akkumulyatora?}"
+   }
+  ],
+  "properties": [
+   {
+    "property": "pylesosy-tip",
+    "group": "main",
+    "isFilterable": true,
+    "filterWidget": "checkbox",
+    "isMultivalued": true,
+    "showInCard": true
+   },
+   {
+    "property": "tip-upravleniya",
+    "group": "control",
+    "isFilterable": true,
+    "filterWidget": "checkbox"
+   },
+   {
+    "property": "podderzhka-wi-fi",
+    "group": "control"
+   },
+   {
+    "property": "upravlenie-c-mobilnogo-ustroystva",
+    "group": "control"
+   },
+   {
+    "property": "pylesosy-podderzhka-mobilnogo-prilozheniya",
+    "group": "control"
+   },
+   {
+    "property": "pylesosy-displey",
+    "group": "control",
+    "isMultivalued": true
+   },
+   {
+    "property": "indikaciya-vklyucheniya",
+    "group": "display"
+   },
+   {
+    "property": "indikaciya-rezhima-raboty",
+    "group": "display"
+   },
+   {
+    "property": "uroven-shuma",
+    "group": "power",
+    "showInCard": true
+   },
+   {
+    "property": "dopolnitelnaya-informaciya",
+    "group": "modes"
+   },
+   {
+    "property": "cvet",
+    "group": "body",
+    "isFilterable": true,
+    "filterWidget": "checkbox",
+    "isMultivalued": true
+   },
+   {
+    "property": "vysota",
+    "group": "size"
+   },
+   {
+    "property": "shirina",
+    "group": "size"
+   },
+   {
+    "property": "glubina",
+    "group": "size"
+   },
+   {
+    "property": "ves",
+    "group": "size"
+   },
+   {
+    "property": "samodiagnostika-neispravnostey",
+    "group": "safety"
+   },
+   {
+    "property": "material-korpusa",
+    "group": "body",
+    "isFilterable": true,
+    "filterWidget": "checkbox",
+    "isMultivalued": true
+   },
+   {
+    "property": "pylesosy-kolichestvo-rezhimov-raboty",
+    "group": "modes"
+   },
+   {
+    "property": "rezhimy-raboty",
+    "group": "cooking"
+   },
+   {
+    "property": "potreblyaemaya-moschnost",
+    "group": "power"
+   },
+   {
+    "property": "dopolnitelnaya-komplektaciya",
+    "group": "kit"
+   },
+   {
+    "property": "istochnik-pitaniya",
+    "group": "power",
+    "isFilterable": true,
+    "filterWidget": "checkbox",
+    "showInCard": true
+   },
+   {
+    "property": "uborka",
+    "group": "main",
+    "isFilterable": true,
+    "filterWidget": "checkbox",
+    "showInCard": true
+   },
+   {
+    "property": "moschnost-vsasyvaniya",
+    "group": "main",
+    "showInCard": true
+   },
+   {
+    "property": "pylesbornik",
+    "group": "main",
+    "isFilterable": true,
+    "filterWidget": "checkbox",
+    "showInCard": true
+   },
+   {
+    "property": "obem-pylesbornika",
+    "group": "main",
+    "showInCard": true
+   },
+   {
+    "property": "regulyator-moschnosti",
+    "group": "control",
+    "isMultivalued": true
+   },
+   {
+    "property": "motornyy-filtr",
+    "group": "filtration"
+   },
+   {
+    "property": "filtr-tonkoy-ochistki",
+    "group": "filtration"
+   },
+   {
+    "property": "sistema-ochistki-filtra",
+    "group": "filtration"
+   },
+   {
+    "property": "kolichestvo-nasadok",
+    "group": "kit"
+   },
+   {
+    "property": "elektroschetka",
+    "group": "kit"
+   },
+   {
+    "property": "schelevaya-nasadka",
+    "group": "kit"
+   },
+   {
+    "property": "nasadka-2-v-1",
+    "group": "kit"
+   },
+   {
+    "property": "datchiki-i-sensory",
+    "group": "body",
+    "isMultivalued": true
+   },
+   {
+    "property": "indikator-urovnya-zaryadki-akkumulyatora",
+    "group": "display"
+   },
+   {
+    "property": "indikaciya-zagryazneniya-filtra",
+    "group": "display"
+   },
+   {
+    "property": "indikaciya-zaryadki",
+    "group": "display"
+   },
+   {
+    "property": "podsvetka-zony-uborki",
+    "group": "extra"
+   },
+   {
+    "property": "parkovka",
+    "group": "extra",
+    "isMultivalued": true
+   },
+   {
+    "property": "ustanovka-na-zaryadnoe-ustroystvo",
+    "group": "extra"
+   },
+   {
+    "property": "truba-vsasyvaniya",
+    "group": "extra"
+   },
+   {
+    "property": "podstavka-zaryadnoe-ustroystvo",
+    "group": "kit"
+   },
+   {
+    "property": "tip-akkumulyatora",
+    "group": "power"
+   },
+   {
+    "property": "vremya-raboty-ot-akkumulyatora",
+    "group": "power",
+    "isFilterable": true,
+    "filterWidget": "range",
+    "showInCard": true
+   },
+   {
+    "property": "vremya-zaryadki-akkumulyatora",
+    "group": "power"
+   },
+   {
+    "property": "kolichestvo-akkumulyatorov-v-komplekte",
+    "group": "power"
+   },
+   {
+    "property": "obem-rezervuara-dlya-vody-2",
+    "group": "main"
+   },
+   {
+    "property": "obem-rezervuara-dlya-ispolzovannoy-vody",
+    "group": "main"
+   },
+   {
+    "property": "ispolzovanie-moyuschego-sredstva",
+    "group": "main"
+   },
+   {
+    "property": "ploschad-uborki",
+    "group": "extra"
+   },
+   {
+    "property": "moyuschee-sredstvo",
+    "group": "kit"
+   },
+   {
+    "property": "emkost-akkumulyatora",
+    "group": "power"
+   },
+   {
+    "property": "napryazhenie-akkumulyatora",
+    "group": "power"
+   },
+   {
+    "property": "blok-pitaniya",
+    "group": "kit"
+   },
+   {
+    "property": "vyhodnoy-filtr",
+    "group": "filtration"
+   },
+   {
+    "property": "avtomaticheskaya-ochistka-konteynera",
+    "group": "modes"
+   },
+   {
+    "property": "hranenie-musora-v-sisteme",
+    "group": "filtration"
+   },
+   {
+    "property": "vmestitelnost-musorosbornika",
+    "group": "filtration"
+   },
+   {
+    "property": "kolichestvo-bokovyh-schetok",
+    "group": "kit"
+   },
+   {
+    "property": "uborka-po-raspisaniyu",
+    "group": "modes"
+   },
+   {
+    "property": "avtomaticheskaya-uborka",
+    "group": "modes"
+   },
+   {
+    "property": "taymer-na-kazhdyy-den-nedeli",
+    "group": "modes"
+   },
+   {
+    "property": "golosovye-opovescheniya",
+    "group": "modes"
+   },
+   {
+    "property": "vozobnovlenie-uborki-posle-podzaryadki-s-prervan",
+    "group": "modes"
+   },
+   {
+    "property": "avtomaticheskoe-vozvraschenie-na-bazu",
+    "group": "modes"
+   },
+   {
+    "property": "funkciya-zonirovaniya",
+    "group": "modes"
+   },
+   {
+    "property": "tip-datchika",
+    "group": "body",
+    "isMultivalued": true
+   },
+   {
+    "property": "sostavlenie-plana-pomescheniya",
+    "group": "body"
+   },
+   {
+    "property": "navigaciya",
+    "group": "body",
+    "isMultivalued": true
+   },
+   {
+    "property": "frontalnaya-kamera",
+    "group": "body"
+   },
+   {
+    "property": "ogranichitel-zony-uborki",
+    "group": "body"
+   },
+   {
+    "property": "bokovaya-schetochka",
+    "group": "extra"
+   },
+   {
+    "property": "sistema-avtomaticheskogo-izvlecheniya-musora",
+    "group": "filtration"
+   },
+   {
+    "property": "funkciya-avtozapravki-vody",
+    "group": "filtration"
+   },
+   {
+    "property": "obem-baka-avtozapravschika",
+    "group": "filtration"
+   },
+   {
+    "property": "obem-baka-dlya-gryaznoy-vody-dok-stancii",
+    "group": "filtration"
+   },
+   {
+    "property": "smennyy-pylesbornik",
+    "group": "kit"
+   },
+   {
+    "property": "vysota-bazy",
+    "group": "size"
+   },
+   {
+    "property": "shirina-bazy",
+    "group": "size"
+   },
+   {
+    "property": "glubina-bazy",
+    "group": "size"
+   }
+  ]
+ },
+ {
+  "slug": "konditsionery",
+  "name": {
+   "ru": "Кондиционеры",
+   "en": "Air conditioners",
+   "ar": "مكيفات هواء"
+  },
+  "section": "uborka-i-klimat",
+  "summary": [
+   {
+    "ru": "{ploschad-pomescheniya}",
+    "en": "{ploschad-pomescheniya}",
+    "ar": "{ploschad-pomescheniya}"
+   },
+   {
+    "ru": "{moschnost-v-rezhime-ohlazhdeniya}",
+    "en": "{moschnost-v-rezhime-ohlazhdeniya}",
+    "ar": "{moschnost-v-rezhime-ohlazhdeniya}"
+   },
+   {
+    "ru": "{razmeschenie-vnutrennego-bloka}",
+    "en": "{razmeschenie-vnutrennego-bloka}",
+    "ar": "{razmeschenie-vnutrennego-bloka}"
+   },
+   {
+    "ru": "{maksimalnyy-uroven-shuma-vnutrennego-bloka?}",
+    "en": "{maksimalnyy-uroven-shuma-vnutrennego-bloka?}",
+    "ar": "{maksimalnyy-uroven-shuma-vnutrennego-bloka?}"
+   }
+  ],
+  "properties": [
+   {
+    "property": "konditsionery-tip",
+    "group": "main",
+    "isFilterable": true,
+    "filterWidget": "checkbox",
+    "showInCard": true
+   },
+   {
+    "property": "tip-displeya",
+    "group": "display",
+    "isFilterable": true,
+    "filterWidget": "checkbox",
+    "isMultivalued": true
+   },
+   {
+    "property": "indikaciya-vklyucheniya",
+    "group": "display"
+   },
+   {
+    "property": "indikaciya-rezhima-raboty",
+    "group": "display"
+   },
+   {
+    "property": "dopolnitelnaya-informaciya",
+    "group": "modes"
+   },
+   {
+    "property": "cvet",
+    "group": "body",
+    "isFilterable": true,
+    "filterWidget": "checkbox",
+    "isMultivalued": true
+   },
+   {
+    "property": "vysota",
+    "group": "size"
+   },
+   {
+    "property": "shirina",
+    "group": "size"
+   },
+   {
+    "property": "glubina",
+    "group": "size"
+   },
+   {
+    "property": "ves",
+    "group": "size"
+   },
+   {
+    "property": "rezhim-energosberezheniya",
+    "group": "power"
+   },
+   {
+    "property": "samodiagnostika-neispravnostey",
+    "group": "safety"
+   },
+   {
+    "property": "indikaciya-temperatury",
+    "group": "display"
+   },
+   {
+    "property": "upravlenie",
+    "group": "control",
+    "isFilterable": true,
+    "filterWidget": "checkbox",
+    "isMultivalued": true
+   },
+   {
+    "property": "razmeschenie-vnutrennego-bloka",
+    "group": "main",
+    "isFilterable": true,
+    "filterWidget": "checkbox",
+    "showInCard": true
+   },
+   {
+    "property": "ploschad-pomescheniya",
+    "group": "main",
+    "isFilterable": true,
+    "filterWidget": "range",
+    "showInCard": true
+   },
+   {
+    "property": "tip-hladagenta",
+    "group": "main",
+    "showInCard": true
+   },
+   {
+    "property": "seriya",
+    "group": "main"
+   },
+   {
+    "property": "moschnost-v-rezhime-ohlazhdeniya",
+    "group": "performance",
+    "isFilterable": true,
+    "filterWidget": "range",
+    "showInCard": true
+   },
+   {
+    "property": "moschnost-v-rezhime-obogreva",
+    "group": "performance"
+   },
+   {
+    "property": "rashod-vozduha-vnutrennego-bloka",
+    "group": "performance"
+   },
+   {
+    "property": "ohlazhdenie",
+    "group": "modes"
+   },
+   {
+    "property": "obogrev",
+    "group": "modes"
+   },
+   {
+    "property": "osushenie-vozduha",
+    "group": "modes"
+   },
+   {
+    "property": "avtomaticheskiy-rezhim",
+    "group": "modes"
+   },
+   {
+    "property": "ventilyaciya",
+    "group": "modes"
+   },
+   {
+    "property": "nochnoy-rezhim",
+    "group": "modes"
+   },
+   {
+    "property": "tihiy-rezhim",
+    "group": "modes"
+   },
+   {
+    "property": "taymer-vklyucheniya",
+    "group": "modes"
+   },
+   {
+    "property": "taymer-vyklyucheniya",
+    "group": "modes"
+   },
+   {
+    "property": "avtorestart",
+    "group": "modes"
+   },
+   {
+    "property": "obogrev-pri-nizkih-temperaturah",
+    "group": "modes"
+   },
+   {
+    "property": "samoochistka",
+    "group": "modes"
+   },
+   {
+    "property": "blokirovka-pulta-du",
+    "group": "modes"
+   },
+   {
+    "property": "turbo-rezhim",
+    "group": "modes"
+   },
+   {
+    "property": "kolichestvo-skorostey",
+    "group": "climate"
+   },
+   {
+    "property": "avtomaticheskoe-raspredelenie-vozdushnyh-potokov",
+    "group": "climate"
+   },
+   {
+    "property": "regulirovka-sily-vozdushnogo-potoka",
+    "group": "climate"
+   },
+   {
+    "property": "upravlenie-napravleniem-vozdushnogo-potoka-vverh",
+    "group": "climate"
+   },
+   {
+    "property": "upravlenie-napravleniem-vozdushnogo-potoka-vlevo",
+    "group": "climate"
+   },
+   {
+    "property": "maksimalnyy-uroven-shuma-vnutrennego-bloka",
+    "group": "noise",
+    "isFilterable": true,
+    "filterWidget": "range",
+    "showInCard": true
+   },
+   {
+    "property": "maksimalnyy-uroven-shuma-vneshnego-bloka",
+    "group": "noise"
+   },
+   {
+    "property": "filtr-gruboy-ochistki-setchatyy",
+    "group": "filtration"
+   },
+   {
+    "property": "teplovoy-nasos",
+    "group": "extra"
+   },
+   {
+    "property": "datchiki",
+    "group": "extra",
+    "isMultivalued": true
+   },
+   {
+    "property": "zaschita-ot-obmerzaniya-naruzhnogo-bloka",
+    "group": "extra"
+   },
+   {
+    "property": "pult-du",
+    "group": "control"
+   },
+   {
+    "property": "upravlenie-so-smartfona",
+    "group": "control",
+    "isMultivalued": true
+   },
+   {
+    "property": "wi-fi-modul",
+    "group": "control"
+   },
+   {
+    "property": "podderzhka-prilozheniy",
+    "group": "control"
+   },
+   {
+    "property": "golosovoy-assistent",
+    "group": "control",
+    "isMultivalued": true
+   },
+   {
+    "property": "raspolozhenie-displeya",
+    "group": "display",
+    "isMultivalued": true
+   },
+   {
+    "property": "indikaciya-neispravnosti",
+    "group": "display"
+   },
+   {
+    "property": "zvukovye-signaly",
+    "group": "display"
+   },
+   {
+    "property": "minimalnaya-rabochaya-temperatura-pri-ohlazhdeni",
+    "group": "modes"
+   },
+   {
+    "property": "maksimalnaya-rabochaya-temperatura-pri-ohlazhden",
+    "group": "modes"
+   },
+   {
+    "property": "minimalnaya-rabochaya-temperatura-pri-obogreve",
+    "group": "modes"
+   },
+   {
+    "property": "maksimalnaya-rabochaya-temperatura-pri-obogreve",
+    "group": "modes"
+   },
+   {
+    "property": "maksimalnyy-perepad-vysoty-magistrali",
+    "group": "climate"
+   },
+   {
+    "property": "maksimalnaya-dlina-magistrali",
+    "group": "climate"
+   },
+   {
+    "property": "diametr-zhidkostnoy-truby",
+    "group": "climate"
+   },
+   {
+    "property": "diametr-gazovoy-truby",
+    "group": "climate"
+   },
+   {
+    "property": "potreblyaemaya-moschnost-pri-ohlazhdenii",
+    "group": "power",
+    "showInCard": true
+   },
+   {
+    "property": "potreblyaemaya-moschnost-pri-obogreve",
+    "group": "power"
+   },
+   {
+    "property": "klass-energoeffektivnosti",
+    "group": "power",
+    "showInCard": true
+   },
+   {
+    "property": "rabochiy-tok-pri-ohlazhdenii",
+    "group": "power"
+   },
+   {
+    "property": "rabochiy-tok-pri-obogreve",
+    "group": "power"
+   },
+   {
+    "property": "rabochee-napryazhenie",
+    "group": "power"
+   },
+   {
+    "property": "rabochaya-chastota",
+    "group": "power"
+   },
+   {
+    "property": "cvet-vneshnego-bloka",
+    "group": "body"
+   },
+   {
+    "property": "antikorroziynoe-pokrytie",
+    "group": "body"
+   },
+   {
+    "property": "nabor-aksessuarov-dlya-montazha",
+    "group": "kit"
+   },
+   {
+    "property": "drenazhnaya-trubka",
+    "group": "kit"
+   },
+   {
+    "property": "vysota-vnutrennego-bloka",
+    "group": "size"
+   },
+   {
+    "property": "shirina-vnutrennego-bloka",
+    "group": "size"
+   },
+   {
+    "property": "glubina-vnutrennego-bloka",
+    "group": "size"
+   },
+   {
+    "property": "ves-vnutrennego-bloka",
+    "group": "size"
+   },
+   {
+    "property": "vysota-vneshnego-bloka",
+    "group": "size"
+   },
+   {
+    "property": "shirina-vneshnego-bloka",
+    "group": "size"
+   },
+   {
+    "property": "glubina-vneshnego-bloka",
+    "group": "size"
+   },
+   {
+    "property": "ves-vneshnego-bloka",
+    "group": "size"
+   },
+   {
+    "property": "invertornaya-tehnologiya",
+    "group": "main"
+   },
+   {
+    "property": "filtraciya-vozduha",
+    "group": "filtration"
+   },
+   {
+    "property": "podderzhanie-temperatury-v-meste-nahozhdeniya-pu",
+    "group": "extra"
+   },
+   {
+    "property": "osushenie",
+    "group": "performance"
+   },
+   {
+    "property": "ekonomichnyy-rezhim",
+    "group": "modes"
+   },
+   {
+    "property": "besshumnaya-rabota",
+    "group": "extra"
+   },
+   {
+    "property": "umnyy-dom",
+    "group": "control"
+   },
+   {
+    "property": "dopolnitelnaya-indikaciya",
+    "group": "display",
+    "isMultivalued": true
+   },
+   {
+    "property": "stepen-zaschity",
+    "group": "power",
+    "isMultivalued": true
+   },
+   {
+    "property": "ionizaciya-vozduha",
+    "group": "modes"
+   },
+   {
+    "property": "kolesa-dlya-transportirovki",
+    "group": "body"
+   },
+   {
+    "property": "gibkiy-vozdushnyy-shlang",
+    "group": "kit"
+   }
+  ]
+ }
+]

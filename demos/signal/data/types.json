@@ -1,0 +1,524 @@
+[
+ {
+  "slug": "router",
+  "name": "Роутер и модем",
+  "categories": [
+   "marshrutizatory",
+   "wifi-routery",
+   "lte-routery-i-modemy",
+   "mesh-sistemy",
+   "wifi-adaptery",
+   "sputnikovyy-internet"
+  ],
+  "properties": [
+   {
+    "property": "brend",
+    "filter": true,
+    "widget": "checkbox"
+   },
+   {
+    "property": "kolichestvo-portov",
+    "filter": true,
+    "widget": "range"
+   },
+   {
+    "property": "skorost-porta",
+    "filter": true,
+    "widget": "checkbox"
+   },
+   {
+    "property": "porty",
+    "filter": false,
+    "widget": null
+   },
+   {
+    "property": "sfp",
+    "filter": true,
+    "widget": "boolean"
+   },
+   {
+    "property": "poe-porty",
+    "filter": true,
+    "widget": "range"
+   },
+   {
+    "property": "pitanie-poe",
+    "filter": true,
+    "widget": "boolean"
+   },
+   {
+    "property": "stoyka",
+    "filter": true,
+    "widget": "boolean"
+   },
+   {
+    "property": "lte",
+    "filter": false,
+    "widget": null
+   },
+   {
+    "property": "usb",
+    "filter": true,
+    "widget": "checkbox"
+   },
+   {
+    "property": "vpn",
+    "filter": true,
+    "widget": "boolean"
+   },
+   {
+    "property": "ozu",
+    "filter": true,
+    "widget": "range"
+   },
+   {
+    "property": "razmery",
+    "filter": false,
+    "widget": null
+   },
+   {
+    "property": "ves",
+    "filter": false,
+    "widget": null
+   },
+   {
+    "property": "garantiya",
+    "filter": false,
+    "widget": null
+   },
+   {
+    "property": "tip-ustroystva",
+    "filter": true,
+    "widget": "checkbox"
+   },
+   {
+    "property": "standart-wifi",
+    "filter": true,
+    "widget": "checkbox"
+   },
+   {
+    "property": "diapazony-wifi",
+    "filter": true,
+    "widget": "checkbox"
+   },
+   {
+    "property": "skorost-wifi",
+    "filter": true,
+    "widget": "range"
+   },
+   {
+    "property": "mesh",
+    "filter": true,
+    "widget": "boolean"
+   },
+   {
+    "property": "usilenie-antenny",
+    "filter": true,
+    "widget": "range"
+   },
+   {
+    "property": "ulichnoe-ispolnenie",
+    "filter": true,
+    "widget": "boolean"
+   },
+   {
+    "property": "kategoriya-lte",
+    "filter": true,
+    "widget": "checkbox"
+   },
+   {
+    "property": "diapazony-lte",
+    "filter": false,
+    "widget": null
+   },
+   {
+    "property": "sim",
+    "filter": false,
+    "widget": null
+   },
+   {
+    "property": "tip-antenny",
+    "filter": false,
+    "widget": null
+   }
+  ]
+ },
+ {
+  "slug": "switch",
+  "name": "Коммутатор и питание",
+  "categories": [
+   "kommutatory",
+   "poe-i-pitanie",
+   "sfp-i-optika"
+  ],
+  "properties": [
+   {
+    "property": "brend",
+    "filter": true,
+    "widget": "checkbox"
+   },
+   {
+    "property": "kolichestvo-portov",
+    "filter": true,
+    "widget": "range"
+   },
+   {
+    "property": "skorost-porta",
+    "filter": true,
+    "widget": "checkbox"
+   },
+   {
+    "property": "porty",
+    "filter": false,
+    "widget": null
+   },
+   {
+    "property": "sfp",
+    "filter": true,
+    "widget": "boolean"
+   },
+   {
+    "property": "poe-porty",
+    "filter": true,
+    "widget": "range"
+   },
+   {
+    "property": "pitanie-poe",
+    "filter": true,
+    "widget": "boolean"
+   },
+   {
+    "property": "uroven-kommutatora",
+    "filter": true,
+    "widget": "checkbox"
+   },
+   {
+    "property": "stoyka",
+    "filter": true,
+    "widget": "boolean"
+   },
+   {
+    "property": "usb",
+    "filter": false,
+    "widget": null
+   },
+   {
+    "property": "ozu",
+    "filter": true,
+    "widget": "range"
+   },
+   {
+    "property": "razmery",
+    "filter": false,
+    "widget": null
+   },
+   {
+    "property": "ves",
+    "filter": false,
+    "widget": null
+   },
+   {
+    "property": "garantiya",
+    "filter": false,
+    "widget": null
+   },
+   {
+    "property": "form-faktor",
+    "filter": true,
+    "widget": "checkbox"
+   },
+   {
+    "property": "sreda",
+    "filter": true,
+    "widget": "checkbox"
+   },
+   {
+    "property": "dlina-volny",
+    "filter": true,
+    "widget": "checkbox"
+   },
+   {
+    "property": "dalnost",
+    "filter": true,
+    "widget": "checkbox"
+   },
+   {
+    "property": "razem",
+    "filter": true,
+    "widget": "checkbox"
+   }
+  ]
+ },
+ {
+  "slug": "radio",
+  "name": "Точка доступа и радиомост",
+  "categories": [
+   "tochki-dostupa",
+   "radiomosty"
+  ],
+  "properties": [
+   {
+    "property": "brend",
+    "filter": true,
+    "widget": "checkbox"
+   },
+   {
+    "property": "standart-wifi",
+    "filter": true,
+    "widget": "checkbox"
+   },
+   {
+    "property": "diapazony-wifi",
+    "filter": true,
+    "widget": "checkbox"
+   },
+   {
+    "property": "skorost-wifi",
+    "filter": true,
+    "widget": "range"
+   },
+   {
+    "property": "mesh",
+    "filter": true,
+    "widget": "boolean"
+   },
+   {
+    "property": "kolichestvo-portov",
+    "filter": false,
+    "widget": null
+   },
+   {
+    "property": "skorost-porta",
+    "filter": true,
+    "widget": "checkbox"
+   },
+   {
+    "property": "porty",
+    "filter": false,
+    "widget": null
+   },
+   {
+    "property": "poe-porty",
+    "filter": false,
+    "widget": null
+   },
+   {
+    "property": "pitanie-poe",
+    "filter": true,
+    "widget": "boolean"
+   },
+   {
+    "property": "ulichnoe-ispolnenie",
+    "filter": true,
+    "widget": "boolean"
+   },
+   {
+    "property": "usilenie-antenny",
+    "filter": true,
+    "widget": "range"
+   },
+   {
+    "property": "usb",
+    "filter": false,
+    "widget": null
+   },
+   {
+    "property": "ozu",
+    "filter": true,
+    "widget": "range"
+   },
+   {
+    "property": "razmery",
+    "filter": false,
+    "widget": null
+   },
+   {
+    "property": "ves",
+    "filter": false,
+    "widget": null
+   },
+   {
+    "property": "garantiya",
+    "filter": false,
+    "widget": null
+   },
+   {
+    "property": "tip-ustroystva",
+    "filter": false,
+    "widget": null
+   },
+   {
+    "property": "sfp",
+    "filter": false,
+    "widget": null
+   },
+   {
+    "property": "lte",
+    "filter": false,
+    "widget": null
+   },
+   {
+    "property": "sim",
+    "filter": false,
+    "widget": null
+   },
+   {
+    "property": "vpn",
+    "filter": false,
+    "widget": null
+   }
+  ]
+ },
+ {
+  "slug": "antenna",
+  "name": "Антенна и усилитель",
+  "categories": [
+   "antenny-i-usiliteli"
+  ],
+  "properties": [
+   {
+    "property": "brend",
+    "filter": true,
+    "widget": "checkbox"
+   },
+   {
+    "property": "tip-ustroystva",
+    "filter": false,
+    "widget": null
+   },
+   {
+    "property": "diapazony-wifi",
+    "filter": true,
+    "widget": "checkbox"
+   },
+   {
+    "property": "tip-antenny",
+    "filter": true,
+    "widget": "checkbox"
+   },
+   {
+    "property": "usilenie-antenny",
+    "filter": true,
+    "widget": "range"
+   },
+   {
+    "property": "shirina-lucha",
+    "filter": false,
+    "widget": null
+   },
+   {
+    "property": "polyarizatsiya",
+    "filter": false,
+    "widget": null
+   },
+   {
+    "property": "razem",
+    "filter": true,
+    "widget": "checkbox"
+   },
+   {
+    "property": "razmery",
+    "filter": false,
+    "widget": null
+   },
+   {
+    "property": "ves",
+    "filter": false,
+    "widget": null
+   },
+   {
+    "property": "garantiya",
+    "filter": false,
+    "widget": null
+   }
+  ]
+ },
+ {
+  "slug": "cable",
+  "name": "Кабель и переходник",
+  "categories": [
+   "kabeli-i-perekhodniki"
+  ],
+  "properties": [
+   {
+    "property": "brend",
+    "filter": false,
+    "widget": null
+   },
+   {
+    "property": "razem-1",
+    "filter": true,
+    "widget": "checkbox"
+   },
+   {
+    "property": "razem-2",
+    "filter": true,
+    "widget": "checkbox"
+   },
+   {
+    "property": "tip-kabelya",
+    "filter": true,
+    "widget": "checkbox"
+   },
+   {
+    "property": "dlina",
+    "filter": true,
+    "widget": "checkbox"
+   }
+  ]
+ },
+ {
+  "slug": "part",
+  "name": "Комплектующее",
+  "categories": [
+   "komplektuyushchie"
+  ],
+  "properties": [
+   {
+    "property": "brend",
+    "filter": false,
+    "widget": null
+   },
+   {
+    "property": "standart-wifi",
+    "filter": false,
+    "widget": null
+   },
+   {
+    "property": "diapazony-wifi",
+    "filter": false,
+    "widget": null
+   },
+   {
+    "property": "skorost-wifi",
+    "filter": false,
+    "widget": null
+   },
+   {
+    "property": "lte",
+    "filter": false,
+    "widget": null
+   },
+   {
+    "property": "kategoriya-lte",
+    "filter": false,
+    "widget": null
+   },
+   {
+    "property": "diapazony-lte",
+    "filter": false,
+    "widget": null
+   },
+   {
+    "property": "ves",
+    "filter": false,
+    "widget": null
+   },
+   {
+    "property": "garantiya",
+    "filter": false,
+    "widget": null
+   }
+  ]
+ }
+]

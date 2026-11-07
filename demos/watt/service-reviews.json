@@ -1,0 +1,45 @@
+{
+  "reviews": [
+    {
+      "service": "ustanovka-stiralnoy-mashiny",
+      "days": 21,
+      "author": "Гульнара А.",
+      "rating": 5,
+      "text": "Мастер приехал в названный час, сам снял транспортные болты и выставил машину по уровню. Шланг нарастил, чтобы дотянуть до стояка, и показал, как запускать первую стирку."
+    },
+    {
+      "service": "ustanovka-stiralnoy-mashiny",
+      "days": 34,
+      "author": "Эрлан",
+      "rating": 4,
+      "text": "Подключили быстро и аккуратно, после себя убрали. Одну звезду снимаю за то, что день переносили: ждал в четверг, приехали в пятницу."
+    },
+    {
+      "service": "montazh-konditsionera",
+      "days": 40,
+      "author": "Айбек Т.",
+      "rating": 5,
+      "text": "Девятый этаж, наружный блок вешали с альпинистом. Трассу спрятали в короб под цвет стены, конденсат вывели в канализацию — на фасад не капает."
+    },
+    {
+      "service": "montazh-konditsionera",
+      "days": 3,
+      "author": "Нурлан",
+      "rating": 2,
+      "text": "Проверка скрытого отзыва.",
+      "visible": false
+    }
+  ],
+  "works": [
+    {
+      "service": "zamer-nishi",
+      "days": 18,
+      "photo": "demos/watt/posts/kak-izmerit-nishu.webp",
+      "caption": {
+        "ru": "Замер ниши под встраиваемый духовой шкаф: высота, ширина, глубина и вентиляционный зазор",
+        "en": "Measuring a niche for a built-in oven: height, width, depth and the ventilation gap",
+        "ar": "قياس فتحة الفرن المدمج: الارتفاع والعرض والعمق وفراغ التهوية"
+      }
+    }
+  ]
+}
