@@ -1,0 +1,1814 @@
+{
+  "shelf": "holodilniki",
+  "slug": "holodilnik-asko-rfc586knbb1-807186",
+  "product": {
+    "id": "807186",
+    "article": "188452",
+    "slug": "holodilnik-asko-rfc586knbb1-807186",
+    "hasSmartInstallments": false,
+    "isActive": true,
+    "name": {
+      "default": "Asko RFC586KNBB1",
+      "full": "Холодильник Asko RFC586KNBB1",
+      "pseudo": null,
+      "spare": null,
+      "fullWithoutSection": "Asko RFC586KNBB1",
+      "section": "Холодильник",
+      "__typename": "ProductName"
+    },
+    "price": {
+      "default": 144900,
+      "marketing": null,
+      "old": null,
+      "__typename": "ProductPrice"
+    },
+    "benefit": null,
+    "specifications": {
+      "short": [
+        {
+          "name": "Объем холодильной камеры",
+          "value": "200 л",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Объем морозильной камеры",
+          "value": "106 л",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Размораживание морозильной камеры",
+          "value": "No Frost",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Высота",
+          "value": "186 см",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Ширина",
+          "value": "59.5 см",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "__typename": "ProductV2Specifications"
+    },
+    "labels": [
+      {
+        "name": "Бонусы Спасибо",
+        "type": "sberspasibo",
+        "items": [
+          {
+            "description": "",
+            "name": "Этот товар можно оплатить бонусами Спасибо от СберБанка",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Акция",
+        "type": "special_offer",
+        "items": [
+          {
+            "description": "",
+            "name": "5 000 бонусов за покупки",
+            "url": "/action/5-000-bonusov-za-pokupki/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Рассрочка",
+        "type": "deferred_payment",
+        "items": [
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-6",
+            "url": "/holodilnik-asko-rfc586knbb1-807186/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-12",
+            "url": "/holodilnik-asko-rfc586knbb1-807186/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-24",
+            "url": "/holodilnik-asko-rfc586knbb1-807186/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-6",
+            "url": "/holodilnik-asko-rfc586knbb1-807186/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-18",
+            "url": "/holodilnik-asko-rfc586knbb1-807186/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      }
+    ],
+    "labelsV2": [
+      {
+        "id": "8",
+        "name": "Бонусы Спасибо",
+        "code": "sberspasibo",
+        "mainColor": "#0C9C0C",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#0C9C0C",
+        "altTextColor": "#FFFFFF",
+        "borderAndTextColor": "#0C9C0C",
+        "items": [
+          {
+            "id": "25183",
+            "text": "Этот товар можно оплатить бонусами Спасибо от СберБанка ",
+            "buttonText": "Подробнее",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      }
+    ],
+    "status": {
+      "id": "IN_STOCK",
+      "name": "В наличии",
+      "type": "POSITIVE",
+      "__typename": "ProductStatus"
+    },
+    "brand": {
+      "code": "asko",
+      "id": "40219",
+      "name": "Asko",
+      "src": "https://cdn1.technopark.ru/technopark/photos_resized/section_brand_300_100/300_100/40219/1_40219.png",
+      "slug": "asko",
+      "sections": [
+        {
+          "name": "Варочные поверхности Asko",
+          "url": "/vstraivaemye-varochnye-poverhnosti/asko/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/986626378/technopark/photos_resized/product/120_120/65932/1_65932.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Посудомоечные машины Asko",
+          "url": "/posudomoechnye-mashiny/asko/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2102783035/technopark/photos_resized/product/120_120/645599/1_645599.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/173202605/technopark/photos_resized/product/120_120/645599/2_645599.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/582551446/technopark/photos_resized/product/120_120/645599/3_645599.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Вытяжки встраиваемые Asko",
+          "url": "/vstraivaemye-vytyazhki/asko/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/765222892/technopark/photos_resized/product/120_120/95359/1_95359.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Морозильные камеры встраиваемые Asko",
+          "url": "/vstraivaemye-morozilnye-kamery/asko/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1500688832/technopark/photos_resized/product/120_120/834734/1_834734.jpg?timestamp=2026-06-24_16-55-31",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/667143549/technopark/photos_resized/product/120_120/834734/2_834734.jpg?timestamp=2026-06-24_16-55-31",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3229343866/technopark/photos_resized/product/120_120/834734/3_834734.jpg?timestamp=2026-06-24_16-55-31",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1191462040/technopark/photos_resized/product/120_120/834734/4_834734.jpg?timestamp=2026-06-24_16-55-31",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1355087339/technopark/photos_resized/product/120_120/834734/5_834734.jpg?timestamp=2026-06-24_16-55-31",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Посудомоечные машины встраиваемые Asko",
+          "url": "/vstraivaemye-posudomoechnye-mashiny/asko/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3152097215/technopark/photos_resized/product/120_120/651468/1_651468.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1441746579/technopark/photos_resized/product/120_120/651468/2_651468.jpg?timestamp=2024-08-27_12-41-01",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3437633321/technopark/photos_resized/product/120_120/651468/3_651468.jpg?timestamp=2024-08-27_12-41-02",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Микроволновые печи встраиваемые Asko",
+          "url": "/vstraivaemye-mikrovolnovye-pechi/asko/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/200138823/technopark/photos_resized/product/120_120/825315/1_825315.jpg?timestamp=2026-03-24_09-32-51",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/773536694/technopark/photos_resized/product/120_120/825315/2_825315.jpg?timestamp=2026-03-24_09-32-51",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3798596959/technopark/photos_resized/product/120_120/825315/3_825315.jpg?timestamp=2026-03-24_09-32-52",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2464461309/technopark/photos_resized/product/120_120/825315/4_825315.jpg?timestamp=2026-03-24_09-32-51",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3971118445/technopark/photos_resized/product/120_120/825315/5_825315.jpg?timestamp=2026-03-24_09-32-55",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2095763665/technopark/photos_resized/product/120_120/825315/6_825315.jpg?timestamp=2026-03-24_09-32-51",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Морозильные камеры Asko",
+          "url": "/morozilnye-kamery/asko/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/130289648/technopark/photos_resized/product/120_120/835563/1_835563.jpg?timestamp=2026-06-30_16-39-31",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2278977291/technopark/photos_resized/product/120_120/835563/2_835563.jpg?timestamp=2026-06-30_16-39-32",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2878798033/technopark/photos_resized/product/120_120/835563/3_835563.jpg?timestamp=2026-06-30_16-39-33",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1542352037/technopark/photos_resized/product/120_120/835563/4_835563.jpg?timestamp=2026-06-30_16-39-34",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1429595287/technopark/photos_resized/product/120_120/835563/5_835563.jpg?timestamp=2026-06-30_16-39-35",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Винные шкафы Asko",
+          "url": "/vinnye-shkafy/asko/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/4112228154/technopark/photos_resized/product/120_120/310931/1_310931.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/454426134/technopark/photos_resized/product/120_120/310931/2_310931.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/477641231/technopark/photos_resized/product/120_120/310931/3_310931.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1978550252/technopark/photos_resized/product/120_120/310931/4_310931.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Вакууматоры Asko",
+          "url": "/vakuumatory/asko/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1800717393/technopark/photos_resized/product/120_120/96872/1_96872.jpg?timestamp=2025-06-10_14-33-56",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        }
+      ],
+      "__typename": "Brand"
+    },
+    "section": {
+      "slug": "holodilniki",
+      "id": "911",
+      "name": "Холодильники",
+      "parents": [
+        {
+          "id": "877",
+          "name": "Крупная бытовая",
+          "depth": 1,
+          "__typename": "SectionTreeItem"
+        },
+        {
+          "id": "911",
+          "name": "Холодильники",
+          "depth": 2,
+          "__typename": "SectionTreeItem"
+        }
+      ],
+      "__typename": "Section"
+    },
+    "media": {
+      "gallery": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/807186/1_807186.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/807186/2_807186.jpg?timestamp=2025-10-27_11-52-18",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/807186/3_807186.jpg?timestamp=2025-10-27_11-52-18",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/807186/4_807186.jpg?timestamp=2025-10-27_11-52-18",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/807186/5_807186.jpg?timestamp=2025-10-27_11-52-19",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "interior": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior/1000_1000/807186/1_807186.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "video": [],
+      "vkVideo": null,
+      "view3d": [],
+      "listing": {
+        "default": [
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/807186/1_807186.jpg?timestamp=2025-10-27_11-52-22",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/807186/2_807186.jpg?timestamp=2025-10-27_11-52-22",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/807186/3_807186.jpg?timestamp=2025-10-27_11-52-22",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/807186/4_807186.jpg?timestamp=2025-10-27_11-52-23",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/807186/5_807186.jpg?timestamp=2025-10-27_11-52-23",
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "ProductListing"
+      },
+      "__typename": "ProductV2Media"
+    },
+    "modifications": {
+      "bigBrother": null,
+      "groups": [
+        {
+          "name": "Цвет",
+          "items": [
+            {
+              "value": "серебристый",
+              "product": {
+                "slug": "holodilnik-asko-rfc586knbs1-807209",
+                "article": "188450",
+                "name": {
+                  "default": "Asko RFC586KNBS1",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "IN_STOCK",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/807209/1_807209.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/807209/2_807209.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/807209/3_807209.jpg?timestamp=2025-10-27_12-11-52",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/807209/4_807209.jpg?timestamp=2025-10-27_12-11-52",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/807209/5_807209.jpg",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            },
+            {
+              "value": "серый",
+              "product": {
+                "slug": "holodilnik-asko-rfc586knbb1-807186",
+                "article": "188452",
+                "name": {
+                  "default": "Asko RFC586KNBB1",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "IN_STOCK",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/807186/1_807186.jpg?timestamp=2025-10-27_11-52-22",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/807186/2_807186.jpg?timestamp=2025-10-27_11-52-22",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/807186/3_807186.jpg?timestamp=2025-10-27_11-52-22",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/807186/4_807186.jpg?timestamp=2025-10-27_11-52-23",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/807186/5_807186.jpg?timestamp=2025-10-27_11-52-23",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            }
+          ],
+          "__typename": "ProductV2ModificationGroup"
+        }
+      ],
+      "__typename": "ProductModifications"
+    },
+    "description": {
+      "hasDescription": true,
+      "type": "DEFAULT",
+      "__typename": "ProductDescription"
+    },
+    "collection": {
+      "id": "807186",
+      "products": {
+        "pagination": {
+          "total": 0,
+          "__typename": "Pagination"
+        },
+        "__typename": "ProductV2Pagination"
+      },
+      "__typename": "ProductCollection"
+    },
+    "similar": {
+      "pagination": {
+        "total": 20,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "related": {
+      "pagination": {
+        "total": 20,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "accessories": [
+      {
+        "products": {
+          "pagination": {
+            "total": 7,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 1,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 1,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 5,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 19,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 3,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 2,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 2,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      }
+    ],
+    "rating": {
+      "average": 0,
+      "canRate": false,
+      "total": {
+        "all": 0,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 0,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "reviews": {
+      "total": 0,
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "bestCredit": {
+      "monthPayment": 6038,
+      "type": "DEFERRED_PAYMENT",
+      "__typename": "ProductBestCredit"
+    },
+    "isSpare": false,
+    "isService": false,
+    "isVipService": false,
+    "isGiftBonusCard": false,
+    "canBuy": true,
+    "canPayOnline": true,
+    "canRequestPrice": false,
+    "canShowPrice": true,
+    "canSubscribe": false,
+    "needPrepaymentForDelivery": false,
+    "needPrepaymentForPreorder": false,
+    "isSberSpasiboPayAvailable": true,
+    "isYandexPayAllowed": false,
+    "yandexSplit": {
+      "payments": [
+        {
+          "amount": 0,
+          "date": "2026-08-17T08:51:23+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 12075,
+          "date": "2026-08-31T08:51:23+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 12075,
+          "date": "2026-09-14T08:51:23+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 12075,
+          "date": "2026-09-28T08:51:23+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 12075,
+          "date": "2026-10-12T08:51:23+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 12075,
+          "date": "2026-10-26T08:51:23+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 12075,
+          "date": "2026-11-09T08:51:23+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 12075,
+          "date": "2026-11-23T08:51:23+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 12075,
+          "date": "2026-12-07T08:51:23+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 12075,
+          "date": "2026-12-21T08:51:23+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 12075,
+          "date": "2027-01-04T08:51:23+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 12075,
+          "date": "2027-01-18T08:51:23+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 12075,
+          "date": "2027-02-01T08:51:23+0300",
+          "__typename": "YandexSplitPayment"
+        }
+      ],
+      "firstPayment": 0,
+      "restPayment": 144900,
+      "description": "https://yandex.ru/support/split/",
+      "maxAmount": 295000,
+      "__typename": "YandexSplit"
+    },
+    "seo": {
+      "description": "Холодильник Asko RFC586KNBB1: купить в интернет-магазине Технопарк с расширенной гарантией и бесплатной доставкой по РФ. Подробные характеристики товара с отзывами реальных покупателей.",
+      "text": "Вы можете купить холодильник Asko RFC586KNBB1 с доставкой по Москве по низкой цене. В интернет-магазине Technopark.ru осуществляется продажа холодильника Asko RFC586KNBB1 на выгодных условиях.",
+      "textHidden": "",
+      "title": "Холодильник Asko RFC586KNBB1 - купить в Москве в интернет-магазине Технопарк",
+      "__typename": "SeoData"
+    },
+    "breadcrumbs": [
+      {
+        "name": "Главная",
+        "url": "/",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Крупная бытовая техника",
+        "url": "/krupnaya-bytovaya-tehnika/",
+        "options": [
+          {
+            "name": "Центр инноваций",
+            "url": "/tovary-iz-budushchego/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Смартфоны и гаджеты",
+            "url": "/smartfony-i-gadzhety/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Компьютеры и ноутбуки",
+            "url": "/kompyutery-i-noutbuki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Климатическая техника",
+            "url": "/klimaticheskaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Техника для кухни",
+            "url": "/dlya-kuhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Бытовая техника для дома",
+            "url": "/dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для красоты и здоровья",
+            "url": "/krasota-i-zdorovye/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Спортивные товары",
+            "url": "/trenazhery-dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Телевизоры Аудио Hi-Fi",
+            "url": "/audio-video-foto/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для сада, дома и ремонта",
+            "url": "/dlya-sada-doma-i-remonta/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посуда",
+            "url": "/posuda/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Детские товары",
+            "url": "/detskie-tovary/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для гейминга",
+            "url": "/gaming/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Плоттеры и услуги розницы",
+            "url": "//",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Запасные части",
+            "url": "/zapasnie-chasti/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Холодильники",
+        "url": "/holodilniki/",
+        "options": [
+          {
+            "name": "Стиральные машины",
+            "url": "/stiralnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые варочные панели",
+            "url": "/vstraivaemye-varochnye-poverhnosti/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные плиты",
+            "url": "/plity/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые духовые шкафы",
+            "url": "/vstraivaemye-duhovye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вытяжки для кухни",
+            "url": "/vytyazhki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посудомоечные машины",
+            "url": "/posudomoechnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые холодильники",
+            "url": "/vstraivaemye-holodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые винные шкафы",
+            "url": "/vstraivaemye-vinnye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые вытяжки для кухни",
+            "url": "/vstraivaemye-vytyazhki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые кофемашины",
+            "url": "/vstraivaemye-kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые морозильные камеры",
+            "url": "/vstraivaemye-morozilnye-kamery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые пароварки",
+            "url": "/vstraivaemye-parovarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые посудомоечные машины",
+            "url": "/vstraivaemye-posudomoechnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые стиральные машины",
+            "url": "/vstraivaemye-stiralnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Сушильные машины для белья",
+            "url": "/sushilnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые микроволновые печи",
+            "url": "/vstraivaemye-mikrovolnovye-pechi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Морозильные камеры",
+            "url": "/morozilnye-kamery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Винные шкафы",
+            "url": "/vinnye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые шкафы для подогрева",
+            "url": "/shkafy-dlya-podogreva-posudy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Стиральные машины с функцией сушки (2 в 1)",
+            "url": "/stiralno-sushilnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые вакууматоры",
+            "url": "/vakuumatory/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Измельчители пищевых отходов",
+            "url": "/vstraivaemye-izmelchiteli-pischevyh-othodov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Автохолодильники",
+            "url": "/avtoholodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для крупной бытовой техники",
+            "url": "/aksessuary-krupnaya-bytovaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для холодильников",
+            "url": "/aksessuary-krupnaya-bytovaya-tehnika/filt_naznachenie-k_holodilnikam/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для автохолодильников",
+            "url": "/aksessuary-dlya-avtokholodilnikov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Хьюмидоры",
+            "url": "/khyumidory/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Холодильники Asko",
+        "url": "/holodilniki/asko/",
+        "options": [
+          {
+            "name": "Liebherr",
+            "url": "/holodilniki/liebherr/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "LG",
+            "url": "/holodilniki/lg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Haier",
+            "url": "/holodilniki/haier/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Maunfeld",
+            "url": "/holodilniki/maunfeld/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Korting",
+            "url": "/holodilniki/korting/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Indesit",
+            "url": "/holodilniki/indesit/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Kuppersberg",
+            "url": "/holodilniki/kuppersberg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Smeg",
+            "url": "/holodilniki/smeg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Beko",
+            "url": "/holodilniki/beko/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Midea",
+            "url": "/holodilniki/midea/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Gorenje",
+            "url": "/holodilniki/gorenje/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Hisense",
+            "url": "/holodilniki/hisense/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Bosch",
+            "url": "/holodilniki/bosch/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Samsung",
+            "url": "/holodilniki/samsung/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Toshiba",
+            "url": "/holodilniki/toshiba/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Hitachi",
+            "url": "/holodilniki/hitachi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "VARD",
+            "url": "/holodilniki/vard/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Hotpoint",
+            "url": "/holodilniki/hotpoint/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Kuppersbusch",
+            "url": "/holodilniki/kuppersbusch/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Candy",
+            "url": "/holodilniki/candy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Meyvel",
+            "url": "/holodilniki/meyvel/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "TCL",
+            "url": "/holodilniki/tcl/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Casarte",
+            "url": "/holodilniki/casarte/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Electrolux",
+            "url": "/holodilniki/electrolux/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Graude",
+            "url": "/holodilniki/graude/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Siemens",
+            "url": "/holodilniki/siemens/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Libhof",
+            "url": "/holodilniki/libhof/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "AEG",
+            "url": "/holodilniki/aeg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Bertazzoni",
+            "url": "/holodilniki/bertazzoni/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Asko RFC586KNBB1",
+        "url": "holodilnik-asko-rfc586knbb1-807186",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      }
+    ],
+    "isArchive": false,
+    "__typename": "ProductV2",
+    "isSberPayOneClickAllowed": false,
+    "isTinkoffPayOneClickAllowed": false,
+    "bonus": null
+  },
+  "details": {
+    "description": "<style> *{box-sizing:border-box;outline:0}body{font-family:'DINPro Technopark',Arial;font-size:14px;font-weight:400;font-display:swap;margin:0;overflow-x:hidden;position:relative;min-height:95vh;-webkit-tap-highlight-color:transparent}body.lock-scroll{overflow:hidden;position:fixed;right:0;left:0;bottom:0}@media (min-width:1192px){body.lock-scroll{position:relative}}@media screen and (max-device-width:480px){body{-webkit-text-size-adjust:none}}.label-for-seo{width:100%}.label-for-seo__span{display:none}a{color:#0093c4;text-decoration:none}.is-visible{display:block!important}.is-hidden{display:none!important}.is-visually-hidden{opacity:0!important;visibility:hidden!important;pointer-events:none!important}.is-link{color:#0093c4}.no-wrap{white-space:nowrap}.container{margin:auto;width:100%}@media (min-width:960px){.container{width:calc(100% - 48px)}}@media (min-width:1482px){.container{max-width:1397px}}.is-overflow-hidden{overflow:hidden}.is-mobile-not{display:none!important}@media (min-width:960px){.is-mobile-not{display:block!important}}@media (min-width:960px){.is-mobile-only{display:none!important}}@media (max-width:959px){.hide-phone{display:none}}@media (min-width:960px) and (max-width:1481px){.hide-tablet{display:none}}.is-hidden{display:none!important}.nowrap-text{white-space:nowrap}.textcenter{text-align:center}ul.list{margin:0;padding:6px 0 18px}@media (min-width:960px){ul.list{padding:6px 0 24px}}ul.list li{font-family:'DINPro Technopark',Arial;font-size:15px;font-weight:400;font-display:swap;color:#fff;line-height:20px;list-style:none;margin:0;padding-left:9px;position:relative}@media (min-width:960px){ul.list li{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:400;font-display:swap;line-height:21px;padding-left:26px}}ul.list>li:before{background-color:#fff;border-radius:50%;content:\"\";display:block;height:3px;left:0;position:absolute;top:10px;width:3px}@media (min-width:960px){ul.list>li:before{border-radius:0;height:1px;width:13px}}ul.list>li>ul{padding:6px 0 6px 15px}@media (min-width:960px){ul.list>li>ul{padding:3px 0 3px 4px}}ul.list>li>ul>li:before{background-color:rgba(255,255,255,.5)}ul.list>li>ul>li>ul{padding:6px 0 0 15px}@media (min-width:960px){ul.list>li>ul>li>ul{padding:3px 0 0 4px}}ul.list>li>ul>li>ul>li:before{background-color:rgba(255,255,255,.2)}ol.list{margin:0;padding:6px 0 18px;counter-reset:list1}@media (min-width:960px){ol.list{padding:6px 0 24px}}ol.list li{font-family:'DINPro Technopark',Arial;font-size:15px;font-weight:400;font-display:swap;color:#fff;line-height:20px;list-style:none;margin:0;padding-left:9px;position:relative}@media (min-width:960px){ol.list li{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:400;font-display:swap;line-height:21px;padding-left:26px}}ol.list>li{padding-left:24px}ol.list>li:before{counter-increment:list1;content:counter(list1) \". \";left:0;position:absolute}ol.list>li>ol{counter-reset:list2;padding:6px 0}@media (min-width:960px){ol.list>li>ol{padding:3px 0}}ol.list>li>ol>li{padding-left:42px}ol.list>li>ol>li:before{counter-increment:list2;content:counter(list1) \".\" counter(list2) \". \"}ol.list>li>ol>li>ol{counter-reset:list3}ol.list>li>ol>li>ol>li:before{counter-increment:list3;content:counter(list1) \".\" counter(list2) \".\" counter(list3) \". \"}ol.list--compact{padding:0}.list--line-interval li:not(:last-child){margin-bottom:1em}input::-ms-clear{display:none}input::-webkit-clear-button{display:none}@media (max-width:767px){.footer{padding-bottom:66px}}.page-container{margin:auto;padding:0 18px;width:100%}@media (min-width:960px){.page-container{padding:0 24px;width:100%}}@media (min-width:1482px){.page-container{width:1481px}}@media (min-width:960px){.page-container--extra-padding{padding:0 42px}}.default-container{width:100%;max-width:1481px;margin:auto;padding:0 12px}@media (min-width:960px){.default-container{padding:0 24px}}button,input,select,textarea{font-family:inherit;font-size:100%;margin:0}textarea{resize:none;overflow:auto}form{margin:0}button{color:inherit}dd,dl,dt{margin:0;padding:0}input[type=search]{-webkit-appearance:none}input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration,input[type=search]::-webkit-search-results-button,input[type=search]::-webkit-search-results-decoration{display:none}input:invalid{box-shadow:none}textarea:invalid{box-shadow:none}svg *{pointer-events:none}.product__desc{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:300;font-display:swap;color:#878787;display:none}.product__desc b{font-family:'DINPro Technopark',Arial;font-size:20px;font-weight:400;font-display:swap;color:#fff}.dyson-v10-picking,.dyson-v10-properties,.dyson-v10-wrapper,.dyson-v10-wrapper .dyson-v10__list span{color:#fff;padding:0 12px}@media (max-width:1154px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:170px}}@media (max-width:1100px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:270px}}@media (max-width:960px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:27px}}.dyson-v10-first-row li.dyson-v10-item{max-width:calc(100% / 3 - 10);padding-right:5px}@media (max-width:959px){.dyson-v10-first-row{flex-direction:column;align-items:flex-start}.dyson-v10-first-row li.dyson-v10-item{max-width:none}}@media (min-width:960px) and (max-width:1303px){.dyson-v10-first-row{flex-direction:column;align-items:flex-start}.dyson-v10-first-row li.dyson-v10-item{max-width:none}}.dyson-v10-chapter{text-align:center!important}.dyson-v10__list li.dyson-v10__list-item{background-size:contain;background-position:left} </style> <p>  \t Холодильник Asko RFC586KNBB1 с функцией Total No Frost сочетает в себе стильный дизайн, инновационные технологии и практичность. Объём в 306 литров позволяет разместить большое количество продуктов и обеспечит их длительное хранение.  </p>  <h2>Особенности</h2>  <ul class=\"list\">  \t<li><b>Технология Total No Frost</b><br>  \t Обеспечивает равномерное распределение температуры и предотвращает образование наледи. Это не только упрощает уход за устройством, но и позволяет сохранить свежесть продуктов на более долгий срок</li>  \t<li><b>Управление</b><br>  \t Холодильник оснащён современной сенсорной панелью с TFT-дисплеем, обеспечивающей удобный и наглядный контроль за всеми параметрами. Через меню можно легко установить температуру в каждой зоне, активировать специальные режимы, а также управлять освещением и подключением Wi-Fi</li>  \t<li><b>Эко-режим</b><br>  \t Эко-режим оптимизирует работу прибора для снижения энергопотребления без ущерба для сохранности продуктов. При его активации автоматически устанавливаются идеальные температуры: +4 °C в холодильном отделении, 0-2 °C в зоне свежести и -18 °C в морозильной камере</li>  \t<li><b>Режим «Отпуск»</b><br>  \t В режиме «Отпуск» поддерживается температура 15 °С в зоне свежести и холодильном отделении </li>  \t<li><b>Режим «Вечеринка»</b><br>  \t При активации режима «Вечеринка» все отделения холодильника переходят на максимальную мощность охлаждения и замораживания. Если режим не отключить вручную, он автоматически завершает работу через 24 часа</li>  \t<li><b>Режим «Шаббат»</b><br>  \t Все световые функции и дисплей временно отключаются, но холодильник продолжает поддерживать заданную температуру. Режим действует автоматически в течение 72 часов, после чего прибор возвращается к стандартной работе </li>  \t<li><b>Режим «Очистка»</b><br>  \t При активации режима «Очистка» прибор временно приостанавливает охлаждение, позволяя спокойно провести влажную уборку даже при открытой дверце. После завершения чистки режим можно выключить вручную, либо он отключится автоматически при изменении температуры или включении другой функции</li>  \t<li><b>Система Opti Flow+</b><br>  \t Система Opti Flow+ обеспечивает постоянное движение холодного воздуха, чтобы он достигал каждого уголка холодильного отделения и контейнеров зоны Dura Fresh. В стенке предусмотрено множество вентиляционных отверстий, которые равномерно распределяют холодный воздух по всему пространству холодильного отделения</li>  \t<li><b>Зона свежести</b><br>  \t Холодильник оснащён специальным отделением DuraFresh, которое создаёт идеальные условия для хранения свежих продуктов. В этой зоне поддерживается точный температурный диапазон от -2 до +2 °C. Через меню DuraFresh Guide можно выбрать тип продуктов и прибор автоматически установит оптимальные параметры хранения</li>  \t<li><b>Автоматический контроль влажности</b><br>  \t Система автоматического контроля влажности постоянно поддерживает оптимальный уровень влажности в ящике для фруктов и овощей. Специальная, лёгкая в очистке мембрана регулирует уровень влажности. Если он становится слишком высоким, мембрана приоткрывается, выпуская лишнюю влагу. Если же воздух становится сухим, она меняет положение, чтобы повысить влажность</li>  \t<li><b>Деревянный сервировочный поднос</b><br>  \t Asko RFC586KNBB1 оснащён стильным деревянным сервировочным подносом, установленным на специальных направляющих под стеклянной полкой. В нём можно не только хранить продукты, но и подавать их на стол благодаря съёмной конструкции</li>  <li><b>Лоток MultiBox</b><br>  Лоток MultiBox удобен для хранения продуктов с сильным или резким запахом и защищает продукты от высыхания. Деревянную крышку также можно использовать в качестве лотка для яиц</li>  \t<li><b>Безопасность</b><br>  \t Холодильник оснащён системой сигнализации, которая предупреждает о повышении температуры, длительном открытии дверцы или сбое питания, а защита от детей предотвращает случайное изменение настроек или выключение устройства </li>  \t<li><b>Поддержка мобильного приложения ConnectLife.TRIR</b><br>  \t Asko RFC586KNBB1 поддерживает управление через мобильное приложение ConnectLife.TRIR, которое позволяет контролировать все параметры прямо со смартфона. Через приложение можно изменять температуру в отделениях, активировать специальные режимы и получать уведомления о состоянии прибора </li>  </ul>",
+    "descriptionType": "DEFAULT",
+    "descriptionBarcode": "3838782978487",
+    "descriptionBrand": "Asko",
+    "specifications": {
+      "short": [
+        {
+          "name": "Объем холодильной камеры",
+          "value": "200 л",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Объем морозильной камеры",
+          "value": "106 л",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Размораживание морозильной камеры",
+          "value": "No Frost",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Высота",
+          "value": "186 см",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Ширина",
+          "value": "59.5 см",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "barcode": "3838782978487",
+      "country": "Сербия",
+      "full": [
+        {
+          "name": "Основные характеристики",
+          "list": [
+            {
+              "name": "Тип",
+              "value": "холодильник с морозильной камерой",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип установки",
+              "value": "отдельностоящий",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип компрессора",
+              "value": "инверторный",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество компрессоров",
+              "value": "1",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество камер",
+              "value": "2",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Общий полезный объем",
+              "value": "306 л",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Холодильная камера",
+          "list": [
+            {
+              "name": "Объем холодильной камеры",
+              "value": "200 л",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Регулировка температуры в холодильной камере",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Установка температуры",
+              "value": "3-9 °C",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество отделений в холодильной камере",
+              "value": "1",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Размораживание холодильной камеры",
+              "value": "No Frost",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Морозильная камера",
+          "list": [
+            {
+              "name": "Объем морозильной камеры",
+              "value": "106 л",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Расположение морозильной камеры",
+              "value": "снизу",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Размораживание морозильной камеры",
+              "value": "No Frost",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество отделений в морозильной камере",
+              "value": "1",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Мощность замораживания",
+              "value": "10 кг/сутки",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Хранение продуктов при отключении питания",
+              "value": "15 ч",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Регулировка температуры в морозильной камере",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Минимальная температура в морозильной камере",
+              "value": "-15 °C",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная температура в морозильной камере",
+              "value": "-26 °C",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Зона свежести",
+          "list": [
+            {
+              "name": "Зона свежести",
+              "value": "есть",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип зоны свежести",
+              "value": "сухая + влажная",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Регулировка температуры в зоне свежести",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дополнительная информация",
+              "value": "регулировка температуры от -2 до 2 °C",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Управление",
+          "list": [
+            {
+              "name": "Тип управления",
+              "value": "электронное",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Способ управления",
+              "value": "сенсорный",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Расположение панели управления",
+              "value": "в камере",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Поддержка Wi-Fi",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Управление c мобильного устройства",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Поддержка мобильного приложения",
+              "value": "ConnectLife.TRIR",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Дисплей",
+          "list": [
+            {
+              "name": "Дисплей",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип дисплея",
+              "value": "TFT",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вид дисплея",
+              "value": "символьный, цифровой",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Индикация",
+          "list": [
+            {
+              "name": "Индикация температуры холодильной камеры",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация температуры морозильной камеры",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация включения",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация режима работы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет индикации",
+              "value": "белый",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация отключения электропитания",
+              "value": "визуальная, звуковая",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация повышения температуры",
+              "value": "визуальная, звуковая",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация открытой двери",
+              "value": "визуальная, звуковая",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Регулировка яркости индикации",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация неисправностей",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Электропитание",
+          "list": [
+            {
+              "name": "Напряжение",
+              "value": "220-240 B",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Мощность подключения",
+              "value": "270 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Длина сетевого шнура",
+              "value": "3 м",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Класс энергопотребления",
+              "value": "A++",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Энергопотребление",
+              "value": "295 кВтч/год",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Климатический класс",
+              "value": "SN-N-ST-T",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Уровень шума",
+              "value": "34 дБ",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Защита и безопасность",
+          "list": [
+            {
+              "name": "Тип сигнализации",
+              "value": "акустический, оптический",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Сигнализация о неисправности",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Сигнализация об открытой двери",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Сигнализация о повышении температуры",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Сигнализация об отключении питания",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Самодиагностика неисправностей",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Защита от детей",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Освещение",
+          "list": [
+            {
+              "name": "Освещение холодильной камеры",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип освещения",
+              "value": "светодиодное (LED)",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Мощность одной лампы",
+              "value": "11 Вт",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Функции и возможности",
+          "list": [
+            {
+              "name": "Суперзаморозка",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Независимая регулировка температуры в камерах",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Суперохлаждение",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Режим «Отпуск»",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Режим «Шаббат»",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дополнительная информация",
+              "value": "режим Eco, режим «Вечеринка», режим «Очистка», автоматический контроль влажности в зоне свежести, система Opti Flow+, две регулируемые ножки, задняя стенка из нержавеющей стали",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Особенности конструкции",
+          "list": [
+            {
+              "name": "Количество дверей",
+              "value": "2",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Открытие дверцы",
+              "value": "направо",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Перенавешиваемые двери",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ручка легкого открывания",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Встроенный вентилятор для распределения температуры",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Телескопические направляющие",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип направляющих",
+              "value": "роликовые, телескопические",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Контейнеры и полки",
+          "list": [
+            {
+              "name": "Количество полок в холодильной камере",
+              "value": "4",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Регулируемые по высоте полки в холодильной камере",
+              "value": "1",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество полок на дверце холодильной камеры",
+              "value": "3",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество контейнеров в морозильной камере",
+              "value": "3",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество контейнеров в зоне свежести",
+              "value": "1",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Цвет и материал",
+          "list": [
+            {
+              "name": "Цвет",
+              "value": "серый",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет ручек",
+              "value": "серый",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет полок",
+              "value": "прозрачный, серебристый",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет ящиков",
+              "value": "прозрачный, серебристый",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал двери",
+              "value": "металл",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал боковых стенок",
+              "value": "металл",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал полок",
+              "value": "стекло",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал ручек",
+              "value": "металл",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал ящиков",
+              "value": "пластик",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Комплектация",
+          "list": [
+            {
+              "name": "Ручки",
+              "value": "в комплекте",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дополнительная комплектация",
+              "value": "деревянная подставка для бутылок (BottleTray), деревянный поднос, лоток MultiBox",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Размеры и вес",
+          "list": [
+            {
+              "name": "Высота",
+              "value": "186 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ширина",
+              "value": "59.5 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Глубина",
+              "value": "60 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вес",
+              "value": "75 кг",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        }
+      ],
+      "grossWeight": "78",
+      "netWeight": "75",
+      "height": "1.95",
+      "instructionUrl": "https://storage.yandexcloud.net/technopark.instructions/807186/instruction/instrukciya-holodilnik-asko-rfc586knbb1-807186.pdf",
+      "length": "0.65",
+      "schemeUrl": "https://storage.yandexcloud.net/technopark.instructions/807186/schema/schema-vstraivaniya-holodilnik-asko-rfc586knbb1-807186.jpg",
+      "warranty": "24",
+      "width": "0.7",
+      "__typename": "ProductV2Specifications"
+    },
+    "certificates": ["https://www.technopark.ru/bipublic/Cert/IG0G15B38G8993.pdf"],
+    "isManufacturerCountry": false,
+    "isSellerWarranty": false,
+    "reviews": {
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "total": 0,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "rating": {
+      "average": 0,
+      "canRate": false,
+      "total": {
+        "all": 0,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 0,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "isLoading": false
+  },
+  "photos": [
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/holodilnik-asko-rfc586knbb1-807186-1.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/holodilnik-asko-rfc586knbb1-807186-2.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/holodilnik-asko-rfc586knbb1-807186-3.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/holodilnik-asko-rfc586knbb1-807186-4.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/holodilnik-asko-rfc586knbb1-807186-5.jpg"
+  ]
+}

@@ -1,0 +1,1932 @@
+{
+  "shelf": "stiralnye-mashiny",
+  "slug": "stiralnaya-mashina-panasonic-na-21cer1wkz-831034",
+  "product": {
+    "id": "831034",
+    "article": "197141",
+    "slug": "stiralnaya-mashina-panasonic-na-21cer1wkz-831034",
+    "hasSmartInstallments": false,
+    "isActive": true,
+    "name": {
+      "default": "Panasonic NA-21CER1WKZ",
+      "full": "Стиральная машина Panasonic NA-21CER1WKZ",
+      "pseudo": null,
+      "spare": null,
+      "fullWithoutSection": "Panasonic NA-21CER1WKZ",
+      "section": "Стиральная машина",
+      "__typename": "ProductName"
+    },
+    "price": {
+      "default": 89990,
+      "marketing": null,
+      "old": null,
+      "__typename": "ProductPrice"
+    },
+    "benefit": null,
+    "specifications": {
+      "short": [
+        {
+          "name": "Установка",
+          "value": "отдельностоящая",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Максимальная загрузка белья",
+          "value": "10.5 кг",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Максимальная скорость отжима",
+          "value": "до 1200 об/мин",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Количество программ",
+          "value": "12",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Глубина",
+          "value": "57.5 см",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "__typename": "ProductV2Specifications"
+    },
+    "labels": [
+      {
+        "name": "Бонусы Спасибо",
+        "type": "sberspasibo",
+        "items": [
+          {
+            "description": "",
+            "name": "Этот товар можно оплатить бонусами Спасибо от СберБанка",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Новинка",
+        "type": "new",
+        "items": null,
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Акция",
+        "type": "special_offer",
+        "items": [
+          {
+            "description": "",
+            "name": "5 000 бонусов за покупки",
+            "url": "/action/5-000-bonusov-za-pokupki/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Рассрочка",
+        "type": "deferred_payment",
+        "items": [
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-6",
+            "url": "/stiralnaya-mashina-panasonic-na-21cer1wkz-831034/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-12",
+            "url": "/stiralnaya-mashina-panasonic-na-21cer1wkz-831034/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-24",
+            "url": "/stiralnaya-mashina-panasonic-na-21cer1wkz-831034/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-6",
+            "url": "/stiralnaya-mashina-panasonic-na-21cer1wkz-831034/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-18",
+            "url": "/stiralnaya-mashina-panasonic-na-21cer1wkz-831034/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      }
+    ],
+    "labelsV2": [
+      {
+        "id": "2",
+        "name": "Новинка",
+        "code": "novinka",
+        "mainColor": "#02b513",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#02b513",
+        "altTextColor": "#ffffff",
+        "borderAndTextColor": "#02b513",
+        "items": [
+          {
+            "id": "130627",
+            "text": "Новинка",
+            "__typename": "ProductLabelTextItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      },
+      {
+        "id": "14",
+        "name": "-15% на технику",
+        "code": "15-na-tekhniku",
+        "mainColor": "#F54B4B",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#FFFFFF",
+        "altTextColor": "#F54B4B",
+        "borderAndTextColor": "#F54B4B",
+        "items": [
+          {
+            "id": "142473",
+            "text": "Выгода при покупке крупной бытовой техники",
+            "buttonText": "Подробнее",
+            "url": "/action/vygoda-pri-pokupke-krupnoy-bytovoy-tekhniki/",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      },
+      {
+        "id": "8",
+        "name": "Бонусы Спасибо",
+        "code": "sberspasibo",
+        "mainColor": "#0C9C0C",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#0C9C0C",
+        "altTextColor": "#FFFFFF",
+        "borderAndTextColor": "#0C9C0C",
+        "items": [
+          {
+            "id": "15544",
+            "text": "Этот товар можно оплатить бонусами Спасибо от СберБанка ",
+            "buttonText": "Подробнее",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      }
+    ],
+    "status": {
+      "id": "IN_STOCK",
+      "name": "В наличии",
+      "type": "POSITIVE",
+      "__typename": "ProductStatus"
+    },
+    "brand": {
+      "code": "panasonic",
+      "id": "40366",
+      "name": "Panasonic",
+      "src": "https://cdn1.technopark.ru/technopark/photos_resized/section_brand_300_100/300_100/40366/1_40366.png",
+      "slug": "panasonic",
+      "sections": [
+        {
+          "name": "Все кондиционеры Panasonic",
+          "url": "/konditsionery/panasonic/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2695863461/technopark/photos_resized/product/120_120/638078/1_638078.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/549321822/technopark/photos_resized/product/120_120/638078/2_638078.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3618155571/technopark/photos_resized/product/120_120/638078/3_638078.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3467877746/technopark/photos_resized/product/120_120/638078/4_638078.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1577877731/technopark/photos_resized/product/120_120/638078/5_638078.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Аэрогрили Panasonic",
+          "url": "/aerogrili/panasonic/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3097435190/technopark/photos_resized/product/120_120/772139/1_772139.jpg?timestamp=2024-12-18_13-53-15",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/338318138/technopark/photos_resized/product/120_120/772139/2_772139.jpg?timestamp=2024-12-18_13-53-28",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1688674200/technopark/photos_resized/product/120_120/772139/3_772139.jpg?timestamp=2024-12-18_13-53-19",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1596404017/technopark/photos_resized/product/120_120/772139/4_772139.jpg?timestamp=2024-12-18_13-53-16",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2109484761/technopark/photos_resized/product/120_120/772139/5_772139.jpg?timestamp=2024-12-18_13-53-17",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/180035151/technopark/photos_resized/product/120_120/772139/6_772139.jpg?timestamp=2024-12-18_13-53-17",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3083117221/technopark/photos_resized/product/120_120/772139/7_772139.jpg?timestamp=2024-12-18_13-53-30",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3234042419/technopark/photos_resized/product/120_120/772139/8_772139.jpg?timestamp=2024-12-18_13-53-30",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Микроволновые печи Panasonic",
+          "url": "/mikrovolnovye-pechi/panasonic/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/690126172/technopark/photos_resized/product/120_120/34086/1_34086.jpg?timestamp=2025-10-31_12-00-41",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3728158001/technopark/photos_resized/product/120_120/34086/2_34086.jpg?timestamp=2025-10-31_12-00-42",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1579503050/technopark/photos_resized/product/120_120/34086/3_34086.jpg?timestamp=2025-10-31_12-00-42",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/291822349/technopark/photos_resized/product/120_120/34086/4_34086.jpg?timestamp=2025-10-31_12-00-43",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2624305980/technopark/photos_resized/product/120_120/34086/5_34086.jpg?timestamp=2025-10-31_12-00-44",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3114098893/technopark/photos_resized/product/120_120/34086/6_34086.jpg?timestamp=2025-10-31_12-00-45",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Блендеры Panasonic",
+          "url": "/blendery/panasonic/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3914859947/technopark/photos_resized/product/120_120/800312/1_800312.jpg?timestamp=2025-08-19_11-14-49",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1287437985/technopark/photos_resized/product/120_120/800312/2_800312.jpg?timestamp=2025-08-19_11-14-53",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2548660502/technopark/photos_resized/product/120_120/800312/3_800312.jpg?timestamp=2025-08-19_11-14-49",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/249571500/technopark/photos_resized/product/120_120/800312/4_800312.jpg?timestamp=2025-08-19_11-14-49",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1737616738/technopark/photos_resized/product/120_120/800312/5_800312.jpg?timestamp=2025-08-19_11-14-46",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1378743252/technopark/photos_resized/product/120_120/800312/6_800312.jpg?timestamp=2025-08-19_11-14-57",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Хлебопечки Panasonic",
+          "url": "/hlebopechki/panasonic/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3130819167/technopark/photos_resized/product/120_120/146098/1_146098.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/597021669/technopark/photos_resized/product/120_120/146098/2_146098.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3449533129/technopark/photos_resized/product/120_120/146098/3_146098.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/706977742/technopark/photos_resized/product/120_120/146098/4_146098.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1418912627/technopark/photos_resized/product/120_120/146098/5_146098.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1431951536/technopark/photos_resized/product/120_120/146098/6_146098.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3186705990/technopark/photos_resized/product/120_120/146098/7_146098.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Мини-печи Panasonic",
+          "url": "/mini-pechi/panasonic/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3820451028/technopark/photos_resized/product/120_120/779580/1_779580.jpg?timestamp=2025-02-07_16-29-58",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1263456020/technopark/photos_resized/product/120_120/779580/2_779580.jpg?timestamp=2025-02-07_16-30-03",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2634418281/technopark/photos_resized/product/120_120/779580/3_779580.jpg?timestamp=2025-02-07_16-29-56",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2298493410/technopark/photos_resized/product/120_120/779580/4_779580.jpg?timestamp=2025-02-07_16-30-16",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1728993486/technopark/photos_resized/product/120_120/779580/5_779580.jpg?timestamp=2025-02-07_16-30-17",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3765566508/technopark/photos_resized/product/120_120/779580/6_779580.jpg?timestamp=2025-02-07_16-30-14",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4186797376/technopark/photos_resized/product/120_120/779580/7_779580.jpg?timestamp=2025-02-07_16-30-29",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1743380707/technopark/photos_resized/product/120_120/779580/8_779580.jpg?timestamp=2025-02-07_16-30-30",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Аксессуары для электробритв Panasonic",
+          "url": "/aksessuary-dlya-ehlektrobritv/panasonic/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/306279560/technopark/photos_resized/product/120_120/64544/1_64544.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Ирригаторы Panasonic",
+          "url": "/irrigatory/panasonic/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1889471717/technopark/photos_resized/product/120_120/749236/1_749236.jpg?timestamp=2024-07-18_10-35-53",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2923713961/technopark/photos_resized/product/120_120/749236/2_749236.jpg?timestamp=2024-07-18_10-35-53",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/127417459/technopark/photos_resized/product/120_120/749236/3_749236.jpg?timestamp=2024-07-18_10-35-53",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3918945631/technopark/photos_resized/product/120_120/749236/4_749236.jpg?timestamp=2024-07-18_10-35-53",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2118419671/technopark/photos_resized/product/120_120/749236/5_749236.jpg?timestamp=2024-07-18_10-35-55",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Триммеры и машинки для стрижки Panasonic",
+          "url": "/trimmery/panasonic/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1566232849/technopark/photos_resized/product/120_120/688782/1_688782.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1424792890/technopark/photos_resized/product/120_120/688782/2_688782.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2736682362/technopark/photos_resized/product/120_120/688782/3_688782.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3135437846/technopark/photos_resized/product/120_120/688782/4_688782.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2204512368/technopark/photos_resized/product/120_120/688782/5_688782.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/486712787/technopark/photos_resized/product/120_120/688782/6_688782.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        }
+      ],
+      "__typename": "Brand"
+    },
+    "section": {
+      "slug": "stiralnye-mashiny",
+      "id": "898",
+      "name": "Стиральные машины",
+      "parents": [
+        {
+          "id": "877",
+          "name": "Крупная бытовая",
+          "depth": 1,
+          "__typename": "SectionTreeItem"
+        },
+        {
+          "id": "898",
+          "name": "Стиральные машины",
+          "depth": 2,
+          "__typename": "SectionTreeItem"
+        }
+      ],
+      "__typename": "Section"
+    },
+    "media": {
+      "gallery": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/831034/1_831034.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/831034/1_831034.jpg",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/831034/2_831034.jpg?timestamp=2026-05-13_13-33-21",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/831034/2_831034.jpg?timestamp=2026-05-13_13-33-30",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/831034/3_831034.jpg?timestamp=2026-05-13_13-33-22",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/831034/3_831034.jpg?timestamp=2026-05-13_13-33-31",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/831034/4_831034.jpg?timestamp=2026-05-13_13-33-21",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/831034/4_831034.jpg?timestamp=2026-05-13_13-33-34",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/831034/5_831034.jpg?timestamp=2026-05-13_13-33-28",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/831034/5_831034.jpg?timestamp=2026-05-13_13-33-32",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/831034/6_831034.jpg?timestamp=2026-05-13_13-33-28",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/831034/6_831034.jpg?timestamp=2026-05-13_13-33-32",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/831034/7_831034.jpg?timestamp=2026-05-13_13-33-22",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/831034/7_831034.jpg?timestamp=2026-05-13_13-33-34",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/831034/8_831034.jpg?timestamp=2026-05-13_13-33-28",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/831034/8_831034.jpg?timestamp=2026-05-13_13-33-33",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "interior": [],
+      "video": [],
+      "vkVideo": null,
+      "view3d": [],
+      "listing": {
+        "default": [
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/831034/1_831034.jpg?timestamp=2026-05-13_13-33-23",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/831034/2_831034.jpg?timestamp=2026-05-13_13-33-23",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/831034/3_831034.jpg?timestamp=2026-05-13_13-33-23",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/831034/4_831034.jpg?timestamp=2026-05-13_13-33-23",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/831034/5_831034.jpg?timestamp=2026-05-13_13-33-30",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/831034/6_831034.jpg?timestamp=2026-05-13_13-33-29",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/831034/7_831034.jpg?timestamp=2026-05-13_13-33-24",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/831034/8_831034.jpg?timestamp=2026-05-13_13-33-29",
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "ProductListing"
+      },
+      "__typename": "ProductV2Media"
+    },
+    "modifications": {
+      "bigBrother": null,
+      "groups": [
+        {
+          "name": "Цвет",
+          "items": [
+            {
+              "value": "белый",
+              "product": {
+                "slug": "stiralnaya-mashina-panasonic-na-21cer1wkz-831034",
+                "article": "197141",
+                "name": {
+                  "default": "Panasonic NA-21CER1WKZ",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "IN_STOCK",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/831034/1_831034.jpg?timestamp=2026-05-13_13-33-23",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/831034/2_831034.jpg?timestamp=2026-05-13_13-33-23",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/831034/3_831034.jpg?timestamp=2026-05-13_13-33-23",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/831034/4_831034.jpg?timestamp=2026-05-13_13-33-23",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/831034/5_831034.jpg?timestamp=2026-05-13_13-33-30",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/831034/6_831034.jpg?timestamp=2026-05-13_13-33-29",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/831034/7_831034.jpg?timestamp=2026-05-13_13-33-24",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/831034/8_831034.jpg?timestamp=2026-05-13_13-33-29",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            },
+            {
+              "value": "чёрный",
+              "product": {
+                "slug": "stiralnaya-mashina-panasonic-na-21cer1bkz-831021",
+                "article": "197140",
+                "name": {
+                  "default": "Panasonic NA-21CER1BKZ",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "IN_STOCK",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/831021/1_831021.jpg?timestamp=2026-05-13_13-04-03",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/831021/2_831021.jpg?timestamp=2026-05-13_13-04-03",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/831021/3_831021.jpg?timestamp=2026-05-13_13-04-09",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/831021/4_831021.jpg?timestamp=2026-05-13_13-04-03",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/831021/5_831021.jpg?timestamp=2026-05-13_13-04-03",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/831021/6_831021.jpg?timestamp=2026-05-13_13-04-10",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/831021/7_831021.jpg?timestamp=2026-05-13_13-04-10",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/831021/8_831021.jpg?timestamp=2026-05-13_13-04-02",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            }
+          ],
+          "__typename": "ProductV2ModificationGroup"
+        }
+      ],
+      "__typename": "ProductModifications"
+    },
+    "description": {
+      "hasDescription": true,
+      "type": "DEFAULT",
+      "__typename": "ProductDescription"
+    },
+    "collection": {
+      "id": "831034",
+      "products": {
+        "pagination": {
+          "total": 0,
+          "__typename": "Pagination"
+        },
+        "__typename": "ProductV2Pagination"
+      },
+      "__typename": "ProductCollection"
+    },
+    "similar": {
+      "pagination": {
+        "total": 20,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "related": {
+      "pagination": {
+        "total": 20,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "accessories": [
+      {
+        "products": {
+          "pagination": {
+            "total": 19,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      }
+    ],
+    "rating": {
+      "average": 0,
+      "canRate": false,
+      "total": {
+        "all": 0,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 0,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "reviews": {
+      "total": 0,
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "bestCredit": {
+      "monthPayment": 3750,
+      "type": "DEFERRED_PAYMENT",
+      "__typename": "ProductBestCredit"
+    },
+    "isSpare": false,
+    "isService": false,
+    "isVipService": false,
+    "isGiftBonusCard": false,
+    "canBuy": true,
+    "canPayOnline": true,
+    "canRequestPrice": false,
+    "canShowPrice": true,
+    "canSubscribe": false,
+    "needPrepaymentForDelivery": false,
+    "needPrepaymentForPreorder": false,
+    "isSberSpasiboPayAvailable": true,
+    "isYandexPayAllowed": false,
+    "yandexSplit": {
+      "payments": [
+        {
+          "amount": 0,
+          "date": "2026-08-17T08:59:37+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 7501,
+          "date": "2026-08-31T08:59:37+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 7499,
+          "date": "2026-09-14T08:59:37+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 7499,
+          "date": "2026-09-28T08:59:37+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 7499,
+          "date": "2026-10-12T08:59:37+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 7499,
+          "date": "2026-10-26T08:59:37+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 7499,
+          "date": "2026-11-09T08:59:37+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 7499,
+          "date": "2026-11-23T08:59:37+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 7499,
+          "date": "2026-12-07T08:59:37+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 7499,
+          "date": "2026-12-21T08:59:37+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 7499,
+          "date": "2027-01-04T08:59:37+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 7499,
+          "date": "2027-01-18T08:59:37+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 7499,
+          "date": "2027-02-01T08:59:37+0300",
+          "__typename": "YandexSplitPayment"
+        }
+      ],
+      "firstPayment": 0,
+      "restPayment": 89990,
+      "description": "https://yandex.ru/support/split/",
+      "maxAmount": 295000,
+      "__typename": "YandexSplit"
+    },
+    "seo": {
+      "description": "Стиральная машина Panasonic NA-21CER1WKZ: купить в интернет-магазине Технопарк с расширенной гарантией и бесплатной доставкой по РФ. Подробные характеристики товара с отзывами реальных покупателей.",
+      "text": "Вы можете купить стиральную машину Panasonic NA-21CER1WKZ с доставкой по Москве по низкой цене. В интернет-магазине Technopark.ru осуществляется продажа стиральной машины Panasonic NA-21CER1WKZ на выгодных условиях.",
+      "textHidden": "",
+      "title": "Стиральная машина Panasonic NA-21CER1WKZ - купить в Москве в интернет-магазине Технопарк",
+      "__typename": "SeoData"
+    },
+    "breadcrumbs": [
+      {
+        "name": "Главная",
+        "url": "/",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Крупная бытовая техника",
+        "url": "/krupnaya-bytovaya-tehnika/",
+        "options": [
+          {
+            "name": "Центр инноваций",
+            "url": "/tovary-iz-budushchego/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Смартфоны и гаджеты",
+            "url": "/smartfony-i-gadzhety/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Компьютеры и ноутбуки",
+            "url": "/kompyutery-i-noutbuki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Климатическая техника",
+            "url": "/klimaticheskaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Техника для кухни",
+            "url": "/dlya-kuhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Бытовая техника для дома",
+            "url": "/dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для красоты и здоровья",
+            "url": "/krasota-i-zdorovye/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Спортивные товары",
+            "url": "/trenazhery-dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Телевизоры Аудио Hi-Fi",
+            "url": "/audio-video-foto/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для сада, дома и ремонта",
+            "url": "/dlya-sada-doma-i-remonta/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посуда",
+            "url": "/posuda/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Детские товары",
+            "url": "/detskie-tovary/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для гейминга",
+            "url": "/gaming/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Плоттеры и услуги розницы",
+            "url": "//",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Запасные части",
+            "url": "/zapasnie-chasti/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Стиральные машины",
+        "url": "/stiralnye-mashiny/",
+        "options": [
+          {
+            "name": "Встраиваемые варочные панели",
+            "url": "/vstraivaemye-varochnye-poverhnosti/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные плиты",
+            "url": "/plity/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Холодильники",
+            "url": "/holodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые духовые шкафы",
+            "url": "/vstraivaemye-duhovye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вытяжки для кухни",
+            "url": "/vytyazhki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посудомоечные машины",
+            "url": "/posudomoechnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые холодильники",
+            "url": "/vstraivaemye-holodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые винные шкафы",
+            "url": "/vstraivaemye-vinnye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые вытяжки для кухни",
+            "url": "/vstraivaemye-vytyazhki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые кофемашины",
+            "url": "/vstraivaemye-kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые морозильные камеры",
+            "url": "/vstraivaemye-morozilnye-kamery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые пароварки",
+            "url": "/vstraivaemye-parovarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые посудомоечные машины",
+            "url": "/vstraivaemye-posudomoechnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые стиральные машины",
+            "url": "/vstraivaemye-stiralnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Сушильные машины для белья",
+            "url": "/sushilnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые микроволновые печи",
+            "url": "/vstraivaemye-mikrovolnovye-pechi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Морозильные камеры",
+            "url": "/morozilnye-kamery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Винные шкафы",
+            "url": "/vinnye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые шкафы для подогрева",
+            "url": "/shkafy-dlya-podogreva-posudy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Стиральные машины с функцией сушки (2 в 1)",
+            "url": "/stiralno-sushilnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые вакууматоры",
+            "url": "/vakuumatory/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Измельчители пищевых отходов",
+            "url": "/vstraivaemye-izmelchiteli-pischevyh-othodov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Автохолодильники",
+            "url": "/avtoholodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для крупной бытовой техники",
+            "url": "/aksessuary-krupnaya-bytovaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для холодильников",
+            "url": "/aksessuary-krupnaya-bytovaya-tehnika/filt_naznachenie-k_holodilnikam/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для автохолодильников",
+            "url": "/aksessuary-dlya-avtokholodilnikov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Хьюмидоры",
+            "url": "/khyumidory/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Стиральные машины Panasonic",
+        "url": "/stiralnye-mashiny/panasonic/",
+        "options": [
+          {
+            "name": "LG",
+            "url": "/stiralnye-mashiny/lg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Electrolux",
+            "url": "/stiralnye-mashiny/electrolux/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Haier",
+            "url": "/stiralnye-mashiny/haier/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Korting",
+            "url": "/stiralnye-mashiny/korting/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Samsung",
+            "url": "/stiralnye-mashiny/samsung/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Bosch",
+            "url": "/stiralnye-mashiny/bosch/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Indesit",
+            "url": "/stiralnye-mashiny/indesit/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Midea",
+            "url": "/stiralnye-mashiny/midea/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Maunfeld",
+            "url": "/stiralnye-mashiny/maunfeld/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Beko",
+            "url": "/stiralnye-mashiny/beko/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Candy",
+            "url": "/stiralnye-mashiny/candy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Asko",
+            "url": "/stiralnye-mashiny/asko/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "AEG",
+            "url": "/stiralnye-mashiny/aeg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Hotpoint",
+            "url": "/stiralnye-mashiny/hotpoint/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Gorenje",
+            "url": "/stiralnye-mashiny/gorenje/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Schulthess",
+            "url": "/stiralnye-mashiny/schulthess/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Kuppersberg",
+            "url": "/stiralnye-mashiny/kuppersberg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Toshiba",
+            "url": "/stiralnye-mashiny/toshiba/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "VARD",
+            "url": "/stiralnye-mashiny/vard/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Miele",
+            "url": "/stiralnye-mashiny/miele/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Hisense",
+            "url": "/stiralnye-mashiny/hisense/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Smeg",
+            "url": "/stiralnye-mashiny/smeg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Whirlpool",
+            "url": "/stiralnye-mashiny/whirlpool/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "V-ZUG",
+            "url": "/stiralnye-mashiny/v_zug/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Kuppersbusch",
+            "url": "/stiralnye-mashiny/kuppersbusch/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Roborock",
+            "url": "/stiralnye-mashiny/roborock/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Casarte",
+            "url": "/stiralnye-mashiny/casarte/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Siemens",
+            "url": "/stiralnye-mashiny/siemens/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "TCL",
+            "url": "/stiralnye-mashiny/tcl/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Brandt",
+            "url": "/stiralnye-mashiny/brandt/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Viomi",
+            "url": "/stiralnye-mashiny/viomi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Hyundai",
+            "url": "/stiralnye-mashiny/hyundai/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Dreame",
+            "url": "/stiralnye-mashiny/dreame/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Panasonic NA-21CER1WKZ",
+        "url": "stiralnaya-mashina-panasonic-na-21cer1wkz-831034",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      }
+    ],
+    "isArchive": false,
+    "__typename": "ProductV2",
+    "isSberPayOneClickAllowed": false,
+    "isTinkoffPayOneClickAllowed": false,
+    "bonus": null
+  },
+  "details": {
+    "description": "<style> *{box-sizing:border-box;outline:0}body{font-family:'DINPro Technopark',Arial;font-size:14px;font-weight:400;font-display:swap;margin:0;overflow-x:hidden;position:relative;min-height:95vh;-webkit-tap-highlight-color:transparent}body.lock-scroll{overflow:hidden;position:fixed;right:0;left:0;bottom:0}@media (min-width:1192px){body.lock-scroll{position:relative}}@media screen and (max-device-width:480px){body{-webkit-text-size-adjust:none}}.label-for-seo{width:100%}.label-for-seo__span{display:none}a{color:#0093c4;text-decoration:none}.is-visible{display:block!important}.is-hidden{display:none!important}.is-visually-hidden{opacity:0!important;visibility:hidden!important;pointer-events:none!important}.is-link{color:#0093c4}.no-wrap{white-space:nowrap}.container{margin:auto;width:100%}@media (min-width:960px){.container{width:calc(100% - 48px)}}@media (min-width:1482px){.container{max-width:1397px}}.is-overflow-hidden{overflow:hidden}.is-mobile-not{display:none!important}@media (min-width:960px){.is-mobile-not{display:block!important}}@media (min-width:960px){.is-mobile-only{display:none!important}}@media (max-width:959px){.hide-phone{display:none}}@media (min-width:960px) and (max-width:1481px){.hide-tablet{display:none}}.is-hidden{display:none!important}.nowrap-text{white-space:nowrap}.textcenter{text-align:center}ul.list{margin:0;padding:6px 0 18px}@media (min-width:960px){ul.list{padding:6px 0 24px}}ul.list li{font-family:'DINPro Technopark',Arial;font-size:15px;font-weight:400;font-display:swap;color:#fff;line-height:20px;list-style:none;margin:0;padding-left:9px;position:relative}@media (min-width:960px){ul.list li{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:400;font-display:swap;line-height:21px;padding-left:26px}}ul.list>li:before{background-color:#fff;border-radius:50%;content:\"\";display:block;height:3px;left:0;position:absolute;top:10px;width:3px}@media (min-width:960px){ul.list>li:before{border-radius:0;height:1px;width:13px}}ul.list>li>ul{padding:6px 0 6px 15px}@media (min-width:960px){ul.list>li>ul{padding:3px 0 3px 4px}}ul.list>li>ul>li:before{background-color:rgba(255,255,255,.5)}ul.list>li>ul>li>ul{padding:6px 0 0 15px}@media (min-width:960px){ul.list>li>ul>li>ul{padding:3px 0 0 4px}}ul.list>li>ul>li>ul>li:before{background-color:rgba(255,255,255,.2)}ol.list{margin:0;padding:6px 0 18px;counter-reset:list1}@media (min-width:960px){ol.list{padding:6px 0 24px}}ol.list li{font-family:'DINPro Technopark',Arial;font-size:15px;font-weight:400;font-display:swap;color:#fff;line-height:20px;list-style:none;margin:0;padding-left:9px;position:relative}@media (min-width:960px){ol.list li{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:400;font-display:swap;line-height:21px;padding-left:26px}}ol.list>li{padding-left:24px}ol.list>li:before{counter-increment:list1;content:counter(list1) \". \";left:0;position:absolute}ol.list>li>ol{counter-reset:list2;padding:6px 0}@media (min-width:960px){ol.list>li>ol{padding:3px 0}}ol.list>li>ol>li{padding-left:42px}ol.list>li>ol>li:before{counter-increment:list2;content:counter(list1) \".\" counter(list2) \". \"}ol.list>li>ol>li>ol{counter-reset:list3}ol.list>li>ol>li>ol>li:before{counter-increment:list3;content:counter(list1) \".\" counter(list2) \".\" counter(list3) \". \"}ol.list--compact{padding:0}.list--line-interval li:not(:last-child){margin-bottom:1em}input::-ms-clear{display:none}input::-webkit-clear-button{display:none}@media (max-width:767px){.footer{padding-bottom:66px}}.page-container{margin:auto;padding:0 18px;width:100%}@media (min-width:960px){.page-container{padding:0 24px;width:100%}}@media (min-width:1482px){.page-container{width:1481px}}@media (min-width:960px){.page-container--extra-padding{padding:0 42px}}.default-container{width:100%;max-width:1481px;margin:auto;padding:0 12px}@media (min-width:960px){.default-container{padding:0 24px}}button,input,select,textarea{font-family:inherit;font-size:100%;margin:0}textarea{resize:none;overflow:auto}form{margin:0}button{color:inherit}dd,dl,dt{margin:0;padding:0}input[type=search]{-webkit-appearance:none}input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration,input[type=search]::-webkit-search-results-button,input[type=search]::-webkit-search-results-decoration{display:none}input:invalid{box-shadow:none}textarea:invalid{box-shadow:none}svg *{pointer-events:none}.product__desc{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:300;font-display:swap;color:#878787;display:none}.product__desc b{font-family:'DINPro Technopark',Arial;font-size:20px;font-weight:400;font-display:swap;color:#fff}.dyson-v10-picking,.dyson-v10-properties,.dyson-v10-wrapper,.dyson-v10-wrapper .dyson-v10__list span{color:#fff;padding:0 12px}@media (max-width:1154px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:170px}}@media (max-width:1100px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:270px}}@media (max-width:960px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:27px}}.dyson-v10-first-row li.dyson-v10-item{max-width:calc(100% / 3 - 10);padding-right:5px}@media (max-width:959px){.dyson-v10-first-row{flex-direction:column;align-items:flex-start}.dyson-v10-first-row li.dyson-v10-item{max-width:none}}@media (min-width:960px) and (max-width:1303px){.dyson-v10-first-row{flex-direction:column;align-items:flex-start}.dyson-v10-first-row li.dyson-v10-item{max-width:none}}.dyson-v10-chapter{text-align:center!important}.dyson-v10__list li.dyson-v10__list-item{background-size:contain;background-position:left} </style> <p>Стиральная машина Panasonic NA-21CER1WKZ имеет лаконичный дизайн и интуитивно понятное управление. Умная система стирки анализирует тип ткани и уровень загрязнения, автоматически подбирая оптимальные параметры, чтобы обеспечить бережный и эффективный уход. Инверторный двигатель обеспечивает мощный, тихий и стабильный цикл стирки, а увеличенный барабан с продуманной геометрией заботится о вещах, снижая износ ткани. Продвинутая панель управления делает использование интуитивным: каждый режим доступен в один-два касания. Технология Blue Ag+ помогает уничтожать бактерии в холодной воде, сохраняя свежесть и чистоту без лишних затрат энергии.</p>  <h2>Особенности</h2>  <ul class=\"list\">  <li><b>Инверторный двигатель</b><br/>  Тихая работа стиральной машины обеспечивается комплексом технических решений: инверторное управление мощностью и 3D-датчик контролируют вибрации и регулируют скорость вращения барабана для равномерного распределения белья и стабильного отжима с низким уровнем шума. Конструкция с двумя пружинами и четырьмя амортизаторами поддерживает барабан и поглощает удары во время отжима, а усиленная панель (толщиной 0.7 мм с 15 рёбрами жёсткости) повышает прочность корпуса и дополнительно снижает вибрацию</li>  <li><b>Широкий выбор программ</b><br/>  Модель оснащена широким набором программ: гипоаллергенная, удаление пятен, рубашки, детское бельё, деликатная, хлопок, смешанные ткани, быстро 25 мин, отжим, Econavi, спортивная, а также программой самоочистки. Высокая энергоэффективность, оптимизация расхода воды и интеллектуальная система контроля делают эту машину надёжным помощником на каждый день</li>  <li><b>Программа гипоаллергенной стирки</b><br/>  Программа гипоаллергенной стирки с температурными настройками 60 и 95 °C эффективно борется с микроорганизмами — при температуре 90-95 °C уничтожается до 99.99 % бактерий, а стирка при 60 °C позволяет удалить до 99 % аллергенов</li>  <li><b>Технология Blue Ag+</b><br/>  УФ-излучение и ионы серебра (Ag+) в сочетании усиливают эффект друг друга и уничтожают бактерии, обеспечивая глубокую гигиеническую очистку в холодной воде, при этом нанося меньше вреда ткани по сравнению со стиркой при температуре 90-95 °C</li>  <li><b>Система ActiveFoam</b><br/>  Удаление пятен осуществляется с помощью мелкодисперсной пены, которая создаётся за счёт специальной технологии насыщения воды воздухом и моющим средством. Плотная и мелкая пена быстро и глубоко проникает в волокна ткани, обволакивает и «поднимает» загрязнения, тщательно удаляя пятна, а также полностью растворяет моющее средство — что особенно важно для людей с чувствительной кожей</li>  <li><b>Автоматическая очистка барабана</b><br/>  Функция автоматической очистки барабана Auto Tub Clean активируется во время каждого цикла полоскания (только для программы «Смешанные ткани») и обеспечивает автоматическую очистку барабана после стирки — это поддерживает гигиену самой машины и чистоту белья, удаляет остатки моющего средства, ворс и грязь, а также предотвращает появление неприятного запаха и плесени</li>  </ul>",
+    "descriptionType": "DEFAULT",
+    "descriptionBarcode": "8887549906220",
+    "descriptionBrand": "Panasonic",
+    "specifications": {
+      "short": [
+        {
+          "name": "Установка",
+          "value": "отдельностоящая",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Максимальная загрузка белья",
+          "value": "10.5 кг",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Максимальная скорость отжима",
+          "value": "до 1200 об/мин",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Количество программ",
+          "value": "12",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Глубина",
+          "value": "57.5 см",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "barcode": "8887549906220",
+      "country": "Китай",
+      "full": [
+        {
+          "name": "Основные характеристики",
+          "list": [
+            {
+              "name": "Установка",
+              "value": "отдельностоящая",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Конструкция стиральной машины",
+              "value": "полноразмерная",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество барабанов",
+              "value": "1",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип двигателя",
+              "value": "инверторный",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Основной барабан",
+          "list": [
+            {
+              "name": "Тип загрузки",
+              "value": "фронтальная",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Поверхность барабана",
+              "value": "рельефная",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная загрузка белья",
+              "value": "10.5 кг",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная скорость отжима",
+              "value": "до 1200 об/мин",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Класс стирки",
+              "value": "A",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Класс отжима",
+              "value": "B",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Управление",
+          "list": [
+            {
+              "name": "Тип управления",
+              "value": "электронное",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Переключатели",
+              "value": "сенсорные",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Размещение панели управления",
+              "value": "вертикальное",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество программ",
+              "value": "12",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Программы",
+              "value": "гипоаллергенная, удаление пятен, рубашки, детское бельё, деликатная, хлопок, смешанные ткани, быстро 25 мин, отжим, Econavi, спортивная",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Программа очистки барабана",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дополнительные программы",
+              "value": "функция уничтожения бактерий при стирке в холодной воде Blue Ag+, функция удаления пятен с помощью мелкодисперсной пены ActiveFoam",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Температурные режимы",
+          "list": [
+            {
+              "name": "Регулировка температуры стирки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество температурных режимов",
+              "value": "5",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Минимальная температура воды",
+              "value": "30 °С",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная температура воды",
+              "value": "95 °С",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Дисплей",
+          "list": [
+            {
+              "name": "Цифровой дисплей",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип дисплея",
+              "value": "LED",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Таймер",
+          "list": [
+            {
+              "name": "Таймер отсрочки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальное время отсрочки стирки",
+              "value": "24 ч",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Индикация",
+          "list": [
+            {
+              "name": "Звуковой сигнал окончания стирки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация окончания стирки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация времени до конца программы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация температуры",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация скорости отжима",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация блокировки дверцы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация ошибок",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация включения/паузы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация выбора дополнительных функций",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация цикла стирки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация времени отложенного старта",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет индикации",
+              "value": "белый",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Расход воды",
+          "list": [
+            {
+              "name": "Годовое потребление воды",
+              "value": "10120 л",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автоматическая регулировка уровня воды",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Отжим",
+          "list": [
+            {
+              "name": "Регулировка скорости отжима",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автоматический контроль загрузки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Технологии",
+          "list": [
+            {
+              "name": "Функция дозагрузки белья",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Защита и безопасность",
+          "list": [
+            {
+              "name": "Защита от детей",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Защита от протечек",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Система защиты от протечек",
+              "value": "частичная",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Блокировка люка во время работы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Контроль пенообразования",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Энергопотребление",
+          "list": [
+            {
+              "name": "Класс энергопотребления",
+              "value": "A+++",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Энергопотребление за год",
+              "value": "180 кВт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Режим энергосбережения",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Напряжение",
+              "value": "220-240 В",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Особенности конструкции",
+          "list": [
+            {
+              "name": "Направление открывания люка",
+              "value": "влево",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Диаметр загрузочного люка",
+              "value": "31 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Регулируемые ножки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Дополнительные функции",
+          "list": [
+            {
+              "name": "Самодиагностика",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автобаланс",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автовзвешивание белья",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дополнительная информация",
+              "value": "автоматическая очистка барабана после каждой стирки (только для программы «Смешанные ткани»)",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Серия",
+              "value": "E",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Цвет и материал",
+          "list": [
+            {
+              "name": "Цвет",
+              "value": "белый",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет дверцы люка",
+              "value": "чёрный",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал дверцы люка",
+              "value": "стекло",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал корпуса",
+              "value": "металл",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал барабана",
+              "value": "нержавеющая сталь",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал бака",
+              "value": "пластик",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Комплектация",
+          "list": [
+            {
+              "name": "Шланг подачи воды",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Сливной шланг",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Держатель шланга",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Сетевой кабель",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Гаечный ключ",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Заглушка",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Инструкция",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Размеры и вес",
+          "list": [
+            {
+              "name": "Высота",
+              "value": "84.5 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ширина",
+              "value": "59.6 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Глубина",
+              "value": "57.5 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вес",
+              "value": "65 кг",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        }
+      ],
+      "grossWeight": "71",
+      "netWeight": "65",
+      "height": "0.98",
+      "instructionUrl": "https://storage.yandexcloud.net/technopark.instructions/831034/instruction/instrukciya-stiralnaya-mashina-panasonic-na-21cer1wkz-831034.pdf",
+      "length": "0.74",
+      "schemeUrl": null,
+      "warranty": "24",
+      "width": "0.71",
+      "__typename": "ProductV2Specifications"
+    },
+    "certificates": [
+      "https://www.technopark.ru/bipublic/Cert/IG0G15BFQKP0UN.pdf",
+      "https://www.technopark.ru/bipublic/Cert/IG0G15BFQPRDB5.pdf"
+    ],
+    "isManufacturerCountry": false,
+    "isSellerWarranty": false,
+    "reviews": {
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "total": 0,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "rating": {
+      "average": 0,
+      "canRate": false,
+      "total": {
+        "all": 0,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 0,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "isLoading": false
+  },
+  "shots": [
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/831034/1_831034.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/831034/1_831034.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/831034/1_831034.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/831034/2_831034.jpg?timestamp=2026-05-13_13-33-30",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/831034/2_831034.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/831034/2_831034.jpg?timestamp=2026-05-13_13-33-21"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/831034/3_831034.jpg?timestamp=2026-05-13_13-33-31",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/831034/3_831034.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/831034/3_831034.jpg?timestamp=2026-05-13_13-33-22"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/831034/4_831034.jpg?timestamp=2026-05-13_13-33-34",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/831034/4_831034.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/831034/4_831034.jpg?timestamp=2026-05-13_13-33-21"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/831034/5_831034.jpg?timestamp=2026-05-13_13-33-32",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/831034/5_831034.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/831034/5_831034.jpg?timestamp=2026-05-13_13-33-28"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/831034/6_831034.jpg?timestamp=2026-05-13_13-33-32",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/831034/6_831034.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/831034/6_831034.jpg?timestamp=2026-05-13_13-33-28"
+    ]
+  ],
+  "photos": [
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/stiralnaya-mashina-panasonic-na-21cer1wkz-831034-1.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/stiralnaya-mashina-panasonic-na-21cer1wkz-831034-2.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/stiralnaya-mashina-panasonic-na-21cer1wkz-831034-3.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/stiralnaya-mashina-panasonic-na-21cer1wkz-831034-4.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/stiralnaya-mashina-panasonic-na-21cer1wkz-831034-5.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/stiralnaya-mashina-panasonic-na-21cer1wkz-831034-6.jpg"
+  ]
+}

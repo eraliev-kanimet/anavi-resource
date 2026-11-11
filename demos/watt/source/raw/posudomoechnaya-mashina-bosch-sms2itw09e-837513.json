@@ -1,0 +1,1565 @@
+{
+  "shelf": "posudomoechnye-mashiny",
+  "slug": "posudomoechnaya-mashina-bosch-sms2itw09e-837513",
+  "product": {
+    "id": "837513",
+    "article": "199065",
+    "slug": "posudomoechnaya-mashina-bosch-sms2itw09e-837513",
+    "hasSmartInstallments": false,
+    "isActive": true,
+    "name": {
+      "default": "Bosch SMS2ITW09E",
+      "full": "Посудомоечная машина Bosch SMS2ITW09E",
+      "pseudo": null,
+      "spare": null,
+      "fullWithoutSection": "Bosch SMS2ITW09E",
+      "section": "Посудомоечная машина",
+      "__typename": "ProductName"
+    },
+    "price": {
+      "default": 48990,
+      "marketing": null,
+      "old": null,
+      "__typename": "ProductPrice"
+    },
+    "benefit": null,
+    "specifications": {
+      "short": [
+        {
+          "name": "Вид сушки",
+          "value": "конденсационный",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Загрузка",
+          "value": "13 комплектов",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Количество программ",
+          "value": "6",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Высота",
+          "value": "84.5 см",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Ширина",
+          "value": "60 см",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "__typename": "ProductV2Specifications"
+    },
+    "labels": [
+      {
+        "name": "Бонусы Спасибо",
+        "type": "sberspasibo",
+        "items": [
+          {
+            "description": "",
+            "name": "Этот товар можно оплатить бонусами Спасибо от СберБанка",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Новинка",
+        "type": "new",
+        "items": null,
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Рассрочка",
+        "type": "deferred_payment",
+        "items": [
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-6",
+            "url": "/posudomoechnaya-mashina-bosch-sms2itw09e-837513/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-12",
+            "url": "/posudomoechnaya-mashina-bosch-sms2itw09e-837513/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-18",
+            "url": "/posudomoechnaya-mashina-bosch-sms2itw09e-837513/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-24",
+            "url": "/posudomoechnaya-mashina-bosch-sms2itw09e-837513/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      }
+    ],
+    "labelsV2": [
+      {
+        "id": "2",
+        "name": "Новинка",
+        "code": "novinka",
+        "mainColor": "#02b513",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#02b513",
+        "altTextColor": "#ffffff",
+        "borderAndTextColor": "#02b513",
+        "items": [
+          {
+            "id": "130981",
+            "text": "Новинка",
+            "__typename": "ProductLabelTextItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      },
+      {
+        "id": "14",
+        "name": "-15% на технику",
+        "code": "15-na-tekhniku",
+        "mainColor": "#F54B4B",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#FFFFFF",
+        "altTextColor": "#F54B4B",
+        "borderAndTextColor": "#F54B4B",
+        "items": [
+          {
+            "id": "155971",
+            "text": "Выгода при покупке крупной бытовой техники",
+            "buttonText": "Подробнее",
+            "url": "/action/vygoda-pri-pokupke-krupnoy-bytovoy-tekhniki/",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      },
+      {
+        "id": "8",
+        "name": "Бонусы Спасибо",
+        "code": "sberspasibo",
+        "mainColor": "#0C9C0C",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#0C9C0C",
+        "altTextColor": "#FFFFFF",
+        "borderAndTextColor": "#0C9C0C",
+        "items": [
+          {
+            "id": "34105",
+            "text": "Этот товар можно оплатить бонусами Спасибо от СберБанка ",
+            "buttonText": "Подробнее",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      }
+    ],
+    "status": {
+      "id": "IN_STOCK",
+      "name": "В наличии",
+      "type": "POSITIVE",
+      "__typename": "ProductStatus"
+    },
+    "brand": {
+      "code": "bosch",
+      "id": "40338",
+      "name": "Bosch",
+      "src": "https://cdn1.technopark.ru/technopark/photos_resized/section_brand_300_100/300_100/40338/1_40338.png",
+      "slug": "bosch",
+      "sections": [
+        {
+          "name": "Стиральные машины Bosch",
+          "url": "/stiralnye-mashiny/bosch/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/818133827/technopark/photos_resized/product/120_120/796650/1_796650.jpg?timestamp=2025-07-17_09-58-59",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1887205292/technopark/photos_resized/product/120_120/796650/2_796650.jpg?timestamp=2025-07-17_09-58-47",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/161533704/technopark/photos_resized/product/120_120/796650/3_796650.jpg?timestamp=2025-07-17_09-58-46",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/399915600/technopark/photos_resized/product/120_120/796650/4_796650.jpg?timestamp=2025-07-17_09-58-48",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/125519674/technopark/photos_resized/product/120_120/796650/5_796650.jpg?timestamp=2025-07-17_09-58-47",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2427035314/technopark/photos_resized/product/120_120/796650/6_796650.jpg?timestamp=2025-07-17_09-58-46",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2692523730/technopark/photos_resized/product/120_120/796650/7_796650.jpg?timestamp=2025-07-17_09-58-59",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Варочные поверхности Bosch",
+          "url": "/vstraivaemye-varochnye-poverhnosti/bosch/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2368266455/technopark/photos_resized/product/120_120/97662/1_97662.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3094562380/technopark/photos_resized/product/120_120/97662/2_97662.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1375165268/technopark/photos_resized/product/120_120/97662/3_97662.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Холодильники Bosch",
+          "url": "/holodilniki/bosch/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1238564310/technopark/photos_resized/product/120_120/118520/1_118520.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/368615043/technopark/photos_resized/product/120_120/118520/2_118520.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4238031798/technopark/photos_resized/product/120_120/118520/3_118520.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/968362329/technopark/photos_resized/product/120_120/118520/4_118520.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/193883099/technopark/photos_resized/product/120_120/118520/5_118520.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2342259488/technopark/photos_resized/product/120_120/118520/6_118520.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Духовые шкафы Bosch",
+          "url": "/vstraivaemye-duhovye-shkafy/bosch/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1415689835/technopark/photos_resized/product/120_120/679633/1_679633.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/604717796/technopark/photos_resized/product/120_120/679633/2_679633.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Кофемашины встраиваемые Bosch",
+          "url": "/vstraivaemye-kofemashiny/bosch/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2014264992/technopark/photos_resized/product/120_120/75494/1_75494.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3543141784/technopark/photos_resized/product/120_120/75494/2_75494.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3666231731/technopark/photos_resized/product/120_120/75494/3_75494.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2747089210/technopark/photos_resized/product/120_120/75494/4_75494.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/855792811/technopark/photos_resized/product/120_120/75494/5_75494.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4035416478/technopark/photos_resized/product/120_120/75494/6_75494.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Посудомоечные машины встраиваемые Bosch",
+          "url": "/vstraivaemye-posudomoechnye-mashiny/bosch/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2122452589/technopark/photos_resized/product/120_120/761471/1_761471.jpg?timestamp=2024-10-01_16-20-39",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Сушильные машины Bosch",
+          "url": "/sushilnye-mashiny/bosch/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2759395241/technopark/photos_resized/product/120_120/683017/1_683017.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/731150537/technopark/photos_resized/product/120_120/683017/2_683017.jpg?timestamp=2024-05-16_13-48-17",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3689737405/technopark/photos_resized/product/120_120/683017/3_683017.jpg?timestamp=2024-05-16_13-48-18",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3425457614/technopark/photos_resized/product/120_120/683017/4_683017.jpg?timestamp=2024-05-16_13-48-18",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Микроволновые печи встраиваемые Bosch",
+          "url": "/vstraivaemye-mikrovolnovye-pechi/bosch/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/4036866861/technopark/photos_resized/product/120_120/619316/1_619316.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/513004033/technopark/photos_resized/product/120_120/619316/2_619316.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1861822094/technopark/photos_resized/product/120_120/619316/3_619316.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2163689378/technopark/photos_resized/product/120_120/619316/4_619316.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Все аксессуары Bosch",
+          "url": "/aksessuary-krupnaya-bytovaya-tehnika/bosch/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2295300926/technopark/photos_resized/product/120_120/770452/1_770452.jpg?timestamp=2024-12-05_17-51-10",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        }
+      ],
+      "__typename": "Brand"
+    },
+    "section": {
+      "slug": "posudomoechnye-mashiny",
+      "id": "920",
+      "name": "Посудомоечные машины",
+      "parents": [
+        {
+          "id": "877",
+          "name": "Крупная бытовая",
+          "depth": 1,
+          "__typename": "SectionTreeItem"
+        },
+        {
+          "id": "920",
+          "name": "Посудомоечные машины",
+          "depth": 2,
+          "__typename": "SectionTreeItem"
+        }
+      ],
+      "__typename": "Section"
+    },
+    "media": {
+      "gallery": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/837513/1_837513.jpg?timestamp=2026-07-17_09-33-01",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/837513/1_837513.jpg?timestamp=2026-07-17_09-33-13",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/837513/2_837513.jpg?timestamp=2026-07-17_09-33-01",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/837513/2_837513.jpg?timestamp=2026-07-17_09-33-11",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/837513/3_837513.jpg?timestamp=2026-07-17_09-33-07",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/837513/3_837513.jpg?timestamp=2026-07-17_09-33-08",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/837513/4_837513.jpg?timestamp=2026-07-17_09-33-08",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/837513/4_837513.jpg?timestamp=2026-07-17_09-33-09",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/837513/5_837513.jpg?timestamp=2026-07-17_09-33-01",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/837513/5_837513.jpg?timestamp=2026-07-17_09-33-11",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/837513/6_837513.jpg?timestamp=2026-07-17_09-33-07",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/837513/6_837513.jpg?timestamp=2026-07-17_09-33-08",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/837513/7_837513.jpg?timestamp=2026-07-17_09-33-01",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/837513/7_837513.jpg?timestamp=2026-07-17_09-33-10",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/837513/8_837513.jpg?timestamp=2026-07-17_09-33-01",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/837513/8_837513.jpg?timestamp=2026-07-17_09-33-12",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "interior": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior/1000_1000/837513/1_837513.jpg?timestamp=2026-07-17_09-31-56",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior/1000_1000/837513/2_837513.jpg?timestamp=2026-07-17_09-31-56",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "video": [],
+      "vkVideo": null,
+      "view3d": [],
+      "listing": {
+        "default": [
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/837513/1_837513.jpg?timestamp=2026-07-17_09-33-03",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/837513/2_837513.jpg?timestamp=2026-07-17_09-33-03",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/837513/3_837513.jpg?timestamp=2026-07-17_09-33-09",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/837513/4_837513.jpg?timestamp=2026-07-17_09-33-09",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/837513/5_837513.jpg?timestamp=2026-07-17_09-33-03",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/837513/6_837513.jpg?timestamp=2026-07-17_09-33-09",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/837513/7_837513.jpg?timestamp=2026-07-17_09-33-03",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/837513/8_837513.jpg?timestamp=2026-07-17_09-33-03",
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "ProductListing"
+      },
+      "__typename": "ProductV2Media"
+    },
+    "modifications": {
+      "bigBrother": null,
+      "groups": [],
+      "__typename": "ProductModifications"
+    },
+    "description": {
+      "hasDescription": true,
+      "type": "DEFAULT",
+      "__typename": "ProductDescription"
+    },
+    "collection": {
+      "id": "837513",
+      "products": {
+        "pagination": {
+          "total": 0,
+          "__typename": "Pagination"
+        },
+        "__typename": "ProductV2Pagination"
+      },
+      "__typename": "ProductCollection"
+    },
+    "similar": {
+      "pagination": {
+        "total": 20,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "related": {
+      "pagination": {
+        "total": 19,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "accessories": [
+      {
+        "products": {
+          "pagination": {
+            "total": 16,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      }
+    ],
+    "rating": {
+      "average": 0,
+      "canRate": false,
+      "total": {
+        "all": 0,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 0,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "reviews": {
+      "total": 0,
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "bestCredit": {
+      "monthPayment": 2042,
+      "type": "DEFERRED_PAYMENT",
+      "__typename": "ProductBestCredit"
+    },
+    "isSpare": false,
+    "isService": false,
+    "isVipService": false,
+    "isGiftBonusCard": false,
+    "canBuy": true,
+    "canPayOnline": false,
+    "canRequestPrice": false,
+    "canShowPrice": true,
+    "canSubscribe": false,
+    "needPrepaymentForDelivery": false,
+    "needPrepaymentForPreorder": false,
+    "isSberSpasiboPayAvailable": true,
+    "isYandexPayAllowed": false,
+    "yandexSplit": {
+      "payments": [
+        {
+          "amount": 0,
+          "date": "2026-08-17T09:00:17+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4088,
+          "date": "2026-08-31T09:00:17+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4082,
+          "date": "2026-09-14T09:00:17+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4082,
+          "date": "2026-09-28T09:00:17+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4082,
+          "date": "2026-10-12T09:00:17+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4082,
+          "date": "2026-10-26T09:00:17+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4082,
+          "date": "2026-11-09T09:00:17+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4082,
+          "date": "2026-11-23T09:00:17+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4082,
+          "date": "2026-12-07T09:00:17+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4082,
+          "date": "2026-12-21T09:00:17+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4082,
+          "date": "2027-01-04T09:00:17+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4082,
+          "date": "2027-01-18T09:00:17+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4082,
+          "date": "2027-02-01T09:00:17+0300",
+          "__typename": "YandexSplitPayment"
+        }
+      ],
+      "firstPayment": 0,
+      "restPayment": 48990,
+      "description": "https://yandex.ru/support/split/",
+      "maxAmount": 295000,
+      "__typename": "YandexSplit"
+    },
+    "seo": {
+      "description": "Посудомоечная машина Bosch SMS2ITW09E: купить в интернет-магазине Технопарк с расширенной гарантией и бесплатной доставкой по РФ. Подробные характеристики товара с отзывами реальных покупателей.",
+      "text": "Вы можете купить посудомоечную машину Bosch SMS2ITW09E с доставкой по Москве по низкой цене. В интернет-магазине Technopark.ru осуществляется продажа посудомоечной машины Bosch SMS2ITW09E на выгодных условиях.",
+      "textHidden": "",
+      "title": "Посудомоечная машина Bosch SMS2ITW09E - купить в Москве в интернет-магазине Технопарк",
+      "__typename": "SeoData"
+    },
+    "breadcrumbs": [
+      {
+        "name": "Главная",
+        "url": "/",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Крупная бытовая техника",
+        "url": "/krupnaya-bytovaya-tehnika/",
+        "options": [
+          {
+            "name": "Центр инноваций",
+            "url": "/tovary-iz-budushchego/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Смартфоны и гаджеты",
+            "url": "/smartfony-i-gadzhety/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Компьютеры и ноутбуки",
+            "url": "/kompyutery-i-noutbuki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Климатическая техника",
+            "url": "/klimaticheskaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Техника для кухни",
+            "url": "/dlya-kuhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Бытовая техника для дома",
+            "url": "/dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для красоты и здоровья",
+            "url": "/krasota-i-zdorovye/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Спортивные товары",
+            "url": "/trenazhery-dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Телевизоры Аудио Hi-Fi",
+            "url": "/audio-video-foto/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для сада, дома и ремонта",
+            "url": "/dlya-sada-doma-i-remonta/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посуда",
+            "url": "/posuda/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Детские товары",
+            "url": "/detskie-tovary/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для гейминга",
+            "url": "/gaming/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Плоттеры и услуги розницы",
+            "url": "//",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Запасные части",
+            "url": "/zapasnie-chasti/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Посудомоечные машины",
+        "url": "/posudomoechnye-mashiny/",
+        "options": [
+          {
+            "name": "Стиральные машины",
+            "url": "/stiralnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые варочные панели",
+            "url": "/vstraivaemye-varochnye-poverhnosti/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные плиты",
+            "url": "/plity/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Холодильники",
+            "url": "/holodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые духовые шкафы",
+            "url": "/vstraivaemye-duhovye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вытяжки для кухни",
+            "url": "/vytyazhki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые холодильники",
+            "url": "/vstraivaemye-holodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые винные шкафы",
+            "url": "/vstraivaemye-vinnye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые вытяжки для кухни",
+            "url": "/vstraivaemye-vytyazhki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые кофемашины",
+            "url": "/vstraivaemye-kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые морозильные камеры",
+            "url": "/vstraivaemye-morozilnye-kamery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые пароварки",
+            "url": "/vstraivaemye-parovarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые посудомоечные машины",
+            "url": "/vstraivaemye-posudomoechnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые стиральные машины",
+            "url": "/vstraivaemye-stiralnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Сушильные машины для белья",
+            "url": "/sushilnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые микроволновые печи",
+            "url": "/vstraivaemye-mikrovolnovye-pechi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Морозильные камеры",
+            "url": "/morozilnye-kamery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Винные шкафы",
+            "url": "/vinnye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые шкафы для подогрева",
+            "url": "/shkafy-dlya-podogreva-posudy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Стиральные машины с функцией сушки (2 в 1)",
+            "url": "/stiralno-sushilnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые вакууматоры",
+            "url": "/vakuumatory/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Измельчители пищевых отходов",
+            "url": "/vstraivaemye-izmelchiteli-pischevyh-othodov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Автохолодильники",
+            "url": "/avtoholodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для крупной бытовой техники",
+            "url": "/aksessuary-krupnaya-bytovaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для холодильников",
+            "url": "/aksessuary-krupnaya-bytovaya-tehnika/filt_naznachenie-k_holodilnikam/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для автохолодильников",
+            "url": "/aksessuary-dlya-avtokholodilnikov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Хьюмидоры",
+            "url": "/khyumidory/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Посудомоечные машины Bosch",
+        "url": "/posudomoechnye-mashiny/bosch/",
+        "options": [
+          {
+            "name": "Korting",
+            "url": "/posudomoechnye-mashiny/korting/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Midea",
+            "url": "/posudomoechnye-mashiny/midea/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Maunfeld",
+            "url": "/posudomoechnye-mashiny/maunfeld/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Beko",
+            "url": "/posudomoechnye-mashiny/beko/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Electrolux",
+            "url": "/posudomoechnye-mashiny/electrolux/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Toshiba",
+            "url": "/posudomoechnye-mashiny/toshiba/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Hotpoint",
+            "url": "/posudomoechnye-mashiny/hotpoint/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Asko",
+            "url": "/posudomoechnye-mashiny/asko/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Bosch SMS2ITW09E",
+        "url": "posudomoechnaya-mashina-bosch-sms2itw09e-837513",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      }
+    ],
+    "isArchive": false,
+    "__typename": "ProductV2",
+    "isSberPayOneClickAllowed": false,
+    "isTinkoffPayOneClickAllowed": false,
+    "bonus": null
+  },
+  "details": {
+    "description": "<style> *{box-sizing:border-box;outline:0}body{font-family:'DINPro Technopark',Arial;font-size:14px;font-weight:400;font-display:swap;margin:0;overflow-x:hidden;position:relative;min-height:95vh;-webkit-tap-highlight-color:transparent}body.lock-scroll{overflow:hidden;position:fixed;right:0;left:0;bottom:0}@media (min-width:1192px){body.lock-scroll{position:relative}}@media screen and (max-device-width:480px){body{-webkit-text-size-adjust:none}}.label-for-seo{width:100%}.label-for-seo__span{display:none}a{color:#0093c4;text-decoration:none}.is-visible{display:block!important}.is-hidden{display:none!important}.is-visually-hidden{opacity:0!important;visibility:hidden!important;pointer-events:none!important}.is-link{color:#0093c4}.no-wrap{white-space:nowrap}.container{margin:auto;width:100%}@media (min-width:960px){.container{width:calc(100% - 48px)}}@media (min-width:1482px){.container{max-width:1397px}}.is-overflow-hidden{overflow:hidden}.is-mobile-not{display:none!important}@media (min-width:960px){.is-mobile-not{display:block!important}}@media (min-width:960px){.is-mobile-only{display:none!important}}@media (max-width:959px){.hide-phone{display:none}}@media (min-width:960px) and (max-width:1481px){.hide-tablet{display:none}}.is-hidden{display:none!important}.nowrap-text{white-space:nowrap}.textcenter{text-align:center}ul.list{margin:0;padding:6px 0 18px}@media (min-width:960px){ul.list{padding:6px 0 24px}}ul.list li{font-family:'DINPro Technopark',Arial;font-size:15px;font-weight:400;font-display:swap;color:#fff;line-height:20px;list-style:none;margin:0;padding-left:9px;position:relative}@media (min-width:960px){ul.list li{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:400;font-display:swap;line-height:21px;padding-left:26px}}ul.list>li:before{background-color:#fff;border-radius:50%;content:\"\";display:block;height:3px;left:0;position:absolute;top:10px;width:3px}@media (min-width:960px){ul.list>li:before{border-radius:0;height:1px;width:13px}}ul.list>li>ul{padding:6px 0 6px 15px}@media (min-width:960px){ul.list>li>ul{padding:3px 0 3px 4px}}ul.list>li>ul>li:before{background-color:rgba(255,255,255,.5)}ul.list>li>ul>li>ul{padding:6px 0 0 15px}@media (min-width:960px){ul.list>li>ul>li>ul{padding:3px 0 0 4px}}ul.list>li>ul>li>ul>li:before{background-color:rgba(255,255,255,.2)}ol.list{margin:0;padding:6px 0 18px;counter-reset:list1}@media (min-width:960px){ol.list{padding:6px 0 24px}}ol.list li{font-family:'DINPro Technopark',Arial;font-size:15px;font-weight:400;font-display:swap;color:#fff;line-height:20px;list-style:none;margin:0;padding-left:9px;position:relative}@media (min-width:960px){ol.list li{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:400;font-display:swap;line-height:21px;padding-left:26px}}ol.list>li{padding-left:24px}ol.list>li:before{counter-increment:list1;content:counter(list1) \". \";left:0;position:absolute}ol.list>li>ol{counter-reset:list2;padding:6px 0}@media (min-width:960px){ol.list>li>ol{padding:3px 0}}ol.list>li>ol>li{padding-left:42px}ol.list>li>ol>li:before{counter-increment:list2;content:counter(list1) \".\" counter(list2) \". \"}ol.list>li>ol>li>ol{counter-reset:list3}ol.list>li>ol>li>ol>li:before{counter-increment:list3;content:counter(list1) \".\" counter(list2) \".\" counter(list3) \". \"}ol.list--compact{padding:0}.list--line-interval li:not(:last-child){margin-bottom:1em}input::-ms-clear{display:none}input::-webkit-clear-button{display:none}@media (max-width:767px){.footer{padding-bottom:66px}}.page-container{margin:auto;padding:0 18px;width:100%}@media (min-width:960px){.page-container{padding:0 24px;width:100%}}@media (min-width:1482px){.page-container{width:1481px}}@media (min-width:960px){.page-container--extra-padding{padding:0 42px}}.default-container{width:100%;max-width:1481px;margin:auto;padding:0 12px}@media (min-width:960px){.default-container{padding:0 24px}}button,input,select,textarea{font-family:inherit;font-size:100%;margin:0}textarea{resize:none;overflow:auto}form{margin:0}button{color:inherit}dd,dl,dt{margin:0;padding:0}input[type=search]{-webkit-appearance:none}input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration,input[type=search]::-webkit-search-results-button,input[type=search]::-webkit-search-results-decoration{display:none}input:invalid{box-shadow:none}textarea:invalid{box-shadow:none}svg *{pointer-events:none}.product__desc{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:300;font-display:swap;color:#878787;display:none}.product__desc b{font-family:'DINPro Technopark',Arial;font-size:20px;font-weight:400;font-display:swap;color:#fff}.dyson-v10-picking,.dyson-v10-properties,.dyson-v10-wrapper,.dyson-v10-wrapper .dyson-v10__list span{color:#fff;padding:0 12px}@media (max-width:1154px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:170px}}@media (max-width:1100px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:270px}}@media (max-width:960px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:27px}}.dyson-v10-first-row li.dyson-v10-item{max-width:calc(100% / 3 - 10);padding-right:5px}@media (max-width:959px){.dyson-v10-first-row{flex-direction:column;align-items:flex-start}.dyson-v10-first-row li.dyson-v10-item{max-width:none}}@media (min-width:960px) and (max-width:1303px){.dyson-v10-first-row{flex-direction:column;align-items:flex-start}.dyson-v10-first-row li.dyson-v10-item{max-width:none}}.dyson-v10-chapter{text-align:center!important}.dyson-v10__list li.dyson-v10__list-item{background-size:contain;background-position:left} </style> <p>Посудомоечная машина Bosch SMS2ITW09E — надёжное и удобное решение для кухни: полноразмерная модель с загрузкой до 13 комплектов посуды легко впишется в интерьер, а продуманная конструкция позволит эффективно мыть даже крупную утварь. Инверторный мотор EcoSilence Drive обеспечивает тихую работу — уровень шума всего 46 дБ — и отличается долговечностью, а технология AquaSensor автоматически подстраивает расход воды и энергии под степень загрязнения, делая каждую мойку максимально экономичной. Белый корпус из металла и внутренняя камера из нержавеющей стали подчёркивают премиальный вид устройства, а система корзин Vario даёт гибкую организацию пространства под любые нужды.</p>      <h2>Особенности</h2>  <ul class=\"list\">      <li><b>Оптимальная вместимость и удобная организация пространства</b><br/>    Загрузка до 13 комплектов подходит для средних и больших семей, система корзин Vario с регулируемой по высоте верхней корзиной, складными держателями и полками для чашек позволяет гибко размещать посуду разных размеров, а съёмная верхняя крышка даёт возможность установить машину под столешницу</li>      <li><b>Умная экономия ресурсов</b><br/>    Технология AquaSensor анализирует степень загрязнения и объём загрузки, автоматически оптимизируя расход воды и электроэнергии, режим половинной загрузки дополнительно снижает потребление ресурсов при небольшом количестве посуды, а инверторный мотор обеспечивает высокую производительность при низком энергопотреблении</li>      <li><b>Разнообразие программ под любые задачи</b><br/>    Набор программ охватывает основные сценарии — от интенсивной мойки при 70 °C до экономичного режима при 50 °C, автоматическая программа адаптируется под разную степень загрязнения, а специальные функции вроде SpeedPerfect и ExtraDry позволяют ускорить цикл или улучшить сушку без ущерба для результата</li>      <li><b>Безопасность и надёжность в эксплуатации</b><br/>    Система AquaStop гарантирует полную защиту от протечек на весь срок службы прибора, блокировка управления и защита от детей предотвращают случайное изменение настроек, а индикация отсутствия соли и ополаскивателя своевременно напомнит о необходимости пополнить расходные материалы</li>      <li><b>Комфорт и простота контроля</b><br/>    LED‑дисплей отображает время до окончания цикла, параметры работы и коды ошибок, сенсор чистоты воды помогает поддерживать оптимальное качество мойки, а низкий уровень шума в 46 дБ делает работу машины практически незаметной даже в открытых кухнях и студиях</li>    <li><b>Внимание</b><br/>  Функции Wi-Fi, Bluetooth, Home Connect не доступны (не работают) на территории Республики Беларусь, Российской Федерации. На территории Республики Беларусь, Российской Федерации запрещено использовать в приборе функции Wi-Fi, Bluetooth, Home Connect. Использование в приборе функций Wi-Fi, Bluetooth, Home Connect на территории Республики Беларусь, Российской Федерации может вывести прибор из строя, что не является гарантийным случаем</li>  </ul>    ",
+    "descriptionType": "DEFAULT",
+    "descriptionBarcode": "4242005502332",
+    "descriptionBrand": "Bosch",
+    "specifications": {
+      "short": [
+        {
+          "name": "Вид сушки",
+          "value": "конденсационный",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Загрузка",
+          "value": "13 комплектов",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Количество программ",
+          "value": "6",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Высота",
+          "value": "84.5 см",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Ширина",
+          "value": "60 см",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "barcode": "4242005502332",
+      "country": "Польша",
+      "full": [
+        {
+          "name": "Основные характеристики",
+          "list": [
+            {
+              "name": "Установка",
+              "value": "отдельностоящая",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Конструкция",
+              "value": "полноразмерная",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вид сушки",
+              "value": "конденсационный",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Загрузка",
+              "value": "13 комплектов",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип двигателя",
+              "value": "инверторный",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Управление",
+          "list": [
+            {
+              "name": "Тип управления",
+              "value": "электронное",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Переключатели",
+              "value": "кнопочные",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество программ",
+              "value": "6",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Программы",
+              "value": "авто 45-65 °С, экспресс 65 °С - 1 ч, очистка машины, избранное",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Экономичная программа",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Интенсивная мойка",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дополнительные программы",
+              "value": "экстра-сушка, SpeedPerfect+",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Температурные режимы",
+          "list": [
+            {
+              "name": "Температурные режимы",
+              "value": "45, 50, 65, 70 °С",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная температура воды",
+              "value": "70 °С",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество температурных режимов",
+              "value": "4",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Дисплей",
+          "list": [
+            {
+              "name": "Цифровой дисплей",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип дисплея",
+              "value": "LED",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Функции дисплея",
+              "value": "программирование отсрочки включения, отображение длительности программы, отображение времени до окончания цикла, индикация, отображение кодов ошибок, отображение включения Wi-Fi, отображение времени до отложенного старта",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Таймер",
+          "list": [
+            {
+              "name": "Таймер отсрочки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальное время отсрочки",
+              "value": "24 ч",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Индикация",
+          "list": [
+            {
+              "name": "Индикация режимов работы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет индикации",
+              "value": "белый, красный",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация времени до конца программы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикатор отсутствия соли",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикатор отсутствия ополаскивателя",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Сенсоры",
+          "list": [
+            {
+              "name": "Сенсор чистоты воды",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Защита и безопасность",
+          "list": [
+            {
+              "name": "Блокировка управления",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Защита от протечек",
+              "value": "полная",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Технология защиты от протечки",
+              "value": "AquaStop",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Защита от детей",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Энергопотребление",
+          "list": [
+            {
+              "name": "Класс энергопотребления",
+              "value": "E",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная потребляемая мощность",
+              "value": "2400 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Энергопотребление за цикл",
+              "value": "0.937 кВт/ч",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Напряжение",
+              "value": "220-240 В",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Сетевой кабель",
+              "value": "1.6 м",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Отделения",
+          "list": [
+            {
+              "name": "Количество корзин",
+              "value": "2",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Полка для чашек",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество полок для чашек",
+              "value": "2",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Откидная полка для чашек",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество держателей для тарелок в верхнем коробе",
+              "value": "2",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество держателей для тарелок в нижнем коробе",
+              "value": "2",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Складные держатели",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Держатель для бокалов",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Держатель для ножей",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Комфорт использования",
+          "list": [
+            {
+              "name": "Регулировка жёсткости воды",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Особенности конструкции",
+          "list": [
+            {
+              "name": "Верхний разбрызгиватель",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество разбрызгивателей",
+              "value": "2",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество уровней разбрызгивания воды",
+              "value": "2",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Съемная верхняя поверхность",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Возможность сокращения программы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Уровень шума",
+              "value": "46 дБ",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Расход воды за цикл",
+              "value": "9.5 л",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество зон подачи воды",
+              "value": "2",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Использование средств 3 в 1",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Режим половинной загрузки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Цвет и материал",
+          "list": [
+            {
+              "name": "Материал корпуса",
+              "value": "металл",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал внутренней камеры",
+              "value": "нержавеющая сталь",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал коромысла",
+              "value": "пластик",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет",
+              "value": "белый",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Комплектация",
+          "list": [
+            {
+              "name": "Съемная корзина для столовых приборов",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Заливной шланг",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Длина заливного шланга",
+              "value": "1.5 м",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Сливной шланг",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Длина сливного шланга",
+              "value": "1.7 м",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Инструкция",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Размеры и вес",
+          "list": [
+            {
+              "name": "Высота",
+              "value": "84.5 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ширина",
+              "value": "60 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Глубина",
+              "value": "60 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вес",
+              "value": "46.9 кг",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        }
+      ],
+      "grossWeight": "50",
+      "netWeight": "47.2",
+      "height": "0.9",
+      "instructionUrl": "https://storage.yandexcloud.net/technopark.instructions/837513/instruction/instrukciya-posudomoechnaya-mashina-bosch-sms2itw09e-837513.pdf",
+      "length": "0.75",
+      "schemeUrl": null,
+      "warranty": "12",
+      "width": "0.75",
+      "__typename": "ProductV2Specifications"
+    },
+    "certificates": [
+      "https://www.technopark.ru/bipublic/Cert/IG0G15C2ASGGE0.pdf",
+      "https://www.technopark.ru/bipublic/Cert/IG0G15C2B0E4ME.pdf"
+    ],
+    "isManufacturerCountry": false,
+    "isSellerWarranty": true,
+    "reviews": {
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "total": 0,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "rating": {
+      "average": 0,
+      "canRate": false,
+      "total": {
+        "all": 0,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 0,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "isLoading": false
+  },
+  "shots": [
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/837513/1_837513.jpg?timestamp=2026-07-17_09-33-13",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/837513/1_837513.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/837513/1_837513.jpg?timestamp=2026-07-17_09-33-01"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/837513/2_837513.jpg?timestamp=2026-07-17_09-33-11",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/837513/2_837513.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/837513/2_837513.jpg?timestamp=2026-07-17_09-33-01"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/837513/3_837513.jpg?timestamp=2026-07-17_09-33-08",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/837513/3_837513.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/837513/3_837513.jpg?timestamp=2026-07-17_09-33-07"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/837513/4_837513.jpg?timestamp=2026-07-17_09-33-09",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/837513/4_837513.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/837513/4_837513.jpg?timestamp=2026-07-17_09-33-08"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/837513/5_837513.jpg?timestamp=2026-07-17_09-33-11",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/837513/5_837513.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/837513/5_837513.jpg?timestamp=2026-07-17_09-33-01"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/837513/6_837513.jpg?timestamp=2026-07-17_09-33-08",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/837513/6_837513.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/837513/6_837513.jpg?timestamp=2026-07-17_09-33-07"
+    ]
+  ],
+  "photos": [
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/posudomoechnaya-mashina-bosch-sms2itw09e-837513-1.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/posudomoechnaya-mashina-bosch-sms2itw09e-837513-2.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/posudomoechnaya-mashina-bosch-sms2itw09e-837513-3.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/posudomoechnaya-mashina-bosch-sms2itw09e-837513-4.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/posudomoechnaya-mashina-bosch-sms2itw09e-837513-5.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/posudomoechnaya-mashina-bosch-sms2itw09e-837513-6.jpg"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "since": 182,
+  "directions": [
+    {
+      "name": "Овощи и фрукты",
+      "categories": [
+        "ovoshchi-frukty"
+      ]
+    },
+    {
+      "name": "Бакалея",
+      "categories": [
+        "bakaleya",
+        "sousy-konservy",
+        "napitki",
+        "sladosti"
+      ]
+    },
+    {
+      "name": "Молочное",
+      "categories": [
+        "molochnoe"
+      ]
+    },
+    {
+      "name": "Мясо и рыба",
+      "categories": [
+        "myaso-ptica",
+        "kolbasy",
+        "ryba",
+        "zamorozka"
+      ]
+    },
+    {
+      "name": "Хлеб и прочее",
+      "categories": [
+        "hleb",
+        "bytovaya-himiya"
+      ]
+    }
+  ],
+  "capital": 1500000,
+  "founder": "Учредитель «Дыйкан»",
+  "float": 10000,
+  "supplier": {
+    "name": "КФХ «Ак-Жол»",
+    "phone": "+996555310744",
+    "address": "Сокулукский район, с. Ак-Жол",
+    "note": "Овощи, фрукты, бакалея; привоз дважды в неделю"
+  },
+  "cost": 0.7,
+  "takings": "Инкассация"
+}

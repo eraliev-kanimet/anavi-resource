@@ -1,0 +1,756 @@
+{
+  "people": [
+    {
+      "key": "a1",
+      "name": "Бакыт Жээнбеков",
+      "phone": "+996 777 134 268"
+    },
+    {
+      "key": "a2",
+      "name": "Айбек Сатыбалдиев",
+      "phone": "+996 770 222 116"
+    },
+    {
+      "key": "a3",
+      "name": "Нургуль Осмонова",
+      "phone": "+996 777 529 450"
+    },
+    {
+      "key": "a4",
+      "name": "Улан Бейшеналиев",
+      "phone": "+996 770 220 784"
+    },
+    {
+      "key": "a5",
+      "name": "Жылдыз Токтогулова",
+      "phone": "+996 557 899 965"
+    },
+    {
+      "key": "a6",
+      "name": "Мирлан Акматов",
+      "phone": "+996 701 295 305"
+    },
+    {
+      "key": "a7",
+      "name": "Эльмира Карыбекова",
+      "phone": "+996 770 603 511"
+    },
+    {
+      "key": "a8",
+      "name": "Алмаз Дуйшеев",
+      "phone": "+996 700 172 699"
+    },
+    {
+      "key": "a9",
+      "name": "Канат Эсенгулов",
+      "phone": "+996 777 375 424"
+    },
+    {
+      "key": "a10",
+      "name": "Айсулуу Мамбетова",
+      "phone": "+996 777 430 221"
+    },
+    {
+      "key": "a11",
+      "name": "Тимур Шаршеев",
+      "phone": "+996 700 243 261"
+    },
+    {
+      "key": "a12",
+      "name": "Бектур Асылбеков",
+      "phone": "+996 505 316 457"
+    },
+    {
+      "key": "a13",
+      "name": "Гульзат Омурбекова",
+      "phone": "+996 770 341 288"
+    },
+    {
+      "key": "a14",
+      "name": "Данияр Курманов",
+      "phone": "+996 999 274 260"
+    },
+    {
+      "key": "a15",
+      "name": "Нурбек Турдубаев",
+      "phone": "+996 701 973 823"
+    },
+    {
+      "key": "a16",
+      "name": "Чолпон Абдыкадырова",
+      "phone": "+996 700 457 339"
+    },
+    {
+      "key": "a17",
+      "name": "Азиз Рахимов",
+      "phone": "+996 777 576 121"
+    },
+    {
+      "key": "a18",
+      "name": "Медер Сулайманов",
+      "phone": "+996 770 689 595"
+    },
+    {
+      "key": "a19",
+      "name": "Айгерим Жолдошева",
+      "phone": "+996 557 644 246"
+    },
+    {
+      "key": "a20",
+      "name": "Эрлан Таштанов",
+      "phone": "+996 770 486 916"
+    },
+    {
+      "key": "a21",
+      "name": "Самат Иманалиев",
+      "phone": "+996 700 538 970"
+    },
+    {
+      "key": "a22",
+      "name": "Динара Бакирова",
+      "phone": "+996 700 703 951"
+    },
+    {
+      "key": "a23",
+      "name": "Исмаил Юсупов",
+      "phone": "+996 999 383 168"
+    },
+    {
+      "key": "a24",
+      "name": "Кубаныч Абылов",
+      "phone": "+996 777 127 479"
+    },
+    {
+      "key": "a25",
+      "name": "Асель Нурматова",
+      "phone": "+996 777 517 524"
+    },
+    {
+      "key": "a26",
+      "name": "Марат Сагынбаев",
+      "phone": "+996 505 933 876"
+    },
+    {
+      "key": "a27",
+      "name": "Жаныл Кадырова",
+      "phone": "+996 505 758 241"
+    },
+    {
+      "key": "a28",
+      "name": "Руслан Мамыров",
+      "phone": "+996 701 404 280"
+    },
+    {
+      "key": "a29",
+      "name": "Элнура Кыдыралиева",
+      "phone": "+996 701 569 432"
+    },
+    {
+      "key": "a30",
+      "name": "Арген Байзаков",
+      "phone": "+996 700 825 205"
+    }
+  ],
+  "sales": [
+    {
+      "days": 170,
+      "at": [
+        13,
+        20
+      ],
+      "person": "a1",
+      "lines": [
+        {
+          "item": "toyota-camry-2021",
+          "pick": 1,
+          "qty": 1,
+          "price": 24400
+        }
+      ],
+      "paid": "cash",
+      "deposit": 1000,
+      "handed": 2,
+      "by": "avto-bolot"
+    },
+    {
+      "days": 164,
+      "at": [
+        13,
+        20
+      ],
+      "person": "a2",
+      "lines": [
+        {
+          "item": "toyota-camry-2019",
+          "pick": 1,
+          "qty": 1,
+          "price": 19600
+        }
+      ],
+      "paid": "cash",
+      "deposit": 1000,
+      "handed": 2,
+      "by": "avto-nurlan"
+    },
+    {
+      "days": 158,
+      "at": [
+        16,
+        0
+      ],
+      "person": "a3",
+      "lines": [
+        {
+          "item": "hyundai-sonata-2020",
+          "pick": 1,
+          "qty": 1,
+          "price": 12700
+        }
+      ],
+      "paid": "cash",
+      "deposit": 500,
+      "handed": 5,
+      "by": "avto-azamat"
+    },
+    {
+      "days": 151,
+      "at": [
+        13,
+        10
+      ],
+      "person": "a4",
+      "lines": [
+        {
+          "item": "hyundai-sonata-2019-2",
+          "pick": 1,
+          "qty": 1,
+          "price": 10200
+        }
+      ],
+      "paid": "cash",
+      "deposit": 500,
+      "handed": 5,
+      "by": "avto-bolot"
+    },
+    {
+      "days": 147,
+      "at": [
+        17,
+        0
+      ],
+      "person": "a5",
+      "lines": [
+        {
+          "item": "kia-k5-2021",
+          "pick": 1,
+          "qty": 1,
+          "price": 17900
+        }
+      ],
+      "paid": "cash",
+      "deposit": 1000,
+      "handed": 1,
+      "by": "avto-nurlan"
+    },
+    {
+      "days": 141,
+      "at": [
+        10,
+        30
+      ],
+      "person": "a6",
+      "lines": [
+        {
+          "item": "kia-k5-2020-2",
+          "pick": 1,
+          "qty": 1,
+          "price": 15400
+        }
+      ],
+      "paid": "cash",
+      "deposit": 500,
+      "handed": 1,
+      "by": "avto-azamat"
+    },
+    {
+      "days": 135,
+      "at": [
+        11,
+        20
+      ],
+      "person": "a7",
+      "lines": [
+        {
+          "item": "hyundai-avante-2020",
+          "pick": 1,
+          "qty": 1,
+          "price": 9900
+        }
+      ],
+      "paid": "cash",
+      "deposit": 500,
+      "handed": 2,
+      "by": "avto-bolot"
+    },
+    {
+      "days": 129,
+      "at": [
+        13,
+        30
+      ],
+      "person": "a8",
+      "lines": [
+        {
+          "item": "hyundai-avante-2022",
+          "pick": 1,
+          "qty": 1,
+          "price": 13000
+        }
+      ],
+      "paid": "cash",
+      "deposit": 500,
+      "handed": 3,
+      "by": "avto-nurlan"
+    },
+    {
+      "days": 122,
+      "at": [
+        14,
+        40
+      ],
+      "person": "a9",
+      "lines": [
+        {
+          "item": "toyota-corolla-2019",
+          "pick": 1,
+          "qty": 1,
+          "price": 10400
+        }
+      ],
+      "paid": "cash",
+      "deposit": 500,
+      "handed": 4,
+      "by": "avto-azamat"
+    },
+    {
+      "days": 117,
+      "at": [
+        11,
+        20
+      ],
+      "person": "a10",
+      "lines": [
+        {
+          "item": "kia-sorento-2021",
+          "pick": 1,
+          "qty": 1,
+          "price": 22000
+        }
+      ],
+      "paid": "cash",
+      "deposit": 1000,
+      "handed": 5,
+      "by": "avto-bolot"
+    },
+    {
+      "days": 113,
+      "at": [
+        10,
+        50
+      ],
+      "person": "a11",
+      "lines": [
+        {
+          "item": "kia-sorento-2020",
+          "pick": 1,
+          "qty": 1,
+          "price": 19100
+        }
+      ],
+      "paid": "cash",
+      "deposit": 1000,
+      "handed": 2,
+      "by": "avto-nurlan"
+    },
+    {
+      "days": 106,
+      "at": [
+        15,
+        40
+      ],
+      "person": "a12",
+      "lines": [
+        {
+          "item": "hyundai-palisade-2021",
+          "pick": 1,
+          "qty": 1,
+          "price": 28900
+        }
+      ],
+      "paid": "cash",
+      "deposit": 1000,
+      "handed": 5,
+      "by": "avto-azamat"
+    },
+    {
+      "days": 101,
+      "at": [
+        15,
+        40
+      ],
+      "person": "a13",
+      "lines": [
+        {
+          "item": "hyundai-palisade-2019-2",
+          "pick": 1,
+          "qty": 1,
+          "price": 21400
+        }
+      ],
+      "paid": "cash",
+      "deposit": 1000,
+      "handed": 1,
+      "by": "avto-bolot"
+    },
+    {
+      "days": 94,
+      "at": [
+        16,
+        0
+      ],
+      "person": "a14",
+      "lines": [
+        {
+          "item": "honda-cr-v-2020",
+          "pick": 1,
+          "qty": 1,
+          "price": 18800
+        }
+      ],
+      "paid": "cash",
+      "deposit": 1000,
+      "handed": 2,
+      "by": "avto-nurlan"
+    },
+    {
+      "days": 88,
+      "at": [
+        10,
+        10
+      ],
+      "person": "a15",
+      "lines": [
+        {
+          "item": "kia-carnival-2020",
+          "pick": 1,
+          "qty": 1,
+          "price": 16800
+        }
+      ],
+      "paid": "cash",
+      "deposit": 1000,
+      "handed": 3,
+      "by": "avto-azamat"
+    },
+    {
+      "days": 83,
+      "at": [
+        12,
+        0
+      ],
+      "person": "a16",
+      "lines": [
+        {
+          "item": "subaru-outback-2019",
+          "pick": 1,
+          "qty": 1,
+          "price": 14800
+        }
+      ],
+      "paid": "cash",
+      "deposit": 500,
+      "handed": 1,
+      "by": "avto-bolot"
+    },
+    {
+      "days": 79,
+      "at": [
+        13,
+        50
+      ],
+      "person": "a17",
+      "lines": [
+        {
+          "item": "subaru-forester-2018",
+          "pick": 1,
+          "qty": 1,
+          "price": 12200
+        }
+      ],
+      "paid": "cash",
+      "deposit": 500,
+      "handed": 3,
+      "by": "avto-nurlan"
+    },
+    {
+      "days": 75,
+      "at": [
+        13,
+        20
+      ],
+      "person": "a18",
+      "lines": [
+        {
+          "item": "lexus-es-2019",
+          "pick": 1,
+          "qty": 1,
+          "price": 26600
+        }
+      ],
+      "paid": "cash",
+      "deposit": 1000,
+      "handed": 4,
+      "by": "avto-azamat"
+    },
+    {
+      "days": 71,
+      "at": [
+        17,
+        40
+      ],
+      "person": "a19",
+      "lines": [
+        {
+          "item": "lexus-rx-2002",
+          "pick": 1,
+          "qty": 1,
+          "price": 8800
+        }
+      ],
+      "paid": "cash",
+      "deposit": 500,
+      "handed": 5,
+      "by": "avto-bolot"
+    },
+    {
+      "days": 64,
+      "at": [
+        14,
+        0
+      ],
+      "person": "a20",
+      "lines": [
+        {
+          "item": "lexus-gx-2008-2",
+          "pick": 1,
+          "qty": 1,
+          "price": 26200
+        }
+      ],
+      "paid": "cash",
+      "deposit": 1000,
+      "handed": 3,
+      "by": "avto-nurlan"
+    },
+    {
+      "days": 57,
+      "at": [
+        12,
+        0
+      ],
+      "person": "a21",
+      "lines": [
+        {
+          "item": "lexus-lx-2008-2",
+          "pick": 1,
+          "qty": 1,
+          "price": 28400
+        }
+      ],
+      "paid": "cash",
+      "deposit": 1000,
+      "handed": 5,
+      "by": "avto-azamat"
+    },
+    {
+      "days": 53,
+      "at": [
+        15,
+        10
+      ],
+      "person": "a22",
+      "lines": [
+        {
+          "item": "toyota-highlander-2018",
+          "pick": 1,
+          "qty": 1,
+          "price": 26100
+        }
+      ],
+      "paid": "cash",
+      "deposit": 1000,
+      "handed": 4,
+      "by": "avto-bolot"
+    },
+    {
+      "days": 47,
+      "at": [
+        15,
+        20
+      ],
+      "person": "a23",
+      "lines": [
+        {
+          "item": "toyota-rav4-2008",
+          "pick": 1,
+          "qty": 1,
+          "price": 10800
+        }
+      ],
+      "paid": "cash",
+      "deposit": 500,
+      "handed": 4,
+      "by": "avto-nurlan"
+    },
+    {
+      "days": 41,
+      "at": [
+        11,
+        0
+      ],
+      "person": "a24",
+      "lines": [
+        {
+          "item": "bmw-x5-2017",
+          "pick": 1,
+          "qty": 1,
+          "price": 21400
+        }
+      ],
+      "paid": "cash",
+      "deposit": 1000,
+      "handed": 1,
+      "by": "avto-azamat"
+    },
+    {
+      "days": 35,
+      "at": [
+        11,
+        0
+      ],
+      "person": "a25",
+      "lines": [
+        {
+          "item": "bmw-5-series-2019",
+          "pick": 1,
+          "qty": 1,
+          "price": 22000
+        }
+      ],
+      "paid": "cash",
+      "deposit": 1000,
+      "handed": 4,
+      "by": "avto-bolot"
+    },
+    {
+      "days": 28,
+      "at": [
+        14,
+        0
+      ],
+      "person": "a26",
+      "lines": [
+        {
+          "item": "mercedes-benz-e-class-2020",
+          "pick": 1,
+          "qty": 1,
+          "price": 32300
+        }
+      ],
+      "paid": "cash",
+      "deposit": 1000,
+      "handed": 5,
+      "by": "avto-nurlan"
+    },
+    {
+      "days": 21,
+      "at": [
+        11,
+        30
+      ],
+      "person": "a27",
+      "lines": [
+        {
+          "item": "hyundai-grandeur-2019",
+          "pick": 1,
+          "qty": 1,
+          "price": 16300
+        }
+      ],
+      "paid": "cash",
+      "deposit": 500,
+      "handed": 4,
+      "by": "avto-azamat"
+    },
+    {
+      "days": 15,
+      "at": [
+        15,
+        50
+      ],
+      "person": "a28",
+      "lines": [
+        {
+          "item": "toyota-tundra-2016",
+          "pick": 1,
+          "qty": 1,
+          "price": 30700
+        }
+      ],
+      "paid": "cash",
+      "deposit": 1000,
+      "handed": 1,
+      "by": "avto-bolot"
+    },
+    {
+      "days": 11,
+      "at": [
+        11,
+        40
+      ],
+      "person": "a29",
+      "lines": [
+        {
+          "item": "land-rover-range-rover-2015",
+          "pick": 1,
+          "qty": 1,
+          "price": 32800
+        }
+      ],
+      "paid": "cash",
+      "deposit": 1000,
+      "handed": 2,
+      "by": "avto-nurlan"
+    },
+    {
+      "days": 9,
+      "at": [
+        14,
+        10
+      ],
+      "person": "a30",
+      "lines": [
+        {
+          "item": "ssangyong-rexton-sports-2021",
+          "pick": 1,
+          "qty": 1,
+          "price": 24200
+        }
+      ],
+      "paid": "cash",
+      "deposit": 1000,
+      "handed": 4,
+      "by": "avto-azamat"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Склад и машины",
+    "extra": false,
+    "steps": [
+      {
+        "kind": "look",
+        "part": "brief",
+        "task": "",
+        "role": "text",
+        "when": "always"
+      },
+      {
+        "kind": "look",
+        "part": "clutter",
+        "task": "Лица сотрудников и номера чужих машин. Склад, машины и упаковка остаются.",
+        "role": "text",
+        "when": "always"
+      },
+      {
+        "kind": "edit",
+        "part": "picture",
+        "task": "Склад, машины и упаковка остаются такими, как на снимке.",
+        "role": "image",
+        "when": "always"
+      },
+      {
+        "kind": "code",
+        "part": "colour",
+        "task": "",
+        "role": "text",
+        "when": "always"
+      },
+      {
+        "kind": "code",
+        "part": "same",
+        "task": "",
+        "role": "text",
+        "when": "always"
+      },
+      {
+        "kind": "check",
+        "part": "added_lost",
+        "task": "",
+        "role": "text",
+        "when": "always"
+      }
+    ]
+  }
+]

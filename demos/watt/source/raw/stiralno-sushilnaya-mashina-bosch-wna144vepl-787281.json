@@ -1,0 +1,1608 @@
+{
+  "shelf": "stiralnye-mashiny",
+  "slug": "stiralno-sushilnaya-mashina-bosch-wna144vepl-787281",
+  "product": {
+    "id": "787281",
+    "article": "181763",
+    "slug": "stiralno-sushilnaya-mashina-bosch-wna144vepl-787281",
+    "hasSmartInstallments": false,
+    "isActive": true,
+    "name": {
+      "default": "Bosch WNA144VEPL",
+      "full": "Стирально-сушильная машина Bosch WNA144VEPL",
+      "pseudo": null,
+      "spare": null,
+      "fullWithoutSection": "Bosch WNA144VEPL",
+      "section": "Стирально-сушильная машина",
+      "__typename": "ProductName"
+    },
+    "price": {
+      "default": 101990,
+      "marketing": null,
+      "old": null,
+      "__typename": "ProductPrice"
+    },
+    "benefit": null,
+    "specifications": {
+      "short": [
+        {
+          "name": "Конструкция стиральной машины",
+          "value": "полноразмерная",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Максимальная загрузка белья",
+          "value": "9 кг",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Максимальная скорость отжима",
+          "value": "до 1400 об/мин",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Максимальная загрузка белья при сушке",
+          "value": "до 5 кг",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Глубина",
+          "value": "64.9 см",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "__typename": "ProductV2Specifications"
+    },
+    "labels": [
+      {
+        "name": "Бонусы Спасибо",
+        "type": "sberspasibo",
+        "items": [
+          {
+            "description": "",
+            "name": "Этот товар можно оплатить бонусами Спасибо от СберБанка",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Акция",
+        "type": "special_offer",
+        "items": [
+          {
+            "description": "",
+            "name": "5 000 бонусов за покупки",
+            "url": "/action/5-000-bonusov-za-pokupki/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Рассрочка",
+        "type": "deferred_payment",
+        "items": [
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-6",
+            "url": "/stiralno-sushilnaya-mashina-bosch-wna144vepl-787281/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-12",
+            "url": "/stiralno-sushilnaya-mashina-bosch-wna144vepl-787281/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-24",
+            "url": "/stiralno-sushilnaya-mashina-bosch-wna144vepl-787281/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-18",
+            "url": "/stiralno-sushilnaya-mashina-bosch-wna144vepl-787281/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      }
+    ],
+    "labelsV2": [
+      {
+        "id": "14",
+        "name": "-15% на технику",
+        "code": "15-na-tekhniku",
+        "mainColor": "#F54B4B",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#FFFFFF",
+        "altTextColor": "#F54B4B",
+        "borderAndTextColor": "#F54B4B",
+        "items": [
+          {
+            "id": "162013",
+            "text": "Выгода при покупке крупной бытовой техники",
+            "buttonText": "Подробнее",
+            "url": "/action/vygoda-pri-pokupke-krupnoy-bytovoy-tekhniki/",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      },
+      {
+        "id": "8",
+        "name": "Бонусы Спасибо",
+        "code": "sberspasibo",
+        "mainColor": "#0C9C0C",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#0C9C0C",
+        "altTextColor": "#FFFFFF",
+        "borderAndTextColor": "#0C9C0C",
+        "items": [
+          {
+            "id": "100032",
+            "text": "Этот товар можно оплатить бонусами Спасибо от СберБанка ",
+            "buttonText": "Подробнее",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      }
+    ],
+    "status": {
+      "id": "IN_STOCK",
+      "name": "В наличии",
+      "type": "POSITIVE",
+      "__typename": "ProductStatus"
+    },
+    "brand": {
+      "code": "bosch",
+      "id": "40338",
+      "name": "Bosch",
+      "src": "https://cdn1.technopark.ru/technopark/photos_resized/section_brand_300_100/300_100/40338/1_40338.png",
+      "slug": "bosch",
+      "sections": [
+        {
+          "name": "Стиральные машины Bosch",
+          "url": "/stiralnye-mashiny/bosch/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/818133827/technopark/photos_resized/product/120_120/796650/1_796650.jpg?timestamp=2025-07-17_09-58-59",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1887205292/technopark/photos_resized/product/120_120/796650/2_796650.jpg?timestamp=2025-07-17_09-58-47",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/161533704/technopark/photos_resized/product/120_120/796650/3_796650.jpg?timestamp=2025-07-17_09-58-46",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/399915600/technopark/photos_resized/product/120_120/796650/4_796650.jpg?timestamp=2025-07-17_09-58-48",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/125519674/technopark/photos_resized/product/120_120/796650/5_796650.jpg?timestamp=2025-07-17_09-58-47",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2427035314/technopark/photos_resized/product/120_120/796650/6_796650.jpg?timestamp=2025-07-17_09-58-46",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2692523730/technopark/photos_resized/product/120_120/796650/7_796650.jpg?timestamp=2025-07-17_09-58-59",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Микроволновые печи Bosch",
+          "url": "/mikrovolnovye-pechi/bosch/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/986550916/technopark/photos_resized/product/120_120/723996/1_723996.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/432281088/technopark/photos_resized/product/120_120/723996/2_723996.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/863755951/technopark/photos_resized/product/120_120/723996/3_723996.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2306542481/technopark/photos_resized/product/120_120/723996/4_723996.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2904509196/technopark/photos_resized/product/120_120/723996/5_723996.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Чайники электрические Bosch",
+          "url": "/chayniki/bosch/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1551438955/technopark/photos_resized/product/120_120/525827/1_525827.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Вытяжки Bosch",
+          "url": "/vytyazhki/bosch/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/10587240/technopark/photos_resized/product/120_120/813574/0_813574.jpg?timestamp=2025-12-17_17-08-43",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Холодильники встраиваемые Bosch",
+          "url": "/vstraivaemye-holodilniki/bosch/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3122730547/technopark/photos_resized/product/120_120/84566/1_84566.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/589842313/technopark/photos_resized/product/120_120/84566/2_84566.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1396880134/technopark/photos_resized/product/120_120/84566/3_84566.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3441829541/technopark/photos_resized/product/120_120/84566/4_84566.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Кофемашины встраиваемые Bosch",
+          "url": "/vstraivaemye-kofemashiny/bosch/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2014264992/technopark/photos_resized/product/120_120/75494/1_75494.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3543141784/technopark/photos_resized/product/120_120/75494/2_75494.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3666231731/technopark/photos_resized/product/120_120/75494/3_75494.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2747089210/technopark/photos_resized/product/120_120/75494/4_75494.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/855792811/technopark/photos_resized/product/120_120/75494/5_75494.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4035416478/technopark/photos_resized/product/120_120/75494/6_75494.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Посудомоечные машины встраиваемые Bosch",
+          "url": "/vstraivaemye-posudomoechnye-mashiny/bosch/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2122452589/technopark/photos_resized/product/120_120/761471/1_761471.jpg?timestamp=2024-10-01_16-20-39",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Все аксессуары Bosch",
+          "url": "/aksessuary-krupnaya-bytovaya-tehnika/bosch/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2295300926/technopark/photos_resized/product/120_120/770452/1_770452.jpg?timestamp=2024-12-05_17-51-10",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Аксессуары для пылесосов Bosch",
+          "url": "/aksessuary-k-pylesosam/bosch/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2279563740/technopark/photos_resized/product/120_120/574055/1_574055.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        }
+      ],
+      "__typename": "Brand"
+    },
+    "section": {
+      "slug": "stiralno-sushilnye-mashiny",
+      "id": "2637",
+      "name": "Стиральные машины с сушкой",
+      "parents": [
+        {
+          "id": "877",
+          "name": "Крупная бытовая",
+          "depth": 1,
+          "__typename": "SectionTreeItem"
+        },
+        {
+          "id": "2637",
+          "name": "Стиральные машины с сушкой",
+          "depth": 2,
+          "__typename": "SectionTreeItem"
+        }
+      ],
+      "__typename": "Section"
+    },
+    "media": {
+      "gallery": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/787281/1_787281.jpg?timestamp=2025-04-24_08-57-52",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/787281/2_787281.jpg?timestamp=2025-04-24_08-58-02",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/787281/3_787281.jpg?timestamp=2025-04-24_08-57-54",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/787281/4_787281.jpg?timestamp=2025-04-24_08-58-05",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/787281/5_787281.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/787281/6_787281.jpg?timestamp=2025-04-24_08-57-52",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/787281/7_787281.jpg?timestamp=2025-04-24_08-58-06",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "interior": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior/1000_1000/787281/1_787281.jpg?timestamp=2025-04-24_08-58-12",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior_zoom/2500_2500/787281/1_787281.jpg",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior/1000_1000/787281/2_787281.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior_zoom/2500_2500/787281/2_787281.jpg?timestamp=2025-04-24_08-58-21",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "video": [],
+      "vkVideo": null,
+      "view3d": [],
+      "listing": {
+        "default": [
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/787281/1_787281.jpg?timestamp=2025-04-24_08-57-56",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/787281/2_787281.jpg?timestamp=2025-04-24_08-58-08",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/787281/3_787281.jpg?timestamp=2025-04-24_08-57-57",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/787281/4_787281.jpg?timestamp=2025-04-24_08-58-11",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/787281/5_787281.jpg?timestamp=2025-04-24_08-58-02",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/787281/6_787281.jpg?timestamp=2025-04-24_08-57-56",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/787281/7_787281.jpg?timestamp=2025-04-24_08-58-12",
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "ProductListing"
+      },
+      "__typename": "ProductV2Media"
+    },
+    "modifications": {
+      "bigBrother": null,
+      "groups": [],
+      "__typename": "ProductModifications"
+    },
+    "description": {
+      "hasDescription": false,
+      "type": "DEFAULT",
+      "__typename": "ProductDescription"
+    },
+    "collection": {
+      "id": "787281",
+      "products": {
+        "pagination": {
+          "total": 0,
+          "__typename": "Pagination"
+        },
+        "__typename": "ProductV2Pagination"
+      },
+      "__typename": "ProductCollection"
+    },
+    "similar": {
+      "pagination": {
+        "total": 20,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "related": {
+      "pagination": {
+        "total": 20,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "accessories": [
+      {
+        "products": {
+          "pagination": {
+            "total": 18,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      }
+    ],
+    "rating": {
+      "average": 0,
+      "canRate": false,
+      "total": {
+        "all": 0,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 0,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "reviews": {
+      "total": 0,
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "bestCredit": {
+      "monthPayment": 4250,
+      "type": "DEFERRED_PAYMENT",
+      "__typename": "ProductBestCredit"
+    },
+    "isSpare": false,
+    "isService": false,
+    "isVipService": false,
+    "isGiftBonusCard": false,
+    "canBuy": true,
+    "canPayOnline": true,
+    "canRequestPrice": false,
+    "canShowPrice": true,
+    "canSubscribe": false,
+    "needPrepaymentForDelivery": false,
+    "needPrepaymentForPreorder": false,
+    "isSberSpasiboPayAvailable": true,
+    "isYandexPayAllowed": false,
+    "yandexSplit": {
+      "payments": [
+        {
+          "amount": 0,
+          "date": "2026-08-17T08:59:57+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 8501,
+          "date": "2026-08-31T08:59:57+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 8499,
+          "date": "2026-09-14T08:59:57+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 8499,
+          "date": "2026-09-28T08:59:57+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 8499,
+          "date": "2026-10-12T08:59:57+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 8499,
+          "date": "2026-10-26T08:59:57+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 8499,
+          "date": "2026-11-09T08:59:57+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 8499,
+          "date": "2026-11-23T08:59:57+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 8499,
+          "date": "2026-12-07T08:59:57+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 8499,
+          "date": "2026-12-21T08:59:57+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 8499,
+          "date": "2027-01-04T08:59:57+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 8499,
+          "date": "2027-01-18T08:59:57+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 8499,
+          "date": "2027-02-01T08:59:57+0300",
+          "__typename": "YandexSplitPayment"
+        }
+      ],
+      "firstPayment": 0,
+      "restPayment": 101990,
+      "description": "https://yandex.ru/support/split/",
+      "maxAmount": 295000,
+      "__typename": "YandexSplit"
+    },
+    "seo": {
+      "description": "Стирально-сушильная машина Bosch WNA144VEPL: купить в интернет-магазине Технопарк с расширенной гарантией и бесплатной доставкой по РФ. Подробные характеристики товара с отзывами реальных покупателей.",
+      "text": "Вы можете купить стирально-сушильную машину Bosch WNA144VEPL с доставкой по Москве по низкой цене. В интернет-магазине Technopark.ru осуществляется продажа стирально-сушильной машины Bosch WNA144VEPL на выгодных условиях.",
+      "textHidden": "",
+      "title": "Стирально-сушильная машина Bosch WNA144VEPL - купить в Москве в интернет-магазине Технопарк",
+      "__typename": "SeoData"
+    },
+    "breadcrumbs": [
+      {
+        "name": "Главная",
+        "url": "/",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Крупная бытовая техника",
+        "url": "/krupnaya-bytovaya-tehnika/",
+        "options": [
+          {
+            "name": "Центр инноваций",
+            "url": "/tovary-iz-budushchego/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Смартфоны и гаджеты",
+            "url": "/smartfony-i-gadzhety/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Компьютеры и ноутбуки",
+            "url": "/kompyutery-i-noutbuki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Климатическая техника",
+            "url": "/klimaticheskaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Техника для кухни",
+            "url": "/dlya-kuhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Бытовая техника для дома",
+            "url": "/dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для красоты и здоровья",
+            "url": "/krasota-i-zdorovye/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Спортивные товары",
+            "url": "/trenazhery-dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Телевизоры Аудио Hi-Fi",
+            "url": "/audio-video-foto/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для сада, дома и ремонта",
+            "url": "/dlya-sada-doma-i-remonta/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посуда",
+            "url": "/posuda/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Детские товары",
+            "url": "/detskie-tovary/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для гейминга",
+            "url": "/gaming/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Плоттеры и услуги розницы",
+            "url": "//",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Запасные части",
+            "url": "/zapasnie-chasti/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Стиральные машины с функцией сушки (2 в 1)",
+        "url": "/stiralno-sushilnye-mashiny/",
+        "options": [
+          {
+            "name": "Стиральные машины",
+            "url": "/stiralnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые варочные панели",
+            "url": "/vstraivaemye-varochnye-poverhnosti/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные плиты",
+            "url": "/plity/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Холодильники",
+            "url": "/holodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые духовые шкафы",
+            "url": "/vstraivaemye-duhovye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вытяжки для кухни",
+            "url": "/vytyazhki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посудомоечные машины",
+            "url": "/posudomoechnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые холодильники",
+            "url": "/vstraivaemye-holodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые винные шкафы",
+            "url": "/vstraivaemye-vinnye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые вытяжки для кухни",
+            "url": "/vstraivaemye-vytyazhki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые кофемашины",
+            "url": "/vstraivaemye-kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые морозильные камеры",
+            "url": "/vstraivaemye-morozilnye-kamery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые пароварки",
+            "url": "/vstraivaemye-parovarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые посудомоечные машины",
+            "url": "/vstraivaemye-posudomoechnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые стиральные машины",
+            "url": "/vstraivaemye-stiralnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Сушильные машины для белья",
+            "url": "/sushilnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые микроволновые печи",
+            "url": "/vstraivaemye-mikrovolnovye-pechi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Морозильные камеры",
+            "url": "/morozilnye-kamery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Винные шкафы",
+            "url": "/vinnye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые шкафы для подогрева",
+            "url": "/shkafy-dlya-podogreva-posudy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые вакууматоры",
+            "url": "/vakuumatory/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Измельчители пищевых отходов",
+            "url": "/vstraivaemye-izmelchiteli-pischevyh-othodov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Автохолодильники",
+            "url": "/avtoholodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для крупной бытовой техники",
+            "url": "/aksessuary-krupnaya-bytovaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для холодильников",
+            "url": "/aksessuary-krupnaya-bytovaya-tehnika/filt_naznachenie-k_holodilnikam/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для автохолодильников",
+            "url": "/aksessuary-dlya-avtokholodilnikov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Хьюмидоры",
+            "url": "/khyumidory/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Стиральные машины с функцией сушки (2 в 1) Bosch",
+        "url": "/stiralno-sushilnye-mashiny/bosch/",
+        "options": [
+          {
+            "name": "LG",
+            "url": "/stiralno-sushilnye-mashiny/lg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Electrolux",
+            "url": "/stiralno-sushilnye-mashiny/electrolux/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Korting",
+            "url": "/stiralno-sushilnye-mashiny/korting/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Samsung",
+            "url": "/stiralno-sushilnye-mashiny/samsung/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Haier",
+            "url": "/stiralno-sushilnye-mashiny/haier/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "AEG",
+            "url": "/stiralno-sushilnye-mashiny/aeg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Candy",
+            "url": "/stiralno-sushilnye-mashiny/candy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Beko",
+            "url": "/stiralno-sushilnye-mashiny/beko/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Gorenje",
+            "url": "/stiralno-sushilnye-mashiny/gorenje/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Midea",
+            "url": "/stiralno-sushilnye-mashiny/midea/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "VARD",
+            "url": "/stiralno-sushilnye-mashiny/vard/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Toshiba",
+            "url": "/stiralno-sushilnye-mashiny/toshiba/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Roborock",
+            "url": "/stiralno-sushilnye-mashiny/roborock/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Hisense",
+            "url": "/stiralno-sushilnye-mashiny/hisense/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Whirlpool",
+            "url": "/stiralno-sushilnye-mashiny/whirlpool/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Maunfeld",
+            "url": "/stiralno-sushilnye-mashiny/maunfeld/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Hotpoint",
+            "url": "/stiralno-sushilnye-mashiny/hotpoint/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Kuppersberg",
+            "url": "/stiralno-sushilnye-mashiny/kuppersberg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Panasonic",
+            "url": "/stiralno-sushilnye-mashiny/panasonic/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Miele",
+            "url": "/stiralno-sushilnye-mashiny/miele/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Smeg",
+            "url": "/stiralno-sushilnye-mashiny/smeg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Viomi",
+            "url": "/stiralno-sushilnye-mashiny/viomi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Casarte",
+            "url": "/stiralno-sushilnye-mashiny/casarte/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Siemens",
+            "url": "/stiralno-sushilnye-mashiny/siemens/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Bosch WNA144VEPL",
+        "url": "stiralno-sushilnaya-mashina-bosch-wna144vepl-787281",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      }
+    ],
+    "isArchive": false,
+    "__typename": "ProductV2",
+    "isSberPayOneClickAllowed": false,
+    "isTinkoffPayOneClickAllowed": false,
+    "bonus": null
+  },
+  "details": {
+    "description": "",
+    "descriptionType": "DEFAULT",
+    "descriptionBarcode": "4242005344796",
+    "descriptionBrand": "Bosch",
+    "specifications": {
+      "short": [
+        {
+          "name": "Конструкция стиральной машины",
+          "value": "полноразмерная",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Максимальная загрузка белья",
+          "value": "9 кг",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Максимальная скорость отжима",
+          "value": "до 1400 об/мин",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Максимальная загрузка белья при сушке",
+          "value": "до 5 кг",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Глубина",
+          "value": "64.9 см",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "barcode": "4242005344796",
+      "country": "Китай",
+      "full": [
+        {
+          "name": "Основные характеристики",
+          "list": [
+            {
+              "name": "Установка",
+              "value": "отдельностоящая",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Конструкция стиральной машины",
+              "value": "полноразмерная",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество барабанов",
+              "value": "1",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип двигателя",
+              "value": "инверторный",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Основной барабан",
+          "list": [
+            {
+              "name": "Тип загрузки",
+              "value": "фронтальная",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Поверхность барабана",
+              "value": "VarioDrum",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная загрузка белья",
+              "value": "9 кг",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная скорость отжима",
+              "value": "до 1400 об/мин",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Класс стирки",
+              "value": "A",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Класс отжима",
+              "value": "B",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Уровень шума при отжиме",
+              "value": "70 дБ",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Сушка",
+          "list": [
+            {
+              "name": "Сушка",
+              "value": "есть",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип сушки",
+              "value": "по времени, по остаточной влажности",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество программ сушки",
+              "value": "3",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная загрузка белья при сушке",
+              "value": "до 5 кг",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Программы сушки",
+              "value": "деликатная, интенсивная сушка, стирка + сушка",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Управление",
+          "list": [
+            {
+              "name": "Тип управления",
+              "value": "электромеханическое",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Переключатели",
+              "value": "поворотные, сенсорные",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Размещение панели управления",
+              "value": "под наклоном",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество программ",
+              "value": "14",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Программы",
+              "value": "хлопок, эко 40-60, синтетика, смешанное бельё, спорт, быстрая 15 мин / стирка и сушка 60 мин, интенсивная сушка, деликатная сушка, сушка по времени, стирка с паром Iron Assist, деликатная, шерсть, полоскание, отжим/слив",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дополнительные программы",
+              "value": "предварительная стирка, SpeedPerfect",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Температурные режимы",
+          "list": [
+            {
+              "name": "Регулировка температуры стирки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество температурных режимов",
+              "value": "5",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Минимальная температура воды",
+              "value": "20 °С",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная температура воды",
+              "value": "90 °С",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Дисплей",
+          "list": [
+            {
+              "name": "Цифровой дисплей",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип дисплея",
+              "value": "LED",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Таймер",
+          "list": [
+            {
+              "name": "Таймер отсрочки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальное время отсрочки стирки",
+              "value": "24 ч",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Индикация",
+          "list": [
+            {
+              "name": "Звуковой сигнал завершения программы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация окончания стирки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация времени до конца программы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация температуры",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация скорости отжима",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация блокировки дверцы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация ошибок",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация включения/паузы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация выбора дополнительных функций",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация цикла стирки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация времени отложенного старта",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Расход воды",
+          "list": [
+            {
+              "name": "Расход воды за цикл",
+              "value": "74 л",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Отжим",
+          "list": [
+            {
+              "name": "Регулировка скорости отжима",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество скоростей отжима",
+              "value": "5",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Отмена отжима",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Остаточная влажность",
+              "value": "53 %",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Технологии",
+          "list": [
+            {
+              "name": "Функция дозагрузки белья",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Защита и безопасность",
+          "list": [
+            {
+              "name": "Защита от детей",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Защита от протечек",
+              "value": "многоступенчатая",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Блокировка люка во время работы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Контроль пенообразования",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Энергопотребление",
+          "list": [
+            {
+              "name": "Класс энергопотребления",
+              "value": "A++",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Напряжение",
+              "value": "220-240 В",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Длина сетевого шнура",
+              "value": "2.1 м",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Особенности конструкции",
+          "list": [
+            {
+              "name": "Направление открывания люка",
+              "value": "влево",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Регулируемые ножки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Длина заливного шланга",
+              "value": "1.5 м",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Длина сливного шланга",
+              "value": "1.5 м",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Дополнительные функции",
+          "list": [
+            {
+              "name": "Самодиагностика",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автобаланс",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Легкая глажка",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Цвет и материал",
+          "list": [
+            {
+              "name": "Цвет",
+              "value": "белый",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет дверцы люка",
+              "value": "белый, чёрный",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал дверцы люка",
+              "value": "стекло, пластик",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал барабана",
+              "value": "нержавеющая сталь",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Комплектация",
+          "list": [
+            {
+              "name": "Шланг подачи воды",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Сливной шланг",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Сетевой кабель",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Инструкция",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Размеры и вес",
+          "list": [
+            {
+              "name": "Высота",
+              "value": "84.8 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ширина",
+              "value": "59.8 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Глубина",
+              "value": "64.9 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вес",
+              "value": "70.9 кг",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        }
+      ],
+      "grossWeight": "65",
+      "netWeight": "65",
+      "height": "0.93",
+      "instructionUrl": null,
+      "length": "0.67",
+      "schemeUrl": null,
+      "warranty": "12",
+      "width": "0.72",
+      "__typename": "ProductV2Specifications"
+    },
+    "certificates": [
+      "https://www.technopark.ru/bipublic/Cert/1O8093LJH1OF5S.pdf",
+      "https://www.technopark.ru/bipublic/Cert/I00HH3JAUGIFO1.pdf"
+    ],
+    "isManufacturerCountry": false,
+    "isSellerWarranty": true,
+    "reviews": {
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "total": 0,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "rating": {
+      "average": 0,
+      "canRate": false,
+      "total": {
+        "all": 0,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 0,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "isLoading": false
+  },
+  "shots": [
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/787281/1_787281.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/787281/1_787281.jpg?timestamp=2025-04-24_08-57-52"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/787281/2_787281.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/787281/2_787281.jpg?timestamp=2025-04-24_08-58-02"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/787281/3_787281.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/787281/3_787281.jpg?timestamp=2025-04-24_08-57-54"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/787281/4_787281.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/787281/4_787281.jpg?timestamp=2025-04-24_08-58-05"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/787281/5_787281.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/787281/5_787281.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/787281/6_787281.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/787281/6_787281.jpg?timestamp=2025-04-24_08-57-52"
+    ]
+  ],
+  "photos": [
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/stiralno-sushilnaya-mashina-bosch-wna144vepl-787281-1.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/stiralno-sushilnaya-mashina-bosch-wna144vepl-787281-2.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/stiralno-sushilnaya-mashina-bosch-wna144vepl-787281-3.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/stiralno-sushilnaya-mashina-bosch-wna144vepl-787281-4.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/stiralno-sushilnaya-mashina-bosch-wna144vepl-787281-5.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/stiralno-sushilnaya-mashina-bosch-wna144vepl-787281-6.jpg"
+  ]
+}

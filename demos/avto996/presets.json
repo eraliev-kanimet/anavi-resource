@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Машина на площадке",
+    "extra": false,
+    "steps": [
+      {
+        "kind": "look",
+        "part": "brief",
+        "task": "",
+        "role": "text",
+        "when": "always"
+      },
+      {
+        "kind": "look",
+        "part": "clutter",
+        "task": "Чужие машины, будка, шины, мусор и люди рядом с машиной. Площадка, асфальт, ограждение, деревья и небо остаются.",
+        "role": "text",
+        "when": "always"
+      },
+      {
+        "kind": "edit",
+        "part": "picture",
+        "task": "Машина остаётся на нашей площадке такой, как на снимке: вмятины, сколы и номера как есть.",
+        "role": "image",
+        "when": "always"
+      },
+      {
+        "kind": "code",
+        "part": "colour",
+        "task": "",
+        "role": "text",
+        "when": "always"
+      },
+      {
+        "kind": "code",
+        "part": "same",
+        "task": "",
+        "role": "text",
+        "when": "always"
+      },
+      {
+        "kind": "check",
+        "part": "added_lost",
+        "task": "",
+        "role": "text",
+        "when": "always"
+      }
+    ]
+  }
+]

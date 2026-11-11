@@ -1,0 +1,36 @@
+[
+  {
+    "name": "На разделочной доске",
+    "extra": false,
+    "steps": [
+      {
+        "kind": "look",
+        "part": "brief",
+        "task": "",
+        "role": "text",
+        "when": "always"
+      },
+      {
+        "kind": "draw",
+        "part": "picture",
+        "task": "Кусок мяса на деревянной разделочной доске или крафтовой бумаге, вид сверху под небольшим углом. Чистый фон без крови, ровный свет.",
+        "role": "image",
+        "when": "always"
+      },
+      {
+        "kind": "code",
+        "part": "colour",
+        "task": "",
+        "role": "text",
+        "when": "always"
+      },
+      {
+        "kind": "check",
+        "part": "added_lost",
+        "task": "",
+        "role": "text",
+        "when": "always"
+      }
+    ]
+  }
+]

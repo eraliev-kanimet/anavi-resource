@@ -1,0 +1,229 @@
+{
+ "properties": [
+  {
+   "slug": "fasovka",
+   "name": "Фасовка",
+   "values": [
+    {
+     "slug": "1-l",
+     "label": "1 л"
+    },
+    {
+     "slug": "1-nabor",
+     "label": "1 набор"
+    },
+    {
+     "slug": "1-para",
+     "label": "1 пара"
+    },
+    {
+     "slug": "1-sht",
+     "label": "1 шт"
+    },
+    {
+     "slug": "1-3-l",
+     "label": "1,3 л"
+    },
+    {
+     "slug": "1-5-kg",
+     "label": "1,5 кг"
+    },
+    {
+     "slug": "10-l",
+     "label": "10 л"
+    },
+    {
+     "slug": "10-m",
+     "label": "10 м"
+    },
+    {
+     "slug": "10-sht",
+     "label": "10 шт"
+    },
+    {
+     "slug": "100-g",
+     "label": "100 г"
+    },
+    {
+     "slug": "100-ml",
+     "label": "100 мл"
+    },
+    {
+     "slug": "100-sht",
+     "label": "100 шт"
+    },
+    {
+     "slug": "150-ml",
+     "label": "150 мл"
+    },
+    {
+     "slug": "2-l",
+     "label": "2 л"
+    },
+    {
+     "slug": "2-rulona",
+     "label": "2 рулона"
+    },
+    {
+     "slug": "2-sht",
+     "label": "2 шт"
+    },
+    {
+     "slug": "20-sht",
+     "label": "20 шт"
+    },
+    {
+     "slug": "20-sht-30-l",
+     "label": "20 шт, 30 л"
+    },
+    {
+     "slug": "200-ml",
+     "label": "200 мл"
+    },
+    {
+     "slug": "25-sht",
+     "label": "25 шт"
+    },
+    {
+     "slug": "250-ml",
+     "label": "250 мл"
+    },
+    {
+     "slug": "3-kg",
+     "label": "3 кг"
+    },
+    {
+     "slug": "3-razmera",
+     "label": "3 размера"
+    },
+    {
+     "slug": "3-sht",
+     "label": "3 шт"
+    },
+    {
+     "slug": "30-m",
+     "label": "30 м"
+    },
+    {
+     "slug": "30-sht",
+     "label": "30 шт"
+    },
+    {
+     "slug": "300-ml",
+     "label": "300 мл"
+    },
+    {
+     "slug": "4-g",
+     "label": "4 г"
+    },
+    {
+     "slug": "4-rulona",
+     "label": "4 рулона"
+    },
+    {
+     "slug": "40-g",
+     "label": "40 г"
+    },
+    {
+     "slug": "400-g",
+     "label": "400 г"
+    },
+    {
+     "slug": "400-ml",
+     "label": "400 мл"
+    },
+    {
+     "slug": "5-sht",
+     "label": "5 шт"
+    },
+    {
+     "slug": "50-ml",
+     "label": "50 мл"
+    },
+    {
+     "slug": "50-sht",
+     "label": "50 шт"
+    },
+    {
+     "slug": "500-g",
+     "label": "500 г"
+    },
+    {
+     "slug": "500-ml",
+     "label": "500 мл"
+    },
+    {
+     "slug": "60-sht",
+     "label": "60 шт"
+    },
+    {
+     "slug": "600-g",
+     "label": "600 г"
+    },
+    {
+     "slug": "75-ml",
+     "label": "75 мл"
+    },
+    {
+     "slug": "750-ml",
+     "label": "750 мл"
+    },
+    {
+     "slug": "8-m",
+     "label": "8 м"
+    },
+    {
+     "slug": "900-ml",
+     "label": "900 мл"
+    }
+   ],
+   "filter": false
+  },
+  {
+   "slug": "strana",
+   "name": "Страна",
+   "values": [
+    {
+     "slug": "kitay",
+     "label": "Китай"
+    },
+    {
+     "slug": "kyrgyzstan",
+     "label": "Кыргызстан"
+    },
+    {
+     "slug": "rossiya",
+     "label": "Россия"
+    },
+    {
+     "slug": "turtsiya",
+     "label": "Турция"
+    }
+   ],
+   "filter": true
+  },
+  {
+   "slug": "osobennosti",
+   "name": "Особенности",
+   "values": [
+    {
+     "slug": "bez-otdushki",
+     "label": "Без отдушки"
+    },
+    {
+     "slug": "bez-khlora",
+     "label": "Без хлора"
+    },
+    {
+     "slug": "gipoallergenno",
+     "label": "Гипоаллергенно"
+    },
+    {
+     "slug": "kontsentrat",
+     "label": "Концентрат"
+    }
+   ],
+   "filter": true
+  }
+ ]
+}

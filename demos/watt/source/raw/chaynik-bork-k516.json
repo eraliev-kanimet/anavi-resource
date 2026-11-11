@@ -1,0 +1,1673 @@
+{
+  "shelf": "chayniki",
+  "slug": "chaynik-bork-k516",
+  "product": {
+    "id": "178026",
+    "article": "94870",
+    "slug": "chaynik-bork-k516",
+    "hasSmartInstallments": false,
+    "isActive": true,
+    "name": {
+      "default": "BORK K516",
+      "full": "Чайник BORK K516",
+      "pseudo": null,
+      "spare": null,
+      "fullWithoutSection": "BORK K516",
+      "section": "Чайник",
+      "__typename": "ProductName"
+    },
+    "price": {
+      "default": 9000,
+      "marketing": null,
+      "old": null,
+      "__typename": "ProductPrice"
+    },
+    "benefit": null,
+    "specifications": {
+      "short": [
+        {
+          "name": "Мощность",
+          "value": "2400 Вт",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Объем",
+          "value": "1.9 л",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Материал корпуса",
+          "value": "стекло",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Регулировка температуры",
+          "value": "есть",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "__typename": "ProductV2Specifications"
+    },
+    "labels": [
+      {
+        "name": "Доставка",
+        "type": "delivery",
+        "items": [
+          {
+            "description": "",
+            "name": "Бесплатная доставка по России!",
+            "url": "/free-shipping-russia/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      }
+    ],
+    "labelsV2": [],
+    "status": {
+      "id": "IN_STOCK",
+      "name": "В наличии",
+      "type": "POSITIVE",
+      "__typename": "ProductStatus"
+    },
+    "brand": {
+      "code": "bork",
+      "id": "40364",
+      "name": "BORK",
+      "src": "https://cdn1.technopark.ru/technopark/photos_resized/section_brand_300_100/300_100/40364/1_40364.png",
+      "slug": "bork",
+      "sections": [
+        {
+          "name": "Обогреватели BORK",
+          "url": "/obogrevateli-i-teplovye-zavesy/bork/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3932565024/technopark/photos_resized/product/120_120/303711/1_303711.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/232653607/technopark/photos_resized/product/120_120/303711/2_303711.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2222600183/technopark/photos_resized/product/120_120/303711/3_303711.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3264083227/technopark/photos_resized/product/120_120/303711/4_303711.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2747943519/technopark/photos_resized/product/120_120/303711/5_303711.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/564040957/technopark/photos_resized/product/120_120/303711/6_303711.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/128894964/technopark/photos_resized/product/120_120/303711/7_303711.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2661783118/technopark/photos_resized/product/120_120/303711/8_303711.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1535419553/technopark/photos_resized/product/120_120/303711/9_303711.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Тостеры BORK",
+          "url": "/tostery/bork/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2763828839/technopark/photos_resized/product/120_120/108857/1_108857.JPG",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3773983276/technopark/photos_resized/product/120_120/108857/2_108857.JPG",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3913557511/technopark/photos_resized/product/120_120/108857/3_108857.JPG",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2424252046/technopark/photos_resized/product/120_120/108857/4_108857.JPG",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4270104436/technopark/photos_resized/product/120_120/108857/5_108857.JPG",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/599984773/technopark/photos_resized/product/120_120/108857/6_108857.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Фонари BORK",
+          "url": "/fonari-ruchnye/bork/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1109257355/technopark/photos_resized/product/120_120/751165/1_751165.jpg?timestamp=2026-02-02_11-29-50",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1164978322/technopark/photos_resized/product/120_120/751165/2_751165.jpg?timestamp=2026-02-02_11-29-50",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2886962599/technopark/photos_resized/product/120_120/751165/3_751165.jpg?timestamp=2026-02-02_11-29-50",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/846665732/technopark/photos_resized/product/120_120/751165/4_751165.jpg?timestamp=2026-02-02_11-29-50",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1063917774/technopark/photos_resized/product/120_120/751165/5_751165.jpg?timestamp=2026-02-02_11-29-58",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3675569457/technopark/photos_resized/product/120_120/751165/6_751165.jpg?timestamp=2026-02-02_11-29-50",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3590962683/technopark/photos_resized/product/120_120/751165/7_751165.jpg?timestamp=2026-02-02_11-29-57",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/940039383/technopark/photos_resized/product/120_120/751165/8_751165.jpg?timestamp=2026-02-02_11-29-57",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1229040566/technopark/photos_resized/product/120_120/751165/9_751165.jpg?timestamp=2026-02-02_11-30-04",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2949973343/technopark/photos_resized/product/120_120/751165/10_751165.jpg?timestamp=2026-02-02_11-29-58",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3513022946/technopark/photos_resized/product/120_120/751165/11_751165.jpg?timestamp=2026-02-02_11-29-57",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3085088752/technopark/photos_resized/product/120_120/751165/12_751165.jpg?timestamp=2026-02-02_11-30-05",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1463246574/technopark/photos_resized/product/120_120/751165/13_751165.jpg?timestamp=2026-02-02_11-30-05",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Все аксессуары BORK",
+          "url": "/aksessuary-krupnaya-bytovaya-tehnika/bork/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/81177437/technopark/photos_resized/product/120_120/643997/1_643997.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/320213550/technopark/photos_resized/product/120_120/643997/2_643997.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1943116747/technopark/photos_resized/product/120_120/643997/3_643997.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Переходники и кабели BORK",
+          "url": "/kabeli-i-perehodniki-/bork/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/792352354/technopark/photos_resized/product/120_120/771456/1_771456.jpg?timestamp=2024-12-13_11-48-31",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Внешние аккумуляторы BORK",
+          "url": "/portativnye-akkumuljatory/bork/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/525857057/technopark/photos_resized/product/120_120/764277/1_764277.jpg?timestamp=2025-11-11_12-01-57",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1254874719/technopark/photos_resized/product/120_120/764277/2_764277.jpg?timestamp=2025-11-11_12-01-58",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3403267748/technopark/photos_resized/product/120_120/764277/3_764277.jpg?timestamp=2025-11-11_12-01-59",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1750122935/technopark/photos_resized/product/120_120/764277/4_764277.jpg?timestamp=2025-11-11_12-02-00",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1302731334/technopark/photos_resized/product/120_120/764277/5_764277.jpg?timestamp=2025-11-11_12-02-00",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Декантеры BORK",
+          "url": "/dekantery/bork/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1247944869/technopark/photos_resized/product/120_120/670165/1_670165.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2734785936/technopark/photos_resized/product/120_120/670165/2_670165.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3557209350/technopark/photos_resized/product/120_120/670165/3_670165.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3398957171/technopark/photos_resized/product/120_120/670165/4_670165.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1479280429/technopark/photos_resized/product/120_120/670165/5_670165.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1180365429/technopark/photos_resized/product/120_120/670165/6_670165.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/973657130/technopark/photos_resized/product/120_120/670165/7_670165.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3326644878/technopark/photos_resized/product/120_120/670165/8_670165.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Товары для животных BORK",
+          "url": "/gadzhety-dlya-zhivotnykh/bork/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/444963333/technopark/photos_resized/product/120_120/711553/1_711553.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Аксессуары для массажных кресел BORK",
+          "url": "/aksessuary-dlya-massazhnykh-kresel/bork/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/781634231/technopark/photos_resized/product/120_120/804837/1_804837.jpg?timestamp=2025-11-10_10-58-01",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2742948523/technopark/photos_resized/product/120_120/804837/2_804837.jpg?timestamp=2025-11-10_10-57-42",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/36824384/technopark/photos_resized/product/120_120/804837/3_804837.jpg?timestamp=2025-11-10_10-57-45",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2604184826/technopark/photos_resized/product/120_120/804837/4_804837.jpg?timestamp=2025-11-10_10-57-45",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2079153636/technopark/photos_resized/product/120_120/804837/5_804837.jpg?timestamp=2025-11-10_10-57-46",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1243461534/technopark/photos_resized/product/120_120/804837/6_804837.jpg?timestamp=2025-11-10_10-57-43",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/667369137/technopark/photos_resized/product/120_120/804837/7_804837.jpg?timestamp=2025-11-10_10-57-58",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/704319150/technopark/photos_resized/product/120_120/804837/8_804837.jpg?timestamp=2025-11-10_10-58-02",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2927929932/technopark/photos_resized/product/120_120/804837/9_804837.jpg?timestamp=2025-11-10_10-57-58",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3460506537/technopark/photos_resized/product/120_120/804837/10_804837.jpg?timestamp=2025-11-10_10-58-03",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        }
+      ],
+      "__typename": "Brand"
+    },
+    "section": {
+      "slug": "chayniki",
+      "id": "912",
+      "name": "Чайники электрические",
+      "parents": [
+        {
+          "id": "900",
+          "name": "Для кухни",
+          "depth": 1,
+          "__typename": "SectionTreeItem"
+        },
+        {
+          "id": "912",
+          "name": "Чайники электрические",
+          "depth": 2,
+          "__typename": "SectionTreeItem"
+        }
+      ],
+      "__typename": "Section"
+    },
+    "media": {
+      "gallery": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/178026/1_178026.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/178026/1_178026.jpg?timestamp=2026-05-04_11-02-18",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/178026/2_178026.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/178026/2_178026.jpg",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/178026/3_178026.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/178026/3_178026.jpg?timestamp=2026-05-04_11-02-17",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/178026/4_178026.jpg?timestamp=2026-05-04_11-02-15",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/178026/4_178026.jpg?timestamp=2026-05-04_11-02-18",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/178026/5_178026.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/178026/5_178026.jpg?timestamp=2026-05-04_11-02-18",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/178026/6_178026.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/178026/6_178026.jpg?timestamp=2026-05-04_11-02-17",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/178026/7_178026.jpg?timestamp=2026-05-04_11-02-15",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/178026/7_178026.jpg?timestamp=2026-05-04_11-02-20",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "interior": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior/1000_1000/178026/1_178026.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior/1000_1000/178026/2_178026.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior/1000_1000/178026/3_178026.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior/1000_1000/178026/4_178026.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "video": [],
+      "vkVideo": null,
+      "view3d": [
+        {
+          "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_3d/1000_1000/178026/1_178026.jpg",
+          "__typename": "Image"
+        },
+        {
+          "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_3d/1000_1000/178026/2_178026.jpg",
+          "__typename": "Image"
+        },
+        {
+          "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_3d/1000_1000/178026/3_178026.jpg",
+          "__typename": "Image"
+        },
+        {
+          "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_3d/1000_1000/178026/4_178026.jpg",
+          "__typename": "Image"
+        },
+        {
+          "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_3d/1000_1000/178026/5_178026.jpg",
+          "__typename": "Image"
+        },
+        {
+          "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_3d/1000_1000/178026/6_178026.jpg",
+          "__typename": "Image"
+        },
+        {
+          "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_3d/1000_1000/178026/7_178026.jpg",
+          "__typename": "Image"
+        },
+        {
+          "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_3d/1000_1000/178026/8_178026.jpg",
+          "__typename": "Image"
+        },
+        {
+          "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_3d/1000_1000/178026/9_178026.jpg",
+          "__typename": "Image"
+        },
+        {
+          "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_3d/1000_1000/178026/10_178026.jpg",
+          "__typename": "Image"
+        },
+        {
+          "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_3d/1000_1000/178026/11_178026.jpg",
+          "__typename": "Image"
+        },
+        {
+          "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_3d/1000_1000/178026/12_178026.jpg",
+          "__typename": "Image"
+        },
+        {
+          "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_3d/1000_1000/178026/13_178026.jpg",
+          "__typename": "Image"
+        },
+        {
+          "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_3d/1000_1000/178026/14_178026.jpg",
+          "__typename": "Image"
+        },
+        {
+          "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_3d/1000_1000/178026/15_178026.jpg",
+          "__typename": "Image"
+        },
+        {
+          "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_3d/1000_1000/178026/16_178026.jpg",
+          "__typename": "Image"
+        },
+        {
+          "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_3d/1000_1000/178026/17_178026.jpg",
+          "__typename": "Image"
+        },
+        {
+          "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_3d/1000_1000/178026/18_178026.jpg",
+          "__typename": "Image"
+        }
+      ],
+      "listing": {
+        "default": [
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/178026/1_178026.jpg?timestamp=2026-05-04_11-02-10",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/178026/2_178026.jpg?timestamp=2026-05-04_11-02-10",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/178026/3_178026.jpg?timestamp=2026-05-04_11-02-10",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/178026/4_178026.jpg?timestamp=2026-05-04_11-02-16",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/178026/5_178026.jpg?timestamp=2026-05-04_11-02-10",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/178026/6_178026.jpg?timestamp=2026-05-04_11-02-10",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/178026/7_178026.jpg?timestamp=2026-05-04_11-02-16",
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "ProductListing"
+      },
+      "__typename": "ProductV2Media"
+    },
+    "modifications": {
+      "bigBrother": null,
+      "groups": [],
+      "__typename": "ProductModifications"
+    },
+    "description": {
+      "hasDescription": true,
+      "type": "DEFAULT",
+      "__typename": "ProductDescription"
+    },
+    "collection": {
+      "id": "178026",
+      "products": {
+        "pagination": {
+          "total": 0,
+          "__typename": "Pagination"
+        },
+        "__typename": "ProductV2Pagination"
+      },
+      "__typename": "ProductCollection"
+    },
+    "similar": {
+      "pagination": {
+        "total": 33,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "related": {
+      "pagination": {
+        "total": 20,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "accessories": [
+      {
+        "products": {
+          "pagination": {
+            "total": 3,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 1,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 5,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 20,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 11,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 13,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 2,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 17,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 13,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 4,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 2,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 1,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 14,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      }
+    ],
+    "rating": {
+      "average": 4.9,
+      "canRate": false,
+      "total": {
+        "all": 78,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 4,
+        "value5": 74,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "reviews": {
+      "total": 78,
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "totalRecommendations": 3,
+      "__typename": "ProductReviews"
+    },
+    "bestCredit": null,
+    "isSpare": false,
+    "isService": false,
+    "isVipService": false,
+    "isGiftBonusCard": false,
+    "canBuy": true,
+    "canPayOnline": true,
+    "canRequestPrice": false,
+    "canShowPrice": true,
+    "canSubscribe": false,
+    "needPrepaymentForDelivery": false,
+    "needPrepaymentForPreorder": false,
+    "isSberSpasiboPayAvailable": false,
+    "isYandexPayAllowed": false,
+    "yandexSplit": null,
+    "seo": {
+      "description": "Чайник BORK K516: купить в интернет-магазине Технопарк с расширенной гарантией и бесплатной доставкой по РФ. Подробные характеристики товара с отзывами реальных покупателей.",
+      "text": "Вы можете купить чайник BORK K516 с доставкой по Москве по низкой цене. В интернет-магазине Technopark.ru осуществляется продажа чайника BORK K516 на выгодных условиях.",
+      "textHidden": "",
+      "title": "Чайник BORK K516 - купить в Москве в интернет-магазине Технопарк",
+      "__typename": "SeoData"
+    },
+    "breadcrumbs": [
+      {
+        "name": "Главная",
+        "url": "/",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Техника для кухни",
+        "url": "/dlya-kuhni/",
+        "options": [
+          {
+            "name": "Центр инноваций",
+            "url": "/tovary-iz-budushchego/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Смартфоны и гаджеты",
+            "url": "/smartfony-i-gadzhety/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Компьютеры и ноутбуки",
+            "url": "/kompyutery-i-noutbuki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Климатическая техника",
+            "url": "/klimaticheskaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Крупная бытовая техника",
+            "url": "/krupnaya-bytovaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Бытовая техника для дома",
+            "url": "/dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для красоты и здоровья",
+            "url": "/krasota-i-zdorovye/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Спортивные товары",
+            "url": "/trenazhery-dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Телевизоры Аудио Hi-Fi",
+            "url": "/audio-video-foto/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для сада, дома и ремонта",
+            "url": "/dlya-sada-doma-i-remonta/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посуда",
+            "url": "/posuda/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Детские товары",
+            "url": "/detskie-tovary/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для гейминга",
+            "url": "/gaming/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Плоттеры и услуги розницы",
+            "url": "//",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Запасные части",
+            "url": "/zapasnie-chasti/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Электрические чайники",
+        "url": "/chayniki/",
+        "options": [
+          {
+            "name": "Аэрогрили",
+            "url": "/aerogrili/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Микроволновые печи",
+            "url": "/mikrovolnovye-pechi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мультиварки",
+            "url": "/multivarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мини-печи",
+            "url": "/mini-pechi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мультишефы BORK",
+            "url": "/multishefy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Миксеры и кухонные машины",
+            "url": "/miksery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрогрили",
+            "url": "/grili/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Уличные грили барбекю",
+            "url": "/ulichnye-grili-barbeku/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Фритюрницы",
+            "url": "/frityurnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Хлебопечки",
+            "url": "/hlebopechki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Пароварки",
+            "url": "/parovarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Настольные плиты",
+            "url": "/induktsionnye-paneli/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мороженицы",
+            "url": "/morozhenitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вакуумные упаковщики (вакууматоры)",
+            "url": "/vakuumnaya-upakovka/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Су виды",
+            "url": "/su-vidy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрические сковороды и воки",
+            "url": "/elektricheskie-skovorody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Автоматические кофемашины",
+            "url": "/kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кофеварки",
+            "url": "/kofevarki-i-kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кофейные станции",
+            "url": "/kofeynye-stantsii/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Капсульные кофемашины",
+            "url": "/kapsulnye-kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Гейзерные кофеварки для дома",
+            "url": "/gejzernye-kofevarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кофемолки",
+            "url": "/kofemolki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вспениватели молока",
+            "url": "/vspenivateli-moloka/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для приготовления кофе",
+            "url": "/prigotovlenie-kofe/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Соковыжималки",
+            "url": "/sokovyzhimalki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Термопоты",
+            "url": "/termopoty/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Декантеры",
+            "url": "/dekantery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кулеры для воды",
+            "url": "/kulery-dlya-vody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Льдогенераторы",
+            "url": "/ledogeneratory/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Системы газации напитков",
+            "url": "/sistema-gazatsii-napitkov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мясорубки",
+            "url": "/myasorubki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Блендеры",
+            "url": "/blendery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные комбайны",
+            "url": "/kuhonnye-kombayny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные измельчители (чопперы)",
+            "url": "/kukhonnye-izmelchiteli/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Ломтерезки",
+            "url": "/lomterezki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Овощерезки",
+            "url": "/elektroterka/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Тостеры",
+            "url": "/tostery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вафельницы",
+            "url": "/vafelnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мультипекари",
+            "url": "/sendvichnitsi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Яйцеварки",
+            "url": "/yaycevarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Блинницы",
+            "url": "/blinnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Йогуртницы",
+            "url": "/yogurtnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Фильтры для воды под мойку",
+            "url": "/filtry-kuvshiny-dlya-ochistki-vody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Фильтры-кувшины для воды",
+            "url": "/filtry-kuvshiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для очистки воды",
+            "url": "/dlya-ochistki-vody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные весы",
+            "url": "/kuhonnye-vesy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Дегидраторы",
+            "url": "/sushki-dlya-ovoschey/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для кухни",
+            "url": "/aksessuary-dlya-kuhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мойки для кухни",
+            "url": "/moyki-dlya-kukhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрошашлычницы",
+            "url": "/shashlychnitsa/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Электрические чайники BORK",
+        "url": "/chayniki/bork/",
+        "options": [
+          {
+            "name": "QYRON",
+            "url": "/chayniki/qyron/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Smeg",
+            "url": "/chayniki/smeg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Maunfeld",
+            "url": "/chayniki/maunfeld/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "KitchenAid",
+            "url": "/chayniki/kitchenaid/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Polaris",
+            "url": "/chayniki/polaris/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Brayer",
+            "url": "/chayniki/brayer/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Endever",
+            "url": "/chayniki/endever/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Tefal",
+            "url": "/chayniki/tefal/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Korting",
+            "url": "/chayniki/korting/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Braun",
+            "url": "/chayniki/braun/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Midea",
+            "url": "/chayniki/midea/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Bosch",
+            "url": "/chayniki/bosch/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "WMF",
+            "url": "/chayniki/wmf/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Zigmund Shtain",
+            "url": "/chayniki/zigmund_shtain/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Kitfort",
+            "url": "/chayniki/kitfort/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Libhof",
+            "url": "/chayniki/libhof/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Delonghi",
+            "url": "/chayniki/delonghi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Electrolux",
+            "url": "/chayniki/electrolux/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "VES",
+            "url": "/chayniki/ves/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Kenwell",
+            "url": "/chayniki/kenwell/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Zwilling",
+            "url": "/chayniki/zwilling/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Atvel",
+            "url": "/chayniki/atvel/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Toshiba",
+            "url": "/chayniki/toshiba/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Moulinex",
+            "url": "/chayniki/moulinex/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Gorenje",
+            "url": "/chayniki/gorenje/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "BORK K516",
+        "url": "chaynik-bork-k516",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      }
+    ],
+    "isArchive": false,
+    "__typename": "ProductV2",
+    "isSberPayOneClickAllowed": false,
+    "isTinkoffPayOneClickAllowed": false,
+    "bonus": null
+  },
+  "details": {
+    "description": "<style> *{box-sizing:border-box;outline:0}body{font-family:'DINPro Technopark',Arial;font-size:14px;font-weight:400;font-display:swap;margin:0;overflow-x:hidden;position:relative;min-height:95vh;-webkit-tap-highlight-color:transparent}body.lock-scroll{overflow:hidden;position:fixed;right:0;left:0;bottom:0}@media (min-width:1192px){body.lock-scroll{position:relative}}@media screen and (max-device-width:480px){body{-webkit-text-size-adjust:none}}.label-for-seo{width:100%}.label-for-seo__span{display:none}a{color:#0093c4;text-decoration:none}.is-visible{display:block!important}.is-hidden{display:none!important}.is-visually-hidden{opacity:0!important;visibility:hidden!important;pointer-events:none!important}.is-link{color:#0093c4}.no-wrap{white-space:nowrap}.container{margin:auto;width:100%}@media (min-width:960px){.container{width:calc(100% - 48px)}}@media (min-width:1482px){.container{max-width:1397px}}.is-overflow-hidden{overflow:hidden}.is-mobile-not{display:none!important}@media (min-width:960px){.is-mobile-not{display:block!important}}@media (min-width:960px){.is-mobile-only{display:none!important}}@media (max-width:959px){.hide-phone{display:none}}@media (min-width:960px) and (max-width:1481px){.hide-tablet{display:none}}.is-hidden{display:none!important}.nowrap-text{white-space:nowrap}.textcenter{text-align:center}ul.list{margin:0;padding:6px 0 18px}@media (min-width:960px){ul.list{padding:6px 0 24px}}ul.list li{font-family:'DINPro Technopark',Arial;font-size:15px;font-weight:400;font-display:swap;color:#fff;line-height:20px;list-style:none;margin:0;padding-left:9px;position:relative}@media (min-width:960px){ul.list li{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:400;font-display:swap;line-height:21px;padding-left:26px}}ul.list>li:before{background-color:#fff;border-radius:50%;content:\"\";display:block;height:3px;left:0;position:absolute;top:10px;width:3px}@media (min-width:960px){ul.list>li:before{border-radius:0;height:1px;width:13px}}ul.list>li>ul{padding:6px 0 6px 15px}@media (min-width:960px){ul.list>li>ul{padding:3px 0 3px 4px}}ul.list>li>ul>li:before{background-color:rgba(255,255,255,.5)}ul.list>li>ul>li>ul{padding:6px 0 0 15px}@media (min-width:960px){ul.list>li>ul>li>ul{padding:3px 0 0 4px}}ul.list>li>ul>li>ul>li:before{background-color:rgba(255,255,255,.2)}ol.list{margin:0;padding:6px 0 18px;counter-reset:list1}@media (min-width:960px){ol.list{padding:6px 0 24px}}ol.list li{font-family:'DINPro Technopark',Arial;font-size:15px;font-weight:400;font-display:swap;color:#fff;line-height:20px;list-style:none;margin:0;padding-left:9px;position:relative}@media (min-width:960px){ol.list li{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:400;font-display:swap;line-height:21px;padding-left:26px}}ol.list>li{padding-left:24px}ol.list>li:before{counter-increment:list1;content:counter(list1) \". \";left:0;position:absolute}ol.list>li>ol{counter-reset:list2;padding:6px 0}@media (min-width:960px){ol.list>li>ol{padding:3px 0}}ol.list>li>ol>li{padding-left:42px}ol.list>li>ol>li:before{counter-increment:list2;content:counter(list1) \".\" counter(list2) \". \"}ol.list>li>ol>li>ol{counter-reset:list3}ol.list>li>ol>li>ol>li:before{counter-increment:list3;content:counter(list1) \".\" counter(list2) \".\" counter(list3) \". \"}ol.list--compact{padding:0}.list--line-interval li:not(:last-child){margin-bottom:1em}input::-ms-clear{display:none}input::-webkit-clear-button{display:none}@media (max-width:767px){.footer{padding-bottom:66px}}.page-container{margin:auto;padding:0 18px;width:100%}@media (min-width:960px){.page-container{padding:0 24px;width:100%}}@media (min-width:1482px){.page-container{width:1481px}}@media (min-width:960px){.page-container--extra-padding{padding:0 42px}}.default-container{width:100%;max-width:1481px;margin:auto;padding:0 12px}@media (min-width:960px){.default-container{padding:0 24px}}button,input,select,textarea{font-family:inherit;font-size:100%;margin:0}textarea{resize:none;overflow:auto}form{margin:0}button{color:inherit}dd,dl,dt{margin:0;padding:0}input[type=search]{-webkit-appearance:none}input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration,input[type=search]::-webkit-search-results-button,input[type=search]::-webkit-search-results-decoration{display:none}input:invalid{box-shadow:none}textarea:invalid{box-shadow:none}svg *{pointer-events:none}.product__desc{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:300;font-display:swap;color:#878787;display:none}.product__desc b{font-family:'DINPro Technopark',Arial;font-size:20px;font-weight:400;font-display:swap;color:#fff}.dyson-v10-picking,.dyson-v10-properties,.dyson-v10-wrapper,.dyson-v10-wrapper .dyson-v10__list span{color:#fff;padding:0 12px}@media (max-width:1154px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:170px}}@media (max-width:1100px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:270px}}@media (max-width:960px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:27px}}.dyson-v10-first-row li.dyson-v10-item{max-width:calc(100% / 3 - 10);padding-right:5px}@media (max-width:959px){.dyson-v10-first-row{flex-direction:column;align-items:flex-start}.dyson-v10-first-row li.dyson-v10-item{max-width:none}}@media (min-width:960px) and (max-width:1303px){.dyson-v10-first-row{flex-direction:column;align-items:flex-start}.dyson-v10-first-row li.dyson-v10-item{max-width:none}}.dyson-v10-chapter{text-align:center!important}.dyson-v10__list li.dyson-v10__list-item{background-size:contain;background-position:left} </style> <p>Изящный чайник BORK K516 с увеличенной вместимостью до 1.9 л., выполненный из термостойкого стекла с элементами из нержавеющей стали и пластика, отлично впишется в современный интерьер  кухни. А подсветка воды во время её нагрева, особенно при приглушённом свете, добавит завораживающий эффект.</p>      <h2>Особенности</h2>  <ul class=\"list\">  <li><b>Температурные режимы</b><br />  Вы можете установить температуру нагрева воды в диапазоне 50…100°С, с точностью до 5°С. Это актуально для заваривания разных сортов чая, кофе или приготовления детского питания. При достижении заданной температуры, чайник издаст 5 звуковых сигналов, обозначающих переход в режим поддержания тепла</li>    <li><b>Поддержание температуры</b><br />  Режим поддержания тепла длится 30 минут. По истечении этого времени чайник издаёт 5 звуковых сигналов, напоминающих о завершении функции</li>    <li><b>Термостойкая колба с фильтром</b><br />  Колба изготовлена из немецкого термостойкого стекла Schott Duran, не содержащего вредные примеси. Дополнительно в ней установлен съемный металлический фильтр от накипи</li>    <li><b>Удобная ручка</b><br />  Ручка чайника имеет противоскользящее покрытие для безопасного использования</li>  </ul>",
+    "descriptionType": "DEFAULT",
+    "descriptionBarcode": "4610032443018",
+    "descriptionBrand": "BORK",
+    "specifications": {
+      "short": [
+        {
+          "name": "Мощность",
+          "value": "2400 Вт",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Объем",
+          "value": "1.9 л",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Материал корпуса",
+          "value": "стекло",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Регулировка температуры",
+          "value": "есть",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "barcode": "4610032443018",
+      "country": "Китай",
+      "full": [
+        {
+          "name": "Основные характеристики",
+          "list": [
+            {
+              "name": "Мощность",
+              "value": "2400 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Объем",
+              "value": "1.9 л",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал корпуса",
+              "value": "стекло",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дополнительный материал",
+              "value": "нержавеющая сталь",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Нагревательный элемент",
+              "value": "закрытого типа",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет",
+              "value": "серебристый",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Управление",
+          "list": [
+            {
+              "name": "Управление",
+              "value": "электронное",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Регулировка температуры",
+              "value": "есть",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дисплей",
+              "value": "цифровой",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип дисплея",
+              "value": "LED",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Подсветка дисплея",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Функции",
+          "list": [
+            {
+              "name": "Поддержание температуры",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Минимальная температура нагрева воды",
+              "value": "50 °С",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная температура нагрева воды",
+              "value": "100 °С",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Подогрев до заданной температуры",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Фильтрация",
+          "list": [
+            {
+              "name": "Фильтр от накипи",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал фильтра",
+              "value": "нержавеющая сталь",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Защита и безопасность",
+          "list": [
+            {
+              "name": "Защита от перегрева",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автоотключение при снятии с подставки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автоотключение при отсутствии воды",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автоотключение при закипании",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Звуковой сигнал",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Дополнительные характеристики",
+          "list": [
+            {
+              "name": "Теплоизолированная ручка",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Подсветка воды",
+              "value": "есть",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Шкала уровня воды",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикатор включения",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикатор нагрева",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикатор температуры",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вращение на подставке на 360 градусов",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Открывание крышки",
+              "value": "кнопка на ручке",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дополнительная информация",
+              "value": "колба из стекло Schott Duran, ручка с противоскользящим покрытием, время поддержания тепла – 30 минут",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Комплектация",
+          "list": [
+            {
+              "name": "Инструкция",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Питание",
+          "list": [
+            {
+              "name": "Источник питания",
+              "value": "сеть",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Длина сетевого шнура",
+              "value": "1.2 м",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Размеры и вес",
+          "list": [
+            {
+              "name": "Высота",
+              "value": "26 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ширина",
+              "value": "21.5 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Глубина",
+              "value": "16 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вес",
+              "value": "1.5 кг",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        }
+      ],
+      "grossWeight": "2",
+      "netWeight": "1.5",
+      "height": "0.32",
+      "instructionUrl": "https://storage.yandexcloud.net/technopark.instructions/178026/instruction/instrukciya-chaynik-bork-k516.pdf",
+      "length": "0.22",
+      "schemeUrl": null,
+      "warranty": "12",
+      "width": "0.19",
+      "__typename": "ProductV2Specifications"
+    },
+    "certificates": [
+      "https://www.technopark.ru/bipublic/Cert/1O8093MI2V53Q0.pdf",
+      "https://www.technopark.ru/bipublic/Cert/1O8093MI32E4I6.pdf"
+    ],
+    "isManufacturerCountry": false,
+    "isSellerWarranty": false,
+    "reviews": {
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "total": 78,
+      "totalRecommendations": 3,
+      "__typename": "ProductReviews"
+    },
+    "rating": {
+      "average": 4.9,
+      "canRate": false,
+      "total": {
+        "all": 78,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 4,
+        "value5": 74,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "isLoading": false
+  },
+  "shots": [
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/178026/1_178026.jpg?timestamp=2026-05-04_11-02-18",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/178026/1_178026.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/178026/1_178026.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/178026/2_178026.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/178026/2_178026.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/178026/2_178026.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/178026/3_178026.jpg?timestamp=2026-05-04_11-02-17",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/178026/3_178026.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/178026/3_178026.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/178026/4_178026.jpg?timestamp=2026-05-04_11-02-18",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/178026/4_178026.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/178026/4_178026.jpg?timestamp=2026-05-04_11-02-15"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/178026/5_178026.jpg?timestamp=2026-05-04_11-02-18",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/178026/5_178026.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/178026/5_178026.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/178026/6_178026.jpg?timestamp=2026-05-04_11-02-17",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/178026/6_178026.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/178026/6_178026.jpg"
+    ]
+  ],
+  "photos": [
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/chaynik-bork-k516-1.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/chaynik-bork-k516-2.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/chaynik-bork-k516-3.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/chaynik-bork-k516-4.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/chaynik-bork-k516-5.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/chaynik-bork-k516-6.jpg"
+  ]
+}

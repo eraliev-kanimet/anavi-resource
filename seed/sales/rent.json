@@ -1,0 +1,96 @@
+{
+  "services": [
+    {
+      "slug": "arenda-god",
+      "name": {
+        "ru": "Аренда Anavi на год",
+        "en": "Anavi for a year"
+      },
+      "summary": {
+        "ru": "Сайт, каталог, заказы и клиенты организации на год",
+        "en": "The organization's site, catalogue, orders and clients for a year"
+      },
+      "price": 36000,
+      "termMonths": 12
+    },
+    {
+      "slug": "arenda-mesyac",
+      "name": {
+        "ru": "Аренда Anavi на месяц",
+        "en": "Anavi for a month"
+      },
+      "summary": {
+        "ru": "Сайт, каталог, заказы и клиенты организации на месяц",
+        "en": "The organization's site, catalogue, orders and clients for a month"
+      },
+      "price": 3500,
+      "termMonths": 1
+    }
+  ],
+  "tenants": [
+    {
+      "org": "Ателье Нурай",
+      "person": "Нурай Абдыкалыкова",
+      "email": "nurai@atelier-nurai.kg",
+      "terms": {
+        "days": 10,
+        "limit": 36000
+      },
+      "bank": {
+        "name": "Бакай Банк",
+        "opening": 120000
+      },
+      "service": "arenda-god",
+      "serves": 20,
+      "bills": [
+        {
+          "paid": 18,
+          "say": "Годовая аренда: сайт ещё не собран, оплатили вперёд"
+        }
+      ],
+      "renews": true
+    },
+    {
+      "org": "Кофейня Арча",
+      "person": "Бектур Осмонов",
+      "email": "bektur@archa-coffee.kg",
+      "terms": {
+        "days": 10,
+        "limit": 7000
+      },
+      "bank": {
+        "name": "Оптима Банк",
+        "opening": 15000
+      },
+      "service": "arenda-mesyac",
+      "serves": 50,
+      "bills": [
+        {
+          "paid": 46,
+          "say": "Первый месяц аренды"
+        },
+        {
+          "paid": null,
+          "say": "Второй месяц: обещали оплатить после зарплаты"
+        }
+      ],
+      "renews": false
+    }
+  ],
+  "agent": {
+    "login": "aibek",
+    "name": "Айбек Токтогулов",
+    "keeps": ["Ателье Нурай"]
+  },
+  "support": [
+    {
+      "org": "Ателье Нурай",
+      "says": "Здравствуйте! Как подключить свой домен atelier-nurai.kg к сайту?",
+      "answer": "Добрый день, Нурай! Пришлите, пожалуйста, где куплен домен — подскажу записи DNS, это минут десять."
+    },
+    {
+      "org": "Кофейня Арча",
+      "says": "Счёт за ноябрь пришёл, оплатим на следующей неделе. Сайт не отключат?"
+    }
+  ]
+}

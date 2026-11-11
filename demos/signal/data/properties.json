@@ -1,0 +1,765 @@
+{
+ "groups": [
+  {
+   "slug": "main",
+   "name": "Основное"
+  },
+  {
+   "slug": "wifi",
+   "name": "Wi-Fi"
+  },
+  {
+   "slug": "wired",
+   "name": "Проводные порты"
+  },
+  {
+   "slug": "cellular",
+   "name": "Сотовая связь"
+  },
+  {
+   "slug": "antenna",
+   "name": "Антенна"
+  },
+  {
+   "slug": "body",
+   "name": "Корпус и гарантия"
+  }
+ ],
+ "properties": [
+  {
+   "slug": "brend",
+   "name": "Бренд",
+   "kind": "enum",
+   "multiple": false,
+   "values": [
+    {
+     "slug": "altel",
+     "label": "Altel"
+    },
+    {
+     "slug": "asus",
+     "label": "ASUS"
+    },
+    {
+     "slug": "bt",
+     "label": "BT"
+    },
+    {
+     "slug": "huawei",
+     "label": "Huawei"
+    },
+    {
+     "slug": "keenetic",
+     "label": "Keenetic"
+    },
+    {
+     "slug": "lintratek",
+     "label": "Lintratek"
+    },
+    {
+     "slug": "mercusys",
+     "label": "Mercusys"
+    },
+    {
+     "slug": "mikrotik",
+     "label": "MikroTik"
+    },
+    {
+     "slug": "starlink",
+     "label": "Starlink"
+    },
+    {
+     "slug": "tenda",
+     "label": "Tenda"
+    },
+    {
+     "slug": "tp-link",
+     "label": "TP-Link"
+    },
+    {
+     "slug": "ubiquiti",
+     "label": "Ubiquiti"
+    },
+    {
+     "slug": "zte",
+     "label": "ZTE"
+    }
+   ],
+   "group": "main"
+  },
+  {
+   "slug": "tip-ustroystva",
+   "name": "Тип устройства",
+   "kind": "enum",
+   "multiple": false,
+   "values": [
+    {
+     "slug": "4g-lte-router",
+     "label": "4G LTE роутер"
+    },
+    {
+     "slug": "4g-lte-router-lte-cpe",
+     "label": "4G LTE-роутер (LTE CPE)"
+    },
+    {
+     "slug": "5g-cpe-huawei-5g-cpe-5",
+     "label": "5G CPE (Huawei 5G CPE 5)"
+    },
+    {
+     "slug": "bluetooth-wi-fi-adapter",
+     "label": "Bluetooth+Wi-Fi адаптер"
+    },
+    {
+     "slug": "mesh-router",
+     "label": "Mesh роутер"
+    },
+    {
+     "slug": "mesh-sistema-2-sht",
+     "label": "Mesh система (2 шт.)"
+    },
+    {
+     "slug": "usb-wi-fi-adapter-ax300-s-antennoy-vysokogo-usileniya",
+     "label": "USB Wi-Fi адаптер AX300 с антенной высокого усиления"
+    },
+    {
+     "slug": "usb-modem-lte-s-wi-fi-wingle",
+     "label": "USB-модем LTE с Wi-Fi (Wingle)"
+    },
+    {
+     "slug": "wi-fi-adapter",
+     "label": "Wi-Fi адаптер"
+    },
+    {
+     "slug": "wi-fi-most",
+     "label": "Wi-Fi мост"
+    },
+    {
+     "slug": "wi-fi-router",
+     "label": "Wi-Fi роутер"
+    },
+    {
+     "slug": "karmannyy-4g-wi-fi-router-mobile-wi-fi",
+     "label": "Карманный 4G Wi-Fi роутер (Mobile Wi-Fi)"
+    },
+    {
+     "slug": "mobilnyy-4g-wi-fi-router-bt-4g-wi-fi-mini-hub",
+     "label": "Мобильный 4G Wi-Fi роутер (BT 4G Wi-Fi Mini Hub)"
+    },
+    {
+     "slug": "mobilnyy-router",
+     "label": "Мобильный роутер"
+    },
+    {
+     "slug": "trekhdiapazonnyy-repiter-usilitel-sotovoy-svyazi-s-aru-agc",
+     "label": "Трёхдиапазонный репитер (усилитель) сотовой связи с АРУ (AGC)"
+    }
+   ],
+   "group": "main"
+  },
+  {
+   "slug": "standart-wifi",
+   "name": "Стандарт Wi-Fi",
+   "kind": "enum",
+   "multiple": false,
+   "values": [
+    {
+     "slug": "wi-fi-4-802-11n",
+     "label": "Wi-Fi 4 (802.11n)"
+    },
+    {
+     "slug": "wi-fi-5-802-11ac",
+     "label": "Wi-Fi 5 (802.11ac)"
+    },
+    {
+     "slug": "wi-fi-6-802-11ax",
+     "label": "Wi-Fi 6 (802.11ax)"
+    },
+    {
+     "slug": "wi-fi-7-802-11be",
+     "label": "Wi-Fi 7 (802.11be)"
+    }
+   ],
+   "group": "wifi"
+  },
+  {
+   "slug": "diapazony-wifi",
+   "name": "Диапазоны Wi-Fi",
+   "kind": "enum",
+   "multiple": true,
+   "values": [
+    {
+     "slug": "2-4-ggts",
+     "label": "2.4 ГГц"
+    },
+    {
+     "slug": "5-ggts",
+     "label": "5 ГГц"
+    },
+    {
+     "slug": "6-ggts",
+     "label": "6 ГГц"
+    }
+   ],
+   "group": "wifi"
+  },
+  {
+   "slug": "skorost-wifi",
+   "name": "Скорость Wi-Fi",
+   "kind": "number",
+   "unit": "mbps",
+   "group": "wifi"
+  },
+  {
+   "slug": "mesh",
+   "name": "Поддержка Mesh",
+   "kind": "bool",
+   "group": "wifi"
+  },
+  {
+   "slug": "kolichestvo-portov",
+   "name": "Количество портов",
+   "kind": "number",
+   "group": "wired"
+  },
+  {
+   "slug": "skorost-porta",
+   "name": "Максимальная скорость порта",
+   "kind": "enum",
+   "multiple": false,
+   "values": [
+    {
+     "slug": "1-gbit-s",
+     "label": "1 Гбит/с"
+    },
+    {
+     "slug": "10-gbit-s",
+     "label": "10 Гбит/с"
+    },
+    {
+     "slug": "100-mbit-s",
+     "label": "100 Мбит/с"
+    },
+    {
+     "slug": "2-5-gbit-s",
+     "label": "2.5 Гбит/с"
+    },
+    {
+     "slug": "25-gbit-s",
+     "label": "25 Гбит/с"
+    },
+    {
+     "slug": "40-gbit-s",
+     "label": "40 Гбит/с"
+    }
+   ],
+   "group": "wired"
+  },
+  {
+   "slug": "porty",
+   "name": "Порты",
+   "kind": "text",
+   "group": "wired"
+  },
+  {
+   "slug": "sfp",
+   "name": "Порты SFP / SFP+",
+   "kind": "bool",
+   "group": "wired"
+  },
+  {
+   "slug": "form-faktor",
+   "name": "Форм-фактор модуля",
+   "kind": "enum",
+   "multiple": false,
+   "values": [
+    {
+     "slug": "sfp",
+     "label": "SFP"
+    },
+    {
+     "slug": "sfp-2",
+     "label": "SFP+"
+    }
+   ],
+   "group": "wired"
+  },
+  {
+   "slug": "sreda",
+   "name": "Среда передачи",
+   "kind": "enum",
+   "multiple": false,
+   "values": [
+    {
+     "slug": "vitaya-para",
+     "label": "Витая пара"
+    },
+    {
+     "slug": "mnogomodovoe-volokno",
+     "label": "Многомодовое волокно"
+    },
+    {
+     "slug": "odnomodovoe-volokno",
+     "label": "Одномодовое волокно"
+    }
+   ],
+   "group": "wired"
+  },
+  {
+   "slug": "dlina-volny",
+   "name": "Длина волны",
+   "kind": "enum",
+   "multiple": false,
+   "values": [
+    {
+     "slug": "850-nm",
+     "label": "850 нм"
+    },
+    {
+     "slug": "1310-nm",
+     "label": "1310 нм"
+    }
+   ],
+   "group": "wired"
+  },
+  {
+   "slug": "dalnost",
+   "name": "Максимальная дальность",
+   "kind": "enum",
+   "multiple": false,
+   "values": [
+    {
+     "slug": "100-m",
+     "label": "100 м"
+    },
+    {
+     "slug": "20-km",
+     "label": "20 км"
+    },
+    {
+     "slug": "200-m",
+     "label": "200 м"
+    },
+    {
+     "slug": "300-m",
+     "label": "300 м"
+    },
+    {
+     "slug": "550-m",
+     "label": "550 м"
+    }
+   ],
+   "group": "wired"
+  },
+  {
+   "slug": "poe-porty",
+   "name": "Порты PoE (выход)",
+   "kind": "number",
+   "group": "wired"
+  },
+  {
+   "slug": "pitanie-poe",
+   "name": "Питание по PoE",
+   "kind": "bool",
+   "group": "wired"
+  },
+  {
+   "slug": "uroven-kommutatora",
+   "name": "Уровень коммутатора",
+   "kind": "enum",
+   "multiple": false,
+   "values": [
+    {
+     "slug": "l2",
+     "label": "L2"
+    },
+    {
+     "slug": "l3",
+     "label": "L3"
+    }
+   ],
+   "group": "wired"
+  },
+  {
+   "slug": "stoyka",
+   "name": "Установка в стойку",
+   "kind": "bool",
+   "group": "wired"
+  },
+  {
+   "slug": "ulichnoe-ispolnenie",
+   "name": "Уличное исполнение",
+   "kind": "bool",
+   "group": "body"
+  },
+  {
+   "slug": "lte",
+   "name": "Модем 4G / LTE",
+   "kind": "enum",
+   "multiple": false,
+   "values": [
+    {
+     "slug": "vstroennyy",
+     "label": "Встроенный"
+    },
+    {
+     "slug": "cherez-minipcie-modem",
+     "label": "Через miniPCIe-модем"
+    },
+    {
+     "slug": "cherez-usb-modem",
+     "label": "Через USB-модем"
+    }
+   ],
+   "group": "cellular"
+  },
+  {
+   "slug": "kategoriya-lte",
+   "name": "Категория LTE",
+   "kind": "enum",
+   "multiple": false,
+   "values": [
+    {
+     "slug": "cat-20",
+     "label": "Cat.20"
+    },
+    {
+     "slug": "cat-4",
+     "label": "Cat.4"
+    },
+    {
+     "slug": "cat-6",
+     "label": "Cat.6"
+    },
+    {
+     "slug": "cat-9",
+     "label": "Cat.9"
+    }
+   ],
+   "group": "cellular"
+  },
+  {
+   "slug": "diapazony-lte",
+   "name": "Диапазоны LTE",
+   "kind": "text",
+   "group": "cellular"
+  },
+  {
+   "slug": "sim",
+   "name": "SIM-карта",
+   "kind": "enum",
+   "multiple": false,
+   "values": [
+    {
+     "slug": "1",
+     "label": "1"
+    },
+    {
+     "slug": "1-modem-micro-sim",
+     "label": "1 Modem (Micro SIM)"
+    },
+    {
+     "slug": "1-x-micro-sim",
+     "label": "1 x Micro SIM"
+    },
+    {
+     "slug": "micro-sim",
+     "label": "micro-SIM"
+    },
+    {
+     "slug": "nano-sim",
+     "label": "Nano SIM"
+    },
+    {
+     "slug": "standartnaya-sim-2ff",
+     "label": "Стандартная SIM (2FF)"
+    }
+   ],
+   "group": "cellular"
+  },
+  {
+   "slug": "tip-antenny",
+   "name": "Тип антенны",
+   "kind": "enum",
+   "multiple": false,
+   "values": [
+    {
+     "slug": "vsenapravlennaya",
+     "label": "Всенаправленная"
+    },
+    {
+     "slug": "napravlennaya-dvukhdiapazonnaya",
+     "label": "Направленная двухдиапазонная"
+    },
+    {
+     "slug": "sektornaya",
+     "label": "Секторная"
+    },
+    {
+     "slug": "semnaya-vsenapravlennaya",
+     "label": "Съёмная всенаправленная"
+    },
+    {
+     "slug": "elektronnaya-fazirovannaya-antennaya-reshetka",
+     "label": "Электронная фазированная антенная решётка"
+    }
+   ],
+   "group": "antenna"
+  },
+  {
+   "slug": "usilenie-antenny",
+   "name": "Усиление антенны",
+   "kind": "number",
+   "unit": "dbi",
+   "group": "antenna"
+  },
+  {
+   "slug": "shirina-lucha",
+   "name": "Ширина луча",
+   "kind": "enum",
+   "multiple": true,
+   "values": [
+    {
+     "slug": "120-po-gorizontali",
+     "label": "120° по горизонтали"
+    },
+    {
+     "slug": "12-po-vertikali",
+     "label": "12° по вертикали"
+    },
+    {
+     "slug": "360-po-gorizontali",
+     "label": "360° по горизонтали"
+    },
+    {
+     "slug": "45-na-5-ggts",
+     "label": "45° на 5 ГГц"
+    },
+    {
+     "slug": "90-na-2-4-ggts",
+     "label": "90° на 2,4 ГГц"
+    }
+   ],
+   "group": "antenna"
+  },
+  {
+   "slug": "polyarizatsiya",
+   "name": "Поляризация",
+   "kind": "enum",
+   "multiple": false,
+   "values": [
+    {
+     "slug": "dvoynaya-lineynaya",
+     "label": "Двойная линейная"
+    }
+   ],
+   "group": "antenna"
+  },
+  {
+   "slug": "usb",
+   "name": "USB-порт",
+   "kind": "enum",
+   "multiple": false,
+   "values": [
+    {
+     "slug": "microusb",
+     "label": "microUSB"
+    },
+    {
+     "slug": "usb-3-0-type-a",
+     "label": "USB 3.0 Type-A"
+    },
+    {
+     "slug": "usb-type-a",
+     "label": "USB Type-A"
+    }
+   ],
+   "group": "wired"
+  },
+  {
+   "slug": "vpn",
+   "name": "Поддержка VPN",
+   "kind": "bool",
+   "group": "wired"
+  },
+  {
+   "slug": "ozu",
+   "name": "Оперативная память",
+   "kind": "number",
+   "unit": "mb",
+   "group": "body"
+  },
+  {
+   "slug": "razem",
+   "name": "Разъём",
+   "kind": "enum",
+   "multiple": false,
+   "values": [
+    {
+     "slug": "2-x-rp-sma",
+     "label": "2 x RP-SMA"
+    },
+    {
+     "slug": "lc",
+     "label": "LC"
+    },
+    {
+     "slug": "lc-duplex",
+     "label": "LC duplex"
+    },
+    {
+     "slug": "rj-45",
+     "label": "RJ-45"
+    },
+    {
+     "slug": "rp-sma-male",
+     "label": "RP-SMA (male)"
+    }
+   ],
+   "group": "wired"
+  },
+  {
+   "slug": "razem-1",
+   "name": "Разъём 1",
+   "kind": "enum",
+   "multiple": false,
+   "values": [
+    {
+     "slug": "f-female",
+     "label": "F (female)"
+    },
+    {
+     "slug": "mmcx-male",
+     "label": "MMCX (male)"
+    },
+    {
+     "slug": "n-male",
+     "label": "N (male)"
+    },
+    {
+     "slug": "sma-female",
+     "label": "SMA (female)"
+    },
+    {
+     "slug": "sma-male",
+     "label": "SMA (male)"
+    },
+    {
+     "slug": "u-fl-female",
+     "label": "U.FL (female)"
+    },
+    {
+     "slug": "u-fl-male",
+     "label": "U.FL (male)"
+    }
+   ],
+   "group": "wired"
+  },
+  {
+   "slug": "razem-2",
+   "name": "Разъём 2",
+   "kind": "enum",
+   "multiple": false,
+   "values": [
+    {
+     "slug": "crc9",
+     "label": "CRC9"
+    },
+    {
+     "slug": "f-female",
+     "label": "F (female)"
+    },
+    {
+     "slug": "mmcx-male",
+     "label": "MMCX (male)"
+    },
+    {
+     "slug": "n-male",
+     "label": "N (male)"
+    },
+    {
+     "slug": "rp-sma-female",
+     "label": "RP-SMA (female)"
+    },
+    {
+     "slug": "sma-female",
+     "label": "SMA (female)"
+    },
+    {
+     "slug": "sma-male",
+     "label": "SMA (male)"
+    },
+    {
+     "slug": "ts9-pryamoy",
+     "label": "TS9 (прямой)"
+    }
+   ],
+   "group": "wired"
+  },
+  {
+   "slug": "tip-kabelya",
+   "name": "Тип кабеля",
+   "kind": "enum",
+   "multiple": false,
+   "values": [
+    {
+     "slug": "lmr195",
+     "label": "LMR195"
+    },
+    {
+     "slug": "rg174",
+     "label": "RG174"
+    },
+    {
+     "slug": "bez-kabelya-perekhodnik",
+     "label": "без кабеля (переходник)"
+    },
+    {
+     "slug": "bez-kabelya-troynik",
+     "label": "без кабеля (тройник)"
+    }
+   ],
+   "group": "main"
+  },
+  {
+   "slug": "dlina",
+   "name": "Длина",
+   "kind": "enum",
+   "multiple": false,
+   "values": [
+    {
+     "slug": "1",
+     "label": "1"
+    },
+    {
+     "slug": "20",
+     "label": "20"
+    },
+    {
+     "slug": "30",
+     "label": "30"
+    }
+   ],
+   "group": "main"
+  },
+  {
+   "slug": "razmery",
+   "name": "Размеры",
+   "kind": "text",
+   "unit": "mm",
+   "group": "body"
+  },
+  {
+   "slug": "ves",
+   "name": "Вес",
+   "kind": "number",
+   "unit": "kg",
+   "group": "body"
+  },
+  {
+   "slug": "garantiya",
+   "name": "Гарантия",
+   "kind": "text",
+   "group": "body"
+  }
+ ]
+}

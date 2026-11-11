@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Канистра лицом",
+    "extra": false,
+    "steps": [
+      {
+        "kind": "look",
+        "part": "brief",
+        "task": "",
+        "role": "text",
+        "when": "always"
+      },
+      {
+        "kind": "look",
+        "part": "anatomy",
+        "task": "Все надписи этикетки буква в букву: название, вкус или аромат, объём.",
+        "role": "look",
+        "when": "always"
+      },
+      {
+        "kind": "look",
+        "part": "stains",
+        "task": "",
+        "role": "text",
+        "when": "new"
+      },
+      {
+        "kind": "draw",
+        "part": "picture",
+        "task": "Канистра целиком, лицевой стороной, этикетка читается. Светлый фон, мягкая тень под канистрой, без рук и полок.",
+        "role": "image",
+        "when": "always"
+      },
+      {
+        "kind": "code",
+        "part": "whiten",
+        "task": "",
+        "role": "text",
+        "when": "always"
+      },
+      {
+        "kind": "code",
+        "part": "colour",
+        "task": "",
+        "role": "text",
+        "when": "always"
+      },
+      {
+        "kind": "check",
+        "part": "added_lost",
+        "task": "",
+        "role": "text",
+        "when": "always"
+      }
+    ]
+  }
+]

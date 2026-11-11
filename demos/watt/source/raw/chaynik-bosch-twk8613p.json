@@ -1,0 +1,1888 @@
+{
+  "shelf": "chayniki",
+  "slug": "chaynik-bosch-twk8613p",
+  "product": {
+    "id": "684554",
+    "article": "157810",
+    "slug": "chaynik-bosch-twk8613p",
+    "hasSmartInstallments": false,
+    "isActive": true,
+    "name": {
+      "default": "Bosch TWK8613P",
+      "full": "Чайник Bosch TWK8613P",
+      "pseudo": null,
+      "spare": null,
+      "fullWithoutSection": "Bosch TWK8613P",
+      "section": "Чайник",
+      "__typename": "ProductName"
+    },
+    "price": {
+      "default": 10990,
+      "marketing": null,
+      "old": null,
+      "__typename": "ProductPrice"
+    },
+    "benefit": null,
+    "specifications": {
+      "short": [
+        {
+          "name": "Мощность",
+          "value": "2400 Вт",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Объем",
+          "value": "1.5 л",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Материал корпуса",
+          "value": "пластик",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Регулировка температуры",
+          "value": "есть",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "__typename": "ProductV2Specifications"
+    },
+    "labels": [
+      {
+        "name": "Бонусы Спасибо",
+        "type": "sberspasibo",
+        "items": [
+          {
+            "description": "",
+            "name": "Этот товар можно оплатить бонусами Спасибо от СберБанка",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Рассрочка",
+        "type": "deferred_payment",
+        "items": [
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-6",
+            "url": "/chaynik-bosch-twk8613p/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-12",
+            "url": "/chaynik-bosch-twk8613p/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-24",
+            "url": "/chaynik-bosch-twk8613p/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-18",
+            "url": "/chaynik-bosch-twk8613p/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      }
+    ],
+    "labelsV2": [
+      {
+        "id": "8",
+        "name": "Бонусы Спасибо",
+        "code": "sberspasibo",
+        "mainColor": "#0C9C0C",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#0C9C0C",
+        "altTextColor": "#FFFFFF",
+        "borderAndTextColor": "#0C9C0C",
+        "items": [
+          {
+            "id": "26092",
+            "text": "Этот товар можно оплатить бонусами Спасибо от СберБанка ",
+            "buttonText": "Подробнее",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      }
+    ],
+    "status": {
+      "id": "IN_STOCK",
+      "name": "В наличии",
+      "type": "POSITIVE",
+      "__typename": "ProductStatus"
+    },
+    "brand": {
+      "code": "bosch",
+      "id": "40338",
+      "name": "Bosch",
+      "src": "https://cdn1.technopark.ru/technopark/photos_resized/section_brand_300_100/300_100/40338/1_40338.png",
+      "slug": "bosch",
+      "sections": [
+        {
+          "name": "Аэрогрили Bosch",
+          "url": "/aerogrili/bosch/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3743372897/technopark/photos_resized/product/120_120/811739/1_811739.jpg?timestamp=2026-07-15_16-42-42",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2820171511/technopark/photos_resized/product/120_120/811739/2_811739.jpg?timestamp=2026-07-15_16-42-42",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/823211853/technopark/photos_resized/product/120_120/811739/3_811739.jpg?timestamp=2026-07-15_16-42-42",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1175848923/technopark/photos_resized/product/120_120/811739/4_811739.jpg?timestamp=2026-07-15_16-42-42",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3266259905/technopark/photos_resized/product/120_120/811739/5_811739.jpg?timestamp=2026-07-15_16-42-48",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2119213450/technopark/photos_resized/product/120_120/811739/6_811739.jpg?timestamp=2026-07-15_16-42-49",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2422128806/technopark/photos_resized/product/120_120/811739/7_811739.jpg?timestamp=2026-07-15_16-42-49",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3370118930/technopark/photos_resized/product/120_120/811739/8_811739.jpg?timestamp=2026-07-15_16-42-42",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3881431088/technopark/photos_resized/product/120_120/811739/9_811739.jpg?timestamp=2026-07-15_16-42-49",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/156733724/technopark/photos_resized/product/120_120/811739/10_811739.jpg?timestamp=2026-07-15_16-42-49",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Варочные поверхности Bosch",
+          "url": "/vstraivaemye-varochnye-poverhnosti/bosch/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2368266455/technopark/photos_resized/product/120_120/97662/1_97662.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3094562380/technopark/photos_resized/product/120_120/97662/2_97662.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1375165268/technopark/photos_resized/product/120_120/97662/3_97662.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Мясорубки Bosch",
+          "url": "/myasorubki/bosch/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3035083340/technopark/photos_resized/product/120_120/220125/1_220125.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/609791965/technopark/photos_resized/product/120_120/220125/2_220125.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/865605294/technopark/photos_resized/product/120_120/220125/3_220125.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Холодильники Bosch",
+          "url": "/holodilniki/bosch/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1238564310/technopark/photos_resized/product/120_120/118520/1_118520.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/368615043/technopark/photos_resized/product/120_120/118520/2_118520.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4238031798/technopark/photos_resized/product/120_120/118520/3_118520.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/968362329/technopark/photos_resized/product/120_120/118520/4_118520.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/193883099/technopark/photos_resized/product/120_120/118520/5_118520.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2342259488/technopark/photos_resized/product/120_120/118520/6_118520.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Блендеры Bosch",
+          "url": "/blendery/bosch/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1500657274/technopark/photos_resized/product/120_120/819946/1_819946.jpg?timestamp=2026-02-19_10-42-00",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3141830022/technopark/photos_resized/product/120_120/819946/2_819946.jpg?timestamp=2026-02-19_10-41-54",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/575525948/technopark/photos_resized/product/120_120/819946/3_819946.jpg?timestamp=2026-02-19_10-41-54",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3426989328/technopark/photos_resized/product/120_120/819946/4_819946.jpg?timestamp=2026-02-19_10-41-54",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1430971562/technopark/photos_resized/product/120_120/819946/5_819946.jpg?timestamp=2026-02-19_10-41-54",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3682798691/technopark/photos_resized/product/120_120/819946/6_819946.jpg?timestamp=2026-02-19_10-41-54",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3229312960/technopark/photos_resized/product/120_120/819946/7_819946.jpg?timestamp=2026-02-19_10-42-00",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Миксеры и кухонные машины Bosch",
+          "url": "/miksery/bosch/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1216169966/technopark/photos_resized/product/120_120/826424/1_826424.jpg?timestamp=2026-04-02_10-52-39",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2792564418/technopark/photos_resized/product/120_120/826424/2_826424.jpg?timestamp=2026-04-02_10-52-39",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3514046036/technopark/photos_resized/product/120_120/826424/3_826424.jpg?timestamp=2026-04-02_10-52-39",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1064990584/technopark/photos_resized/product/120_120/826424/4_826424.jpg?timestamp=2026-04-02_10-52-39",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Тостеры Bosch",
+          "url": "/tostery/bosch/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/624146137/technopark/photos_resized/product/120_120/714735/1_714735.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1379173967/technopark/photos_resized/product/120_120/714735/2_714735.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/576615104/technopark/photos_resized/product/120_120/714735/3_714735.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3409827829/technopark/photos_resized/product/120_120/714735/4_714735.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2912464507/technopark/photos_resized/product/120_120/714735/5_714735.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Стиральные машины встраиваемые Bosch",
+          "url": "/vstraivaemye-stiralnye-mashiny/bosch/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3651061944/technopark/photos_resized/product/120_120/633267/1_633267.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2929326126/technopark/photos_resized/product/120_120/633267/2_633267.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1083676930/technopark/photos_resized/product/120_120/633267/3_633267.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Микроволновые печи встраиваемые Bosch",
+          "url": "/vstraivaemye-mikrovolnovye-pechi/bosch/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/4036866861/technopark/photos_resized/product/120_120/619316/1_619316.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/513004033/technopark/photos_resized/product/120_120/619316/2_619316.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1861822094/technopark/photos_resized/product/120_120/619316/3_619316.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2163689378/technopark/photos_resized/product/120_120/619316/4_619316.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        }
+      ],
+      "__typename": "Brand"
+    },
+    "section": {
+      "slug": "chayniki",
+      "id": "912",
+      "name": "Чайники электрические",
+      "parents": [
+        {
+          "id": "900",
+          "name": "Для кухни",
+          "depth": 1,
+          "__typename": "SectionTreeItem"
+        },
+        {
+          "id": "912",
+          "name": "Чайники электрические",
+          "depth": 2,
+          "__typename": "SectionTreeItem"
+        }
+      ],
+      "__typename": "Section"
+    },
+    "media": {
+      "gallery": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/684554/1_684554.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/684554/1_684554.jpg",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/684554/2_684554.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/684554/2_684554.jpg",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/684554/3_684554.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/684554/3_684554.jpg",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/684554/4_684554.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/684554/4_684554.jpg",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/684554/5_684554.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/684554/5_684554.jpg",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/684554/6_684554.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/684554/6_684554.jpg",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/684554/7_684554.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/684554/7_684554.jpg",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/684554/8_684554.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/684554/8_684554.jpg",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/684554/9_684554.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/684554/9_684554.jpg",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/684554/10_684554.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/684554/10_684554.jpg",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "interior": [],
+      "video": [],
+      "vkVideo": null,
+      "view3d": [],
+      "listing": {
+        "default": [
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/684554/1_684554.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/684554/2_684554.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/684554/3_684554.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/684554/4_684554.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/684554/5_684554.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/684554/6_684554.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/684554/7_684554.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/684554/8_684554.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/684554/9_684554.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/684554/10_684554.jpg",
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "ProductListing"
+      },
+      "__typename": "ProductV2Media"
+    },
+    "modifications": {
+      "bigBrother": null,
+      "groups": [
+        {
+          "name": "Цвет",
+          "items": [
+            {
+              "value": "чёрный",
+              "product": {
+                "slug": "chaynik-bosch-twk8613p",
+                "article": "157810",
+                "name": {
+                  "default": "Bosch TWK8613P",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "IN_STOCK",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/684554/1_684554.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/684554/2_684554.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/684554/3_684554.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/684554/4_684554.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/684554/5_684554.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/684554/6_684554.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/684554/7_684554.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/684554/8_684554.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/684554/9_684554.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/684554/10_684554.jpg",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            },
+            {
+              "value": "бежевый",
+              "product": {
+                "slug": "chaynik-bosch-twk8617p",
+                "article": "131685",
+                "name": {
+                  "default": "Bosch TWK8617P",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "NOT_AVAILABLE",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/525797/1_525797.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/525797/2_525797.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/525797/3_525797.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/525797/4_525797.jpg",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            },
+            {
+              "value": "белый",
+              "product": {
+                "slug": "chaynik-bosch-twk-8611p",
+                "article": "145186",
+                "name": {
+                  "default": "Bosch TWK 8611P",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "SHOWCASE",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/628256/1_628256.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/628256/2_628256.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/628256/3_628256.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/628256/4_628256.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/628256/5_628256.jpg",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            },
+            {
+              "value": "зелёный",
+              "product": {
+                "slug": "chaynik-bosch-twk8612p",
+                "article": "131684",
+                "name": {
+                  "default": "Bosch TWK8612P",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "NOT_AVAILABLE",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/525782/1_525782.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/525782/2_525782.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/525782/3_525782.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/525782/4_525782.jpg",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            }
+          ],
+          "__typename": "ProductV2ModificationGroup"
+        }
+      ],
+      "__typename": "ProductModifications"
+    },
+    "description": {
+      "hasDescription": false,
+      "type": "DEFAULT",
+      "__typename": "ProductDescription"
+    },
+    "collection": {
+      "id": "684554",
+      "products": {
+        "pagination": {
+          "total": 0,
+          "__typename": "Pagination"
+        },
+        "__typename": "ProductV2Pagination"
+      },
+      "__typename": "ProductCollection"
+    },
+    "similar": {
+      "pagination": {
+        "total": 34,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "related": {
+      "pagination": {
+        "total": 19,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "accessories": [
+      {
+        "products": {
+          "pagination": {
+            "total": 3,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 1,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 5,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 20,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 11,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 13,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 2,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 17,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 13,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 4,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 2,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 1,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 14,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      }
+    ],
+    "rating": {
+      "average": 5,
+      "canRate": false,
+      "total": {
+        "all": 3,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 3,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "reviews": {
+      "total": 3,
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "bestCredit": {
+      "monthPayment": 458,
+      "type": "DEFERRED_PAYMENT",
+      "__typename": "ProductBestCredit"
+    },
+    "isSpare": false,
+    "isService": false,
+    "isVipService": false,
+    "isGiftBonusCard": false,
+    "canBuy": true,
+    "canPayOnline": true,
+    "canRequestPrice": false,
+    "canShowPrice": true,
+    "canSubscribe": false,
+    "needPrepaymentForDelivery": false,
+    "needPrepaymentForPreorder": false,
+    "isSberSpasiboPayAvailable": true,
+    "isYandexPayAllowed": false,
+    "yandexSplit": {
+      "payments": [
+        {
+          "amount": 0,
+          "date": "2026-08-17T09:04:00+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 925,
+          "date": "2026-08-31T09:04:00+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 915,
+          "date": "2026-09-14T09:04:00+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 915,
+          "date": "2026-09-28T09:04:00+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 915,
+          "date": "2026-10-12T09:04:00+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 915,
+          "date": "2026-10-26T09:04:00+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 915,
+          "date": "2026-11-09T09:04:00+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 915,
+          "date": "2026-11-23T09:04:00+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 915,
+          "date": "2026-12-07T09:04:00+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 915,
+          "date": "2026-12-21T09:04:00+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 915,
+          "date": "2027-01-04T09:04:00+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 915,
+          "date": "2027-01-18T09:04:00+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 915,
+          "date": "2027-02-01T09:04:00+0300",
+          "__typename": "YandexSplitPayment"
+        }
+      ],
+      "firstPayment": 0,
+      "restPayment": 10990,
+      "description": "https://yandex.ru/support/split/",
+      "maxAmount": 295000,
+      "__typename": "YandexSplit"
+    },
+    "seo": {
+      "description": "Чайник Bosch TWK8613P: купить в интернет-магазине Технопарк с расширенной гарантией и бесплатной доставкой по РФ. Подробные характеристики товара с отзывами реальных покупателей.",
+      "text": "Вы можете купить чайник Bosch TWK8613P с доставкой по Москве по низкой цене. В интернет-магазине Technopark.ru осуществляется продажа чайника Bosch TWK8613P на выгодных условиях.",
+      "textHidden": "",
+      "title": "Чайник Bosch TWK8613P - купить в Москве в интернет-магазине Технопарк",
+      "__typename": "SeoData"
+    },
+    "breadcrumbs": [
+      {
+        "name": "Главная",
+        "url": "/",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Техника для кухни",
+        "url": "/dlya-kuhni/",
+        "options": [
+          {
+            "name": "Центр инноваций",
+            "url": "/tovary-iz-budushchego/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Смартфоны и гаджеты",
+            "url": "/smartfony-i-gadzhety/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Компьютеры и ноутбуки",
+            "url": "/kompyutery-i-noutbuki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Климатическая техника",
+            "url": "/klimaticheskaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Крупная бытовая техника",
+            "url": "/krupnaya-bytovaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Бытовая техника для дома",
+            "url": "/dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для красоты и здоровья",
+            "url": "/krasota-i-zdorovye/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Спортивные товары",
+            "url": "/trenazhery-dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Телевизоры Аудио Hi-Fi",
+            "url": "/audio-video-foto/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для сада, дома и ремонта",
+            "url": "/dlya-sada-doma-i-remonta/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посуда",
+            "url": "/posuda/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Детские товары",
+            "url": "/detskie-tovary/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для гейминга",
+            "url": "/gaming/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Плоттеры и услуги розницы",
+            "url": "//",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Запасные части",
+            "url": "/zapasnie-chasti/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Электрические чайники",
+        "url": "/chayniki/",
+        "options": [
+          {
+            "name": "Аэрогрили",
+            "url": "/aerogrili/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Микроволновые печи",
+            "url": "/mikrovolnovye-pechi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мультиварки",
+            "url": "/multivarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мини-печи",
+            "url": "/mini-pechi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мультишефы BORK",
+            "url": "/multishefy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Миксеры и кухонные машины",
+            "url": "/miksery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрогрили",
+            "url": "/grili/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Уличные грили барбекю",
+            "url": "/ulichnye-grili-barbeku/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Фритюрницы",
+            "url": "/frityurnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Хлебопечки",
+            "url": "/hlebopechki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Пароварки",
+            "url": "/parovarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Настольные плиты",
+            "url": "/induktsionnye-paneli/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мороженицы",
+            "url": "/morozhenitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вакуумные упаковщики (вакууматоры)",
+            "url": "/vakuumnaya-upakovka/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Су виды",
+            "url": "/su-vidy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрические сковороды и воки",
+            "url": "/elektricheskie-skovorody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Автоматические кофемашины",
+            "url": "/kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кофеварки",
+            "url": "/kofevarki-i-kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кофейные станции",
+            "url": "/kofeynye-stantsii/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Капсульные кофемашины",
+            "url": "/kapsulnye-kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Гейзерные кофеварки для дома",
+            "url": "/gejzernye-kofevarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кофемолки",
+            "url": "/kofemolki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вспениватели молока",
+            "url": "/vspenivateli-moloka/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для приготовления кофе",
+            "url": "/prigotovlenie-kofe/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Соковыжималки",
+            "url": "/sokovyzhimalki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Термопоты",
+            "url": "/termopoty/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Декантеры",
+            "url": "/dekantery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кулеры для воды",
+            "url": "/kulery-dlya-vody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Льдогенераторы",
+            "url": "/ledogeneratory/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Системы газации напитков",
+            "url": "/sistema-gazatsii-napitkov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мясорубки",
+            "url": "/myasorubki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Блендеры",
+            "url": "/blendery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные комбайны",
+            "url": "/kuhonnye-kombayny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные измельчители (чопперы)",
+            "url": "/kukhonnye-izmelchiteli/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Ломтерезки",
+            "url": "/lomterezki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Овощерезки",
+            "url": "/elektroterka/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Тостеры",
+            "url": "/tostery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вафельницы",
+            "url": "/vafelnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мультипекари",
+            "url": "/sendvichnitsi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Яйцеварки",
+            "url": "/yaycevarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Блинницы",
+            "url": "/blinnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Йогуртницы",
+            "url": "/yogurtnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Фильтры для воды под мойку",
+            "url": "/filtry-kuvshiny-dlya-ochistki-vody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Фильтры-кувшины для воды",
+            "url": "/filtry-kuvshiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для очистки воды",
+            "url": "/dlya-ochistki-vody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные весы",
+            "url": "/kuhonnye-vesy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Дегидраторы",
+            "url": "/sushki-dlya-ovoschey/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для кухни",
+            "url": "/aksessuary-dlya-kuhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мойки для кухни",
+            "url": "/moyki-dlya-kukhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрошашлычницы",
+            "url": "/shashlychnitsa/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Электрические чайники Bosch",
+        "url": "/chayniki/bosch/",
+        "options": [
+          {
+            "name": "BORK",
+            "url": "/chayniki/bork/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "QYRON",
+            "url": "/chayniki/qyron/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Smeg",
+            "url": "/chayniki/smeg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Maunfeld",
+            "url": "/chayniki/maunfeld/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "KitchenAid",
+            "url": "/chayniki/kitchenaid/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Polaris",
+            "url": "/chayniki/polaris/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Brayer",
+            "url": "/chayniki/brayer/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Endever",
+            "url": "/chayniki/endever/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Tefal",
+            "url": "/chayniki/tefal/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Korting",
+            "url": "/chayniki/korting/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Braun",
+            "url": "/chayniki/braun/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Midea",
+            "url": "/chayniki/midea/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "WMF",
+            "url": "/chayniki/wmf/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Zigmund Shtain",
+            "url": "/chayniki/zigmund_shtain/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Kitfort",
+            "url": "/chayniki/kitfort/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Libhof",
+            "url": "/chayniki/libhof/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Delonghi",
+            "url": "/chayniki/delonghi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Electrolux",
+            "url": "/chayniki/electrolux/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "VES",
+            "url": "/chayniki/ves/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Kenwell",
+            "url": "/chayniki/kenwell/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Zwilling",
+            "url": "/chayniki/zwilling/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Atvel",
+            "url": "/chayniki/atvel/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Toshiba",
+            "url": "/chayniki/toshiba/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Moulinex",
+            "url": "/chayniki/moulinex/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Gorenje",
+            "url": "/chayniki/gorenje/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Bosch TWK8613P",
+        "url": "chaynik-bosch-twk8613p",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      }
+    ],
+    "isArchive": false,
+    "__typename": "ProductV2",
+    "isSberPayOneClickAllowed": false,
+    "isTinkoffPayOneClickAllowed": false,
+    "bonus": null
+  },
+  "details": {
+    "description": "",
+    "descriptionType": "DEFAULT",
+    "descriptionBarcode": "4242002824598",
+    "descriptionBrand": "Bosch",
+    "specifications": {
+      "short": [
+        {
+          "name": "Мощность",
+          "value": "2400 Вт",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Объем",
+          "value": "1.5 л",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Материал корпуса",
+          "value": "пластик",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Регулировка температуры",
+          "value": "есть",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "barcode": "4242002824598",
+      "country": "Китай",
+      "full": [
+        {
+          "name": "Основные характеристики",
+          "list": [
+            {
+              "name": "Мощность",
+              "value": "2400 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Объем",
+              "value": "1.5 л",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал корпуса",
+              "value": "пластик",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дополнительный материал",
+              "value": "нержавеющая сталь",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Нагревательный элемент",
+              "value": "закрытого типа",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет",
+              "value": "чёрный",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Управление",
+          "list": [
+            {
+              "name": "Подставка с электронным управлением",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Управление",
+              "value": "электронное, кнопочное",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Регулировка температуры",
+              "value": "есть",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Функции",
+          "list": [
+            {
+              "name": "Поддержание температуры",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество режимов нагрева",
+              "value": "4",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Минимальная температура нагрева воды",
+              "value": "70 °С",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная температура нагрева воды",
+              "value": "100 °С",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Подогрев до заданной температуры",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Фильтрация",
+          "list": [
+            {
+              "name": "Фильтр от накипи",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал фильтра",
+              "value": "нержавеющая сталь",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Защита и безопасность",
+          "list": [
+            {
+              "name": "Блокировка крышки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Защита от перегрева",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автоотключение при снятии с подставки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автоотключение при отсутствии воды",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автоотключение при закипании",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Звуковой сигнал",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Дополнительные характеристики",
+          "list": [
+            {
+              "name": "Теплоизолированная ручка",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Двойные стенки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Шкала уровня воды",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикатор включения",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикатор температуры",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вращение на подставке на 360 градусов",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Открывание крышки",
+              "value": "кнопка на крышке",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Комплектация",
+          "list": [
+            {
+              "name": "Подставка с отсеком для хранения шнура",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Инструкция",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Питание",
+          "list": [
+            {
+              "name": "Источник питания",
+              "value": "сеть",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Длина сетевого шнура",
+              "value": "0.8 м",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Размеры и вес",
+          "list": [
+            {
+              "name": "Высота",
+              "value": "26.3 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ширина",
+              "value": "17.5 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Глубина",
+              "value": "21 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вес",
+              "value": "1.85 кг",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        }
+      ],
+      "grossWeight": "2",
+      "netWeight": "1.78",
+      "height": "0.3",
+      "instructionUrl": null,
+      "length": "0.25",
+      "schemeUrl": null,
+      "warranty": "12",
+      "width": "0.22",
+      "__typename": "ProductV2Specifications"
+    },
+    "certificates": ["https://www.technopark.ru/bipublic/Cert/IG0G156D4HJFFC.pdf"],
+    "isManufacturerCountry": false,
+    "isSellerWarranty": false,
+    "reviews": {
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "total": 3,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "rating": {
+      "average": 5,
+      "canRate": false,
+      "total": {
+        "all": 3,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 3,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "isLoading": false
+  },
+  "shots": [
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/684554/1_684554.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/684554/1_684554.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/684554/1_684554.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/684554/2_684554.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/684554/2_684554.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/684554/2_684554.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/684554/3_684554.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/684554/3_684554.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/684554/3_684554.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/684554/4_684554.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/684554/4_684554.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/684554/4_684554.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/684554/5_684554.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/684554/5_684554.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/684554/5_684554.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/684554/6_684554.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/684554/6_684554.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/684554/6_684554.jpg"
+    ]
+  ],
+  "photos": [
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/chaynik-bosch-twk8613p-1.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/chaynik-bosch-twk8613p-2.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/chaynik-bosch-twk8613p-3.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/chaynik-bosch-twk8613p-4.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/chaynik-bosch-twk8613p-5.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/chaynik-bosch-twk8613p-6.jpg"
+  ]
+}

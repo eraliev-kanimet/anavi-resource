@@ -1,0 +1,43 @@
+{
+  "orders": {
+    "banks": [
+      "MBANK",
+      "O!DENGI",
+      "BAKAI",
+      "DEMIRBANK",
+      "OPTIMA"
+    ],
+    "words": {
+      "ru": {
+        "discount": "Постоянный клиент",
+        "discountComment": "Скидка по договорённости",
+        "removed": "Позицию сняли по просьбе клиента",
+        "priced": "Посчитали по факту после осмотра",
+        "raised": "Клиент добавил объём",
+        "lowered": "Часть работ не понадобилась",
+        "confirmed": "Перевод пришёл, сверил по выписке",
+        "status": {
+          "confirmed": "Созвонились, всё подтвердили",
+          "ship": "Передали в доставку",
+          "done": "Клиент забрал, всё в порядке",
+          "canceled": "Клиент отказался"
+        }
+      },
+      "en": {
+        "discount": "Returning customer",
+        "discountComment": "Agreed discount",
+        "removed": "Line dropped at the customer’s request",
+        "priced": "Priced after we saw the job",
+        "raised": "The customer added to the order",
+        "lowered": "Part of the work was not needed",
+        "confirmed": "Transfer received, checked against the statement",
+        "status": {
+          "confirmed": "Called, everything confirmed",
+          "ship": "Handed to the courier",
+          "done": "Picked up, all good",
+          "canceled": "The customer called it off"
+        }
+      }
+    }
+  }
+}

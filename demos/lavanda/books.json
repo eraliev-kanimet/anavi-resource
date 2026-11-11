@@ -1,0 +1,40 @@
+{
+  "history": false,
+  "since": 182,
+  "directions": [
+    {
+      "name": "Стирка и уборка",
+      "categories": [
+        "stirka",
+        "posuda",
+        "uborka"
+      ]
+    },
+    {
+      "name": "Гигиена и бумага",
+      "categories": [
+        "gigiena",
+        "uhod",
+        "bumaga"
+      ]
+    },
+    {
+      "name": "Хозмелочи",
+      "categories": [
+        "inventar",
+        "hozmelochi"
+      ]
+    }
+  ],
+  "capital": 1200000,
+  "founder": "Учредитель «Лаванда»",
+  "float": 10000,
+  "supplier": {
+    "name": "ОсОО «Бытхим Опт»",
+    "phone": "+996555208140",
+    "address": "Бишкек, ул. Ибраимова, 85",
+    "note": "Бытовая химия и хозтовары, поставка дважды в неделю"
+  },
+  "cost": 0.72,
+  "takings": "Инкассация"
+}

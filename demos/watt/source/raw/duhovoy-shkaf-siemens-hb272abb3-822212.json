@@ -1,0 +1,1469 @@
+{
+  "shelf": "duhovye-shkafy",
+  "slug": "duhovoy-shkaf-siemens-hb272abb3-822212",
+  "product": {
+    "id": "822212",
+    "article": "193963",
+    "slug": "duhovoy-shkaf-siemens-hb272abb3-822212",
+    "hasSmartInstallments": false,
+    "isActive": true,
+    "name": {
+      "default": "Siemens HB272ABB3",
+      "full": "Духовой шкаф Siemens HB272ABB3",
+      "pseudo": null,
+      "spare": null,
+      "fullWithoutSection": "Siemens HB272ABB3",
+      "section": "Духовой шкаф",
+      "__typename": "ProductName"
+    },
+    "price": {
+      "default": 81990,
+      "marketing": null,
+      "old": null,
+      "__typename": "ProductPrice"
+    },
+    "benefit": null,
+    "specifications": {
+      "short": [
+        {
+          "name": "Тип",
+          "value": "электрический",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Объем духовки",
+          "value": "71 л",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Количество режимов работы",
+          "value": "7",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Размеры (ширина)",
+          "value": "60 см",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Высота",
+          "value": "59.5 см",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "__typename": "ProductV2Specifications"
+    },
+    "labels": [
+      {
+        "name": "Бонусы Спасибо",
+        "type": "sberspasibo",
+        "items": [
+          {
+            "description": "",
+            "name": "Этот товар можно оплатить бонусами Спасибо от СберБанка",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Акция",
+        "type": "special_offer",
+        "items": [
+          {
+            "description": "",
+            "name": "5 000 бонусов за покупки",
+            "url": "/action/5-000-bonusov-za-pokupki/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Рассрочка",
+        "type": "deferred_payment",
+        "items": [
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-6",
+            "url": "/duhovoy-shkaf-siemens-hb272abb3-822212/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-12",
+            "url": "/duhovoy-shkaf-siemens-hb272abb3-822212/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-24",
+            "url": "/duhovoy-shkaf-siemens-hb272abb3-822212/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-18",
+            "url": "/duhovoy-shkaf-siemens-hb272abb3-822212/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      }
+    ],
+    "labelsV2": [
+      {
+        "id": "14",
+        "name": "-15% на технику",
+        "code": "15-na-tekhniku",
+        "mainColor": "#F54B4B",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#FFFFFF",
+        "altTextColor": "#F54B4B",
+        "borderAndTextColor": "#F54B4B",
+        "items": [
+          {
+            "id": "153142",
+            "text": "Выгода при покупке крупной бытовой техники",
+            "buttonText": "Подробнее",
+            "url": "/action/vygoda-pri-pokupke-krupnoy-bytovoy-tekhniki/",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      },
+      {
+        "id": "8",
+        "name": "Бонусы Спасибо",
+        "code": "sberspasibo",
+        "mainColor": "#0C9C0C",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#0C9C0C",
+        "altTextColor": "#FFFFFF",
+        "borderAndTextColor": "#0C9C0C",
+        "items": [
+          {
+            "id": "30402",
+            "text": "Этот товар можно оплатить бонусами Спасибо от СберБанка ",
+            "buttonText": "Подробнее",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      }
+    ],
+    "status": {
+      "id": "IN_STOCK",
+      "name": "В наличии",
+      "type": "POSITIVE",
+      "__typename": "ProductStatus"
+    },
+    "brand": {
+      "code": "siemens",
+      "id": "40392",
+      "name": "Siemens",
+      "src": "https://cdn1.technopark.ru/technopark/photos_resized/section_brand_300_100/300_100/40392/1_40392.png",
+      "slug": "siemens",
+      "sections": [
+        {
+          "name": "Стиральные машины Siemens",
+          "url": "/stiralnye-mashiny/siemens/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2645625881/technopark/photos_resized/product/120_120/766206/1_766206.jpg?timestamp=2024-11-05_15-51-24",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/64330170/technopark/photos_resized/product/120_120/766206/2_766206.jpg?timestamp=2024-11-05_15-51-22",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/912885516/technopark/photos_resized/product/120_120/766206/3_766206.jpg?timestamp=2024-11-05_15-51-39",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/79191459/technopark/photos_resized/product/120_120/766206/4_766206.jpg?timestamp=2024-11-05_15-51-23",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1841928301/technopark/photos_resized/product/120_120/766206/5_766206.jpg?timestamp=2024-11-05_15-51-25",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1959962924/technopark/photos_resized/product/120_120/766206/6_766206.jpg?timestamp=2024-11-05_15-51-22",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1174631299/technopark/photos_resized/product/120_120/766206/7_766206.jpg?timestamp=2024-11-05_15-51-41",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Варочные поверхности Siemens",
+          "url": "/vstraivaemye-varochnye-poverhnosti/siemens/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/961488777/technopark/photos_resized/product/120_120/84324/1_84324.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2929589761/technopark/photos_resized/product/120_120/84324/2_84324.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1346298439/technopark/photos_resized/product/120_120/84324/3_84324.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Холодильники Siemens",
+          "url": "/holodilniki/siemens/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1824889303/technopark/photos_resized/product/120_120/616725/1_616725.jpg?timestamp=2026-04-23_14-09-19",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4123838573/technopark/photos_resized/product/120_120/616725/2_616725.jpg?timestamp=2026-04-23_14-09-19",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/465742145/technopark/photos_resized/product/120_120/616725/3_616725.jpg?timestamp=2026-04-23_14-09-19",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Кофемашины встраиваемые Siemens",
+          "url": "/vstraivaemye-kofemashiny/siemens/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3933468519/technopark/photos_resized/product/120_120/74311/1_74311.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Посудомоечные машины встраиваемые Siemens",
+          "url": "/vstraivaemye-posudomoechnye-mashiny/siemens/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3829019235/technopark/photos_resized/product/120_120/794970/1_794970.jpg?timestamp=2025-08-14_09-05-32",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1680364184/technopark/photos_resized/product/120_120/794970/2_794970.jpg?timestamp=2025-08-14_09-05-29",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/321872398/technopark/photos_resized/product/120_120/794970/3_794970.jpg?timestamp=2025-08-14_09-05-29",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2317759412/technopark/photos_resized/product/120_120/794970/4_794970.jpg?timestamp=2025-08-14_09-05-29",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2572011046/technopark/photos_resized/product/120_120/794970/5_794970.jpg?timestamp=2025-08-14_09-05-43",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4199335739/technopark/photos_resized/product/120_120/794970/6_794970.jpg?timestamp=2025-08-14_09-05-29",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Сушильные машины Siemens",
+          "url": "/sushilnye-mashiny/siemens/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/271571307/technopark/photos_resized/product/120_120/754904/1_754904.jpg?timestamp=2024-08-22_14-54-05",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/429495616/technopark/photos_resized/product/120_120/754904/2_754904.jpg?timestamp=2024-08-22_14-54-04",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4188783731/technopark/photos_resized/product/120_120/754904/3_754904.jpg?timestamp=2024-08-22_14-54-14",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4000021760/technopark/photos_resized/product/120_120/754904/4_754904.jpg?timestamp=2024-08-22_14-54-05",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2281504995/technopark/photos_resized/product/120_120/754904/5_754904.jpg?timestamp=2024-08-22_14-54-04",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/732952514/technopark/photos_resized/product/120_120/754904/6_754904.jpg?timestamp=2024-08-22_14-53-58",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Микроволновые печи встраиваемые Siemens",
+          "url": "/vstraivaemye-mikrovolnovye-pechi/siemens/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/869755177/technopark/photos_resized/product/120_120/69666/1_69666.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2914253962/technopark/photos_resized/product/120_120/69666/2_69666.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Все аксессуары Siemens",
+          "url": "/aksessuary-krupnaya-bytovaya-tehnika/siemens/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/918505571/technopark/photos_resized/product/120_120/127814/1_127814.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3540441340/technopark/photos_resized/product/120_120/127814/2_127814.jpg?timestamp=2025-05-26_09-06-16",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Стиральные машины с сушкой Siemens",
+          "url": "/stiralno-sushilnye-mashiny/siemens/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2815376989/technopark/photos_resized/product/120_120/814614/1_814614.jpg?timestamp=2025-12-22_16-48-50",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4024659075/technopark/photos_resized/product/120_120/814614/2_814614.jpg?timestamp=2025-12-22_16-48-48",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1237409649/technopark/photos_resized/product/120_120/814614/3_814614.jpg?timestamp=2025-12-22_16-48-50",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3502771915/technopark/photos_resized/product/120_120/814614/4_814614.jpg?timestamp=2025-12-22_16-48-50",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3725821689/technopark/photos_resized/product/120_120/814614/5_814614.jpg?timestamp=2025-12-22_16-48-51",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2341448071/technopark/photos_resized/product/120_120/814614/6_814614.jpg?timestamp=2025-12-22_16-48-59",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        }
+      ],
+      "__typename": "Brand"
+    },
+    "section": {
+      "slug": "vstraivaemye-duhovye-shkafy",
+      "id": "914",
+      "name": "Духовые шкафы",
+      "parents": [
+        {
+          "id": "877",
+          "name": "Крупная бытовая",
+          "depth": 1,
+          "__typename": "SectionTreeItem"
+        },
+        {
+          "id": "914",
+          "name": "Духовые шкафы",
+          "depth": 2,
+          "__typename": "SectionTreeItem"
+        }
+      ],
+      "__typename": "Section"
+    },
+    "media": {
+      "gallery": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/822212/1_822212.jpg?timestamp=2026-02-25_11-01-25",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/822212/1_822212.jpg?timestamp=2026-02-25_11-01-34",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/822212/2_822212.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/822212/2_822212.jpg",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/822212/3_822212.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/822212/3_822212.jpg?timestamp=2026-02-25_11-01-33",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "interior": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior/1000_1000/822212/1_822212.jpg?timestamp=2026-02-25_11-01-48",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior_zoom/2500_2500/822212/1_822212.jpg",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior/1000_1000/822212/2_822212.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior_zoom/2500_2500/822212/2_822212.jpg?timestamp=2026-02-25_11-01-56",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "video": [],
+      "vkVideo": null,
+      "view3d": [],
+      "listing": {
+        "default": [
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/822212/1_822212.jpg?timestamp=2026-02-25_11-01-26",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/822212/2_822212.jpg?timestamp=2026-02-25_11-01-26",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/822212/3_822212.jpg?timestamp=2026-02-25_11-01-26",
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "ProductListing"
+      },
+      "__typename": "ProductV2Media"
+    },
+    "modifications": {
+      "bigBrother": null,
+      "groups": [],
+      "__typename": "ProductModifications"
+    },
+    "description": {
+      "hasDescription": true,
+      "type": "DEFAULT",
+      "__typename": "ProductDescription"
+    },
+    "collection": {
+      "id": "822212",
+      "products": {
+        "pagination": {
+          "total": 0,
+          "__typename": "Pagination"
+        },
+        "__typename": "ProductV2Pagination"
+      },
+      "__typename": "ProductCollection"
+    },
+    "similar": {
+      "pagination": {
+        "total": 20,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "related": {
+      "pagination": {
+        "total": 20,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "accessories": [
+      {
+        "products": {
+          "pagination": {
+            "total": 1,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 18,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 9,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 4,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      }
+    ],
+    "rating": {
+      "average": 0,
+      "canRate": false,
+      "total": {
+        "all": 0,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 0,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "reviews": {
+      "total": 0,
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "bestCredit": {
+      "monthPayment": 3417,
+      "type": "DEFERRED_PAYMENT",
+      "__typename": "ProductBestCredit"
+    },
+    "isSpare": false,
+    "isService": false,
+    "isVipService": false,
+    "isGiftBonusCard": false,
+    "canBuy": true,
+    "canPayOnline": true,
+    "canRequestPrice": false,
+    "canShowPrice": true,
+    "canSubscribe": false,
+    "needPrepaymentForDelivery": false,
+    "needPrepaymentForPreorder": false,
+    "isSberSpasiboPayAvailable": true,
+    "isYandexPayAllowed": false,
+    "yandexSplit": {
+      "payments": [
+        {
+          "amount": 0,
+          "date": "2026-08-17T09:01:20+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 6838,
+          "date": "2026-08-31T09:01:20+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 6832,
+          "date": "2026-09-14T09:01:20+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 6832,
+          "date": "2026-09-28T09:01:20+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 6832,
+          "date": "2026-10-12T09:01:20+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 6832,
+          "date": "2026-10-26T09:01:20+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 6832,
+          "date": "2026-11-09T09:01:20+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 6832,
+          "date": "2026-11-23T09:01:20+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 6832,
+          "date": "2026-12-07T09:01:20+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 6832,
+          "date": "2026-12-21T09:01:20+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 6832,
+          "date": "2027-01-04T09:01:20+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 6832,
+          "date": "2027-01-18T09:01:20+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 6832,
+          "date": "2027-02-01T09:01:20+0300",
+          "__typename": "YandexSplitPayment"
+        }
+      ],
+      "firstPayment": 0,
+      "restPayment": 81990,
+      "description": "https://yandex.ru/support/split/",
+      "maxAmount": 295000,
+      "__typename": "YandexSplit"
+    },
+    "seo": {
+      "description": "Духовой шкаф Siemens HB272ABB3: купить в интернет-магазине Технопарк с расширенной гарантией и бесплатной доставкой по РФ. Подробные характеристики товара с отзывами реальных покупателей.",
+      "text": "Вы можете купить духовой шкаф Siemens HB272ABB3 с доставкой по Москве по низкой цене. В интернет-магазине Technopark.ru осуществляется продажа духового шкафа Siemens HB272ABB3 на выгодных условиях.",
+      "textHidden": "",
+      "title": "Духовой шкаф Siemens HB272ABB3 - купить в Москве в интернет-магазине Технопарк",
+      "__typename": "SeoData"
+    },
+    "breadcrumbs": [
+      {
+        "name": "Главная",
+        "url": "/",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Крупная бытовая техника",
+        "url": "/krupnaya-bytovaya-tehnika/",
+        "options": [
+          {
+            "name": "Центр инноваций",
+            "url": "/tovary-iz-budushchego/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Смартфоны и гаджеты",
+            "url": "/smartfony-i-gadzhety/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Компьютеры и ноутбуки",
+            "url": "/kompyutery-i-noutbuki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Климатическая техника",
+            "url": "/klimaticheskaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Техника для кухни",
+            "url": "/dlya-kuhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Бытовая техника для дома",
+            "url": "/dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для красоты и здоровья",
+            "url": "/krasota-i-zdorovye/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Спортивные товары",
+            "url": "/trenazhery-dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Телевизоры Аудио Hi-Fi",
+            "url": "/audio-video-foto/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для сада, дома и ремонта",
+            "url": "/dlya-sada-doma-i-remonta/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посуда",
+            "url": "/posuda/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Детские товары",
+            "url": "/detskie-tovary/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для гейминга",
+            "url": "/gaming/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Плоттеры и услуги розницы",
+            "url": "//",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Запасные части",
+            "url": "/zapasnie-chasti/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Встраиваемые духовые шкафы",
+        "url": "/vstraivaemye-duhovye-shkafy/",
+        "options": [
+          {
+            "name": "Стиральные машины",
+            "url": "/stiralnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые варочные панели",
+            "url": "/vstraivaemye-varochnye-poverhnosti/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные плиты",
+            "url": "/plity/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Холодильники",
+            "url": "/holodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вытяжки для кухни",
+            "url": "/vytyazhki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посудомоечные машины",
+            "url": "/posudomoechnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые холодильники",
+            "url": "/vstraivaemye-holodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые винные шкафы",
+            "url": "/vstraivaemye-vinnye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые вытяжки для кухни",
+            "url": "/vstraivaemye-vytyazhki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые кофемашины",
+            "url": "/vstraivaemye-kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые морозильные камеры",
+            "url": "/vstraivaemye-morozilnye-kamery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые пароварки",
+            "url": "/vstraivaemye-parovarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые посудомоечные машины",
+            "url": "/vstraivaemye-posudomoechnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые стиральные машины",
+            "url": "/vstraivaemye-stiralnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Сушильные машины для белья",
+            "url": "/sushilnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые микроволновые печи",
+            "url": "/vstraivaemye-mikrovolnovye-pechi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Морозильные камеры",
+            "url": "/morozilnye-kamery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Винные шкафы",
+            "url": "/vinnye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые шкафы для подогрева",
+            "url": "/shkafy-dlya-podogreva-posudy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Стиральные машины с функцией сушки (2 в 1)",
+            "url": "/stiralno-sushilnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые вакууматоры",
+            "url": "/vakuumatory/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Измельчители пищевых отходов",
+            "url": "/vstraivaemye-izmelchiteli-pischevyh-othodov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Автохолодильники",
+            "url": "/avtoholodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для крупной бытовой техники",
+            "url": "/aksessuary-krupnaya-bytovaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для холодильников",
+            "url": "/aksessuary-krupnaya-bytovaya-tehnika/filt_naznachenie-k_holodilnikam/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для автохолодильников",
+            "url": "/aksessuary-dlya-avtokholodilnikov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Хьюмидоры",
+            "url": "/khyumidory/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Встраиваемые духовые шкафы Siemens",
+        "url": "/vstraivaemye-duhovye-shkafy/siemens/",
+        "options": [
+          {
+            "name": "Kuppersbusch",
+            "url": "/vstraivaemye-duhovye-shkafy/kuppersbusch/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Maunfeld",
+            "url": "/vstraivaemye-duhovye-shkafy/maunfeld/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Korting",
+            "url": "/vstraivaemye-duhovye-shkafy/korting/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Smeg",
+            "url": "/vstraivaemye-duhovye-shkafy/smeg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Bosch",
+            "url": "/vstraivaemye-duhovye-shkafy/bosch/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Electrolux",
+            "url": "/vstraivaemye-duhovye-shkafy/electrolux/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Asko",
+            "url": "/vstraivaemye-duhovye-shkafy/asko/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Kuppersberg",
+            "url": "/vstraivaemye-duhovye-shkafy/kuppersberg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Bertazzoni",
+            "url": "/vstraivaemye-duhovye-shkafy/bertazzoni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Gorenje",
+            "url": "/vstraivaemye-duhovye-shkafy/gorenje/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Midea",
+            "url": "/vstraivaemye-duhovye-shkafy/midea/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "AEG",
+            "url": "/vstraivaemye-duhovye-shkafy/aeg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Hotpoint",
+            "url": "/vstraivaemye-duhovye-shkafy/hotpoint/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "VARD",
+            "url": "/vstraivaemye-duhovye-shkafy/vard/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "De Dietrich",
+            "url": "/vstraivaemye-duhovye-shkafy/de_dietrich/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Haier",
+            "url": "/vstraivaemye-duhovye-shkafy/haier/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Miele",
+            "url": "/vstraivaemye-duhovye-shkafy/miele/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Beko",
+            "url": "/vstraivaemye-duhovye-shkafy/beko/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Whirlpool",
+            "url": "/vstraivaemye-duhovye-shkafy/whirlpool/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "V-ZUG",
+            "url": "/vstraivaemye-duhovye-shkafy/v_zug/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Indesit",
+            "url": "/vstraivaemye-duhovye-shkafy/indesit/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Elica",
+            "url": "/vstraivaemye-duhovye-shkafy/elica/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Brandt",
+            "url": "/vstraivaemye-duhovye-shkafy/brandt/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Casarte",
+            "url": "/vstraivaemye-duhovye-shkafy/casarte/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Siemens HB272ABB3",
+        "url": "duhovoy-shkaf-siemens-hb272abb3-822212",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      }
+    ],
+    "isArchive": false,
+    "__typename": "ProductV2",
+    "isSberPayOneClickAllowed": false,
+    "isTinkoffPayOneClickAllowed": false,
+    "bonus": null
+  },
+  "details": {
+    "description": "<style> *{box-sizing:border-box;outline:0}body{font-family:'DINPro Technopark',Arial;font-size:14px;font-weight:400;font-display:swap;margin:0;overflow-x:hidden;position:relative;min-height:95vh;-webkit-tap-highlight-color:transparent}body.lock-scroll{overflow:hidden;position:fixed;right:0;left:0;bottom:0}@media (min-width:1192px){body.lock-scroll{position:relative}}@media screen and (max-device-width:480px){body{-webkit-text-size-adjust:none}}.label-for-seo{width:100%}.label-for-seo__span{display:none}a{color:#0093c4;text-decoration:none}.is-visible{display:block!important}.is-hidden{display:none!important}.is-visually-hidden{opacity:0!important;visibility:hidden!important;pointer-events:none!important}.is-link{color:#0093c4}.no-wrap{white-space:nowrap}.container{margin:auto;width:100%}@media (min-width:960px){.container{width:calc(100% - 48px)}}@media (min-width:1482px){.container{max-width:1397px}}.is-overflow-hidden{overflow:hidden}.is-mobile-not{display:none!important}@media (min-width:960px){.is-mobile-not{display:block!important}}@media (min-width:960px){.is-mobile-only{display:none!important}}@media (max-width:959px){.hide-phone{display:none}}@media (min-width:960px) and (max-width:1481px){.hide-tablet{display:none}}.is-hidden{display:none!important}.nowrap-text{white-space:nowrap}.textcenter{text-align:center}ul.list{margin:0;padding:6px 0 18px}@media (min-width:960px){ul.list{padding:6px 0 24px}}ul.list li{font-family:'DINPro Technopark',Arial;font-size:15px;font-weight:400;font-display:swap;color:#fff;line-height:20px;list-style:none;margin:0;padding-left:9px;position:relative}@media (min-width:960px){ul.list li{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:400;font-display:swap;line-height:21px;padding-left:26px}}ul.list>li:before{background-color:#fff;border-radius:50%;content:\"\";display:block;height:3px;left:0;position:absolute;top:10px;width:3px}@media (min-width:960px){ul.list>li:before{border-radius:0;height:1px;width:13px}}ul.list>li>ul{padding:6px 0 6px 15px}@media (min-width:960px){ul.list>li>ul{padding:3px 0 3px 4px}}ul.list>li>ul>li:before{background-color:rgba(255,255,255,.5)}ul.list>li>ul>li>ul{padding:6px 0 0 15px}@media (min-width:960px){ul.list>li>ul>li>ul{padding:3px 0 0 4px}}ul.list>li>ul>li>ul>li:before{background-color:rgba(255,255,255,.2)}ol.list{margin:0;padding:6px 0 18px;counter-reset:list1}@media (min-width:960px){ol.list{padding:6px 0 24px}}ol.list li{font-family:'DINPro Technopark',Arial;font-size:15px;font-weight:400;font-display:swap;color:#fff;line-height:20px;list-style:none;margin:0;padding-left:9px;position:relative}@media (min-width:960px){ol.list li{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:400;font-display:swap;line-height:21px;padding-left:26px}}ol.list>li{padding-left:24px}ol.list>li:before{counter-increment:list1;content:counter(list1) \". \";left:0;position:absolute}ol.list>li>ol{counter-reset:list2;padding:6px 0}@media (min-width:960px){ol.list>li>ol{padding:3px 0}}ol.list>li>ol>li{padding-left:42px}ol.list>li>ol>li:before{counter-increment:list2;content:counter(list1) \".\" counter(list2) \". \"}ol.list>li>ol>li>ol{counter-reset:list3}ol.list>li>ol>li>ol>li:before{counter-increment:list3;content:counter(list1) \".\" counter(list2) \".\" counter(list3) \". \"}ol.list--compact{padding:0}.list--line-interval li:not(:last-child){margin-bottom:1em}input::-ms-clear{display:none}input::-webkit-clear-button{display:none}@media (max-width:767px){.footer{padding-bottom:66px}}.page-container{margin:auto;padding:0 18px;width:100%}@media (min-width:960px){.page-container{padding:0 24px;width:100%}}@media (min-width:1482px){.page-container{width:1481px}}@media (min-width:960px){.page-container--extra-padding{padding:0 42px}}.default-container{width:100%;max-width:1481px;margin:auto;padding:0 12px}@media (min-width:960px){.default-container{padding:0 24px}}button,input,select,textarea{font-family:inherit;font-size:100%;margin:0}textarea{resize:none;overflow:auto}form{margin:0}button{color:inherit}dd,dl,dt{margin:0;padding:0}input[type=search]{-webkit-appearance:none}input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration,input[type=search]::-webkit-search-results-button,input[type=search]::-webkit-search-results-decoration{display:none}input:invalid{box-shadow:none}textarea:invalid{box-shadow:none}svg *{pointer-events:none}.product__desc{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:300;font-display:swap;color:#878787;display:none}.product__desc b{font-family:'DINPro Technopark',Arial;font-size:20px;font-weight:400;font-display:swap;color:#fff}.dyson-v10-picking,.dyson-v10-properties,.dyson-v10-wrapper,.dyson-v10-wrapper .dyson-v10__list span{color:#fff;padding:0 12px}@media (max-width:1154px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:170px}}@media (max-width:1100px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:270px}}@media (max-width:960px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:27px}}.dyson-v10-first-row li.dyson-v10-item{max-width:calc(100% / 3 - 10);padding-right:5px}@media (max-width:959px){.dyson-v10-first-row{flex-direction:column;align-items:flex-start}.dyson-v10-first-row li.dyson-v10-item{max-width:none}}@media (min-width:960px) and (max-width:1303px){.dyson-v10-first-row{flex-direction:column;align-items:flex-start}.dyson-v10-first-row li.dyson-v10-item{max-width:none}}.dyson-v10-chapter{text-align:center!important}.dyson-v10__list li.dyson-v10__list-item{background-size:contain;background-position:left} </style> <p>  Духовой шкаф Siemens HB272ABB3 сочетает элегантный дизайн и продвинутые технологии приготовления. 7 режимов нагрева, включая 3D горячий воздух, гриль и Air Fry, обеспечивают равномерный результат и аппетитную хрустящую корочку, а функция быстрого разогрева экономит время. Пиролитическая и гидролизная очистка упрощают уход, делая эксплуатацию максимально комфортной.  </p>  <h2>Особенности</h2>  <ul class=\"list\">  <li><b>Управление</b><br>  Управление осуществляется через сенсорный дисплей с интуитивно понятной навигацией и отображением всех активных режимов. Электронная панель позволяет точно настраивать температуру, время приготовления и автоматические программы одним касанием </li>  <li><b>Быстрый разогрев</b><br>  Функция быстрого разогрева позволяет значительно сократить время предварительного нагрева духовки, быстро достигая заданной температуры</li>  <li><b>10 автоматических программ</b><br>  Духовой шкаф оснащён 10 автоматическими программами, которые самостоятельно подбирают оптимальные параметры приготовления в зависимости от типа блюда и веса продуктов. Вам достаточно выбрать программу и указать вес — техника автоматически установит температуру и время для идеального результата </li>  <li><b>7 режимов нагрева</b><br>  7 режимов нагрева открывают широкие возможности для приготовления самых разных блюд — от классической выпечки в режиме верхнего и нижнего нагрева до равномерной конвекции и мощного гриля</li>  <li><b>Таймер</b><br>  Электронный таймер поддерживает несколько режимов работы: обратный отсчёт, автоматическое отключение по времени приготовления и установку времени окончания с отложенным стартом. Духовка самостоятельно завершит работу в нужный момент и подаст звуковой сигнал, обеспечивая удобство и точный контроль процесса </li>  <li><b>Пиролитическая очистка</b><br>  Пиролитическая очистка автоматически очищает камеру при высокой температуре, превращая жир и остатки пищи в мелкий пепел. После завершения цикла достаточно просто протереть внутренние поверхности камеры</li>  <li><b>Гидролизная очистка humidClean</b><br>  Гидролизная очистка humidClean обеспечивает быстрый и деликатный уход за духовкой без агрессивной химии. Достаточно добавить 0.4 л воды с каплей моющего средства на дно камеры — образующийся пар размягчает загрязнения, после чего их легко удалить мягкой салфеткой </li>  <li><b>Безопасность</b><br>  Блокировка панели управления предотвращают случайное изменение настроек, а во время пиролитической очистки дверца автоматически блокируется. Дополнительную защиту обеспечивает автоматическое отключение и вентилятор охлаждения, поддерживающий безопасную температуру корпуса </li>  </ul>",
+    "descriptionType": "DEFAULT",
+    "descriptionBarcode": "4242003955772",
+    "descriptionBrand": "Siemens",
+    "specifications": {
+      "short": [
+        {
+          "name": "Тип",
+          "value": "электрический",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Объем духовки",
+          "value": "71 л",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Количество режимов работы",
+          "value": "7",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Размеры (ширина)",
+          "value": "60 см",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Высота",
+          "value": "59.5 см",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "barcode": "4242003955772",
+      "country": "Польша",
+      "full": [
+        {
+          "name": "Общие характеристики",
+          "list": [
+            {
+              "name": "Тип",
+              "value": "электрический",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип подключения",
+              "value": "независимая",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Очистка",
+              "value": "гидролизная, пиролитическая",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал камеры",
+              "value": "эмаль",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал фронтальной панели",
+              "value": "стекло",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Объем духовки",
+              "value": "71 л",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет",
+              "value": "чёрный",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет ручки",
+              "value": "чёрный",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет планки",
+              "value": "чёрный",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Управление",
+          "list": [
+            {
+              "name": "Тип управления",
+              "value": "электронное",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Переключатели",
+              "value": "сенсорные",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Расположение переключателя",
+              "value": "на поверхности духового шкафа",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип дисплея",
+              "value": "LED",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Таймер",
+              "value": "таймер включения/выключения, таймер выключения, таймер с акустическим сигналом, цифровой",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Подсветка элементов управления",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Индикация",
+          "list": [
+            {
+              "name": "Индикация режима работы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация окончания приготовления",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация выбранной мощности",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация включения термостата",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация включения",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Режимы работы",
+          "list": [
+            {
+              "name": "Количество режимов работы",
+              "value": "7",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Режимы работы",
+              "value": "3D горячий воздух, верхний + нижний нагрев, конвекция, гриль + конвекция, гриль, пицца, Air Fry",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип гриля",
+              "value": "тэн",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество автоматических программ",
+              "value": "10",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Специальные программы",
+              "value": "быстрый нагрев, самоочистка, humidClean",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная температура духового шкафа",
+              "value": "275 °С",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Безопасность",
+          "list": [
+            {
+              "name": "Тангенциальное охлаждение",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Блокировка панели управления",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Блокировка от детей",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автоматическое отключение",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Мощность и энергопотребление",
+          "list": [
+            {
+              "name": "Класс энергопотребления",
+              "value": "A+",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Мощность подключения",
+              "value": "3600 Вт",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Дополнительная информация",
+          "list": [
+            {
+              "name": "Дополнительные возможности духового шкафа",
+              "value": "автоматика выключения, быстрый разогрев, вентилятор охлаждения",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Функция паузы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Особенности конструкции духового шкафа",
+              "value": "съемная дверца, съемное внутреннее стекло",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дверца духовки",
+              "value": "откидная",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество стекол дверцы",
+              "value": "4",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Часы",
+              "value": "электронные",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип освещения",
+              "value": "галогенная лампа",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество ламп освещения",
+              "value": "1",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Мощность одной лампы",
+              "value": "40 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество уровней направляющих",
+              "value": "5",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Полозья для противней",
+              "value": "металлические, съемные",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Комплектация",
+          "list": [
+            {
+              "name": "Комплект поставки",
+              "value": "комбинированная решётка, универсальный противень, противень Air Fry",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Сетевой кабель",
+              "value": "1.2 м",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Инструкция",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Размеры и вес",
+          "list": [
+            {
+              "name": "Высота",
+              "value": "59.5 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ширина",
+              "value": "59.4 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Глубина",
+              "value": "54.8 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Высота встраивания",
+              "value": "58.5 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ширина встраивания",
+              "value": "56 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Глубина встраивания",
+              "value": "55 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вес",
+              "value": "37.5 кг",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        }
+      ],
+      "grossWeight": "30",
+      "netWeight": "30",
+      "height": "0.7",
+      "instructionUrl": null,
+      "length": "0.68",
+      "schemeUrl": "https://storage.yandexcloud.net/technopark.instructions/822212/schema/schema-vstraivaniya-duhovoy-shkaf-siemens-hb272abb3-822212.jpg",
+      "warranty": "12",
+      "width": "0.68",
+      "__typename": "ProductV2Specifications"
+    },
+    "certificates": [
+      "https://www.technopark.ru/bipublic/Cert/IG0G14A6UC1M8C.pdf",
+      "https://www.technopark.ru/bipublic/Cert/IG0G14A6UQLF85.pdf"
+    ],
+    "isManufacturerCountry": false,
+    "isSellerWarranty": true,
+    "reviews": {
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "total": 0,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "rating": {
+      "average": 0,
+      "canRate": false,
+      "total": {
+        "all": 0,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 0,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "isLoading": false
+  },
+  "shots": [
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/822212/1_822212.jpg?timestamp=2026-02-25_11-01-34",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/822212/1_822212.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/822212/1_822212.jpg?timestamp=2026-02-25_11-01-25"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/822212/2_822212.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/822212/2_822212.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/822212/2_822212.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/822212/3_822212.jpg?timestamp=2026-02-25_11-01-33",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/822212/3_822212.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/822212/3_822212.jpg"
+    ]
+  ],
+  "photos": [
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/duhovoy-shkaf-siemens-hb272abb3-822212-1.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/duhovoy-shkaf-siemens-hb272abb3-822212-2.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/duhovoy-shkaf-siemens-hb272abb3-822212-3.jpg"
+  ]
+}

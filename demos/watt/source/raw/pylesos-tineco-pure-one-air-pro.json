@@ -1,0 +1,1508 @@
+{
+  "shelf": "pylesosy",
+  "slug": "pylesos-tineco-pure-one-air-pro",
+  "product": {
+    "id": "727724",
+    "article": "161290",
+    "slug": "pylesos-tineco-pure-one-air-pro",
+    "hasSmartInstallments": false,
+    "isActive": true,
+    "name": {
+      "default": "Tineco Pure One Air Pro",
+      "full": "Вертикальный пылесос Tineco Pure One Air Pro",
+      "pseudo": null,
+      "spare": null,
+      "fullWithoutSection": "Вертикальный пылесос Tineco Pure One Air Pro",
+      "section": "Пылесос",
+      "__typename": "ProductName"
+    },
+    "price": {
+      "default": 19900,
+      "marketing": null,
+      "old": null,
+      "__typename": "ProductPrice"
+    },
+    "benefit": null,
+    "specifications": {
+      "short": [
+        {
+          "name": "Тип",
+          "value": "вертикальный",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Уборка",
+          "value": "сухая",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Мощность всасывания",
+          "value": "60 Вт",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Пылесборник",
+          "value": "контейнер",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Объем пылесборника",
+          "value": "0.3 л",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "__typename": "ProductV2Specifications"
+    },
+    "labels": [
+      {
+        "name": "Бонусы Спасибо",
+        "type": "sberspasibo",
+        "items": [
+          {
+            "description": "",
+            "name": "Этот товар можно оплатить бонусами Спасибо от СберБанка",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Доставка",
+        "type": "delivery",
+        "items": [
+          {
+            "description": "",
+            "name": "Бесплатная доставка по России!",
+            "url": "/free-shipping-russia/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      }
+    ],
+    "labelsV2": [
+      {
+        "id": "8",
+        "name": "Бонусы Спасибо",
+        "code": "sberspasibo",
+        "mainColor": "#0C9C0C",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#0C9C0C",
+        "altTextColor": "#FFFFFF",
+        "borderAndTextColor": "#0C9C0C",
+        "items": [
+          {
+            "id": "12343",
+            "text": "Этот товар можно оплатить бонусами Спасибо от СберБанка ",
+            "buttonText": "Подробнее",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      }
+    ],
+    "status": {
+      "id": "IN_STOCK",
+      "name": "В наличии",
+      "type": "POSITIVE",
+      "__typename": "ProductStatus"
+    },
+    "brand": {
+      "code": "tineco",
+      "id": "281007",
+      "name": "Tineco",
+      "src": "https://cdn1.technopark.ru/technopark/photos_resized/section_brand_300_100/300_100/281007/1_281007.png",
+      "slug": "tineco",
+      "sections": [
+        {
+          "name": "Аксессуары для пылесосов Tineco",
+          "url": "/aksessuary-k-pylesosam/tineco/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3819046090/technopark/photos_resized/product/120_120/737440/1_737440.jpg?timestamp=2024-05-20_12-14-42",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        }
+      ],
+      "__typename": "Brand"
+    },
+    "section": {
+      "slug": "pylesosy",
+      "id": "893",
+      "name": "Все пылесосы",
+      "parents": [
+        {
+          "id": "892",
+          "name": "Для дома",
+          "depth": 1,
+          "__typename": "SectionTreeItem"
+        },
+        {
+          "id": "893",
+          "name": "Все пылесосы",
+          "depth": 2,
+          "__typename": "SectionTreeItem"
+        }
+      ],
+      "__typename": "Section"
+    },
+    "media": {
+      "gallery": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/727724/1_727724.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/727724/1_727724.jpg",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/727724/2_727724.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/727724/2_727724.jpg",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/727724/3_727724.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/727724/3_727724.jpg",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "interior": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior/1000_1000/727724/1_727724.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior_zoom/2500_2500/727724/1_727724.jpg",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior/1000_1000/727724/2_727724.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior_zoom/2500_2500/727724/2_727724.jpg",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior/1000_1000/727724/3_727724.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior_zoom/2500_2500/727724/3_727724.jpg",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior/1000_1000/727724/4_727724.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior_zoom/2500_2500/727724/4_727724.jpg",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior/1000_1000/727724/5_727724.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior_zoom/2500_2500/727724/5_727724.jpg",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior/1000_1000/727724/6_727724.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior_zoom/2500_2500/727724/6_727724.jpg",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior/1000_1000/727724/7_727724.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior_zoom/2500_2500/727724/7_727724.jpg",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior/1000_1000/727724/8_727724.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior_zoom/2500_2500/727724/8_727724.jpg",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "video": [
+        {
+          "id": "yh9SoXO7SsU",
+          "duration": 71,
+          "uploadDate": "2024-03-27T18:04:14+0000",
+          "__typename": "YoutubeVideo"
+        }
+      ],
+      "vkVideo": {
+        "path": "https://vkvideo.ru/video_ext.php?oid=-72424652&id=456240239&hd=3&hash=911f84065e6adf86",
+        "height": 900,
+        "width": 1600,
+        "__typename": "Video"
+      },
+      "view3d": [],
+      "listing": {
+        "default": [
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/727724/1_727724.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/727724/2_727724.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/727724/3_727724.jpg",
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "ProductListing"
+      },
+      "__typename": "ProductV2Media"
+    },
+    "modifications": {
+      "bigBrother": null,
+      "groups": [],
+      "__typename": "ProductModifications"
+    },
+    "description": {
+      "hasDescription": true,
+      "type": "DEFAULT",
+      "__typename": "ProductDescription"
+    },
+    "collection": {
+      "id": "727724",
+      "products": {
+        "pagination": {
+          "total": 0,
+          "__typename": "Pagination"
+        },
+        "__typename": "ProductV2Pagination"
+      },
+      "__typename": "ProductCollection"
+    },
+    "similar": {
+      "pagination": {
+        "total": 24,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "related": {
+      "pagination": {
+        "total": 19,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "accessories": [
+      {
+        "products": {
+          "pagination": {
+            "total": 15,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      }
+    ],
+    "rating": {
+      "average": 5,
+      "canRate": false,
+      "total": {
+        "all": 4,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 4,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "reviews": {
+      "total": 4,
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "totalRecommendations": 1,
+      "__typename": "ProductReviews"
+    },
+    "bestCredit": {
+      "monthPayment": 830,
+      "type": "DEFERRED_PAYMENT",
+      "__typename": "ProductBestCredit"
+    },
+    "isSpare": false,
+    "isService": false,
+    "isVipService": false,
+    "isGiftBonusCard": false,
+    "canBuy": true,
+    "canPayOnline": true,
+    "canRequestPrice": false,
+    "canShowPrice": true,
+    "canSubscribe": false,
+    "needPrepaymentForDelivery": false,
+    "needPrepaymentForPreorder": false,
+    "isSberSpasiboPayAvailable": true,
+    "isYandexPayAllowed": false,
+    "yandexSplit": {
+      "payments": [
+        {
+          "amount": 0,
+          "date": "2026-08-17T09:05:05+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1662,
+          "date": "2026-08-31T09:05:05+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1658,
+          "date": "2026-09-14T09:05:05+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1658,
+          "date": "2026-09-28T09:05:05+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1658,
+          "date": "2026-10-12T09:05:05+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1658,
+          "date": "2026-10-26T09:05:05+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1658,
+          "date": "2026-11-09T09:05:05+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1658,
+          "date": "2026-11-23T09:05:05+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1658,
+          "date": "2026-12-07T09:05:05+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1658,
+          "date": "2026-12-21T09:05:05+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1658,
+          "date": "2027-01-04T09:05:05+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1658,
+          "date": "2027-01-18T09:05:05+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1658,
+          "date": "2027-02-01T09:05:05+0300",
+          "__typename": "YandexSplitPayment"
+        }
+      ],
+      "firstPayment": 0,
+      "restPayment": 19900,
+      "description": "https://yandex.ru/support/split/",
+      "maxAmount": 295000,
+      "__typename": "YandexSplit"
+    },
+    "seo": {
+      "description": "Вертикальный пылесос Tineco Pure One Air Pro: купить в интернет-магазине Технопарк с расширенной гарантией и бесплатной доставкой по РФ. Подробные характеристики товара с отзывами реальных покупателей.",
+      "text": "Вы можете купить пылесос Tineco Pure One Air Pro с доставкой по Москве по низкой цене. В интернет-магазине Technopark.ru осуществляется продажа пылесоса Tineco Pure One Air Pro на выгодных условиях.",
+      "textHidden": "",
+      "title": "Вертикальный пылесос Tineco Pure One Air Pro - купить в Москве в интернет-магазине Технопарк",
+      "__typename": "SeoData"
+    },
+    "breadcrumbs": [
+      {
+        "name": "Главная",
+        "url": "/",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Бытовая техника для дома",
+        "url": "/dlya-doma/",
+        "options": [
+          {
+            "name": "Центр инноваций",
+            "url": "/tovary-iz-budushchego/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Смартфоны и гаджеты",
+            "url": "/smartfony-i-gadzhety/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Компьютеры и ноутбуки",
+            "url": "/kompyutery-i-noutbuki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Климатическая техника",
+            "url": "/klimaticheskaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Крупная бытовая техника",
+            "url": "/krupnaya-bytovaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Техника для кухни",
+            "url": "/dlya-kuhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для красоты и здоровья",
+            "url": "/krasota-i-zdorovye/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Спортивные товары",
+            "url": "/trenazhery-dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Телевизоры Аудио Hi-Fi",
+            "url": "/audio-video-foto/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для сада, дома и ремонта",
+            "url": "/dlya-sada-doma-i-remonta/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посуда",
+            "url": "/posuda/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Детские товары",
+            "url": "/detskie-tovary/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для гейминга",
+            "url": "/gaming/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Плоттеры и услуги розницы",
+            "url": "//",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Запасные части",
+            "url": "/zapasnie-chasti/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Пылесосы",
+        "url": "/pylesosy/",
+        "options": [
+          {
+            "name": "Роботы-пылесосы",
+            "url": "/roboty-pylesosy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вертикальные пылесосы",
+            "url": "/vertikalnye-pylesosy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Стеклоочистители и роботы для мытья окон",
+            "url": "/moyschiki-okon/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Пароочистители",
+            "url": "/paroochistiteli/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Утюги",
+            "url": "/utyugi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вертикальные отпариватели",
+            "url": "/otparivateli-dlya-odezhdy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Гладильные системы",
+            "url": "/gladilnye-sistemy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Гладильные прессы",
+            "url": "/gladilnye-pressy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Швейные машинки",
+            "url": "/shveynye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Оверлоки",
+            "url": "/overloki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Машинки для удаления катышков",
+            "url": "/mashinki-dlya-udaleniya-katyshkov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Гладильные доски",
+            "url": "/gladilnye-doski/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Полотенцесушители",
+            "url": "/polotentsesushiteli/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мыльницы",
+            "url": "/mylnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Стаканы для зубных щеток",
+            "url": "/stakany-dlya-zubnykh-shchetok/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Дозаторы для жидкого мыла",
+            "url": "/dozatory-dlya-zhidkogo-myla/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Органайзеры для раковины",
+            "url": "/organayzery-dlya-rakoviny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Органайзеры и полочки для душа",
+            "url": "/organayzery-i-polochki-dlya-dusha/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для ванной комнаты",
+            "url": "/aksessuary-dlya-vannoy-komnaty/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Контейнеры для хранения ватных палочек",
+            "url": "/konteynery-dlya-khraneniya-vatnykh-palochek/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Держатели для туалетной бумаги",
+            "url": "/derzhateli-dlya-tualetnoy-bumagi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Ершики для унитаза",
+            "url": "/yershiki-dlya-unitaza/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Фильтры для слива",
+            "url": "/filtry-dlya-sliva/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вёдра",
+            "url": "/vyedra/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вёдра для мусора",
+            "url": "/vedra-dlya-musora/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Щётки и губки для мытья посуды",
+            "url": "/shchyetki-dlya-mytya-posudy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Швабры и щётки",
+            "url": "/shvabry-i-shchyetki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Салфетки из микрофибры",
+            "url": "/salfetki-iz-mikrofibry/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Сушилки для обуви",
+            "url": "/sushilki-dlya-obuvi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Домашние сушилки для белья в квартире",
+            "url": "/sushilki-dlya-belya/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Корзины для белья",
+            "url": "/korziny-dlya-belya/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Коллекционные фигуры",
+            "url": "/kollektsionnye-figury/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Ароматы и диффузоры для дома",
+            "url": "/aromadispenser/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Сейфы и системы хранения",
+            "url": "/tovary-dlya-khraneniya/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для интерьера",
+            "url": "/tovary-dlya-interera/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Пледы",
+            "url": "/pledy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Органайзеры для хранения",
+            "url": "/organayzery-dlya-khraneniya/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для пылесосов",
+            "url": "/aksessuary-k-pylesosam/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для пароочистителей",
+            "url": "/aksessuary-k-paroochistitelam/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для моющих аппаратов",
+            "url": "/aksessuary-k-moyuschim-apparatam/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для утюгов и отпаривателей",
+            "url": "/aksessuary-k-utyugam/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для гладильных прессов",
+            "url": "/aksessuary-dlya-gladilnykh-pressov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Столы",
+            "url": "/stoly/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Стулья",
+            "url": "/stulya/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кресла",
+            "url": "/kresla/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Текстиль",
+            "url": "/tekstil/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для гардероба",
+            "url": "/akssesuary-dlya-garderoba/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары из кожи",
+            "url": "/aksessuary-iz-kozhi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Сумки",
+            "url": "/sumki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Чемоданы",
+            "url": "/chemodany/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вешалки",
+            "url": "/veshalka/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электронные подарочные карты",
+            "url": "/podarochnye-karty/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Пластиковые подарочные карты",
+            "url": "/podarochnye-karty-classic/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Пакеты",
+            "url": "/pakety/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Подложки для раковины",
+            "url": "/podlozhki-dlya-rakoviny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Зонты",
+            "url": "/zonty/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Горшки и кашпо",
+            "url": "/gorshki-i-kashpo/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электронные биде",
+            "url": "/elektronnye-bide/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Ковры",
+            "url": "/kovry/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Пылесосы Tineco",
+        "url": "/pylesosy/tineco/",
+        "options": [
+          {
+            "name": "BORK",
+            "url": "/pylesosy/bork/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Dyson",
+            "url": "/pylesosy/dyson/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "iRobot",
+            "url": "/pylesosy/irobot/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Miele",
+            "url": "/pylesosy/miele/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Karcher",
+            "url": "/pylesosy/karcher/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Dreame",
+            "url": "/pylesosy/dreame/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Polaris",
+            "url": "/pylesosy/polaris/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Kitfort",
+            "url": "/pylesosy/kitfort/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Roborock",
+            "url": "/pylesosy/roborock/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Trouver",
+            "url": "/pylesosy/trouver/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Xiaomi",
+            "url": "/pylesosy/xiaomi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Samsung",
+            "url": "/pylesosy/samsung/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Tefal",
+            "url": "/pylesosy/tefal/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Atvel",
+            "url": "/pylesosy/atvel/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "LG",
+            "url": "/pylesosy/lg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Libhof",
+            "url": "/pylesosy/libhof/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "QYRON",
+            "url": "/pylesosy/qyron/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Endever",
+            "url": "/pylesosy/endever/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Hyundai",
+            "url": "/pylesosy/hyundai/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Ecovacs",
+            "url": "/pylesosy/ecovacs/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Hobot",
+            "url": "/pylesosy/hobot/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Jimmy",
+            "url": "/pylesosy/jimmy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "HOTO",
+            "url": "/pylesosy/hoto/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Midea",
+            "url": "/pylesosy/midea/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "DOFFLER",
+            "url": "/pylesosy/doffler/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Kuppersbusch",
+            "url": "/pylesosy/kuppersbusch/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Eufy",
+            "url": "/pylesosy/eufy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Bosch",
+            "url": "/pylesosy/bosch/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Clatronic",
+            "url": "/pylesosy/clatronic/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "ProfiCare",
+            "url": "/pylesosy/proficare/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "iBoto",
+            "url": "/pylesosy/iboto/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Thomson",
+            "url": "/pylesosy/thomson/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Viomi",
+            "url": "/pylesosy/viomi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Smartmi",
+            "url": "/pylesosy/smartmi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Xbot",
+            "url": "/pylesosy/xbot/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Taurus",
+            "url": "/pylesosy/taurus/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Rowenta",
+            "url": "/pylesosy/rowenta/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Honor Choice",
+            "url": "/pylesosy/honor_choice/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "MIE",
+            "url": "/pylesosy/mie/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Brayer",
+            "url": "/pylesosy/brayer/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Haier",
+            "url": "/pylesosy/haier/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Tuarex",
+            "url": "/pylesosy/tuarex/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "DJI",
+            "url": "/pylesosy/dji/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Вертикальный пылесос Tineco Pure One Air Pro",
+        "url": "pylesos-tineco-pure-one-air-pro",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      }
+    ],
+    "isArchive": false,
+    "__typename": "ProductV2",
+    "isSberPayOneClickAllowed": false,
+    "isTinkoffPayOneClickAllowed": false,
+    "bonus": null
+  },
+  "details": {
+    "description": "<style> *{box-sizing:border-box;outline:0}body{font-family:'DINPro Technopark',Arial;font-size:14px;font-weight:400;font-display:swap;margin:0;overflow-x:hidden;position:relative;min-height:95vh;-webkit-tap-highlight-color:transparent}body.lock-scroll{overflow:hidden;position:fixed;right:0;left:0;bottom:0}@media (min-width:1192px){body.lock-scroll{position:relative}}@media screen and (max-device-width:480px){body{-webkit-text-size-adjust:none}}.label-for-seo{width:100%}.label-for-seo__span{display:none}a{color:#0093c4;text-decoration:none}.is-visible{display:block!important}.is-hidden{display:none!important}.is-visually-hidden{opacity:0!important;visibility:hidden!important;pointer-events:none!important}.is-link{color:#0093c4}.no-wrap{white-space:nowrap}.container{margin:auto;width:100%}@media (min-width:960px){.container{width:calc(100% - 48px)}}@media (min-width:1482px){.container{max-width:1397px}}.is-overflow-hidden{overflow:hidden}.is-mobile-not{display:none!important}@media (min-width:960px){.is-mobile-not{display:block!important}}@media (min-width:960px){.is-mobile-only{display:none!important}}@media (max-width:959px){.hide-phone{display:none}}@media (min-width:960px) and (max-width:1481px){.hide-tablet{display:none}}.is-hidden{display:none!important}.nowrap-text{white-space:nowrap}.textcenter{text-align:center}ul.list{margin:0;padding:6px 0 18px}@media (min-width:960px){ul.list{padding:6px 0 24px}}ul.list li{font-family:'DINPro Technopark',Arial;font-size:15px;font-weight:400;font-display:swap;color:#fff;line-height:20px;list-style:none;margin:0;padding-left:9px;position:relative}@media (min-width:960px){ul.list li{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:400;font-display:swap;line-height:21px;padding-left:26px}}ul.list>li:before{background-color:#fff;border-radius:50%;content:\"\";display:block;height:3px;left:0;position:absolute;top:10px;width:3px}@media (min-width:960px){ul.list>li:before{border-radius:0;height:1px;width:13px}}ul.list>li>ul{padding:6px 0 6px 15px}@media (min-width:960px){ul.list>li>ul{padding:3px 0 3px 4px}}ul.list>li>ul>li:before{background-color:rgba(255,255,255,.5)}ul.list>li>ul>li>ul{padding:6px 0 0 15px}@media (min-width:960px){ul.list>li>ul>li>ul{padding:3px 0 0 4px}}ul.list>li>ul>li>ul>li:before{background-color:rgba(255,255,255,.2)}ol.list{margin:0;padding:6px 0 18px;counter-reset:list1}@media (min-width:960px){ol.list{padding:6px 0 24px}}ol.list li{font-family:'DINPro Technopark',Arial;font-size:15px;font-weight:400;font-display:swap;color:#fff;line-height:20px;list-style:none;margin:0;padding-left:9px;position:relative}@media (min-width:960px){ol.list li{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:400;font-display:swap;line-height:21px;padding-left:26px}}ol.list>li{padding-left:24px}ol.list>li:before{counter-increment:list1;content:counter(list1) \". \";left:0;position:absolute}ol.list>li>ol{counter-reset:list2;padding:6px 0}@media (min-width:960px){ol.list>li>ol{padding:3px 0}}ol.list>li>ol>li{padding-left:42px}ol.list>li>ol>li:before{counter-increment:list2;content:counter(list1) \".\" counter(list2) \". \"}ol.list>li>ol>li>ol{counter-reset:list3}ol.list>li>ol>li>ol>li:before{counter-increment:list3;content:counter(list1) \".\" counter(list2) \".\" counter(list3) \". \"}ol.list--compact{padding:0}.list--line-interval li:not(:last-child){margin-bottom:1em}input::-ms-clear{display:none}input::-webkit-clear-button{display:none}@media (max-width:767px){.footer{padding-bottom:66px}}.page-container{margin:auto;padding:0 18px;width:100%}@media (min-width:960px){.page-container{padding:0 24px;width:100%}}@media (min-width:1482px){.page-container{width:1481px}}@media (min-width:960px){.page-container--extra-padding{padding:0 42px}}.default-container{width:100%;max-width:1481px;margin:auto;padding:0 12px}@media (min-width:960px){.default-container{padding:0 24px}}button,input,select,textarea{font-family:inherit;font-size:100%;margin:0}textarea{resize:none;overflow:auto}form{margin:0}button{color:inherit}dd,dl,dt{margin:0;padding:0}input[type=search]{-webkit-appearance:none}input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration,input[type=search]::-webkit-search-results-button,input[type=search]::-webkit-search-results-decoration{display:none}input:invalid{box-shadow:none}textarea:invalid{box-shadow:none}svg *{pointer-events:none}.product__desc{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:300;font-display:swap;color:#878787;display:none}.product__desc b{font-family:'DINPro Technopark',Arial;font-size:20px;font-weight:400;font-display:swap;color:#fff}.dyson-v10-picking,.dyson-v10-properties,.dyson-v10-wrapper,.dyson-v10-wrapper .dyson-v10__list span{color:#fff;padding:0 12px}@media (max-width:1154px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:170px}}@media (max-width:1100px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:270px}}@media (max-width:960px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:27px}}.dyson-v10-first-row li.dyson-v10-item{max-width:calc(100% / 3 - 10);padding-right:5px}@media (max-width:959px){.dyson-v10-first-row{flex-direction:column;align-items:flex-start}.dyson-v10-first-row li.dyson-v10-item{max-width:none}}@media (min-width:960px) and (max-width:1303px){.dyson-v10-first-row{flex-direction:column;align-items:flex-start}.dyson-v10-first-row li.dyson-v10-item{max-width:none}}.dyson-v10-chapter{text-align:center!important}.dyson-v10__list li.dyson-v10__list-item{background-size:contain;background-position:left} </style> <p>  Вертикальный пылесос Tineco Pure One Air Pro сочетает мощность 230 Вт и технологию iLoop Smart Sensor, которая автоматически регулирует всасывание в зависимости от уровня загрязнения, обеспечивая эффективную и экономичную уборку. Компактный и лёгкий в управлении, пылесос оснащён HEPA-фильтром, цифровым дисплеем и поддержкой Wi-Fi, позволяя удобно контролировать работу устройства через приложение Tineco. До 30 минут автономной работы, продуманная система насадок и подсветка зоны уборки делают его удобным решением для поддержания чистоты в доме.</p>  <h2>Особенности</h2>  <ul class=\"list\">  <li><b>Датчик загрязнений iLoop Smart Sensor</b><br/>  Благодаря технологии iLoop Smart Sensor пылесос автоматически регулирует мощность всасывания в зависимости от степени загрязнения, повышая эффективность уборки и оптимизируя расход энергии</li>  <li><b>Интеграция с приложением и голосовой ассистент</b><br/>  Используйте приложение Tineco и голосовые подсказки для достижения идеального результата. Следите за процессом, изучайте отчёты по уборке и контролируйте уровень заряда на своём смартфоне</li>  <li><b>Технология Tineco PureCyclone</b><br/>  Технология Tineco PureCyclone позволяет эффективно отделять пыль от воздуха, что позволяет избежать засорения фильтра предварительной очистки и снижения мощности всасывания</li>  <li><b>4 вида насадок</b><br/>  4 вида насадок, включая основную, обеспечат идеальную чистоту в каждом уголке. Используйте их для уборки плинтусов, углов, мягкой мебели, салона автомобиля и других труднодоступных мест</li>  <li><b>V-образное расположение щетины</b><br/>  Благодаря V-образному расположению щетины и конструкции с двумя гребнями волосы собираются с пола и всасываются в пылесборник, не наматываясь на щётку и не спутываясь</li>  <li><b>Автономность</b><br/>  Литий-ионная батарея полностью заряжается всего за 3.5 часа и работает до 30 минут за один цикл уборки, что удобно для поддержания чистоты на небольшой площади</li>  <li><b>Лёгкий и эргономичный</b><br/>  Лёгкий беспроводной пылесос удобно переносить по дому, без лишних усилий убирая на разных уровнях и легко добираясь до труднодоступных мест</li>  </ul>",
+    "descriptionType": "DEFAULT",
+    "descriptionBarcode": "6974950104498",
+    "descriptionBrand": "Tineco",
+    "specifications": {
+      "short": [
+        {
+          "name": "Тип",
+          "value": "вертикальный",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Уборка",
+          "value": "сухая",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Мощность всасывания",
+          "value": "60 Вт",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Пылесборник",
+          "value": "контейнер",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Объем пылесборника",
+          "value": "0.3 л",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "barcode": "6974950104498",
+      "country": "Китай",
+      "full": [
+        {
+          "name": "Основные характеристики",
+          "list": [
+            {
+              "name": "Тип",
+              "value": "вертикальный",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Уборка",
+              "value": "сухая",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Потребляемая мощность",
+              "value": "230 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Мощность всасывания",
+              "value": "60 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Пылесборник",
+              "value": "контейнер",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Объем пылесборника",
+              "value": "0.3 л",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Уровень шума",
+              "value": "78 дБ",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Управление",
+          "list": [
+            {
+              "name": "Тип управления",
+              "value": "электронный",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Регулятор мощности",
+              "value": "на рукоятке",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дисплей",
+              "value": "символьный, цифровой",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Управление c мобильного устройства",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Поддержка мобильного приложения",
+              "value": "Tineco",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Поддержка Wi-Fi",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Фильтрация воздуха",
+          "list": [
+            {
+              "name": "Выходной фильтр",
+              "value": "в комплекте",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Фильтр тонкой очистки",
+              "value": "HEPA",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Система очистки фильтра",
+              "value": "ручная",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Насадки",
+          "list": [
+            {
+              "name": "Количество насадок",
+              "value": "4",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Электрощетка",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Щелевая насадка",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Насадка 2 в 1",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Мини-электрощетка",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Режимы работы",
+          "list": [
+            {
+              "name": "Количество режимов работы",
+              "value": "2",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Режимы работы",
+              "value": "автоматический, максимальный",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Ориентация в пространстве",
+          "list": [
+            {
+              "name": "Датчики и сенсоры",
+              "value": "датчик загрязнения",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Индикация",
+          "list": [
+            {
+              "name": "Индикация включения",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация режима работы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикатор уровня зарядки аккумулятора",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация зарядки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Дополнительные характеристики",
+          "list": [
+            {
+              "name": "Подсветка зоны уборки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Парковка",
+              "value": "вертикальная",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Труба всасывания",
+              "value": "составная",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дополнительная информация",
+              "value": "технология iLoop",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Комплектация",
+          "list": [
+            {
+              "name": "Подставка-зарядное устройство",
+              "value": "в комплекте",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дополнительная комплектация",
+              "value": "инструмент для удаления волос",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Инструкция",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Корпус",
+          "list": [
+            {
+              "name": "Цвет",
+              "value": "белый",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал корпуса",
+              "value": "пластик",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Питание",
+          "list": [
+            {
+              "name": "Источник питания",
+              "value": "аккумулятор",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип аккумулятора",
+              "value": "Li-Ion",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Емкость аккумулятора",
+              "value": "2500 мАч",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Напряжение аккумулятора",
+              "value": "14.4 В",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Время работы от аккумулятора",
+              "value": "30 мин",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Время зарядки аккумулятора",
+              "value": "3.5 ч",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Размеры и вес",
+          "list": [
+            {
+              "name": "Ширина",
+              "value": "32 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Глубина",
+              "value": "17 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вес",
+              "value": "2.4 кг",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        }
+      ],
+      "grossWeight": "8",
+      "netWeight": "3.4",
+      "height": "0.32",
+      "instructionUrl": "https://storage.yandexcloud.net/technopark.instructions/727724/instruction/instrukciya-pylesos-tineco-pure-one-air-pro.pdf",
+      "length": "0.45",
+      "schemeUrl": null,
+      "warranty": "24",
+      "width": "0.23",
+      "__typename": "ProductV2Specifications"
+    },
+    "certificates": [
+      "https://www.technopark.ru/bipublic/Cert/I00HH32PF56LT7.pdf",
+      "https://www.technopark.ru/bipublic/Cert/I00HH32PF7VLL8.pdf"
+    ],
+    "isManufacturerCountry": false,
+    "isSellerWarranty": false,
+    "reviews": {
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "total": 4,
+      "totalRecommendations": 1,
+      "__typename": "ProductReviews"
+    },
+    "rating": {
+      "average": 5,
+      "canRate": false,
+      "total": {
+        "all": 4,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 4,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "isLoading": false
+  },
+  "shots": [
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/727724/1_727724.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/727724/1_727724.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/727724/1_727724.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/727724/2_727724.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/727724/2_727724.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/727724/2_727724.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/727724/3_727724.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/727724/3_727724.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/727724/3_727724.jpg"
+    ]
+  ],
+  "photos": [
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/pylesos-tineco-pure-one-air-pro-1.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/pylesos-tineco-pure-one-air-pro-2.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/pylesos-tineco-pure-one-air-pro-3.jpg"
+  ]
+}

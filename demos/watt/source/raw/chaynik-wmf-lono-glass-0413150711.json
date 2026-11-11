@@ -1,0 +1,1683 @@
+{
+  "shelf": "chayniki",
+  "slug": "chaynik-wmf-lono-glass-0413150711",
+  "product": {
+    "id": "545596",
+    "article": "135305",
+    "slug": "chaynik-wmf-lono-glass-0413150711",
+    "hasSmartInstallments": false,
+    "isActive": true,
+    "name": {
+      "default": "WMF Lono Glass 0413150711",
+      "full": "Чайник WMF Lono Glass 0413150711",
+      "pseudo": null,
+      "spare": null,
+      "fullWithoutSection": "WMF Lono Glass 0413150711",
+      "section": "Чайник",
+      "__typename": "ProductName"
+    },
+    "price": {
+      "default": 14990,
+      "marketing": null,
+      "old": null,
+      "__typename": "ProductPrice"
+    },
+    "benefit": null,
+    "specifications": {
+      "short": [
+        {
+          "name": "Мощность",
+          "value": "3000 Вт",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Объем",
+          "value": "1.7 л",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Материал корпуса",
+          "value": "стекло",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "__typename": "ProductV2Specifications"
+    },
+    "labels": [
+      {
+        "name": "Бонусы Спасибо",
+        "type": "sberspasibo",
+        "items": [
+          {
+            "description": "",
+            "name": "Этот товар можно оплатить бонусами Спасибо от СберБанка",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Рассрочка",
+        "type": "deferred_payment",
+        "items": [
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-6",
+            "url": "/chaynik-wmf-lono-glass-0413150711/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-12",
+            "url": "/chaynik-wmf-lono-glass-0413150711/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-24",
+            "url": "/chaynik-wmf-lono-glass-0413150711/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-18",
+            "url": "/chaynik-wmf-lono-glass-0413150711/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      }
+    ],
+    "labelsV2": [
+      {
+        "id": "8",
+        "name": "Бонусы Спасибо",
+        "code": "sberspasibo",
+        "mainColor": "#0C9C0C",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#0C9C0C",
+        "altTextColor": "#FFFFFF",
+        "borderAndTextColor": "#0C9C0C",
+        "items": [
+          {
+            "id": "25941",
+            "text": "Этот товар можно оплатить бонусами Спасибо от СберБанка ",
+            "buttonText": "Подробнее",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      }
+    ],
+    "status": {
+      "id": "IN_STOCK",
+      "name": "В наличии",
+      "type": "POSITIVE",
+      "__typename": "ProductStatus"
+    },
+    "brand": {
+      "code": "wmf",
+      "id": "51935",
+      "name": "WMF",
+      "src": "https://cdn1.technopark.ru/technopark/photos_resized/section_brand_300_100/300_100/51935/1_51935.png",
+      "slug": "wmf",
+      "sections": [
+        {
+          "name": "Кофеварки WMF",
+          "url": "/kofevarki-i-kofemashiny/wmf/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3694099351/technopark/photos_resized/product/120_120/810898/1_810898.jpg?timestamp=2025-12-16_16-45-33",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/725232634/technopark/photos_resized/product/120_120/810898/2_810898.jpg?timestamp=2025-12-16_16-45-32",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1112272436/technopark/photos_resized/product/120_120/810898/3_810898.jpg?timestamp=2025-12-16_16-45-33",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2989718080/technopark/photos_resized/product/120_120/810898/4_810898.jpg?timestamp=2025-12-16_16-45-32",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1071358556/technopark/photos_resized/product/120_120/810898/5_810898.jpg?timestamp=2025-12-16_16-45-44",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3358149148/technopark/photos_resized/product/120_120/810898/6_810898.jpg?timestamp=2025-12-16_16-45-41",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1547508588/technopark/photos_resized/product/120_120/810898/7_810898.jpg?timestamp=2025-12-16_16-45-32",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1993482904/technopark/photos_resized/product/120_120/810898/8_810898.jpg?timestamp=2025-12-16_16-45-51",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3961387994/technopark/photos_resized/product/120_120/810898/9_810898.jpg?timestamp=2025-12-16_16-46-00",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/640101168/technopark/photos_resized/product/120_120/810898/10_810898.jpg?timestamp=2025-12-16_16-45-41",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1361058726/technopark/photos_resized/product/120_120/810898/11_810898.jpg?timestamp=2025-12-16_16-45-41",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3865919241/technopark/photos_resized/product/120_120/810898/12_810898.jpg?timestamp=2025-12-16_16-45-51",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2289123038/technopark/photos_resized/product/120_120/810898/13_810898.jpg?timestamp=2025-12-16_16-45-50",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2363126335/technopark/photos_resized/product/120_120/810898/14_810898.jpg?timestamp=2025-12-16_16-46-00",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2564572084/technopark/photos_resized/product/120_120/810898/15_810898.jpg?timestamp=2025-12-16_16-45-51",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1155809306/technopark/photos_resized/product/120_120/810898/16_810898.jpg?timestamp=2025-12-16_16-45-56",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Мясорубки WMF",
+          "url": "/myasorubki/wmf/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3021369279/technopark/photos_resized/product/120_120/682859/1_682859.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2447422542/technopark/photos_resized/product/120_120/682859/2_682859.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2306585518/technopark/photos_resized/product/120_120/682859/3_682859.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3272695593/technopark/photos_resized/product/120_120/682859/4_682859.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/872681284/technopark/photos_resized/product/120_120/682859/5_682859.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3882332793/technopark/photos_resized/product/120_120/682859/6_682859.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/157930325/technopark/photos_resized/product/120_120/682859/7_682859.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2121196483/technopark/photos_resized/product/120_120/682859/8_682859.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3658116712/technopark/photos_resized/product/120_120/682859/9_682859.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Миксеры и кухонные машины WMF",
+          "url": "/miksery/wmf/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2374531749/technopark/photos_resized/product/120_120/545587/1_545587.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1669733257/technopark/photos_resized/product/120_120/545587/2_545587.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/490170164/technopark/photos_resized/product/120_120/545587/3_545587.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1781553058/technopark/photos_resized/product/120_120/545587/4_545587.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3476247685/technopark/photos_resized/product/120_120/545587/5_545587.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/642838960/technopark/photos_resized/product/120_120/545587/6_545587.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4203694643/technopark/photos_resized/product/120_120/545587/7_545587.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Сотейники WMF",
+          "url": "/soteyniki/wmf/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3646422738/technopark/photos_resized/product/120_120/788573/1_788573.jpg?timestamp=2025-05-07_11-03-49",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2924531268/technopark/photos_resized/product/120_120/788573/2_788573.jpg?timestamp=2025-05-07_11-04-02",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1079947112/technopark/photos_resized/product/120_120/788573/3_788573.jpg?timestamp=2025-05-07_11-03-52",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2138426656/technopark/photos_resized/product/120_120/788573/4_788573.jpg?timestamp=2025-05-07_11-03-45",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Кофемашины WMF",
+          "url": "/kofemashiny/wmf/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3754401571/technopark/photos_resized/product/120_120/790741/1_790741.jpg?timestamp=2025-07-31_12-27-12",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3325761103/technopark/photos_resized/product/120_120/790741/2_790741.jpg?timestamp=2025-07-31_12-27-08",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3522932540/technopark/photos_resized/product/120_120/790741/3_790741.jpg?timestamp=2025-07-31_12-27-07",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2973509337/technopark/photos_resized/product/120_120/790741/4_790741.jpg?timestamp=2025-07-31_12-27-08",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3975290856/technopark/photos_resized/product/120_120/790741/5_790741.jpg?timestamp=2025-07-31_12-27-24",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3372532761/technopark/photos_resized/product/120_120/790741/6_790741.jpg?timestamp=2025-07-31_12-27-25",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3058819776/technopark/photos_resized/product/120_120/790741/7_790741.jpg?timestamp=2025-07-31_12-27-09",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2616536958/technopark/photos_resized/product/120_120/790741/8_790741.jpg?timestamp=2025-07-31_12-27-24",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2966977725/technopark/photos_resized/product/120_120/790741/9_790741.jpg?timestamp=2025-07-31_12-27-26",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1026598049/technopark/photos_resized/product/120_120/790741/10_790741.jpg?timestamp=2025-07-31_12-27-48",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1316708603/technopark/photos_resized/product/120_120/790741/11_790741.jpg?timestamp=2025-07-31_12-27-29",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2381839418/technopark/photos_resized/product/120_120/790741/12_790741.jpg?timestamp=2025-07-31_12-27-54",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3722792383/technopark/photos_resized/product/120_120/790741/13_790741.jpg?timestamp=2025-07-31_12-27-45",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2746452271/technopark/photos_resized/product/120_120/790741/14_790741.jpg?timestamp=2025-07-31_12-27-40",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/856462526/technopark/photos_resized/product/120_120/790741/15_790741.jpg?timestamp=2025-07-31_12-27-40",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1141613608/technopark/photos_resized/product/120_120/790741/16_790741.jpg?timestamp=2025-07-31_12-27-40",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Заварочные чайники WMF",
+          "url": "/zavarochnye-chayniki/wmf/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2089207693/technopark/photos_resized/product/120_120/565112/1_565112.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Ковшики для кухни WMF",
+          "url": "/kovshiki-dlya-kukhni/wmf/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1610272569/technopark/photos_resized/product/120_120/814703/1_814703.jpg?timestamp=2025-12-23_08-39-03",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3248380570/technopark/photos_resized/product/120_120/814703/2_814703.jpg?timestamp=2025-12-23_08-39-03",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3063507468/technopark/photos_resized/product/120_120/814703/3_814703.jpg?timestamp=2025-12-23_08-39-03",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3553656082/technopark/photos_resized/product/120_120/814703/4_814703.jpg?timestamp=2025-12-23_08-39-12",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/687734703/technopark/photos_resized/product/120_120/814703/5_814703.jpg?timestamp=2025-12-23_08-39-03",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/797981622/technopark/photos_resized/product/120_120/814703/6_814703.jpg?timestamp=2025-12-23_08-39-03",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2765573508/technopark/photos_resized/product/120_120/814703/7_814703.jpg?timestamp=2025-12-23_08-39-12",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1037966398/technopark/photos_resized/product/120_120/814703/8_814703.jpg?timestamp=2025-12-23_08-39-12",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2908815791/technopark/photos_resized/product/120_120/814703/9_814703.jpg?timestamp=2025-12-23_08-39-12",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Кружки WMF",
+          "url": "/kruzhki/wmf/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1319311113/technopark/photos_resized/product/120_120/788587/1_788587.jpg?timestamp=2025-05-07_11-38-30",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/967059359/technopark/photos_resized/product/120_120/788587/2_788587.jpg?timestamp=2025-05-07_11-38-31",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Салатники WMF",
+          "url": "/salatniki/wmf/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2147864123/technopark/photos_resized/product/120_120/762106/1_762106.jpg?timestamp=2024-10-04_16-04-50",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        }
+      ],
+      "__typename": "Brand"
+    },
+    "section": {
+      "slug": "chayniki",
+      "id": "912",
+      "name": "Чайники электрические",
+      "parents": [
+        {
+          "id": "900",
+          "name": "Для кухни",
+          "depth": 1,
+          "__typename": "SectionTreeItem"
+        },
+        {
+          "id": "912",
+          "name": "Чайники электрические",
+          "depth": 2,
+          "__typename": "SectionTreeItem"
+        }
+      ],
+      "__typename": "Section"
+    },
+    "media": {
+      "gallery": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/545596/1_545596.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/545596/1_545596.jpg",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/545596/2_545596.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/545596/2_545596.jpg",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/545596/3_545596.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/545596/3_545596.jpg",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/545596/4_545596.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/545596/4_545596.jpg",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/545596/5_545596.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/545596/5_545596.jpg",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/545596/6_545596.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/545596/6_545596.jpg",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/545596/7_545596.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/545596/7_545596.jpg",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "interior": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior/1000_1000/545596/1_545596.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "video": [],
+      "vkVideo": {
+        "path": "https://vkvideo.ru/video_ext.php?oid=-72424652&id=456240134&hd=4&hash=66fadf3fa5f77bb3",
+        "height": 900,
+        "width": 1600,
+        "__typename": "Video"
+      },
+      "view3d": [],
+      "listing": {
+        "default": [
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/545596/1_545596.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/545596/2_545596.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/545596/3_545596.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/545596/4_545596.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/545596/5_545596.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/545596/6_545596.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/545596/7_545596.jpg",
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "ProductListing"
+      },
+      "__typename": "ProductV2Media"
+    },
+    "modifications": {
+      "bigBrother": null,
+      "groups": [],
+      "__typename": "ProductModifications"
+    },
+    "description": {
+      "hasDescription": true,
+      "type": "RICH",
+      "__typename": "ProductDescription"
+    },
+    "collection": {
+      "id": "545596",
+      "products": {
+        "pagination": {
+          "total": 0,
+          "__typename": "Pagination"
+        },
+        "__typename": "ProductV2Pagination"
+      },
+      "__typename": "ProductCollection"
+    },
+    "similar": {
+      "pagination": {
+        "total": 34,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "related": {
+      "pagination": {
+        "total": 20,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "accessories": [
+      {
+        "products": {
+          "pagination": {
+            "total": 3,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 1,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 5,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 20,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 11,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 13,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 2,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 17,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 13,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 4,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 2,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 1,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 14,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      }
+    ],
+    "rating": {
+      "average": 5,
+      "canRate": false,
+      "total": {
+        "all": 3,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 3,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "reviews": {
+      "total": 3,
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "totalRecommendations": 1,
+      "__typename": "ProductReviews"
+    },
+    "bestCredit": {
+      "monthPayment": 625,
+      "type": "DEFERRED_PAYMENT",
+      "__typename": "ProductBestCredit"
+    },
+    "isSpare": false,
+    "isService": false,
+    "isVipService": false,
+    "isGiftBonusCard": false,
+    "canBuy": true,
+    "canPayOnline": true,
+    "canRequestPrice": false,
+    "canShowPrice": true,
+    "canSubscribe": false,
+    "needPrepaymentForDelivery": false,
+    "needPrepaymentForPreorder": false,
+    "isSberSpasiboPayAvailable": true,
+    "isYandexPayAllowed": false,
+    "yandexSplit": {
+      "payments": [
+        {
+          "amount": 0,
+          "date": "2026-08-17T09:04:25+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1251,
+          "date": "2026-08-31T09:04:25+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1249,
+          "date": "2026-09-14T09:04:25+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1249,
+          "date": "2026-09-28T09:04:25+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1249,
+          "date": "2026-10-12T09:04:25+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1249,
+          "date": "2026-10-26T09:04:25+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1249,
+          "date": "2026-11-09T09:04:25+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1249,
+          "date": "2026-11-23T09:04:25+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1249,
+          "date": "2026-12-07T09:04:25+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1249,
+          "date": "2026-12-21T09:04:25+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1249,
+          "date": "2027-01-04T09:04:25+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1249,
+          "date": "2027-01-18T09:04:25+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1249,
+          "date": "2027-02-01T09:04:25+0300",
+          "__typename": "YandexSplitPayment"
+        }
+      ],
+      "firstPayment": 0,
+      "restPayment": 14990,
+      "description": "https://yandex.ru/support/split/",
+      "maxAmount": 295000,
+      "__typename": "YandexSplit"
+    },
+    "seo": {
+      "description": "Чайник WMF Lono Glass 0413150711: купить в интернет-магазине Технопарк с расширенной гарантией и бесплатной доставкой по РФ. Подробные характеристики товара с отзывами реальных покупателей.",
+      "text": "Вы можете купить чайник WMF Lono Glass 0413150711 с доставкой по Москве по низкой цене. В интернет-магазине Technopark.ru осуществляется продажа чайника WMF Lono Glass 0413150711 на выгодных условиях.",
+      "textHidden": "",
+      "title": "Чайник WMF Lono Glass 0413150711 - купить в Москве в интернет-магазине Технопарк",
+      "__typename": "SeoData"
+    },
+    "breadcrumbs": [
+      {
+        "name": "Главная",
+        "url": "/",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Техника для кухни",
+        "url": "/dlya-kuhni/",
+        "options": [
+          {
+            "name": "Центр инноваций",
+            "url": "/tovary-iz-budushchego/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Смартфоны и гаджеты",
+            "url": "/smartfony-i-gadzhety/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Компьютеры и ноутбуки",
+            "url": "/kompyutery-i-noutbuki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Климатическая техника",
+            "url": "/klimaticheskaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Крупная бытовая техника",
+            "url": "/krupnaya-bytovaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Бытовая техника для дома",
+            "url": "/dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для красоты и здоровья",
+            "url": "/krasota-i-zdorovye/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Спортивные товары",
+            "url": "/trenazhery-dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Телевизоры Аудио Hi-Fi",
+            "url": "/audio-video-foto/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для сада, дома и ремонта",
+            "url": "/dlya-sada-doma-i-remonta/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посуда",
+            "url": "/posuda/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Детские товары",
+            "url": "/detskie-tovary/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для гейминга",
+            "url": "/gaming/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Плоттеры и услуги розницы",
+            "url": "//",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Запасные части",
+            "url": "/zapasnie-chasti/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Электрические чайники",
+        "url": "/chayniki/",
+        "options": [
+          {
+            "name": "Аэрогрили",
+            "url": "/aerogrili/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Микроволновые печи",
+            "url": "/mikrovolnovye-pechi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мультиварки",
+            "url": "/multivarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мини-печи",
+            "url": "/mini-pechi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мультишефы BORK",
+            "url": "/multishefy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Миксеры и кухонные машины",
+            "url": "/miksery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрогрили",
+            "url": "/grili/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Уличные грили барбекю",
+            "url": "/ulichnye-grili-barbeku/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Фритюрницы",
+            "url": "/frityurnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Хлебопечки",
+            "url": "/hlebopechki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Пароварки",
+            "url": "/parovarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Настольные плиты",
+            "url": "/induktsionnye-paneli/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мороженицы",
+            "url": "/morozhenitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вакуумные упаковщики (вакууматоры)",
+            "url": "/vakuumnaya-upakovka/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Су виды",
+            "url": "/su-vidy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрические сковороды и воки",
+            "url": "/elektricheskie-skovorody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Автоматические кофемашины",
+            "url": "/kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кофеварки",
+            "url": "/kofevarki-i-kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кофейные станции",
+            "url": "/kofeynye-stantsii/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Капсульные кофемашины",
+            "url": "/kapsulnye-kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Гейзерные кофеварки для дома",
+            "url": "/gejzernye-kofevarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кофемолки",
+            "url": "/kofemolki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вспениватели молока",
+            "url": "/vspenivateli-moloka/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для приготовления кофе",
+            "url": "/prigotovlenie-kofe/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Соковыжималки",
+            "url": "/sokovyzhimalki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Термопоты",
+            "url": "/termopoty/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Декантеры",
+            "url": "/dekantery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кулеры для воды",
+            "url": "/kulery-dlya-vody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Льдогенераторы",
+            "url": "/ledogeneratory/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Системы газации напитков",
+            "url": "/sistema-gazatsii-napitkov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мясорубки",
+            "url": "/myasorubki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Блендеры",
+            "url": "/blendery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные комбайны",
+            "url": "/kuhonnye-kombayny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные измельчители (чопперы)",
+            "url": "/kukhonnye-izmelchiteli/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Ломтерезки",
+            "url": "/lomterezki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Овощерезки",
+            "url": "/elektroterka/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Тостеры",
+            "url": "/tostery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вафельницы",
+            "url": "/vafelnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мультипекари",
+            "url": "/sendvichnitsi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Яйцеварки",
+            "url": "/yaycevarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Блинницы",
+            "url": "/blinnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Йогуртницы",
+            "url": "/yogurtnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Фильтры для воды под мойку",
+            "url": "/filtry-kuvshiny-dlya-ochistki-vody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Фильтры-кувшины для воды",
+            "url": "/filtry-kuvshiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для очистки воды",
+            "url": "/dlya-ochistki-vody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные весы",
+            "url": "/kuhonnye-vesy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Дегидраторы",
+            "url": "/sushki-dlya-ovoschey/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для кухни",
+            "url": "/aksessuary-dlya-kuhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мойки для кухни",
+            "url": "/moyki-dlya-kukhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрошашлычницы",
+            "url": "/shashlychnitsa/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Электрические чайники WMF",
+        "url": "/chayniki/wmf/",
+        "options": [
+          {
+            "name": "BORK",
+            "url": "/chayniki/bork/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "QYRON",
+            "url": "/chayniki/qyron/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Smeg",
+            "url": "/chayniki/smeg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Maunfeld",
+            "url": "/chayniki/maunfeld/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "KitchenAid",
+            "url": "/chayniki/kitchenaid/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Polaris",
+            "url": "/chayniki/polaris/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Brayer",
+            "url": "/chayniki/brayer/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Endever",
+            "url": "/chayniki/endever/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Tefal",
+            "url": "/chayniki/tefal/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Korting",
+            "url": "/chayniki/korting/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Braun",
+            "url": "/chayniki/braun/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Midea",
+            "url": "/chayniki/midea/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Bosch",
+            "url": "/chayniki/bosch/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Zigmund Shtain",
+            "url": "/chayniki/zigmund_shtain/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Kitfort",
+            "url": "/chayniki/kitfort/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Libhof",
+            "url": "/chayniki/libhof/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Delonghi",
+            "url": "/chayniki/delonghi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Electrolux",
+            "url": "/chayniki/electrolux/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "VES",
+            "url": "/chayniki/ves/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Kenwell",
+            "url": "/chayniki/kenwell/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Zwilling",
+            "url": "/chayniki/zwilling/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Atvel",
+            "url": "/chayniki/atvel/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Toshiba",
+            "url": "/chayniki/toshiba/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Moulinex",
+            "url": "/chayniki/moulinex/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Gorenje",
+            "url": "/chayniki/gorenje/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "WMF Lono Glass 0413150711",
+        "url": "chaynik-wmf-lono-glass-0413150711",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      }
+    ],
+    "isArchive": false,
+    "__typename": "ProductV2",
+    "isSberPayOneClickAllowed": false,
+    "isTinkoffPayOneClickAllowed": false,
+    "bonus": null
+  },
+  "details": {
+    "description": "<div id=\"stream24-inpage\"></div> <script> (function (w, d, s, o) {   var f = d.getElementsByTagName(s)[0];   var j = d.createElement(s);   w.TTLStreamReady = new Promise((resolve) => {     j.async = true;     j.src = 'https://content.24ttl.stream/widget.js';     f.parentNode.insertBefore(j, f);     j.onload = function () {       w.ttlStream = new TTLStream(o);       resolve(w.ttlStream);     };   }); })(window, document, 'script', {}); </script> <script> var styleElement = document.createElement('style');  styleElement.innerHTML = \"body #stream24-inpage #stream-container *{ font-family: 'DINPro Technopark' !important; }\"; document.getElementsByTagName(\"head\")[0].appendChild(styleElement);  TTLStreamReady.then(() => {   ttlStream.findAndInsert({     el: '#stream24-inpage',     brand: 'wmf',     productId: '4211129133401',     retailerDomain: 'www.technopark.ru',     templateType: 'master_template',     resultType: 'html',     contentType: 'minisite'   }); }); </script>",
+    "descriptionType": "RICH_STREAM_24",
+    "descriptionBarcode": "4211129133401",
+    "descriptionBrand": "WMF",
+    "specifications": {
+      "short": [
+        {
+          "name": "Мощность",
+          "value": "3000 Вт",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Объем",
+          "value": "1.7 л",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Материал корпуса",
+          "value": "стекло",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "barcode": "4211129133401",
+      "country": "Китай",
+      "full": [
+        {
+          "name": "Основные характеристики",
+          "list": [
+            {
+              "name": "Мощность",
+              "value": "3000 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Объем",
+              "value": "1.7 л",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал корпуса",
+              "value": "стекло",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дополнительный материал",
+              "value": "нержавеющая сталь, пластик",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Нагревательный элемент",
+              "value": "закрытого типа",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет",
+              "value": "серебристый",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Управление",
+          "list": [
+            {
+              "name": "Управление",
+              "value": "механическое, кнопочное",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Функции",
+          "list": [
+            {
+              "name": "Количество режимов нагрева",
+              "value": "1",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Фильтрация",
+          "list": [
+            {
+              "name": "Фильтр от накипи",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал фильтра",
+              "value": "нержавеющая сталь",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Защита и безопасность",
+          "list": [
+            {
+              "name": "Блокировка крышки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Защита от перегрева",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автоотключение при снятии с подставки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автоотключение при отсутствии воды",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автоотключение при закипании",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Дополнительные характеристики",
+          "list": [
+            {
+              "name": "Теплоизолированная ручка",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Шкала уровня воды",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикатор включения",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикатор нагрева",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вращение на подставке на 360 градусов",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Открывание крышки",
+              "value": "кнопка на ручке",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Комплектация",
+          "list": [
+            {
+              "name": "Подставка с отсеком для хранения шнура",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Инструкция",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Питание",
+          "list": [
+            {
+              "name": "Источник питания",
+              "value": "сеть",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Размеры и вес",
+          "list": [
+            {
+              "name": "Высота",
+              "value": "28.8 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ширина",
+              "value": "15 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Глубина",
+              "value": "20 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вес",
+              "value": "1.7 кг",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        }
+      ],
+      "grossWeight": "2.2",
+      "netWeight": "1.55",
+      "height": "0.28",
+      "instructionUrl": "https://storage.yandexcloud.net/technopark.instructions/545596/instruction/instrukciya-chaynik-wmf-lono-glass-0413150711.pdf",
+      "length": "0.21",
+      "schemeUrl": null,
+      "warranty": "12",
+      "width": "0.21",
+      "__typename": "ProductV2Specifications"
+    },
+    "certificates": ["https://www.technopark.ru/bipublic/Cert/NG241571MBQS2T.pdf"],
+    "isManufacturerCountry": false,
+    "isSellerWarranty": false,
+    "reviews": {
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "total": 3,
+      "totalRecommendations": 1,
+      "__typename": "ProductReviews"
+    },
+    "rating": {
+      "average": 5,
+      "canRate": false,
+      "total": {
+        "all": 3,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 3,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "isLoading": false
+  },
+  "shots": [
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/545596/1_545596.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/545596/1_545596.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/545596/1_545596.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/545596/2_545596.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/545596/2_545596.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/545596/2_545596.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/545596/3_545596.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/545596/3_545596.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/545596/3_545596.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/545596/4_545596.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/545596/4_545596.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/545596/4_545596.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/545596/5_545596.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/545596/5_545596.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/545596/5_545596.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/545596/6_545596.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/545596/6_545596.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/545596/6_545596.jpg"
+    ]
+  ],
+  "photos": [
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/chaynik-wmf-lono-glass-0413150711-1.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/chaynik-wmf-lono-glass-0413150711-2.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/chaynik-wmf-lono-glass-0413150711-3.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/chaynik-wmf-lono-glass-0413150711-4.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/chaynik-wmf-lono-glass-0413150711-5.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/chaynik-wmf-lono-glass-0413150711-6.jpg"
+  ]
+}

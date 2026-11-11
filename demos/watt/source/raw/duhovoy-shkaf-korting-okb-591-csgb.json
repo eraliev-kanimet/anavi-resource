@@ -1,0 +1,1626 @@
+{
+  "shelf": "duhovye-shkafy",
+  "slug": "duhovoy-shkaf-korting-okb-591-csgb",
+  "product": {
+    "id": "294440",
+    "article": "124618",
+    "slug": "duhovoy-shkaf-korting-okb-591-csgb",
+    "hasSmartInstallments": false,
+    "isActive": true,
+    "name": {
+      "default": "Korting OKB 591 CSGB",
+      "full": "Духовой шкаф Korting OKB 591 CSGB",
+      "pseudo": null,
+      "spare": null,
+      "fullWithoutSection": "Korting OKB 591 CSGB",
+      "section": "Духовой шкаф",
+      "__typename": "ProductName"
+    },
+    "price": {
+      "default": 64490,
+      "marketing": null,
+      "old": null,
+      "__typename": "ProductPrice"
+    },
+    "benefit": null,
+    "specifications": {
+      "short": [
+        {
+          "name": "Тип",
+          "value": "электрический",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Объем духовки",
+          "value": "64 л",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Количество режимов работы",
+          "value": "8",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Размеры (ширина)",
+          "value": "60 см",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Высота",
+          "value": "58.8 см",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "__typename": "ProductV2Specifications"
+    },
+    "labels": [
+      {
+        "name": "Бонусы Спасибо",
+        "type": "sberspasibo",
+        "items": [
+          {
+            "description": "",
+            "name": "Этот товар можно оплатить бонусами Спасибо от СберБанка",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Акция",
+        "type": "special_offer",
+        "items": [
+          {
+            "description": "",
+            "name": "5 000 бонусов за покупки",
+            "url": "/action/5-000-bonusov-za-pokupki/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Рассрочка",
+        "type": "deferred_payment",
+        "items": [
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-6",
+            "url": "/duhovoy-shkaf-korting-okb-591-csgb/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-12",
+            "url": "/duhovoy-shkaf-korting-okb-591-csgb/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-24",
+            "url": "/duhovoy-shkaf-korting-okb-591-csgb/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-18",
+            "url": "/duhovoy-shkaf-korting-okb-591-csgb/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      }
+    ],
+    "labelsV2": [
+      {
+        "id": "14",
+        "name": "-15% на технику",
+        "code": "15-na-tekhniku",
+        "mainColor": "#F54B4B",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#FFFFFF",
+        "altTextColor": "#F54B4B",
+        "borderAndTextColor": "#F54B4B",
+        "items": [
+          {
+            "id": "151841",
+            "text": "Выгода при покупке крупной бытовой техники",
+            "buttonText": "Подробнее",
+            "url": "/action/vygoda-pri-pokupke-krupnoy-bytovoy-tekhniki/",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      },
+      {
+        "id": "8",
+        "name": "Бонусы Спасибо",
+        "code": "sberspasibo",
+        "mainColor": "#0C9C0C",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#0C9C0C",
+        "altTextColor": "#FFFFFF",
+        "borderAndTextColor": "#0C9C0C",
+        "items": [
+          {
+            "id": "29032",
+            "text": "Этот товар можно оплатить бонусами Спасибо от СберБанка ",
+            "buttonText": "Подробнее",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      }
+    ],
+    "status": {
+      "id": "IN_STOCK",
+      "name": "В наличии",
+      "type": "POSITIVE",
+      "__typename": "ProductStatus"
+    },
+    "brand": {
+      "code": "korting",
+      "id": "47549",
+      "name": "Korting",
+      "src": "https://cdn1.technopark.ru/technopark/photos_resized/section_brand_300_100/300_100/47549/1_47549.png",
+      "slug": "korting",
+      "sections": [
+        {
+          "name": "Кухонные весы Korting",
+          "url": "/kuhonnye-vesy/korting/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1063856193/technopark/photos_resized/product/120_120/780913/1_780913.jpg?timestamp=2026-05-12_09-13-36",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2791340539/technopark/photos_resized/product/120_120/780913/2_780913.jpg?timestamp=2026-05-12_09-13-36",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3591015796/technopark/photos_resized/product/120_120/780913/3_780913.jpg?timestamp=2026-05-12_09-13-36",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3513207149/technopark/photos_resized/product/120_120/780913/4_780913.jpg?timestamp=2026-05-12_09-13-36",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1215174871/technopark/photos_resized/product/120_120/780913/5_780913.jpg?timestamp=2026-05-12_09-13-36",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Микроволновые печи Korting",
+          "url": "/mikrovolnovye-pechi/korting/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/928680627/technopark/photos_resized/product/120_120/101437/1_101437.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Мясорубки Korting",
+          "url": "/myasorubki/korting/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3116987752/technopark/photos_resized/product/120_120/771250/1_771250.jpg?timestamp=2024-12-12_12-21-17",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Кофемолки Korting",
+          "url": "/kofemolki/korting/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2879558647/technopark/photos_resized/product/120_120/780830/1_780830.jpg?timestamp=2025-02-19_10-39-44",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Винные шкафы встраиваемые Korting",
+          "url": "/vstraivaemye-vinnye-shkafy/korting/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/717002851/technopark/photos_resized/product/120_120/704247/1_704247.jpg?timestamp=2024-11-01_08-27-31",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3659772986/technopark/photos_resized/product/120_120/704247/2_704247.jpg?timestamp=2024-11-01_08-27-28",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3034058176/technopark/photos_resized/product/120_120/704247/3_704247.jpg?timestamp=2024-11-01_08-27-31",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2377873803/technopark/photos_resized/product/120_120/704247/4_704247.jpg?timestamp=2024-11-01_08-27-41",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/955432939/technopark/photos_resized/product/120_120/704247/5_704247.jpg?timestamp=2024-11-01_08-27-46",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1572579573/technopark/photos_resized/product/120_120/704247/6_704247.jpg?timestamp=2024-11-01_08-27-31",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1691933886/technopark/photos_resized/product/120_120/704247/7_704247.jpg?timestamp=2024-11-01_08-27-42",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/516091106/technopark/photos_resized/product/120_120/704247/8_704247.jpg?timestamp=2024-11-01_08-27-59",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Морозильные камеры Korting",
+          "url": "/morozilnye-kamery/korting/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2345074612/technopark/photos_resized/product/120_120/235540/1_235540.jpg?timestamp=2024-11-18_09-34-14",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/362965527/technopark/photos_resized/product/120_120/235540/2_235540.jpg?timestamp=2024-11-18_09-34-14",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4240559906/technopark/photos_resized/product/120_120/235540/3_235540.jpg?timestamp=2024-11-18_09-34-14",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/315600398/technopark/photos_resized/product/120_120/235540/4_235540.jpg?timestamp=2024-11-18_09-34-14",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Грили Korting",
+          "url": "/grili/korting/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/227982387/technopark/photos_resized/product/120_120/771090/1_771090.jpg?timestamp=2024-12-11_10-36-00",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/441845056/technopark/photos_resized/product/120_120/771090/2_771090.jpg?timestamp=2024-12-11_10-36-00",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/132544736/technopark/photos_resized/product/120_120/771090/3_771090.jpg?timestamp=2024-12-11_10-36-18",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/751512355/technopark/photos_resized/product/120_120/771090/4_771090.jpg?timestamp=2024-12-11_10-36-05",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2056359077/technopark/photos_resized/product/120_120/771090/5_771090.jpg?timestamp=2024-12-11_10-36-00",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1951007895/technopark/photos_resized/product/120_120/771090/6_771090.jpg?timestamp=2024-12-11_10-36-01",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Кухонные измельчители Korting",
+          "url": "/kukhonnye-izmelchiteli/korting/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2422702387/technopark/photos_resized/product/120_120/795260/1_795260.jpg?timestamp=2025-07-07_13-59-46",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Стиральные машины с сушкой Korting",
+          "url": "/stiralno-sushilnye-mashiny/korting/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3623515327/technopark/photos_resized/product/120_120/822890/0_822890.jpg?timestamp=2026-03-02_21-12-31",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1195731246/technopark/photos_resized/product/120_120/822890/1_822890.jpg?timestamp=2026-03-02_21-12-32",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2681611873/technopark/photos_resized/product/120_120/822890/2_822890.jpg?timestamp=2026-03-02_21-12-32",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        }
+      ],
+      "__typename": "Brand"
+    },
+    "section": {
+      "slug": "vstraivaemye-duhovye-shkafy",
+      "id": "914",
+      "name": "Духовые шкафы",
+      "parents": [
+        {
+          "id": "877",
+          "name": "Крупная бытовая",
+          "depth": 1,
+          "__typename": "SectionTreeItem"
+        },
+        {
+          "id": "914",
+          "name": "Духовые шкафы",
+          "depth": 2,
+          "__typename": "SectionTreeItem"
+        }
+      ],
+      "__typename": "Section"
+    },
+    "media": {
+      "gallery": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/294440/1_294440.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/294440/1_294440.jpg",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/294440/2_294440.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/294440/2_294440.jpg",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/294440/3_294440.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/294440/3_294440.jpg",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/294440/4_294440.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/294440/4_294440.jpg",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/294440/5_294440.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/294440/5_294440.jpg",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/294440/6_294440.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/294440/6_294440.jpg",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/294440/7_294440.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/294440/7_294440.jpg",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/294440/8_294440.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/294440/8_294440.jpg",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/294440/9_294440.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/294440/9_294440.jpg",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "interior": [],
+      "video": [],
+      "vkVideo": null,
+      "view3d": [],
+      "listing": {
+        "default": [
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/294440/1_294440.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/294440/2_294440.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/294440/3_294440.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/294440/4_294440.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/294440/5_294440.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/294440/6_294440.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/294440/7_294440.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/294440/8_294440.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/294440/9_294440.jpg",
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "ProductListing"
+      },
+      "__typename": "ProductV2Media"
+    },
+    "modifications": {
+      "bigBrother": null,
+      "groups": [
+        {
+          "name": "Цвет",
+          "items": [
+            {
+              "value": "бежевый",
+              "product": {
+                "slug": "duhovoy-shkaf-korting-okb-591-csgb",
+                "article": "124618",
+                "name": {
+                  "default": "Korting OKB 591 CSGB",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "IN_STOCK",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/294440/1_294440.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/294440/2_294440.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/294440/3_294440.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/294440/4_294440.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/294440/5_294440.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/294440/6_294440.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/294440/7_294440.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/294440/8_294440.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/294440/9_294440.jpg",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            },
+            {
+              "value": "белый",
+              "product": {
+                "slug": "duhovoy-shkaf-korting-okb-591-csgw",
+                "article": "178536",
+                "name": {
+                  "default": "Korting OKB 591 CSGW",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "NOT_AVAILABLE",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/294432/1_294432.jpg",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            },
+            {
+              "value": "коричневый",
+              "product": {
+                "slug": "duhovoy-shkaf-korting-okb-591-csgm",
+                "article": "178535",
+                "name": {
+                  "default": "Korting OKB 591 CSGM",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "IN_STOCK",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/294433/1_294433.jpg",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            },
+            {
+              "value": "чёрный",
+              "product": {
+                "slug": "duhovoy-shkaf-korting-okb-591-csgn",
+                "article": "126294",
+                "name": {
+                  "default": "Korting OKB 591 CSGN",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "IN_STOCK",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/284729/1_284729.jpg",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            }
+          ],
+          "__typename": "ProductV2ModificationGroup"
+        }
+      ],
+      "__typename": "ProductModifications"
+    },
+    "description": {
+      "hasDescription": false,
+      "type": "DEFAULT",
+      "__typename": "ProductDescription"
+    },
+    "collection": {
+      "id": "294440",
+      "products": {
+        "pagination": {
+          "total": 0,
+          "__typename": "Pagination"
+        },
+        "__typename": "ProductV2Pagination"
+      },
+      "__typename": "ProductCollection"
+    },
+    "similar": {
+      "pagination": {
+        "total": 20,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "related": {
+      "pagination": {
+        "total": 20,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "accessories": [
+      {
+        "products": {
+          "pagination": {
+            "total": 1,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 18,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 9,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 4,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      }
+    ],
+    "rating": {
+      "average": 5,
+      "canRate": false,
+      "total": {
+        "all": 2,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 2,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "reviews": {
+      "total": 2,
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "totalRecommendations": 1,
+      "__typename": "ProductReviews"
+    },
+    "bestCredit": {
+      "monthPayment": 2688,
+      "type": "DEFERRED_PAYMENT",
+      "__typename": "ProductBestCredit"
+    },
+    "isSpare": false,
+    "isService": false,
+    "isVipService": false,
+    "isGiftBonusCard": false,
+    "canBuy": true,
+    "canPayOnline": true,
+    "canRequestPrice": false,
+    "canShowPrice": true,
+    "canSubscribe": false,
+    "needPrepaymentForDelivery": true,
+    "needPrepaymentForPreorder": false,
+    "isSberSpasiboPayAvailable": true,
+    "isYandexPayAllowed": false,
+    "yandexSplit": {
+      "payments": [
+        {
+          "amount": 0,
+          "date": "2026-08-17T09:01:36+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 5376,
+          "date": "2026-08-31T09:01:36+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 5374,
+          "date": "2026-09-14T09:01:36+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 5374,
+          "date": "2026-09-28T09:01:36+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 5374,
+          "date": "2026-10-12T09:01:36+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 5374,
+          "date": "2026-10-26T09:01:36+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 5374,
+          "date": "2026-11-09T09:01:36+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 5374,
+          "date": "2026-11-23T09:01:36+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 5374,
+          "date": "2026-12-07T09:01:36+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 5374,
+          "date": "2026-12-21T09:01:36+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 5374,
+          "date": "2027-01-04T09:01:36+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 5374,
+          "date": "2027-01-18T09:01:36+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 5374,
+          "date": "2027-02-01T09:01:36+0300",
+          "__typename": "YandexSplitPayment"
+        }
+      ],
+      "firstPayment": 0,
+      "restPayment": 64490,
+      "description": "https://yandex.ru/support/split/",
+      "maxAmount": 295000,
+      "__typename": "YandexSplit"
+    },
+    "seo": {
+      "description": "Духовой шкаф Korting OKB 591 CSGB: купить в интернет-магазине Технопарк с расширенной гарантией и бесплатной доставкой по РФ. Подробные характеристики товара с отзывами реальных покупателей.",
+      "text": "Вы можете купить духовой шкаф Korting OKB 591 CSGB с доставкой по Москве по низкой цене. В интернет-магазине Technopark.ru осуществляется продажа духового шкафа Korting OKB 591 CSGB на выгодных условиях.",
+      "textHidden": "",
+      "title": "Духовой шкаф Korting OKB 591 CSGB - купить в Москве в интернет-магазине Технопарк",
+      "__typename": "SeoData"
+    },
+    "breadcrumbs": [
+      {
+        "name": "Главная",
+        "url": "/",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Крупная бытовая техника",
+        "url": "/krupnaya-bytovaya-tehnika/",
+        "options": [
+          {
+            "name": "Центр инноваций",
+            "url": "/tovary-iz-budushchego/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Смартфоны и гаджеты",
+            "url": "/smartfony-i-gadzhety/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Компьютеры и ноутбуки",
+            "url": "/kompyutery-i-noutbuki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Климатическая техника",
+            "url": "/klimaticheskaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Техника для кухни",
+            "url": "/dlya-kuhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Бытовая техника для дома",
+            "url": "/dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для красоты и здоровья",
+            "url": "/krasota-i-zdorovye/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Спортивные товары",
+            "url": "/trenazhery-dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Телевизоры Аудио Hi-Fi",
+            "url": "/audio-video-foto/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для сада, дома и ремонта",
+            "url": "/dlya-sada-doma-i-remonta/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посуда",
+            "url": "/posuda/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Детские товары",
+            "url": "/detskie-tovary/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для гейминга",
+            "url": "/gaming/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Плоттеры и услуги розницы",
+            "url": "//",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Запасные части",
+            "url": "/zapasnie-chasti/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Встраиваемые духовые шкафы",
+        "url": "/vstraivaemye-duhovye-shkafy/",
+        "options": [
+          {
+            "name": "Стиральные машины",
+            "url": "/stiralnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые варочные панели",
+            "url": "/vstraivaemye-varochnye-poverhnosti/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные плиты",
+            "url": "/plity/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Холодильники",
+            "url": "/holodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вытяжки для кухни",
+            "url": "/vytyazhki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посудомоечные машины",
+            "url": "/posudomoechnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые холодильники",
+            "url": "/vstraivaemye-holodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые винные шкафы",
+            "url": "/vstraivaemye-vinnye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые вытяжки для кухни",
+            "url": "/vstraivaemye-vytyazhki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые кофемашины",
+            "url": "/vstraivaemye-kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые морозильные камеры",
+            "url": "/vstraivaemye-morozilnye-kamery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые пароварки",
+            "url": "/vstraivaemye-parovarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые посудомоечные машины",
+            "url": "/vstraivaemye-posudomoechnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые стиральные машины",
+            "url": "/vstraivaemye-stiralnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Сушильные машины для белья",
+            "url": "/sushilnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые микроволновые печи",
+            "url": "/vstraivaemye-mikrovolnovye-pechi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Морозильные камеры",
+            "url": "/morozilnye-kamery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Винные шкафы",
+            "url": "/vinnye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые шкафы для подогрева",
+            "url": "/shkafy-dlya-podogreva-posudy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Стиральные машины с функцией сушки (2 в 1)",
+            "url": "/stiralno-sushilnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые вакууматоры",
+            "url": "/vakuumatory/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Измельчители пищевых отходов",
+            "url": "/vstraivaemye-izmelchiteli-pischevyh-othodov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Автохолодильники",
+            "url": "/avtoholodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для крупной бытовой техники",
+            "url": "/aksessuary-krupnaya-bytovaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для холодильников",
+            "url": "/aksessuary-krupnaya-bytovaya-tehnika/filt_naznachenie-k_holodilnikam/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для автохолодильников",
+            "url": "/aksessuary-dlya-avtokholodilnikov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Хьюмидоры",
+            "url": "/khyumidory/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Встраиваемые духовые шкафы Korting",
+        "url": "/vstraivaemye-duhovye-shkafy/korting/",
+        "options": [
+          {
+            "name": "Kuppersbusch",
+            "url": "/vstraivaemye-duhovye-shkafy/kuppersbusch/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Maunfeld",
+            "url": "/vstraivaemye-duhovye-shkafy/maunfeld/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Smeg",
+            "url": "/vstraivaemye-duhovye-shkafy/smeg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Bosch",
+            "url": "/vstraivaemye-duhovye-shkafy/bosch/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Electrolux",
+            "url": "/vstraivaemye-duhovye-shkafy/electrolux/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Asko",
+            "url": "/vstraivaemye-duhovye-shkafy/asko/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Kuppersberg",
+            "url": "/vstraivaemye-duhovye-shkafy/kuppersberg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Bertazzoni",
+            "url": "/vstraivaemye-duhovye-shkafy/bertazzoni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Gorenje",
+            "url": "/vstraivaemye-duhovye-shkafy/gorenje/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Midea",
+            "url": "/vstraivaemye-duhovye-shkafy/midea/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "AEG",
+            "url": "/vstraivaemye-duhovye-shkafy/aeg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Hotpoint",
+            "url": "/vstraivaemye-duhovye-shkafy/hotpoint/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "VARD",
+            "url": "/vstraivaemye-duhovye-shkafy/vard/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "De Dietrich",
+            "url": "/vstraivaemye-duhovye-shkafy/de_dietrich/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Haier",
+            "url": "/vstraivaemye-duhovye-shkafy/haier/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Siemens",
+            "url": "/vstraivaemye-duhovye-shkafy/siemens/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Miele",
+            "url": "/vstraivaemye-duhovye-shkafy/miele/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Beko",
+            "url": "/vstraivaemye-duhovye-shkafy/beko/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Whirlpool",
+            "url": "/vstraivaemye-duhovye-shkafy/whirlpool/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "V-ZUG",
+            "url": "/vstraivaemye-duhovye-shkafy/v_zug/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Indesit",
+            "url": "/vstraivaemye-duhovye-shkafy/indesit/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Elica",
+            "url": "/vstraivaemye-duhovye-shkafy/elica/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Brandt",
+            "url": "/vstraivaemye-duhovye-shkafy/brandt/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Casarte",
+            "url": "/vstraivaemye-duhovye-shkafy/casarte/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Korting OKB 591 CSGB",
+        "url": "duhovoy-shkaf-korting-okb-591-csgb",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      }
+    ],
+    "isArchive": false,
+    "__typename": "ProductV2",
+    "isSberPayOneClickAllowed": false,
+    "isTinkoffPayOneClickAllowed": false,
+    "bonus": null
+  },
+  "details": {
+    "description": "",
+    "descriptionType": "DEFAULT",
+    "descriptionBarcode": "4627195740090",
+    "descriptionBrand": "Korting",
+    "specifications": {
+      "short": [
+        {
+          "name": "Тип",
+          "value": "электрический",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Объем духовки",
+          "value": "64 л",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Количество режимов работы",
+          "value": "8",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Размеры (ширина)",
+          "value": "60 см",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Высота",
+          "value": "58.8 см",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "barcode": "4627195740090",
+      "country": "Турция",
+      "full": [
+        {
+          "name": "Общие характеристики",
+          "list": [
+            {
+              "name": "Тип",
+              "value": "электрический",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип подключения",
+              "value": "независимая",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Очистка",
+              "value": "каталитическая",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал камеры",
+              "value": "эмаль легкой очистки",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал фронтальной панели",
+              "value": "стекло",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Объем духовки",
+              "value": "64 л",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет",
+              "value": "бежевый",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет фурнитуры",
+              "value": "серебристый",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет ручки",
+              "value": "серебристый",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Управление",
+          "list": [
+            {
+              "name": "Тип управления",
+              "value": "электромеханическое",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Переключатели",
+              "value": "кнопочные, утапливаемые, поворотные",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Расположение переключателя",
+              "value": "на поверхности духового шкафа",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип дисплея",
+              "value": "цифровой",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Таймер",
+              "value": "таймер выключения",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Режимы работы",
+          "list": [
+            {
+              "name": "Количество режимов работы",
+              "value": "8",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Режимы работы",
+              "value": "большой гриль, горячий воздух, конвекционный нагрев, малый гриль, нижний нагрев, объемный турбогриль, пицца, традиционный нагрев",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип гриля",
+              "value": "тэн",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная температура духового шкафа",
+              "value": "275 °С",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Безопасность",
+          "list": [
+            {
+              "name": "Тангенциальное охлаждение",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Блокировка панели управления",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автоматическое отключение",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Мощность и энергопотребление",
+          "list": [
+            {
+              "name": "Класс энергопотребления",
+              "value": "A",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Мощность подключения",
+              "value": "2176 Вт",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Дополнительная информация",
+          "list": [
+            {
+              "name": "Дополнительные возможности духового шкафа",
+              "value": "вентилятор охлаждения",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Особенности конструкции духового шкафа",
+              "value": "съемное внутреннее стекло, съемная дверца, каталитическая задняя стенка",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дверца духовки",
+              "value": "откидная",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество стекол дверцы",
+              "value": "2",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Часы",
+              "value": "электронные",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип освещения",
+              "value": "лампа накаливания",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество ламп освещения",
+              "value": "1",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Полозья для противней",
+              "value": "телескопические",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Телескопические направляющие",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Размещение телескопических направляющих",
+              "value": "одноуровневые",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Комплектация",
+          "list": [
+            {
+              "name": "Комплект поставки",
+              "value": "противень глубокий,  противень для выпечки, хромированная решетка",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Сетевой кабель",
+              "value": "1.35 м",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Инструкция",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Размеры и вес",
+          "list": [
+            {
+              "name": "Высота",
+              "value": "58.8 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ширина",
+              "value": "59.5 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Глубина",
+              "value": "58.3 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Высота встраивания",
+              "value": "58.5 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ширина встраивания",
+              "value": "55.6 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Глубина встраивания",
+              "value": "56 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вес",
+              "value": "37 кг",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        }
+      ],
+      "grossWeight": "39",
+      "netWeight": "37",
+      "height": "0.65",
+      "instructionUrl": "https://storage.yandexcloud.net/technopark.instructions/294440/instruction/instrukciya-duhovoy-shkaf-korting-okb-591-csgb.pdf",
+      "length": "0.65",
+      "schemeUrl": "https://storage.yandexcloud.net/technopark.instructions/294440/schema/schema-vstraivaniya-duhovoy-shkaf-korting-okb-591-csgb.jpg",
+      "warranty": "24",
+      "width": "0.71",
+      "__typename": "ProductV2Specifications"
+    },
+    "certificates": ["https://www.technopark.ru/bipublic/Cert/IG0G15B1KSNK6B.pdf"],
+    "isManufacturerCountry": false,
+    "isSellerWarranty": false,
+    "reviews": {
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "total": 2,
+      "totalRecommendations": 1,
+      "__typename": "ProductReviews"
+    },
+    "rating": {
+      "average": 5,
+      "canRate": false,
+      "total": {
+        "all": 2,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 2,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "isLoading": false
+  },
+  "shots": [
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/294440/1_294440.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/294440/1_294440.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/294440/1_294440.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/294440/2_294440.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/294440/2_294440.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/294440/2_294440.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/294440/3_294440.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/294440/3_294440.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/294440/3_294440.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/294440/4_294440.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/294440/4_294440.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/294440/4_294440.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/294440/5_294440.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/294440/5_294440.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/294440/5_294440.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/294440/6_294440.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/294440/6_294440.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/294440/6_294440.jpg"
+    ]
+  ],
+  "photos": [
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/duhovoy-shkaf-korting-okb-591-csgb-1.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/duhovoy-shkaf-korting-okb-591-csgb-2.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/duhovoy-shkaf-korting-okb-591-csgb-3.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/duhovoy-shkaf-korting-okb-591-csgb-4.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/duhovoy-shkaf-korting-okb-591-csgb-5.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/duhovoy-shkaf-korting-okb-591-csgb-6.jpg"
+  ]
+}

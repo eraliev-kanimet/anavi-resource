@@ -1,0 +1,1801 @@
+{
+  "shelf": "holodilniki",
+  "slug": "holodilnik-haier-htf-508dgs7ru",
+  "product": {
+    "id": "622758",
+    "article": "144921",
+    "slug": "holodilnik-haier-htf-508dgs7ru",
+    "hasSmartInstallments": false,
+    "isActive": true,
+    "name": {
+      "default": "Haier HTF-508DGS7RU",
+      "full": "Холодильник Haier HTF-508DGS7RU",
+      "pseudo": null,
+      "spare": null,
+      "fullWithoutSection": "Haier HTF-508DGS7RU",
+      "section": "Холодильник",
+      "__typename": "ProductName"
+    },
+    "price": {
+      "default": 164990,
+      "marketing": null,
+      "old": 229990,
+      "__typename": "ProductPrice"
+    },
+    "benefit": 65000,
+    "specifications": {
+      "short": [
+        {
+          "name": "Объем холодильной камеры",
+          "value": "350 л",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Объем морозильной камеры",
+          "value": "155 л",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Размораживание морозильной камеры",
+          "value": "No Frost",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Высота",
+          "value": "190 см",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Ширина",
+          "value": "83 см",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "__typename": "ProductV2Specifications"
+    },
+    "labels": [
+      {
+        "name": "Бонусы Спасибо",
+        "type": "sberspasibo",
+        "items": [
+          {
+            "description": "",
+            "name": "Этот товар можно оплатить бонусами Спасибо от СберБанка",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Выгодное предложение",
+        "type": "special_offer",
+        "items": [
+          {
+            "description": "",
+            "name": "Техника и электроника",
+            "url": "/action/vygodnaya-tsena/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "5 000 бонусов за покупки",
+            "url": "/action/5-000-bonusov-za-pokupki/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Рассрочка",
+        "type": "deferred_payment",
+        "items": [
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-6",
+            "url": "/holodilnik-haier-htf-508dgs7ru/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-12",
+            "url": "/holodilnik-haier-htf-508dgs7ru/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-24",
+            "url": "/holodilnik-haier-htf-508dgs7ru/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-6",
+            "url": "/holodilnik-haier-htf-508dgs7ru/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-18",
+            "url": "/holodilnik-haier-htf-508dgs7ru/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      }
+    ],
+    "labelsV2": [
+      {
+        "id": "14",
+        "name": "-15% на технику",
+        "code": "15-na-tekhniku",
+        "mainColor": "#F54B4B",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#FFFFFF",
+        "altTextColor": "#F54B4B",
+        "borderAndTextColor": "#F54B4B",
+        "items": [
+          {
+            "id": "149013",
+            "text": "Выгода при покупке крупной бытовой техники",
+            "buttonText": "Подробнее",
+            "url": "/action/vygoda-pri-pokupke-krupnoy-bytovoy-tekhniki/",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      },
+      {
+        "id": "8",
+        "name": "Бонусы Спасибо",
+        "code": "sberspasibo",
+        "mainColor": "#0C9C0C",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#0C9C0C",
+        "altTextColor": "#FFFFFF",
+        "borderAndTextColor": "#0C9C0C",
+        "items": [
+          {
+            "id": "24449",
+            "text": "Этот товар можно оплатить бонусами Спасибо от СберБанка ",
+            "buttonText": "Подробнее",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      },
+      {
+        "id": "5",
+        "name": "Выгода",
+        "code": "vygoda",
+        "mainColor": "#fd9600",
+        "mainTextColor": "#ffffff",
+        "altColor": "#fd9600",
+        "altTextColor": "#ffffff",
+        "borderAndTextColor": "#fd9600",
+        "items": [
+          {
+            "id": "656",
+            "text": "Выгодное предложение",
+            "buttonText": "Подробнее",
+            "url": "/action/vygodnaya-tsena/",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      }
+    ],
+    "status": {
+      "id": "IN_STOCK",
+      "name": "В наличии",
+      "type": "POSITIVE",
+      "__typename": "ProductStatus"
+    },
+    "brand": {
+      "code": "haier",
+      "id": "105452",
+      "name": "Haier",
+      "src": "https://cdn1.technopark.ru/technopark/photos_resized/section_brand_300_100/300_100/105452/1_105452.png",
+      "slug": "haier",
+      "sections": [
+        {
+          "name": "Все кондиционеры Haier",
+          "url": "/konditsionery/haier/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2450364974/technopark/photos_resized/product/120_120/516749/2_516749.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/184863636/technopark/photos_resized/product/120_120/516749/3_516749.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/959621398/technopark/photos_resized/product/120_120/516749/4_516749.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3611084858/technopark/photos_resized/product/120_120/516749/5_516749.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Вытяжки Haier",
+          "url": "/vytyazhki/haier/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/829379539/technopark/photos_resized/product/120_120/806215/1_806215.jpg?timestamp=2025-10-15_13-01-47",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1616392268/technopark/photos_resized/product/120_120/806215/2_806215.jpg?timestamp=2025-10-15_13-01-48",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4182860278/technopark/photos_resized/product/120_120/806215/3_806215.jpg?timestamp=2025-10-15_13-01-49",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2116994324/technopark/photos_resized/product/120_120/806215/4_806215.jpg?timestamp=2025-10-15_13-01-50",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3054565169/technopark/photos_resized/product/120_120/806215/5_806215.jpg?timestamp=2025-10-15_13-01-50",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2302383481/technopark/photos_resized/product/120_120/806215/6_806215.jpg?timestamp=2025-10-15_13-01-51",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Вытяжки встраиваемые Haier",
+          "url": "/vstraivaemye-vytyazhki/haier/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3683860492/technopark/photos_resized/product/120_120/806901/1_806901.jpg?timestamp=2025-10-22_17-04-49",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1117393334/technopark/photos_resized/product/120_120/806901/2_806901.jpg?timestamp=2025-10-22_17-04-49",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2885268611/technopark/photos_resized/product/120_120/806901/3_806901.jpg?timestamp=2025-10-22_17-04-49",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3707667477/technopark/photos_resized/product/120_120/806901/4_806901.jpg?timestamp=2025-10-22_17-04-49",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3807392839/technopark/photos_resized/product/120_120/806901/5_806901.jpg?timestamp=2025-10-22_17-04-50",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Посудомоечные машины встраиваемые Haier",
+          "url": "/vstraivaemye-posudomoechnye-mashiny/haier/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2083740027/technopark/photos_resized/product/120_120/812415/1_812415.jpg?timestamp=2025-12-08_09-17-37",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3088433611/technopark/photos_resized/product/120_120/812415/2_812415.jpg?timestamp=2025-12-08_09-17-43",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2230856571/technopark/photos_resized/product/120_120/812415/3_812415.jpg?timestamp=2025-12-08_09-17-37",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/187984365/technopark/photos_resized/product/120_120/812415/4_812415.jpg?timestamp=2025-12-08_09-17-37",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2609607804/technopark/photos_resized/product/120_120/812415/5_812415.jpg?timestamp=2025-12-08_09-17-37",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3968615658/technopark/photos_resized/product/120_120/812415/6_812415.jpg?timestamp=2025-12-08_09-17-37",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2950002872/technopark/photos_resized/product/120_120/812415/7_812415.jpg?timestamp=2025-12-08_09-17-45",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Стиральные машины встраиваемые Haier",
+          "url": "/vstraivaemye-stiralnye-mashiny/haier/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3462178311/technopark/photos_resized/product/120_120/806433/1_806433.jpg?timestamp=2025-10-17_09-40-55",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2103277156/technopark/photos_resized/product/120_120/806433/2_806433.jpg?timestamp=2025-10-17_09-41-10",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1465251773/technopark/photos_resized/product/120_120/806433/3_806433.jpg?timestamp=2025-10-17_09-40-55",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3109787281/technopark/photos_resized/product/120_120/806433/4_806433.jpg?timestamp=2025-10-17_09-40-55",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3354061356/technopark/photos_resized/product/120_120/806433/5_806433.jpg?timestamp=2025-10-17_09-40-56",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/658441010/technopark/photos_resized/product/120_120/806433/6_806433.jpg?timestamp=2025-10-17_09-40-54",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1270896647/technopark/photos_resized/product/120_120/806433/7_806433.jpg?timestamp=2025-10-17_09-41-09",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/173688562/technopark/photos_resized/product/120_120/806433/8_806433.jpg?timestamp=2025-10-17_09-41-11",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/946611312/technopark/photos_resized/product/120_120/806433/9_806433.jpg?timestamp=2025-10-17_09-41-18",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3812221895/technopark/photos_resized/product/120_120/806433/10_806433.jpg?timestamp=2025-10-17_09-41-12",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Сушильные машины Haier",
+          "url": "/sushilnye-mashiny/haier/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/311440429/technopark/photos_resized/product/120_120/806495/1_806495.jpg?timestamp=2025-10-17_16-51-13",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2217042729/technopark/photos_resized/product/120_120/806495/2_806495.jpg?timestamp=2025-10-17_16-51-26",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3329881380/technopark/photos_resized/product/120_120/806495/3_806495.jpg?timestamp=2025-10-17_16-51-14",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4227043608/technopark/photos_resized/product/120_120/806495/4_806495.jpg?timestamp=2025-10-17_16-51-12",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/368963636/technopark/photos_resized/product/120_120/806495/5_806495.jpg?timestamp=2025-10-17_16-51-12",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2342086039/technopark/photos_resized/product/120_120/806495/6_806495.jpg?timestamp=2025-10-17_16-51-14",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Винные шкафы Haier",
+          "url": "/vinnye-shkafy/haier/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1730790430/technopark/photos_resized/product/120_120/806210/1_806210.jpg?timestamp=2025-10-14_17-08-27",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/390279313/technopark/photos_resized/product/120_120/806210/2_806210.jpg?timestamp=2025-10-14_17-08-28",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1615069191/technopark/photos_resized/product/120_120/806210/3_806210.jpg?timestamp=2025-10-14_17-08-28",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3290467756/technopark/photos_resized/product/120_120/806210/4_806210.jpg?timestamp=2025-10-14_17-08-40",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2387239211/technopark/photos_resized/product/120_120/806210/5_806210.jpg?timestamp=2025-10-14_17-08-28",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2281450752/technopark/photos_resized/product/120_120/806210/6_806210.jpg?timestamp=2025-10-14_17-08-29",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3187422472/technopark/photos_resized/product/120_120/806210/7_806210.jpg?timestamp=2025-10-14_17-08-41",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3405448606/technopark/photos_resized/product/120_120/806210/8_806210.jpg?timestamp=2025-10-14_17-08-42",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3276622261/technopark/photos_resized/product/120_120/806210/9_806210.jpg?timestamp=2025-10-14_17-08-41",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Выпрямители для волос Haier",
+          "url": "/utuzhki-dlya-volos/haier/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1457617097/technopark/photos_resized/product/120_120/798257/1_798257.jpg?timestamp=2025-07-30_12-27-50",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/568739935/technopark/photos_resized/product/120_120/798257/2_798257.jpg?timestamp=2025-07-30_12-27-50",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1092731322/technopark/photos_resized/product/120_120/798257/3_798257.jpg?timestamp=2025-07-30_12-27-50",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/908521772/technopark/photos_resized/product/120_120/798257/4_798257.jpg?timestamp=2025-07-30_12-27-50",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2736222790/technopark/photos_resized/product/120_120/798257/5_798257.jpg?timestamp=2025-07-30_12-28-07",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2975421902/technopark/photos_resized/product/120_120/798257/6_798257.jpg?timestamp=2025-07-30_12-27-50",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Стиральные машины с сушкой Haier",
+          "url": "/stiralno-sushilnye-mashiny/haier/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/751832786/technopark/photos_resized/product/120_120/806595/1_806595.jpg?timestamp=2025-10-20_09-43-27",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3269357566/technopark/photos_resized/product/120_120/806595/2_806595.jpg?timestamp=2025-10-20_09-43-26",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3316886503/technopark/photos_resized/product/120_120/806595/3_806595.jpg?timestamp=2025-10-20_09-43-27",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3137525594/technopark/photos_resized/product/120_120/806595/4_806595.jpg?timestamp=2025-10-20_09-43-28",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1555757661/technopark/photos_resized/product/120_120/806595/5_806595.jpg?timestamp=2025-10-20_09-43-28",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/843137959/technopark/photos_resized/product/120_120/806595/6_806595.jpg?timestamp=2025-10-20_09-43-39",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        }
+      ],
+      "__typename": "Brand"
+    },
+    "section": {
+      "slug": "holodilniki",
+      "id": "911",
+      "name": "Холодильники",
+      "parents": [
+        {
+          "id": "877",
+          "name": "Крупная бытовая",
+          "depth": 1,
+          "__typename": "SectionTreeItem"
+        },
+        {
+          "id": "911",
+          "name": "Холодильники",
+          "depth": 2,
+          "__typename": "SectionTreeItem"
+        }
+      ],
+      "__typename": "Section"
+    },
+    "media": {
+      "gallery": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/622758/1_622758.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/622758/2_622758.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/622758/3_622758.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/622758/4_622758.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/622758/5_622758.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "interior": [],
+      "video": [],
+      "vkVideo": null,
+      "view3d": [],
+      "listing": {
+        "default": [
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/622758/1_622758.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/622758/2_622758.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/622758/3_622758.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/622758/4_622758.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/622758/5_622758.jpg",
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "ProductListing"
+      },
+      "__typename": "ProductV2Media"
+    },
+    "modifications": {
+      "bigBrother": null,
+      "groups": [],
+      "__typename": "ProductModifications"
+    },
+    "description": {
+      "hasDescription": true,
+      "type": "RICH",
+      "__typename": "ProductDescription"
+    },
+    "collection": {
+      "id": "622758",
+      "products": {
+        "pagination": {
+          "total": 0,
+          "__typename": "Pagination"
+        },
+        "__typename": "ProductV2Pagination"
+      },
+      "__typename": "ProductCollection"
+    },
+    "similar": {
+      "pagination": {
+        "total": 20,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "related": {
+      "pagination": {
+        "total": 20,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "accessories": [
+      {
+        "products": {
+          "pagination": {
+            "total": 7,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 1,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 1,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 5,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 19,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 3,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 2,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 2,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      }
+    ],
+    "rating": {
+      "average": 0,
+      "canRate": false,
+      "total": {
+        "all": 0,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 0,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "reviews": {
+      "total": 0,
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "bestCredit": {
+      "monthPayment": 6875,
+      "type": "DEFERRED_PAYMENT",
+      "__typename": "ProductBestCredit"
+    },
+    "isSpare": false,
+    "isService": false,
+    "isVipService": false,
+    "isGiftBonusCard": false,
+    "canBuy": true,
+    "canPayOnline": true,
+    "canRequestPrice": false,
+    "canShowPrice": true,
+    "canSubscribe": false,
+    "needPrepaymentForDelivery": false,
+    "needPrepaymentForPreorder": false,
+    "isSberSpasiboPayAvailable": true,
+    "isYandexPayAllowed": false,
+    "yandexSplit": {
+      "payments": [
+        {
+          "amount": 0,
+          "date": "2026-08-17T08:59:12+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 13751,
+          "date": "2026-08-31T08:59:12+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 13749,
+          "date": "2026-09-14T08:59:12+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 13749,
+          "date": "2026-09-28T08:59:12+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 13749,
+          "date": "2026-10-12T08:59:12+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 13749,
+          "date": "2026-10-26T08:59:12+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 13749,
+          "date": "2026-11-09T08:59:12+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 13749,
+          "date": "2026-11-23T08:59:12+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 13749,
+          "date": "2026-12-07T08:59:12+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 13749,
+          "date": "2026-12-21T08:59:12+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 13749,
+          "date": "2027-01-04T08:59:12+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 13749,
+          "date": "2027-01-18T08:59:12+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 13749,
+          "date": "2027-02-01T08:59:12+0300",
+          "__typename": "YandexSplitPayment"
+        }
+      ],
+      "firstPayment": 0,
+      "restPayment": 164990,
+      "description": "https://yandex.ru/support/split/",
+      "maxAmount": 295000,
+      "__typename": "YandexSplit"
+    },
+    "seo": {
+      "description": "Холодильник Haier HTF-508DGS7RU: купить в интернет-магазине Технопарк с расширенной гарантией и бесплатной доставкой по РФ. Подробные характеристики товара с отзывами реальных покупателей.",
+      "text": "Вы можете купить холодильник Haier HTF-508DGS7RU с доставкой по Москве по низкой цене. В интернет-магазине Technopark.ru осуществляется продажа холодильника Haier HTF-508DGS7RU на выгодных условиях.",
+      "textHidden": "",
+      "title": "Холодильник Haier HTF-508DGS7RU - купить в Москве в интернет-магазине Технопарк",
+      "__typename": "SeoData"
+    },
+    "breadcrumbs": [
+      {
+        "name": "Главная",
+        "url": "/",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Крупная бытовая техника",
+        "url": "/krupnaya-bytovaya-tehnika/",
+        "options": [
+          {
+            "name": "Центр инноваций",
+            "url": "/tovary-iz-budushchego/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Смартфоны и гаджеты",
+            "url": "/smartfony-i-gadzhety/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Компьютеры и ноутбуки",
+            "url": "/kompyutery-i-noutbuki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Климатическая техника",
+            "url": "/klimaticheskaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Техника для кухни",
+            "url": "/dlya-kuhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Бытовая техника для дома",
+            "url": "/dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для красоты и здоровья",
+            "url": "/krasota-i-zdorovye/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Спортивные товары",
+            "url": "/trenazhery-dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Телевизоры Аудио Hi-Fi",
+            "url": "/audio-video-foto/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для сада, дома и ремонта",
+            "url": "/dlya-sada-doma-i-remonta/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посуда",
+            "url": "/posuda/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Детские товары",
+            "url": "/detskie-tovary/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для гейминга",
+            "url": "/gaming/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Плоттеры и услуги розницы",
+            "url": "//",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Запасные части",
+            "url": "/zapasnie-chasti/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Холодильники",
+        "url": "/holodilniki/",
+        "options": [
+          {
+            "name": "Стиральные машины",
+            "url": "/stiralnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые варочные панели",
+            "url": "/vstraivaemye-varochnye-poverhnosti/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные плиты",
+            "url": "/plity/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые духовые шкафы",
+            "url": "/vstraivaemye-duhovye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вытяжки для кухни",
+            "url": "/vytyazhki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посудомоечные машины",
+            "url": "/posudomoechnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые холодильники",
+            "url": "/vstraivaemye-holodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые винные шкафы",
+            "url": "/vstraivaemye-vinnye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые вытяжки для кухни",
+            "url": "/vstraivaemye-vytyazhki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые кофемашины",
+            "url": "/vstraivaemye-kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые морозильные камеры",
+            "url": "/vstraivaemye-morozilnye-kamery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые пароварки",
+            "url": "/vstraivaemye-parovarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые посудомоечные машины",
+            "url": "/vstraivaemye-posudomoechnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые стиральные машины",
+            "url": "/vstraivaemye-stiralnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Сушильные машины для белья",
+            "url": "/sushilnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые микроволновые печи",
+            "url": "/vstraivaemye-mikrovolnovye-pechi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Морозильные камеры",
+            "url": "/morozilnye-kamery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Винные шкафы",
+            "url": "/vinnye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые шкафы для подогрева",
+            "url": "/shkafy-dlya-podogreva-posudy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Стиральные машины с функцией сушки (2 в 1)",
+            "url": "/stiralno-sushilnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые вакууматоры",
+            "url": "/vakuumatory/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Измельчители пищевых отходов",
+            "url": "/vstraivaemye-izmelchiteli-pischevyh-othodov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Автохолодильники",
+            "url": "/avtoholodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для крупной бытовой техники",
+            "url": "/aksessuary-krupnaya-bytovaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для холодильников",
+            "url": "/aksessuary-krupnaya-bytovaya-tehnika/filt_naznachenie-k_holodilnikam/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для автохолодильников",
+            "url": "/aksessuary-dlya-avtokholodilnikov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Хьюмидоры",
+            "url": "/khyumidory/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Холодильники Haier",
+        "url": "/holodilniki/haier/",
+        "options": [
+          {
+            "name": "Liebherr",
+            "url": "/holodilniki/liebherr/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "LG",
+            "url": "/holodilniki/lg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Maunfeld",
+            "url": "/holodilniki/maunfeld/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Korting",
+            "url": "/holodilniki/korting/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Indesit",
+            "url": "/holodilniki/indesit/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Kuppersberg",
+            "url": "/holodilniki/kuppersberg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Smeg",
+            "url": "/holodilniki/smeg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Beko",
+            "url": "/holodilniki/beko/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Midea",
+            "url": "/holodilniki/midea/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Asko",
+            "url": "/holodilniki/asko/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Gorenje",
+            "url": "/holodilniki/gorenje/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Hisense",
+            "url": "/holodilniki/hisense/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Bosch",
+            "url": "/holodilniki/bosch/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Samsung",
+            "url": "/holodilniki/samsung/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Toshiba",
+            "url": "/holodilniki/toshiba/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Hitachi",
+            "url": "/holodilniki/hitachi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "VARD",
+            "url": "/holodilniki/vard/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Hotpoint",
+            "url": "/holodilniki/hotpoint/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Kuppersbusch",
+            "url": "/holodilniki/kuppersbusch/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Candy",
+            "url": "/holodilniki/candy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Meyvel",
+            "url": "/holodilniki/meyvel/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "TCL",
+            "url": "/holodilniki/tcl/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Casarte",
+            "url": "/holodilniki/casarte/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Electrolux",
+            "url": "/holodilniki/electrolux/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Graude",
+            "url": "/holodilniki/graude/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Siemens",
+            "url": "/holodilniki/siemens/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Libhof",
+            "url": "/holodilniki/libhof/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "AEG",
+            "url": "/holodilniki/aeg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Bertazzoni",
+            "url": "/holodilniki/bertazzoni/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Haier HTF-508DGS7RU",
+        "url": "holodilnik-haier-htf-508dgs7ru",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      }
+    ],
+    "isArchive": false,
+    "__typename": "ProductV2",
+    "isSberPayOneClickAllowed": false,
+    "isTinkoffPayOneClickAllowed": false,
+    "bonus": null
+  },
+  "details": {
+    "description": "<div id=\"stream24-inpage\"></div> <script> (function (w, d, s, o) {   var f = d.getElementsByTagName(s)[0];   var j = d.createElement(s);   w.TTLStreamReady = new Promise((resolve) => {     j.async = true;     j.src = 'https://content.24ttl.stream/widget.js';     f.parentNode.insertBefore(j, f);     j.onload = function () {       w.ttlStream = new TTLStream(o);       resolve(w.ttlStream);     };   }); })(window, document, 'script', {}); </script> <script> var styleElement = document.createElement('style');  styleElement.innerHTML = \"body #stream24-inpage #stream-container *{ font-family: 'DINPro Technopark' !important; }\"; document.getElementsByTagName(\"head\")[0].appendChild(styleElement);  TTLStreamReady.then(() => {   ttlStream.findAndInsert({     el: '#stream24-inpage',     brand: 'haier',     productId: '6901018079955',     retailerDomain: 'www.technopark.ru',     templateType: 'master_template',     resultType: 'html',     contentType: 'minisite'   }); }); </script>",
+    "descriptionType": "RICH_STREAM_24",
+    "descriptionBarcode": "6901018079955",
+    "descriptionBrand": "Haier",
+    "specifications": {
+      "short": [
+        {
+          "name": "Объем холодильной камеры",
+          "value": "350 л",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Объем морозильной камеры",
+          "value": "155 л",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Размораживание морозильной камеры",
+          "value": "No Frost",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Высота",
+          "value": "190 см",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Ширина",
+          "value": "83 см",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "barcode": "6901018079955",
+      "country": "Китай",
+      "full": [
+        {
+          "name": "Основные характеристики",
+          "list": [
+            {
+              "name": "Тип",
+              "value": "Side by Side",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип установки",
+              "value": "отдельностоящий",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип компрессора",
+              "value": "инверторный",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество компрессоров",
+              "value": "1",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество камер",
+              "value": "3",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Общий полезный объем",
+              "value": "505 л",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Холодильная камера",
+          "list": [
+            {
+              "name": "Объем холодильной камеры",
+              "value": "350 л",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Регулировка температуры в холодильной камере",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Установка температуры",
+              "value": "1-9 °C",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество отделений в холодильной камере",
+              "value": "1",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Размораживание холодильной камеры",
+              "value": "No Frost",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Морозильная камера",
+          "list": [
+            {
+              "name": "Объем морозильной камеры",
+              "value": "155 л",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Расположение морозильной камеры",
+              "value": "снизу",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Размораживание морозильной камеры",
+              "value": "No Frost",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество отделений в морозильной камере",
+              "value": "2",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Мощность замораживания",
+              "value": "7.5 кг/сутки",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Хранение продуктов при отключении питания",
+              "value": "12 ч",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Регулировка температуры в морозильной камере",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Минимальная температура в морозильной камере",
+              "value": "-24 °C",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная температура в морозильной камере",
+              "value": "-41 °C",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Возможность изменения типа камеры",
+              "value": "холодильная, морозильная",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Зона свежести",
+          "list": [
+            {
+              "name": "Зона свежести",
+              "value": "есть",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип зоны свежести",
+              "value": "сухая + влажная",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Объем зоны свежести",
+              "value": "32 л",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Регулировка температуры в зоне свежести",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Регулировка влажности в зоне свежести",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Управление",
+          "list": [
+            {
+              "name": "Тип управления",
+              "value": "электронное",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Способ управления",
+              "value": "сенсорный",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Расположение панели управления",
+              "value": "на дверце",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Дисплей",
+          "list": [
+            {
+              "name": "Дисплей",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип дисплея",
+              "value": "LED",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вид дисплея",
+              "value": "цифровой",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Индикация",
+          "list": [
+            {
+              "name": "Индикация температуры морозильной камеры",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация температуры холодильной камеры",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация включения",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация режима работы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация открытой двери",
+              "value": "звуковая",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Электропитание",
+          "list": [
+            {
+              "name": "Напряжение",
+              "value": "220-240 B",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Класс энергопотребления",
+              "value": "A++",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Энергопотребление",
+              "value": "340 кВтч/год",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Климатический класс",
+              "value": "SN-N-ST-T",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Уровень шума",
+              "value": "40 дБ",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Защита и безопасность",
+          "list": [
+            {
+              "name": "Тип сигнализации",
+              "value": "акустический",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Сигнализация об открытой двери",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Защита от детей",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Освещение",
+          "list": [
+            {
+              "name": "Освещение холодильной камеры",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Освещение морозильной камеры",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип освещения",
+              "value": "светодиодное (LED)",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Функции и возможности",
+          "list": [
+            {
+              "name": "Суперзаморозка",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Независимая регулировка температуры в камерах",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Суперохлаждение",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Режим «Отпуск»",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Cистема MultiFlow",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Особенности конструкции",
+          "list": [
+            {
+              "name": "Количество дверей",
+              "value": "4",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Открытие дверцы",
+              "value": "налево, направо",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Встроенный вентилятор для распределения температуры",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Контейнеры и полки",
+          "list": [
+            {
+              "name": "Количество полок в холодильной камере",
+              "value": "3",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество полок в морозильной камере",
+              "value": "2",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество полок на дверце холодильной камеры",
+              "value": "6",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество контейнеров в морозильной камере",
+              "value": "4",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество контейнеров в зоне свежести",
+              "value": "3",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Полка для вина",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Цвет и материал",
+          "list": [
+            {
+              "name": "Цвет",
+              "value": "серебристый",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет полок",
+              "value": "прозрачный, серебристый",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет ящиков",
+              "value": "прозрачный, серебристый",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал полок",
+              "value": "стекло",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал ящиков",
+              "value": "пластик",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Комплектация",
+          "list": [
+            {
+              "name": "Формочки для льда",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество формочек для льда",
+              "value": "1",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Подставка для яиц",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Размеры и вес",
+          "list": [
+            {
+              "name": "Высота",
+              "value": "190 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ширина",
+              "value": "83 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Глубина",
+              "value": "68 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вес",
+              "value": "134 кг",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        }
+      ],
+      "grossWeight": "142",
+      "netWeight": "134",
+      "height": "2.15",
+      "instructionUrl": "https://storage.yandexcloud.net/technopark.instructions/622758/instruction/instrukciya-holodilnik-haier-htf-508dgs7ru.pdf",
+      "length": "0.93",
+      "schemeUrl": null,
+      "warranty": "12",
+      "width": "0.75",
+      "__typename": "ProductV2Specifications"
+    },
+    "certificates": ["https://www.technopark.ru/bipublic/Cert/IG0G15BS8OJKIR.pdf"],
+    "isManufacturerCountry": false,
+    "isSellerWarranty": false,
+    "reviews": {
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "total": 0,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "rating": {
+      "average": 0,
+      "canRate": false,
+      "total": {
+        "all": 0,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 0,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "isLoading": false
+  },
+  "shots": [
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/622758/1_622758.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/622758/1_622758.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/622758/2_622758.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/622758/2_622758.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/622758/3_622758.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/622758/3_622758.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/622758/4_622758.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/622758/4_622758.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/622758/5_622758.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/622758/5_622758.jpg"
+    ]
+  ],
+  "photos": [
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/holodilnik-haier-htf-508dgs7ru-1.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/holodilnik-haier-htf-508dgs7ru-2.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/holodilnik-haier-htf-508dgs7ru-3.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/holodilnik-haier-htf-508dgs7ru-4.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/holodilnik-haier-htf-508dgs7ru-5.jpg"
+  ]
+}

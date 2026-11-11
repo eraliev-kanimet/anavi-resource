@@ -1,0 +1,1128 @@
+{
+  "shelf": "plity",
+  "slug": "plity-bertazzoni-her95i1enet",
+  "product": {
+    "id": "813569",
+    "article": "1892000115",
+    "slug": "plity-bertazzoni-her95i1enet",
+    "hasSmartInstallments": false,
+    "isActive": true,
+    "name": {
+      "default": "Bertazzoni HER95I1ENET",
+      "full": "Плита Bertazzoni HER95I1ENET",
+      "pseudo": null,
+      "spare": null,
+      "fullWithoutSection": "Bertazzoni HER95I1ENET",
+      "section": "Плита",
+      "__typename": "ProductName"
+    },
+    "price": {
+      "default": 1050000,
+      "marketing": null,
+      "old": null,
+      "__typename": "ProductPrice"
+    },
+    "benefit": null,
+    "specifications": {
+      "short": [
+        {
+          "name": "Варочная панель",
+          "value": "электрическая",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Духовка",
+          "value": "электрическая",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Рабочая поверхность",
+          "value": "стеклокерамика",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Объем духовки",
+          "value": "103 л",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Ширина",
+          "value": "89.5 см",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "__typename": "ProductV2Specifications"
+    },
+    "labels": [
+      {
+        "name": "Бонусы Спасибо",
+        "type": "sberspasibo",
+        "items": [
+          {
+            "description": "",
+            "name": "Этот товар можно оплатить бонусами Спасибо от СберБанка",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      }
+    ],
+    "labelsV2": [
+      {
+        "id": "14",
+        "name": "-15% на технику",
+        "code": "15-na-tekhniku",
+        "mainColor": "#F54B4B",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#FFFFFF",
+        "altTextColor": "#F54B4B",
+        "borderAndTextColor": "#F54B4B",
+        "items": [
+          {
+            "id": "146748",
+            "text": "Выгода при покупке крупной бытовой техники",
+            "buttonText": "Подробнее",
+            "url": "/action/vygoda-pri-pokupke-krupnoy-bytovoy-tekhniki/",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      },
+      {
+        "id": "8",
+        "name": "Бонусы Спасибо",
+        "code": "sberspasibo",
+        "mainColor": "#0C9C0C",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#0C9C0C",
+        "altTextColor": "#FFFFFF",
+        "borderAndTextColor": "#0C9C0C",
+        "items": [
+          {
+            "id": "21857",
+            "text": "Этот товар можно оплатить бонусами Спасибо от СберБанка ",
+            "buttonText": "Подробнее",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      }
+    ],
+    "status": {
+      "id": "IN_STOCK",
+      "name": "В наличии",
+      "type": "POSITIVE",
+      "__typename": "ProductStatus"
+    },
+    "brand": {
+      "code": "bertazzoni",
+      "id": "763958",
+      "name": "Bertazzoni",
+      "src": "https://cdn1.technopark.ru/technopark/photos_resized/section_brand_300_100/300_100/763958/1_763958.png",
+      "slug": "bertazzoni",
+      "sections": [
+        {
+          "name": "Холодильники Bertazzoni",
+          "url": "/holodilniki/bertazzoni/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3456168700/technopark/photos_resized/product/120_120/764010/1_764010.jpg?timestamp=2025-10-07_15-20-38",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/470073677/technopark/photos_resized/product/120_120/764010/2_764010.jpg?timestamp=2025-10-07_15-20-52",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2809214770/technopark/photos_resized/product/120_120/764010/3_764010.jpg?timestamp=2025-10-07_15-20-39",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2964426305/technopark/photos_resized/product/120_120/764010/4_764010.jpg?timestamp=2025-10-07_15-20-38",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3497396132/technopark/photos_resized/product/120_120/764010/5_764010.jpg?timestamp=2025-10-07_15-20-39",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1233081886/technopark/photos_resized/product/120_120/764010/6_764010.jpg?timestamp=2025-10-07_15-20-39",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2462919044/technopark/photos_resized/product/120_120/764010/7_764010.jpg?timestamp=2025-10-07_15-20-53",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/197425214/technopark/photos_resized/product/120_120/764010/8_764010.jpg?timestamp=2025-10-07_15-20-53",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/902482028/technopark/photos_resized/product/120_120/764010/9_764010.jpg?timestamp=2025-10-07_15-20-56",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Вытяжки Bertazzoni",
+          "url": "/vytyazhki/bertazzoni/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/277145078/technopark/photos_resized/product/120_120/768182/1_768182.jpg?timestamp=2024-11-20_18-45-22",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Вытяжки встраиваемые Bertazzoni",
+          "url": "/vstraivaemye-vytyazhki/bertazzoni/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/4194204554/technopark/photos_resized/product/120_120/768073/1_768073.jpg?timestamp=2024-11-20_10-08-17",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Кофемашины встраиваемые Bertazzoni",
+          "url": "/vstraivaemye-kofemashiny/bertazzoni/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2324258320/technopark/photos_resized/product/120_120/812382/0_812382.jpg?timestamp=2025-12-07_18-50-53",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Морозильные камеры встраиваемые Bertazzoni",
+          "url": "/vstraivaemye-morozilnye-kamery/bertazzoni/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2492863012/technopark/photos_resized/product/120_120/766582/1_766582.jpg?timestamp=2024-11-07_16-36-41",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Посудомоечные машины встраиваемые Bertazzoni",
+          "url": "/vstraivaemye-posudomoechnye-mashiny/bertazzoni/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1769834459/technopark/photos_resized/product/120_120/812384/0_812384.jpg?timestamp=2025-12-07_18-56-21",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Микроволновые печи встраиваемые Bertazzoni",
+          "url": "/vstraivaemye-mikrovolnovye-pechi/bertazzoni/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3142259321/technopark/photos_resized/product/120_120/813907/0_813907.jpg?timestamp=2025-12-21_13-37-48",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1430614869/technopark/photos_resized/product/120_120/813907/1_813907.jpg?timestamp=2025-12-21_13-37-48",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/574768067/technopark/photos_resized/product/120_120/813907/2_813907.jpg?timestamp=2025-12-21_13-37-48",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3427541743/technopark/photos_resized/product/120_120/813907/3_813907.jpg?timestamp=2025-12-21_13-37-48",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Все аксессуары Bertazzoni",
+          "url": "/aksessuary-krupnaya-bytovaya-tehnika/bertazzoni/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2109872716/technopark/photos_resized/product/120_120/826552/1_826552.jpg?timestamp=2026-04-03_13-09-35",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Шкафы для подогрева Bertazzoni",
+          "url": "/shkafy-dlya-podogreva-posudy/bertazzoni/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3853147214/technopark/photos_resized/product/120_120/768096/1_768096.jpg?timestamp=2024-11-20_12-14-33",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        }
+      ],
+      "__typename": "Brand"
+    },
+    "section": {
+      "slug": "plity",
+      "id": "908",
+      "name": "Плиты",
+      "parents": [
+        {
+          "id": "877",
+          "name": "Крупная бытовая",
+          "depth": 1,
+          "__typename": "SectionTreeItem"
+        },
+        {
+          "id": "908",
+          "name": "Плиты",
+          "depth": 2,
+          "__typename": "SectionTreeItem"
+        }
+      ],
+      "__typename": "Section"
+    },
+    "media": {
+      "gallery": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/813569/0_813569.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/813569/1_813569.jpg?timestamp=2025-12-17_16-59-57",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/813569/2_813569.jpg?timestamp=2025-12-17_16-59-59",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/813569/3_813569.jpg?timestamp=2025-12-17_17-00-00",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "interior": [],
+      "video": [],
+      "vkVideo": null,
+      "view3d": [],
+      "listing": {
+        "default": [
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/813569/0_813569.jpg?timestamp=2025-12-17_16-59-56",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/813569/1_813569.jpg?timestamp=2025-12-17_16-59-59",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/813569/2_813569.jpg?timestamp=2025-12-17_17-00-02",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/813569/3_813569.jpg?timestamp=2025-12-17_17-00-02",
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "ProductListing"
+      },
+      "__typename": "ProductV2Media"
+    },
+    "modifications": {
+      "bigBrother": null,
+      "groups": [],
+      "__typename": "ProductModifications"
+    },
+    "description": {
+      "hasDescription": false,
+      "type": "DEFAULT",
+      "__typename": "ProductDescription"
+    },
+    "collection": {
+      "id": "813569",
+      "products": {
+        "pagination": {
+          "total": 0,
+          "__typename": "Pagination"
+        },
+        "__typename": "ProductV2Pagination"
+      },
+      "__typename": "ProductCollection"
+    },
+    "similar": {
+      "pagination": {
+        "total": 20,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "related": {
+      "pagination": {
+        "total": 20,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "accessories": [
+      {
+        "products": {
+          "pagination": {
+            "total": 6,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 17,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 19,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      }
+    ],
+    "rating": {
+      "average": 0,
+      "canRate": false,
+      "total": {
+        "all": 0,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 0,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "reviews": {
+      "total": 0,
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "bestCredit": null,
+    "isSpare": false,
+    "isService": false,
+    "isVipService": false,
+    "isGiftBonusCard": false,
+    "canBuy": true,
+    "canPayOnline": false,
+    "canRequestPrice": false,
+    "canShowPrice": true,
+    "canSubscribe": false,
+    "needPrepaymentForDelivery": false,
+    "needPrepaymentForPreorder": false,
+    "isSberSpasiboPayAvailable": true,
+    "isYandexPayAllowed": false,
+    "yandexSplit": null,
+    "seo": {
+      "description": "Плита Bertazzoni HER95I1ENET: купить в интернет-магазине Технопарк с расширенной гарантией и бесплатной доставкой по РФ. Подробные характеристики товара с отзывами реальных покупателей.",
+      "text": "Вы можете купить плиту Bertazzoni HER95I1ENET с доставкой по Москве по низкой цене. В интернет-магазине Technopark.ru осуществляется продажа плиты Bertazzoni HER95I1ENET на выгодных условиях.",
+      "textHidden": "",
+      "title": "Плита Bertazzoni HER95I1ENET - купить в Москве в интернет-магазине Технопарк",
+      "__typename": "SeoData"
+    },
+    "breadcrumbs": [
+      {
+        "name": "Главная",
+        "url": "/",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Крупная бытовая техника",
+        "url": "/krupnaya-bytovaya-tehnika/",
+        "options": [
+          {
+            "name": "Центр инноваций",
+            "url": "/tovary-iz-budushchego/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Смартфоны и гаджеты",
+            "url": "/smartfony-i-gadzhety/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Компьютеры и ноутбуки",
+            "url": "/kompyutery-i-noutbuki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Климатическая техника",
+            "url": "/klimaticheskaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Техника для кухни",
+            "url": "/dlya-kuhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Бытовая техника для дома",
+            "url": "/dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для красоты и здоровья",
+            "url": "/krasota-i-zdorovye/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Спортивные товары",
+            "url": "/trenazhery-dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Телевизоры Аудио Hi-Fi",
+            "url": "/audio-video-foto/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для сада, дома и ремонта",
+            "url": "/dlya-sada-doma-i-remonta/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посуда",
+            "url": "/posuda/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Детские товары",
+            "url": "/detskie-tovary/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для гейминга",
+            "url": "/gaming/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Плоттеры и услуги розницы",
+            "url": "//",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Запасные части",
+            "url": "/zapasnie-chasti/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Кухонные плиты",
+        "url": "/plity/",
+        "options": [
+          {
+            "name": "Стиральные машины",
+            "url": "/stiralnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые варочные панели",
+            "url": "/vstraivaemye-varochnye-poverhnosti/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Холодильники",
+            "url": "/holodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые духовые шкафы",
+            "url": "/vstraivaemye-duhovye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вытяжки для кухни",
+            "url": "/vytyazhki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посудомоечные машины",
+            "url": "/posudomoechnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые холодильники",
+            "url": "/vstraivaemye-holodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые винные шкафы",
+            "url": "/vstraivaemye-vinnye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые вытяжки для кухни",
+            "url": "/vstraivaemye-vytyazhki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые кофемашины",
+            "url": "/vstraivaemye-kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые морозильные камеры",
+            "url": "/vstraivaemye-morozilnye-kamery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые пароварки",
+            "url": "/vstraivaemye-parovarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые посудомоечные машины",
+            "url": "/vstraivaemye-posudomoechnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые стиральные машины",
+            "url": "/vstraivaemye-stiralnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Сушильные машины для белья",
+            "url": "/sushilnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые микроволновые печи",
+            "url": "/vstraivaemye-mikrovolnovye-pechi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Морозильные камеры",
+            "url": "/morozilnye-kamery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Винные шкафы",
+            "url": "/vinnye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые шкафы для подогрева",
+            "url": "/shkafy-dlya-podogreva-posudy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Стиральные машины с функцией сушки (2 в 1)",
+            "url": "/stiralno-sushilnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые вакууматоры",
+            "url": "/vakuumatory/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Измельчители пищевых отходов",
+            "url": "/vstraivaemye-izmelchiteli-pischevyh-othodov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Автохолодильники",
+            "url": "/avtoholodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для крупной бытовой техники",
+            "url": "/aksessuary-krupnaya-bytovaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для холодильников",
+            "url": "/aksessuary-krupnaya-bytovaya-tehnika/filt_naznachenie-k_holodilnikam/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для автохолодильников",
+            "url": "/aksessuary-dlya-avtokholodilnikov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Хьюмидоры",
+            "url": "/khyumidory/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Кухонные плиты Bertazzoni",
+        "url": "/plity/bertazzoni/",
+        "options": [
+          {
+            "name": "Smeg",
+            "url": "/plity/smeg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Maunfeld",
+            "url": "/plity/maunfeld/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Gorenje",
+            "url": "/plity/gorenje/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Bertazzoni HER95I1ENET",
+        "url": "plity-bertazzoni-her95i1enet",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      }
+    ],
+    "isArchive": false,
+    "__typename": "ProductV2",
+    "isSberPayOneClickAllowed": false,
+    "isTinkoffPayOneClickAllowed": false,
+    "bonus": null
+  },
+  "details": {
+    "description": "",
+    "descriptionType": "DEFAULT",
+    "descriptionBarcode": "8059304881275",
+    "descriptionBrand": "Bertazzoni",
+    "specifications": {
+      "short": [
+        {
+          "name": "Варочная панель",
+          "value": "электрическая",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Духовка",
+          "value": "электрическая",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Рабочая поверхность",
+          "value": "стеклокерамика",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Объем духовки",
+          "value": "103 л",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Ширина",
+          "value": "89.5 см",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "barcode": "8059304881275",
+      "country": "",
+      "full": [
+        {
+          "name": "Основные характеристики",
+          "list": [
+            {
+              "name": "Тип",
+              "value": "электрическая",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Варочная панель",
+              "value": "электрическая",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Духовка",
+              "value": "электрическая",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Рабочая поверхность",
+              "value": "стеклокерамика",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет",
+              "value": "черный",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет панели конфорок",
+              "value": "серебристый",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет фурнитуры",
+              "value": "серебристый",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Управление",
+          "list": [
+            {
+              "name": "Тип управления",
+              "value": "механическое",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Переключатели",
+              "value": "поворотные",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Варочная панель",
+          "list": [
+            {
+              "name": "Всего конфорок",
+              "value": "5",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип электроконфорок",
+              "value": "индукционный",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество электрических конфорок",
+              "value": "5",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Мощность задней левой конфорки",
+              "value": "2100/3000 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Мощность задней правой конфорки",
+              "value": "2100/3000 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Мощность передней левой конфорки",
+              "value": "1600/1850 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Мощность передней правой конфорки",
+              "value": "1600/1850 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Мощность центральной конфорки",
+              "value": "2300/3000 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Размер левой задней конфорки",
+              "value": "21x20 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Размер левой передней конфорки",
+              "value": "21x20 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Размер правой задней конфорки",
+              "value": "21x20 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Размер правой передней конфорки",
+              "value": "21x20 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Размер центральной конфорки",
+              "value": "26.5 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Режим усиленного нагрева",
+              "value": "Boost",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество конфорок с режимом усиления",
+              "value": "5",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Духовка",
+          "list": [
+            {
+              "name": "Количество духовок",
+              "value": "1",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Объем духовки",
+              "value": "103 л",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал рабочей камеры",
+              "value": "эмаль",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Очистка духовки",
+              "value": "каталитическая",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество режимов работы",
+              "value": "11",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Режимы работы",
+              "value": "гриль, конвекция, нижний нагрев, верхний нагрев, пицца, размораживание, верхний + нижний нагрев, верхний + нижний нагрев + конвекция, гриль + конвекция, быстрый нагрев",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип гриля",
+              "value": "тэн",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество уровней приготовления",
+              "value": "4",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная температура духового шкафа",
+              "value": "250 °С",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество стекол дверцы",
+              "value": "3",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Полозья для противней",
+              "value": "хромированные направляющие, телескопические направляющие",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Телескопические направляющие",
+              "value": "одноуровневые",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Индикация",
+          "list": [
+            {
+              "name": "Индикация остаточного тепла",
+              "value": "для всех зон",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Энергопотребление",
+          "list": [
+            {
+              "name": "Класс энергопотребления",
+              "value": "A",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Потребляемая мощность",
+              "value": "10900 Вт",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Дополнительная информация",
+          "list": [
+            {
+              "name": "Тип освещения",
+              "value": "галогенная лампа",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество ламп освещения",
+              "value": "2",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дополнительная информация",
+              "value": "2 FlexZone, аналоговый термометр, плавное закрытие дверцы",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Комплектация",
+          "list": [
+            {
+              "name": "Комплект поставки",
+              "value": "эмалированный противень, 2 хромированные решетки, подставка-гриль для лотка",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ящик для посуды",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Инструкция",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Размеры и вес",
+          "list": [
+            {
+              "name": "Высота",
+              "value": "91.3 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ширина",
+              "value": "89.5 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Глубина",
+              "value": "60 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вес",
+              "value": "95.5 кг",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        }
+      ],
+      "grossWeight": null,
+      "netWeight": null,
+      "height": null,
+      "instructionUrl": null,
+      "length": null,
+      "schemeUrl": "https://storage.yandexcloud.net/technopark.instructions/813569/schema/1892000115.jpg",
+      "warranty": "0",
+      "width": null,
+      "__typename": "ProductV2Specifications"
+    },
+    "certificates": [],
+    "isManufacturerCountry": false,
+    "isSellerWarranty": false,
+    "reviews": {
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "total": 0,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "rating": {
+      "average": 0,
+      "canRate": false,
+      "total": {
+        "all": 0,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 0,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "isLoading": false
+  },
+  "shots": [
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/813569/0_813569.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/813569/0_813569.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/813569/1_813569.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/813569/1_813569.jpg?timestamp=2025-12-17_16-59-57"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/813569/2_813569.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/813569/2_813569.jpg?timestamp=2025-12-17_16-59-59"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/813569/3_813569.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/813569/3_813569.jpg?timestamp=2025-12-17_17-00-00"
+    ]
+  ],
+  "photos": [
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/plity-bertazzoni-her95i1enet-1.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/plity-bertazzoni-her95i1enet-2.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/plity-bertazzoni-her95i1enet-3.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/plity-bertazzoni-her95i1enet-4.jpg"
+  ]
+}
