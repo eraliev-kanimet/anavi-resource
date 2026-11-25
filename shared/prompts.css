@@ -1,0 +1,285 @@
+/**
+ * Общий лист промптовых страниц.
+ *
+ * Лежит один на всю библиотеку, потому что до этого каждое демо таскало собственную копию: шесть с
+ * половиной килобайт одинакового CSS в трёх файлах, и различались они РОВНО одной строкой — цветом
+ * акцента. Правка отступа означала три правки, и на третьей кто-нибудь бы забыл.
+ *
+ * Страница приносит только своё: акцент на <html style="--accent: …"> и ключ хранения на
+ * <body data-key="…">. Больше ей знать о разметке нечего — голый html подтянет всё сам.
+ */
+
+:root {
+  --paper: #f6f8f9;
+  --card: #ffffff;
+  --ink: #141a20;
+  --ink-2: #56646f;
+  --ink-3: #8d9aa5;
+  --line: #dde4ea;
+  --line-2: #c6d1da;
+  --accent-ink: #ffffff;
+  --accent-soft: #e7eef4;
+  --done: #3d7659;
+  --done-soft: #e5f0ea;
+  --shadow: 0 1px 2px rgba(20, 26, 32, .05), 0 8px 24px -16px rgba(20, 26, 32, .25);
+  --serif: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, "Times New Roman", serif;
+  --sans: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #0f1317;
+    --card: #161c22;
+    --ink: #e7ecf0;
+    --ink-2: #9aa7b3;
+    --ink-3: #6c7a87;
+    --line: #252e37;
+    --line-2: #35414d;
+    --accent: #82abc9;
+    --accent-ink: #0f1317;
+    --accent-soft: #1a2632;
+    --done: #78b596;
+    --done-soft: #16241d;
+    --shadow: 0 1px 2px rgba(0, 0, 0, .4), 0 8px 24px -16px rgba(0, 0, 0, .8);
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #0f1317;
+  --card: #161c22;
+  --ink: #e7ecf0;
+  --ink-2: #9aa7b3;
+  --ink-3: #6c7a87;
+  --line: #252e37;
+  --line-2: #35414d;
+  --accent: #82abc9;
+  --accent-ink: #0f1317;
+  --accent-soft: #1a2632;
+  --done: #78b596;
+  --done-soft: #16241d;
+  --shadow: 0 1px 2px rgba(0, 0, 0, .4), 0 8px 24px -16px rgba(0, 0, 0, .8);
+}
+
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--sans);
+  font-size: 15px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+.wrap { max-width: 1080px; margin: 0 auto; padding: 0 20px 96px; }
+
+/* ---- head ---- */
+.masthead { padding: 44px 0 24px; }
+.eyebrow {
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+  margin: 0 0 10px;
+}
+h1 {
+  font-family: var(--serif);
+  font-weight: 600;
+  font-size: clamp(30px, 5vw, 44px);
+  line-height: 1.1;
+  letter-spacing: -.01em;
+  margin: 0 0 12px;
+  text-wrap: balance;
+}
+.lede { margin: 0; max-width: 62ch; color: var(--ink-2); }
+.lede code {
+  font-family: var(--mono);
+  font-size: .88em;
+  background: var(--accent-soft);
+  color: var(--accent);
+  padding: 1px 5px;
+  border-radius: 3px;
+}
+
+/* ---- sticky bar ---- */
+.bar {
+  position: sticky;
+  top: 0;
+  z-index: 5;
+  background: color-mix(in srgb, var(--paper) 88%, transparent);
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid var(--line);
+  margin: 0 -20px 8px;
+  padding: 12px 20px;
+}
+.bar-in {
+  max-width: 1040px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+.tally {
+  font-family: var(--mono);
+  font-variant-numeric: tabular-nums;
+  font-size: 13px;
+  color: var(--ink-2);
+  white-space: nowrap;
+}
+.tally b { color: var(--ink); font-weight: 600; font-size: 15px; }
+.meter {
+  flex: 1 1 180px;
+  min-width: 120px;
+  height: 6px;
+  border-radius: 999px;
+  background: var(--line);
+  overflow: hidden;
+}
+.meter i { display: block; height: 100%; width: 0; background: var(--done); transition: width .25s ease; }
+.bar-acts { display: flex; gap: 8px; align-items: center; margin-left: auto; }
+
+button {
+  font: inherit;
+  font-size: 13px;
+  color: var(--ink-2);
+  background: var(--card);
+  border: 1px solid var(--line-2);
+  border-radius: 7px;
+  padding: 6px 11px;
+  cursor: pointer;
+  transition: border-color .15s, color .15s, background .15s;
+}
+button:hover { border-color: var(--ink-3); color: var(--ink); }
+button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+button[aria-pressed="true"] { background: var(--accent-soft); border-color: var(--accent); color: var(--accent); }
+
+/* ---- sections ---- */
+section { margin-top: 40px; }
+.sec-head {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid var(--ink);
+}
+.sec-head h2 {
+  font-family: var(--serif);
+  font-weight: 600;
+  font-size: 21px;
+  margin: 0;
+  letter-spacing: -.005em;
+}
+.sec-meta {
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+}
+.sec-count {
+  margin-left: auto;
+  font-family: var(--mono);
+  font-variant-numeric: tabular-nums;
+  font-size: 12px;
+  color: var(--ink-3);
+}
+
+/* ---- rows: a seam of stitches ---- */
+.row {
+  display: grid;
+  grid-template-columns: 22px minmax(0, 1fr);
+  gap: 0 14px;
+  padding: 16px 0;
+  border-bottom: 1px dashed var(--line-2);
+}
+.row:last-child { border-bottom: 0; }
+.row.hide { display: none; }
+
+.stitch {
+  position: relative;
+  width: 15px;
+  height: 15px;
+  margin-top: 3px;
+  border: 1px solid var(--line-2);
+  border-radius: 3px;
+}
+.stitch::before, .stitch::after {
+  content: "";
+  position: absolute;
+  inset: 3px;
+  border-top: 1.5px solid var(--done);
+  top: 50%;
+  opacity: 0;
+  transition: opacity .18s ease;
+}
+.stitch::before { transform: rotate(45deg); }
+.stitch::after { transform: rotate(-45deg); }
+.row.done .stitch { border-color: var(--done); background: var(--done-soft); }
+.row.done .stitch::before, .row.done .stitch::after { opacity: 1; }
+
+.top {
+  display: flex;
+  align-items: center;
+  gap: 10px 14px;
+  flex-wrap: wrap;
+}
+.file {
+  font-family: var(--mono);
+  font-size: 13px;
+  color: var(--ink);
+  word-break: break-all;
+}
+/* Dimmed is «not copied»: the folder and the extension are context, the name between them is
+   the whole of what a button hands over. */
+.file .dir,
+.file .ext { color: var(--ink-3); }
+.ru { color: var(--ink-2); font-size: 13px; }
+.acts { display: flex; gap: 7px; margin-left: auto; }
+.acts button { padding: 5px 10px; font-size: 12.5px; }
+
+.prompt {
+  grid-column: 2;
+  margin: 10px 0 0;
+  font-family: var(--mono);
+  font-size: 12.5px;
+  line-height: 1.6;
+  color: var(--ink-2);
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-left: 2px solid var(--line-2);
+  border-radius: 4px;
+  padding: 11px 13px;
+  overflow-wrap: anywhere;
+}
+/* A closed frame opens by a CLICK, not by hover: passing the pointer across the list used to grow
+   every row it touched and shove everything below it up and down. */
+.row.done { opacity: .5; cursor: pointer; }
+.row.done .prompt { display: none; }
+.row.done.open { opacity: 1; }
+.row.done.open .prompt { display: block; cursor: auto; }
+
+.chain {
+  font-family: var(--mono);
+  font-size: 10.5px;
+  letter-spacing: .06em;
+  text-transform: uppercase;
+  color: var(--accent);
+  background: var(--accent-soft);
+  border-radius: 3px;
+  padding: 2px 6px;
+  white-space: nowrap;
+}
+footer {
+  margin-top: 56px;
+  padding-top: 20px;
+  border-top: 1px dashed var(--line-2);
+  color: var(--ink-3);
+  font-size: 13px;
+}
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; }
+}
+@media (max-width: 560px) {
+  .acts { margin-left: 0; width: 100%; }
+  .row { grid-template-columns: 18px minmax(0, 1fr); gap: 0 10px; }
+}

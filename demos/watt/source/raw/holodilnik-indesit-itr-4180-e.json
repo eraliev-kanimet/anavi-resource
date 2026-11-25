@@ -1,0 +1,1696 @@
+{
+  "shelf": "holodilniki",
+  "slug": "holodilnik-indesit-itr-4180-e",
+  "product": {
+    "id": "269161",
+    "article": "119843",
+    "slug": "holodilnik-indesit-itr-4180-e",
+    "hasSmartInstallments": false,
+    "isActive": true,
+    "name": {
+      "default": "Indesit ITR 4180 E",
+      "full": "Холодильник Indesit ITR 4180 E",
+      "pseudo": null,
+      "spare": null,
+      "fullWithoutSection": "Indesit ITR 4180 E",
+      "section": "Холодильник",
+      "__typename": "ProductName"
+    },
+    "price": {
+      "default": 44990,
+      "marketing": null,
+      "old": 47990,
+      "__typename": "ProductPrice"
+    },
+    "benefit": 3000,
+    "specifications": {
+      "short": [
+        {
+          "name": "Объем холодильной камеры",
+          "value": "220 л",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Объем морозильной камеры",
+          "value": "78 л",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Размораживание морозильной камеры",
+          "value": "No Frost",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Высота",
+          "value": "185 см",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Ширина",
+          "value": "60 см",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "__typename": "ProductV2Specifications"
+    },
+    "labels": [
+      {
+        "name": "Бонусы Спасибо",
+        "type": "sberspasibo",
+        "items": [
+          {
+            "description": "",
+            "name": "Этот товар можно оплатить бонусами Спасибо от СберБанка",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Выгодное предложение",
+        "type": "special_offer",
+        "items": [
+          {
+            "description": "",
+            "name": "Техника и электроника",
+            "url": "/action/vygodnaya-tsena/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "5 000 бонусов за покупки",
+            "url": "/action/5-000-bonusov-za-pokupki/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Рассрочка",
+        "type": "deferred_payment",
+        "items": [
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-12",
+            "url": "/holodilnik-indesit-itr-4180-e/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-24",
+            "url": "/holodilnik-indesit-itr-4180-e/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-6",
+            "url": "/holodilnik-indesit-itr-4180-e/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-18",
+            "url": "/holodilnik-indesit-itr-4180-e/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-6",
+            "url": "/holodilnik-indesit-itr-4180-e/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      }
+    ],
+    "labelsV2": [
+      {
+        "id": "14",
+        "name": "-15% на технику",
+        "code": "15-na-tekhniku",
+        "mainColor": "#F54B4B",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#FFFFFF",
+        "altTextColor": "#F54B4B",
+        "borderAndTextColor": "#F54B4B",
+        "items": [
+          {
+            "id": "148539",
+            "text": "Выгода при покупке крупной бытовой техники",
+            "buttonText": "Подробнее",
+            "url": "/action/vygoda-pri-pokupke-krupnoy-bytovoy-tekhniki/",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      },
+      {
+        "id": "8",
+        "name": "Бонусы Спасибо",
+        "code": "sberspasibo",
+        "mainColor": "#0C9C0C",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#0C9C0C",
+        "altTextColor": "#FFFFFF",
+        "borderAndTextColor": "#0C9C0C",
+        "items": [
+          {
+            "id": "23975",
+            "text": "Этот товар можно оплатить бонусами Спасибо от СберБанка ",
+            "buttonText": "Подробнее",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      },
+      {
+        "id": "5",
+        "name": "Выгода",
+        "code": "vygoda",
+        "mainColor": "#fd9600",
+        "mainTextColor": "#ffffff",
+        "altColor": "#fd9600",
+        "altTextColor": "#ffffff",
+        "borderAndTextColor": "#fd9600",
+        "items": [
+          {
+            "id": "460",
+            "text": "Выгодное предложение",
+            "buttonText": "Подробнее",
+            "url": "/action/vygodnaya-tsena/",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      }
+    ],
+    "status": {
+      "id": "IN_STOCK",
+      "name": "В наличии",
+      "type": "POSITIVE",
+      "__typename": "ProductStatus"
+    },
+    "brand": {
+      "code": "indesit",
+      "id": "40224",
+      "name": "Indesit",
+      "src": "https://cdn1.technopark.ru/technopark/photos_resized/section_brand_300_100/300_100/40224/1_40224.png",
+      "slug": "indesit",
+      "sections": [
+        {
+          "name": "Стиральные машины Indesit",
+          "url": "/stiralnye-mashiny/indesit/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2425064799/technopark/photos_resized/product/120_120/113910/1_113910.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Варочные поверхности Indesit",
+          "url": "/vstraivaemye-varochnye-poverhnosti/indesit/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2649901911/technopark/photos_resized/product/120_120/804699/1_804699.jpg?timestamp=2025-10-02_09-27-40",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2051696208/technopark/photos_resized/product/120_120/804699/2_804699.jpg?timestamp=2025-10-02_09-27-41",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/83565293/technopark/photos_resized/product/120_120/804699/3_804699.jpg?timestamp=2025-10-02_09-27-40",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/223172294/technopark/photos_resized/product/120_120/804699/4_804699.jpg?timestamp=2025-10-02_09-27-41",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/244047422/technopark/photos_resized/product/120_120/804699/5_804699.jpg?timestamp=2025-10-02_09-27-50",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2594148174/technopark/photos_resized/product/120_120/804699/6_804699.jpg?timestamp=2025-10-02_09-27-40",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1882890883/technopark/photos_resized/product/120_120/804699/7_804699.jpg?timestamp=2025-10-02_09-27-52",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Духовые шкафы Indesit",
+          "url": "/vstraivaemye-duhovye-shkafy/indesit/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3226851378/technopark/photos_resized/product/120_120/800893/1_800893.jpg?timestamp=2025-08-25_17-07-46",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2337847865/technopark/photos_resized/product/120_120/800893/2_800893.jpg?timestamp=2025-08-25_17-07-56",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/545272108/technopark/photos_resized/product/120_120/800893/3_800893.jpg?timestamp=2025-08-25_17-07-44",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3112788118/technopark/photos_resized/product/120_120/800893/4_800893.jpg?timestamp=2025-08-25_17-07-44",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3202655375/technopark/photos_resized/product/120_120/800893/5_800893.jpg?timestamp=2025-08-25_17-07-45",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3616891201/technopark/photos_resized/product/120_120/800893/6_800893.jpg?timestamp=2025-08-25_17-07-46",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3794370551/technopark/photos_resized/product/120_120/800893/7_800893.jpg?timestamp=2025-08-25_17-07-58",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/203890395/technopark/photos_resized/product/120_120/800893/8_800893.jpg?timestamp=2025-08-25_17-07-57",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/841592457/technopark/photos_resized/product/120_120/800893/9_800893.jpg?timestamp=2025-08-25_17-08-00",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3679062972/technopark/photos_resized/product/120_120/800893/10_800893.jpg?timestamp=2025-08-25_17-08-01",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3420944086/technopark/photos_resized/product/120_120/800893/11_800893.jpg?timestamp=2025-08-25_17-08-09",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Холодильники встраиваемые Indesit",
+          "url": "/vstraivaemye-holodilniki/indesit/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/4157537234/technopark/photos_resized/product/120_120/817740/1_817740.jpg?timestamp=2026-01-20_16-09-54",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1772777073/technopark/photos_resized/product/120_120/817740/2_817740.jpg?timestamp=2026-01-20_16-09-54",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1378500824/technopark/photos_resized/product/120_120/817740/3_817740.jpg?timestamp=2026-01-20_16-09-56",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/432052990/technopark/photos_resized/product/120_120/817740/4_817740.jpg?timestamp=2026-01-20_16-09-53",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4037230539/technopark/photos_resized/product/120_120/817740/5_817740.jpg?timestamp=2026-01-20_16-09-54",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2275675997/technopark/photos_resized/product/120_120/817740/6_817740.jpg?timestamp=2026-01-20_16-09-54",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Посудомоечные машины встраиваемые Indesit",
+          "url": "/vstraivaemye-posudomoechnye-mashiny/indesit/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2487861741/technopark/photos_resized/product/120_120/800926/1_800926.jpg?timestamp=2025-08-26_08-39-16",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4091776017/technopark/photos_resized/product/120_120/800926/2_800926.jpg?timestamp=2025-08-26_08-39-17",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4263064822/technopark/photos_resized/product/120_120/800926/3_800926.jpg?timestamp=2025-08-26_08-39-32",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3813601659/technopark/photos_resized/product/120_120/800926/4_800926.jpg?timestamp=2025-08-26_08-39-17",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4102965256/technopark/photos_resized/product/120_120/800926/5_800926.jpg?timestamp=2025-08-26_08-39-17",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/60495973/technopark/photos_resized/product/120_120/800926/6_800926.jpg?timestamp=2025-08-26_08-39-15",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1620711800/technopark/photos_resized/product/120_120/800926/7_800926.jpg?timestamp=2025-08-26_08-39-28",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2129456160/technopark/photos_resized/product/120_120/800926/8_800926.jpg?timestamp=2025-08-26_08-39-29",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/429988337/technopark/photos_resized/product/120_120/800926/9_800926.jpg?timestamp=2025-08-26_08-39-32",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1729127756/technopark/photos_resized/product/120_120/800926/10_800926.jpg?timestamp=2025-08-26_08-39-31",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/299658777/technopark/photos_resized/product/120_120/800926/11_800926.jpg?timestamp=2025-08-26_08-39-43",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4073656319/technopark/photos_resized/product/120_120/800926/12_800926.jpg?timestamp=2025-08-26_08-39-52",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3956555454/technopark/photos_resized/product/120_120/800926/13_800926.jpg?timestamp=2025-08-26_08-39-55",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1400961044/technopark/photos_resized/product/120_120/800926/14_800926.jpg?timestamp=2025-08-26_08-39-40",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/147283800/technopark/photos_resized/product/120_120/800926/15_800926.jpg?timestamp=2025-08-26_08-39-41",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1639357078/technopark/photos_resized/product/120_120/800926/16_800926.jpg?timestamp=2025-08-26_08-39-44",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/98197394/technopark/photos_resized/product/120_120/800926/17_800926.jpg?timestamp=2025-08-26_08-39-55",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2249111441/technopark/photos_resized/product/120_120/800926/19_800926.jpg?timestamp=2025-08-26_08-39-44",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Сушильные машины Indesit",
+          "url": "/sushilnye-mashiny/indesit/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/4146690805/technopark/photos_resized/product/120_120/778701/1_778701.jpg?timestamp=2025-02-03_10-05-13",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3393496804/technopark/photos_resized/product/120_120/778701/2_778701.jpg?timestamp=2025-02-03_10-05-25",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2269351546/technopark/photos_resized/product/120_120/778701/3_778701.jpg?timestamp=2025-02-03_10-05-13",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3996273588/technopark/photos_resized/product/120_120/778701/4_778701.jpg?timestamp=2025-02-03_10-05-11",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/387656646/technopark/photos_resized/product/120_120/778701/5_778701.jpg?timestamp=2025-02-03_10-05-24",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2000361998/technopark/photos_resized/product/120_120/778701/6_778701.jpg?timestamp=2025-02-03_10-05-12",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4031037164/technopark/photos_resized/product/120_120/778701/7_778701.jpg?timestamp=2025-02-03_10-05-12",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Морозильные камеры Indesit",
+          "url": "/morozilnye-kamery/indesit/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2475311348/technopark/photos_resized/product/120_120/769974/1_769974.jpg?timestamp=2025-07-08_11-09-50",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3823154299/technopark/photos_resized/product/120_120/769974/2_769974.jpg?timestamp=2025-07-08_11-09-50",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2498200813/technopark/photos_resized/product/120_120/769974/3_769974.jpg?timestamp=2025-07-08_11-09-51",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/15979933/technopark/photos_resized/product/120_120/769974/4_769974.jpg?timestamp=2025-07-08_11-10-05",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4009604273/technopark/photos_resized/product/120_120/769974/5_769974.jpg?timestamp=2025-07-08_11-10-06",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2062149057/technopark/photos_resized/product/120_120/769974/6_769974.jpg?timestamp=2025-07-08_11-09-50",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1614044280/technopark/photos_resized/product/120_120/769974/7_769974.jpg?timestamp=2025-07-08_11-10-04",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/233755991/technopark/photos_resized/product/120_120/769974/8_769974.jpg?timestamp=2025-07-08_11-09-50",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2012538123/technopark/photos_resized/product/120_120/769974/9_769974.jpg?timestamp=2025-07-08_11-10-05",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        }
+      ],
+      "__typename": "Brand"
+    },
+    "section": {
+      "slug": "holodilniki",
+      "id": "911",
+      "name": "Холодильники",
+      "parents": [
+        {
+          "id": "877",
+          "name": "Крупная бытовая",
+          "depth": 1,
+          "__typename": "SectionTreeItem"
+        },
+        {
+          "id": "911",
+          "name": "Холодильники",
+          "depth": 2,
+          "__typename": "SectionTreeItem"
+        }
+      ],
+      "__typename": "Section"
+    },
+    "media": {
+      "gallery": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/269161/1_269161.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/269161/2_269161.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/269161/3_269161.jpg?timestamp=2025-04-16_15-24-10",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/269161/4_269161.jpg?timestamp=2025-04-16_15-24-10",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "interior": [],
+      "video": [],
+      "vkVideo": null,
+      "view3d": [],
+      "listing": {
+        "default": [
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/269161/1_269161.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/269161/2_269161.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/269161/3_269161.jpg?timestamp=2025-04-16_15-24-15",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/269161/4_269161.jpg?timestamp=2025-04-16_15-24-17",
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "ProductListing"
+      },
+      "__typename": "ProductV2Media"
+    },
+    "modifications": {
+      "bigBrother": null,
+      "groups": [
+        {
+          "name": "Цвет",
+          "items": [
+            {
+              "value": "бежевый",
+              "product": {
+                "slug": "holodilnik-indesit-itr-4180-e",
+                "article": "119843",
+                "name": {
+                  "default": "Indesit ITR 4180 E",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "IN_STOCK",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/269161/1_269161.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/269161/2_269161.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/269161/3_269161.jpg?timestamp=2025-04-16_15-24-15",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/269161/4_269161.jpg?timestamp=2025-04-16_15-24-17",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            },
+            {
+              "value": "белый",
+              "product": {
+                "slug": "holodilnik-indesit-itr-4180-w",
+                "article": "117734",
+                "name": {
+                  "default": "Indesit ITR 4180 W",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "NOT_AVAILABLE",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/256387/1_256387.jpg?timestamp=2025-04-16_15-04-19",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/256387/2_256387.jpg?timestamp=2025-04-16_15-04-19",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/256387/3_256387.jpg?timestamp=2025-04-16_15-04-19",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/256387/4_256387.jpg?timestamp=2025-04-16_15-04-19",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            },
+            {
+              "value": "серебристый",
+              "product": {
+                "slug": "holodilnik-indesit-itr-4180-s",
+                "article": "118721",
+                "name": {
+                  "default": "Indesit ITR 4180 S",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "NOT_AVAILABLE",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/260513/1_260513.jpg?timestamp=2025-04-16_15-30-45",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/260513/2_260513.jpg?timestamp=2025-04-16_15-30-45",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            }
+          ],
+          "__typename": "ProductV2ModificationGroup"
+        }
+      ],
+      "__typename": "ProductModifications"
+    },
+    "description": {
+      "hasDescription": true,
+      "type": "RICH",
+      "__typename": "ProductDescription"
+    },
+    "collection": {
+      "id": "269161",
+      "products": {
+        "pagination": {
+          "total": 0,
+          "__typename": "Pagination"
+        },
+        "__typename": "ProductV2Pagination"
+      },
+      "__typename": "ProductCollection"
+    },
+    "similar": {
+      "pagination": {
+        "total": 20,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "related": {
+      "pagination": {
+        "total": 19,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "accessories": [
+      {
+        "products": {
+          "pagination": {
+            "total": 7,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 1,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 1,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 5,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 19,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 3,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 2,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 2,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      }
+    ],
+    "rating": {
+      "average": 5,
+      "canRate": false,
+      "total": {
+        "all": 8,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 8,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "reviews": {
+      "total": 8,
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "totalRecommendations": 2,
+      "__typename": "ProductReviews"
+    },
+    "bestCredit": {
+      "monthPayment": 1875,
+      "type": "DEFERRED_PAYMENT",
+      "__typename": "ProductBestCredit"
+    },
+    "isSpare": false,
+    "isService": false,
+    "isVipService": false,
+    "isGiftBonusCard": false,
+    "canBuy": true,
+    "canPayOnline": true,
+    "canRequestPrice": false,
+    "canShowPrice": true,
+    "canSubscribe": false,
+    "needPrepaymentForDelivery": false,
+    "needPrepaymentForPreorder": false,
+    "isSberSpasiboPayAvailable": true,
+    "isYandexPayAllowed": false,
+    "yandexSplit": {
+      "payments": [
+        {
+          "amount": 0,
+          "date": "2026-08-17T08:59:03+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 3751,
+          "date": "2026-08-31T08:59:03+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 3749,
+          "date": "2026-09-14T08:59:03+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 3749,
+          "date": "2026-09-28T08:59:03+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 3749,
+          "date": "2026-10-12T08:59:03+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 3749,
+          "date": "2026-10-26T08:59:03+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 3749,
+          "date": "2026-11-09T08:59:03+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 3749,
+          "date": "2026-11-23T08:59:03+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 3749,
+          "date": "2026-12-07T08:59:03+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 3749,
+          "date": "2026-12-21T08:59:03+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 3749,
+          "date": "2027-01-04T08:59:03+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 3749,
+          "date": "2027-01-18T08:59:03+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 3749,
+          "date": "2027-02-01T08:59:03+0300",
+          "__typename": "YandexSplitPayment"
+        }
+      ],
+      "firstPayment": 0,
+      "restPayment": 44990,
+      "description": "https://yandex.ru/support/split/",
+      "maxAmount": 295000,
+      "__typename": "YandexSplit"
+    },
+    "seo": {
+      "description": "Холодильник Indesit ITR 4180 E: купить в интернет-магазине Технопарк с расширенной гарантией и бесплатной доставкой по РФ. Подробные характеристики товара с отзывами реальных покупателей.",
+      "text": "Вы можете купить холодильник Indesit ITR 4180 E с доставкой по Москве по низкой цене. В интернет-магазине Technopark.ru осуществляется продажа холодильника Indesit ITR 4180 E на выгодных условиях.",
+      "textHidden": "",
+      "title": "Холодильник Indesit ITR 4180 E - купить в Москве в интернет-магазине Технопарк",
+      "__typename": "SeoData"
+    },
+    "breadcrumbs": [
+      {
+        "name": "Главная",
+        "url": "/",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Крупная бытовая техника",
+        "url": "/krupnaya-bytovaya-tehnika/",
+        "options": [
+          {
+            "name": "Центр инноваций",
+            "url": "/tovary-iz-budushchego/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Смартфоны и гаджеты",
+            "url": "/smartfony-i-gadzhety/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Компьютеры и ноутбуки",
+            "url": "/kompyutery-i-noutbuki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Климатическая техника",
+            "url": "/klimaticheskaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Техника для кухни",
+            "url": "/dlya-kuhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Бытовая техника для дома",
+            "url": "/dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для красоты и здоровья",
+            "url": "/krasota-i-zdorovye/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Спортивные товары",
+            "url": "/trenazhery-dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Телевизоры Аудио Hi-Fi",
+            "url": "/audio-video-foto/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для сада, дома и ремонта",
+            "url": "/dlya-sada-doma-i-remonta/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посуда",
+            "url": "/posuda/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Детские товары",
+            "url": "/detskie-tovary/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для гейминга",
+            "url": "/gaming/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Плоттеры и услуги розницы",
+            "url": "//",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Запасные части",
+            "url": "/zapasnie-chasti/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Холодильники",
+        "url": "/holodilniki/",
+        "options": [
+          {
+            "name": "Стиральные машины",
+            "url": "/stiralnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые варочные панели",
+            "url": "/vstraivaemye-varochnye-poverhnosti/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные плиты",
+            "url": "/plity/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые духовые шкафы",
+            "url": "/vstraivaemye-duhovye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вытяжки для кухни",
+            "url": "/vytyazhki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посудомоечные машины",
+            "url": "/posudomoechnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые холодильники",
+            "url": "/vstraivaemye-holodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые винные шкафы",
+            "url": "/vstraivaemye-vinnye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые вытяжки для кухни",
+            "url": "/vstraivaemye-vytyazhki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые кофемашины",
+            "url": "/vstraivaemye-kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые морозильные камеры",
+            "url": "/vstraivaemye-morozilnye-kamery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые пароварки",
+            "url": "/vstraivaemye-parovarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые посудомоечные машины",
+            "url": "/vstraivaemye-posudomoechnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые стиральные машины",
+            "url": "/vstraivaemye-stiralnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Сушильные машины для белья",
+            "url": "/sushilnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые микроволновые печи",
+            "url": "/vstraivaemye-mikrovolnovye-pechi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Морозильные камеры",
+            "url": "/morozilnye-kamery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Винные шкафы",
+            "url": "/vinnye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые шкафы для подогрева",
+            "url": "/shkafy-dlya-podogreva-posudy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Стиральные машины с функцией сушки (2 в 1)",
+            "url": "/stiralno-sushilnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые вакууматоры",
+            "url": "/vakuumatory/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Измельчители пищевых отходов",
+            "url": "/vstraivaemye-izmelchiteli-pischevyh-othodov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Автохолодильники",
+            "url": "/avtoholodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для крупной бытовой техники",
+            "url": "/aksessuary-krupnaya-bytovaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для холодильников",
+            "url": "/aksessuary-krupnaya-bytovaya-tehnika/filt_naznachenie-k_holodilnikam/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для автохолодильников",
+            "url": "/aksessuary-dlya-avtokholodilnikov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Хьюмидоры",
+            "url": "/khyumidory/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Холодильники Indesit",
+        "url": "/holodilniki/indesit/",
+        "options": [
+          {
+            "name": "Liebherr",
+            "url": "/holodilniki/liebherr/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "LG",
+            "url": "/holodilniki/lg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Haier",
+            "url": "/holodilniki/haier/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Maunfeld",
+            "url": "/holodilniki/maunfeld/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Korting",
+            "url": "/holodilniki/korting/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Kuppersberg",
+            "url": "/holodilniki/kuppersberg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Smeg",
+            "url": "/holodilniki/smeg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Beko",
+            "url": "/holodilniki/beko/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Midea",
+            "url": "/holodilniki/midea/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Asko",
+            "url": "/holodilniki/asko/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Gorenje",
+            "url": "/holodilniki/gorenje/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Hisense",
+            "url": "/holodilniki/hisense/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Bosch",
+            "url": "/holodilniki/bosch/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Samsung",
+            "url": "/holodilniki/samsung/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Toshiba",
+            "url": "/holodilniki/toshiba/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Hitachi",
+            "url": "/holodilniki/hitachi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "VARD",
+            "url": "/holodilniki/vard/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Hotpoint",
+            "url": "/holodilniki/hotpoint/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Kuppersbusch",
+            "url": "/holodilniki/kuppersbusch/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Candy",
+            "url": "/holodilniki/candy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Meyvel",
+            "url": "/holodilniki/meyvel/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "TCL",
+            "url": "/holodilniki/tcl/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Casarte",
+            "url": "/holodilniki/casarte/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Electrolux",
+            "url": "/holodilniki/electrolux/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Graude",
+            "url": "/holodilniki/graude/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Siemens",
+            "url": "/holodilniki/siemens/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Libhof",
+            "url": "/holodilniki/libhof/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "AEG",
+            "url": "/holodilniki/aeg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Bertazzoni",
+            "url": "/holodilniki/bertazzoni/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Indesit ITR 4180 E",
+        "url": "holodilnik-indesit-itr-4180-e",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      }
+    ],
+    "isArchive": false,
+    "__typename": "ProductV2",
+    "isSberPayOneClickAllowed": false,
+    "isTinkoffPayOneClickAllowed": false,
+    "bonus": null
+  },
+  "details": {
+    "description": "<div id=\"stream24-inpage\"></div> <script> (function (w, d, s, o) {   var f = d.getElementsByTagName(s)[0];   var j = d.createElement(s);   w.TTLStreamReady = new Promise((resolve) => {     j.async = true;     j.src = 'https://content.24ttl.stream/widget.js';     f.parentNode.insertBefore(j, f);     j.onload = function () {       w.ttlStream = new TTLStream(o);       resolve(w.ttlStream);     };   }); })(window, document, 'script', {}); </script> <script> var styleElement = document.createElement('style');  styleElement.innerHTML = \"body #stream24-inpage #stream-container *{ font-family: 'DINPro Technopark' !important; }\"; document.getElementsByTagName(\"head\")[0].appendChild(styleElement);  TTLStreamReady.then(() => {   ttlStream.findAndInsert({     el: '#stream24-inpage',     brand: 'indesit',     productId: '8050147625668',     retailerDomain: 'www.technopark.ru',     templateType: 'master_template',     resultType: 'html',     contentType: 'minisite'   }); }); </script>",
+    "descriptionType": "RICH_STREAM_24",
+    "descriptionBarcode": "8050147625668",
+    "descriptionBrand": "Indesit",
+    "specifications": {
+      "short": [
+        {
+          "name": "Объем холодильной камеры",
+          "value": "220 л",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Объем морозильной камеры",
+          "value": "78 л",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Размораживание морозильной камеры",
+          "value": "No Frost",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Высота",
+          "value": "185 см",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Ширина",
+          "value": "60 см",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "barcode": "8050147625668",
+      "country": "Россия",
+      "full": [
+        {
+          "name": "Основные характеристики",
+          "list": [
+            {
+              "name": "Тип",
+              "value": "холодильник с морозильной камерой",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип установки",
+              "value": "отдельностоящий",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество компрессоров",
+              "value": "1",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество камер",
+              "value": "2",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Общий полезный объем",
+              "value": "298 л",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Холодильная камера",
+          "list": [
+            {
+              "name": "Объем холодильной камеры",
+              "value": "220 л",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество отделений в холодильной камере",
+              "value": "1",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Размораживание холодильной камеры",
+              "value": "No Frost",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Морозильная камера",
+          "list": [
+            {
+              "name": "Объем морозильной камеры",
+              "value": "78 л",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Расположение морозильной камеры",
+              "value": "снизу",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Размораживание морозильной камеры",
+              "value": "No Frost",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество отделений в морозильной камере",
+              "value": "1",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Мощность замораживания",
+              "value": "4 кг/сутки",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Хранение продуктов при отключении питания",
+              "value": "14 ч",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Регулировка температуры в морозильной камере",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Управление",
+          "list": [
+            {
+              "name": "Тип управления",
+              "value": "механическое",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Способ управления",
+              "value": "поворотный",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Расположение панели управления",
+              "value": "на корпусе",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Электропитание",
+          "list": [
+            {
+              "name": "Напряжение",
+              "value": "220-240 B",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Класс энергопотребления",
+              "value": "A",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Энергопотребление",
+              "value": "365 кВтч/год",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Климатический класс",
+              "value": "N-ST",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Уровень шума",
+              "value": "43 дБ",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Освещение",
+          "list": [
+            {
+              "name": "Освещение холодильной камеры",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип освещения",
+              "value": "светодиодное (LED)",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество ламп освещения",
+              "value": "1",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Мощность одной лампы",
+              "value": "1 Вт",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Особенности конструкции",
+          "list": [
+            {
+              "name": "Количество дверей",
+              "value": "2",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Открытие дверцы",
+              "value": "направо",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Контейнеры и полки",
+          "list": [
+            {
+              "name": "Количество полок в холодильной камере",
+              "value": "4",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Регулируемые по высоте полки в холодильной камере",
+              "value": "1",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество полок на дверце холодильной камеры",
+              "value": "3",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество контейнеров в холодильной камере",
+              "value": "1",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество контейнеров в морозильной камере",
+              "value": "3",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Цвет и материал",
+          "list": [
+            {
+              "name": "Цвет",
+              "value": "бежевый",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет полок",
+              "value": "белый, прозрачный",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет ящиков",
+              "value": "прозрачный",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал полок",
+              "value": "стекло",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал ящиков",
+              "value": "пластик",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Размеры и вес",
+          "list": [
+            {
+              "name": "Высота",
+              "value": "185 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ширина",
+              "value": "60 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Глубина",
+              "value": "64 см",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        }
+      ],
+      "grossWeight": "68",
+      "netWeight": "66.5",
+      "height": "1.9",
+      "instructionUrl": "https://storage.yandexcloud.net/technopark.instructions/269161/instruction/instrukciya-holodilnik-indesit-itr-4180-e.pdf",
+      "length": "0.65",
+      "schemeUrl": null,
+      "warranty": "12",
+      "width": "0.7",
+      "__typename": "ProductV2Specifications"
+    },
+    "certificates": ["https://www.technopark.ru/bipublic/Cert/IG0G15EC7DDHH4.pdf"],
+    "isManufacturerCountry": false,
+    "isSellerWarranty": false,
+    "reviews": {
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "total": 8,
+      "totalRecommendations": 2,
+      "__typename": "ProductReviews"
+    },
+    "rating": {
+      "average": 5,
+      "canRate": false,
+      "total": {
+        "all": 8,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 8,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "isLoading": false
+  },
+  "shots": [
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/269161/1_269161.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/269161/1_269161.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/269161/2_269161.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/269161/2_269161.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/269161/3_269161.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/269161/3_269161.jpg?timestamp=2025-04-16_15-24-10"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/269161/4_269161.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/269161/4_269161.jpg?timestamp=2025-04-16_15-24-10"
+    ]
+  ],
+  "photos": [
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/holodilnik-indesit-itr-4180-e-1.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/holodilnik-indesit-itr-4180-e-2.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/holodilnik-indesit-itr-4180-e-3.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/holodilnik-indesit-itr-4180-e-4.jpg"
+  ]
+}

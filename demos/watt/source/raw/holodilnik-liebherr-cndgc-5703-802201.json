@@ -1,0 +1,1710 @@
+{
+  "shelf": "holodilniki",
+  "slug": "holodilnik-liebherr-cndgc-5703-802201",
+  "product": {
+    "id": "802201",
+    "article": "186322",
+    "slug": "holodilnik-liebherr-cndgc-5703-802201",
+    "hasSmartInstallments": false,
+    "isActive": true,
+    "name": {
+      "default": "Liebherr CNdgc 5703",
+      "full": "Холодильник Liebherr CNdgc 5703",
+      "pseudo": null,
+      "spare": null,
+      "fullWithoutSection": "Liebherr CNdgc 5703",
+      "section": "Холодильник",
+      "__typename": "ProductName"
+    },
+    "price": {
+      "default": 76990,
+      "marketing": null,
+      "old": null,
+      "__typename": "ProductPrice"
+    },
+    "benefit": null,
+    "specifications": {
+      "short": [
+        {
+          "name": "Объем холодильной камеры",
+          "value": "266 л",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Объем морозильной камеры",
+          "value": "94 л",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Размораживание морозильной камеры",
+          "value": "No Frost",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Высота",
+          "value": "201.5 см",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Ширина",
+          "value": "59.7 см",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "__typename": "ProductV2Specifications"
+    },
+    "labels": [
+      {
+        "name": "Бонусы Спасибо",
+        "type": "sberspasibo",
+        "items": [
+          {
+            "description": "",
+            "name": "Этот товар можно оплатить бонусами Спасибо от СберБанка",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Акция",
+        "type": "special_offer",
+        "items": [
+          {
+            "description": "",
+            "name": "Расширенная гарантия на Liebherr",
+            "url": "/action/rasshirennaya-garantiya-na-liebherr/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "5 000 бонусов за покупки",
+            "url": "/action/5-000-bonusov-za-pokupki/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Рассрочка",
+        "type": "deferred_payment",
+        "items": [
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-6",
+            "url": "/holodilnik-liebherr-cndgc-5703-802201/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-12",
+            "url": "/holodilnik-liebherr-cndgc-5703-802201/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-24",
+            "url": "/holodilnik-liebherr-cndgc-5703-802201/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-6",
+            "url": "/holodilnik-liebherr-cndgc-5703-802201/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-18",
+            "url": "/holodilnik-liebherr-cndgc-5703-802201/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      }
+    ],
+    "labelsV2": [
+      {
+        "id": "14",
+        "name": "-15% на технику",
+        "code": "15-na-tekhniku",
+        "mainColor": "#F54B4B",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#FFFFFF",
+        "altTextColor": "#F54B4B",
+        "borderAndTextColor": "#F54B4B",
+        "items": [
+          {
+            "id": "149671",
+            "text": "Выгода при покупке крупной бытовой техники",
+            "buttonText": "Подробнее",
+            "url": "/action/vygoda-pri-pokupke-krupnoy-bytovoy-tekhniki/",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      },
+      {
+        "id": "8",
+        "name": "Бонусы Спасибо",
+        "code": "sberspasibo",
+        "mainColor": "#0C9C0C",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#0C9C0C",
+        "altTextColor": "#FFFFFF",
+        "borderAndTextColor": "#0C9C0C",
+        "items": [
+          {
+            "id": "25110",
+            "text": "Этот товар можно оплатить бонусами Спасибо от СберБанка ",
+            "buttonText": "Подробнее",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      },
+      {
+        "id": "9",
+        "name": "Гарантия 5 лет",
+        "code": "garantiya-5-let",
+        "mainColor": "#0093c4",
+        "mainTextColor": "#ffffff",
+        "altColor": "#0093c4",
+        "altTextColor": "#ffffff",
+        "borderAndTextColor": "#0093c4",
+        "items": [
+          {
+            "id": "140359",
+            "text": "Расширенная гарантия на Liebherr",
+            "buttonText": "Подробнее",
+            "url": "/action/rasshirennaya-garantiya-na-liebherr/",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      }
+    ],
+    "status": {
+      "id": "IN_STOCK",
+      "name": "В наличии",
+      "type": "POSITIVE",
+      "__typename": "ProductStatus"
+    },
+    "brand": {
+      "code": "liebherr",
+      "id": "40168",
+      "name": "Liebherr",
+      "src": "https://cdn1.technopark.ru/technopark/photos_resized/section_brand_300_100/300_100/40168/1_40168.png",
+      "slug": "liebherr",
+      "sections": [
+        {
+          "name": "Холодильники встраиваемые Liebherr",
+          "url": "/vstraivaemye-holodilniki/liebherr/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3271327455/technopark/photos_resized/product/120_120/284847/1_284847.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3053145673/technopark/photos_resized/product/120_120/284847/2_284847.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Винные шкафы встраиваемые Liebherr",
+          "url": "/vstraivaemye-vinnye-shkafy/liebherr/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/895165982/technopark/photos_resized/product/120_120/290387/1_290387.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Морозильные камеры встраиваемые Liebherr",
+          "url": "/vstraivaemye-morozilnye-kamery/liebherr/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/349567410/technopark/photos_resized/product/120_120/749260/1_749260.jpg?timestamp=2024-07-18_12-48-08",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1784972559/technopark/photos_resized/product/120_120/749260/2_749260.jpg?timestamp=2024-07-18_12-48-07",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Морозильные камеры Liebherr",
+          "url": "/morozilnye-kamery/liebherr/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/4149976320/technopark/photos_resized/product/120_120/555556/1_555556.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/244663647/technopark/photos_resized/product/120_120/555556/2_555556.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1850920122/technopark/photos_resized/product/120_120/555556/3_555556.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2488966173/technopark/photos_resized/product/120_120/555556/4_555556.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2153557398/technopark/photos_resized/product/120_120/555556/5_555556.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/425065516/technopark/photos_resized/product/120_120/555556/6_555556.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/82149772/technopark/photos_resized/product/120_120/555556/7_555556.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2100902184/technopark/photos_resized/product/120_120/555556/8_555556.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3828377746/technopark/photos_resized/product/120_120/555556/9_555556.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Винные шкафы Liebherr",
+          "url": "/vinnye-shkafy/liebherr/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/612914443/technopark/photos_resized/product/120_120/681951/1_681951.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1424138628/technopark/photos_resized/product/120_120/681951/2_681951.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/60675096/technopark/photos_resized/product/120_120/681951/3_681951.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3251839726/technopark/photos_resized/product/120_120/681951/4_681951.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1956308110/technopark/photos_resized/product/120_120/681951/5_681951.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2229432570/technopark/photos_resized/product/120_120/681951/6_681951.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        }
+      ],
+      "__typename": "Brand"
+    },
+    "section": {
+      "slug": "holodilniki",
+      "id": "911",
+      "name": "Холодильники",
+      "parents": [
+        {
+          "id": "877",
+          "name": "Крупная бытовая",
+          "depth": 1,
+          "__typename": "SectionTreeItem"
+        },
+        {
+          "id": "911",
+          "name": "Холодильники",
+          "depth": 2,
+          "__typename": "SectionTreeItem"
+        }
+      ],
+      "__typename": "Section"
+    },
+    "media": {
+      "gallery": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/802201/1_802201.jpg?timestamp=2025-09-08_16-00-05",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/802201/2_802201.jpg?timestamp=2025-09-08_16-00-05",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/802201/3_802201.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/802201/4_802201.jpg?timestamp=2025-09-08_16-00-05",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/802201/5_802201.jpg?timestamp=2025-09-08_16-00-05",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/802201/6_802201.jpg?timestamp=2025-09-08_16-00-19",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/802201/7_802201.jpg?timestamp=2025-09-08_16-00-19",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/802201/8_802201.jpg?timestamp=2025-09-08_16-00-19",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/802201/9_802201.jpg?timestamp=2025-09-08_16-00-18",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "interior": [],
+      "video": [],
+      "vkVideo": null,
+      "view3d": [],
+      "listing": {
+        "default": [
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/802201/1_802201.jpg?timestamp=2025-09-08_16-00-09",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/802201/2_802201.jpg?timestamp=2025-09-08_16-00-10",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/802201/3_802201.jpg?timestamp=2025-09-08_16-00-10",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/802201/4_802201.jpg?timestamp=2025-09-08_16-00-10",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/802201/5_802201.jpg?timestamp=2025-09-08_16-00-09",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/802201/6_802201.jpg?timestamp=2025-09-08_16-00-24",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/802201/7_802201.jpg?timestamp=2025-09-08_16-00-23",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/802201/8_802201.jpg?timestamp=2025-09-08_16-00-24",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/802201/9_802201.jpg?timestamp=2025-09-08_16-00-22",
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "ProductListing"
+      },
+      "__typename": "ProductV2Media"
+    },
+    "modifications": {
+      "bigBrother": null,
+      "groups": [],
+      "__typename": "ProductModifications"
+    },
+    "description": {
+      "hasDescription": true,
+      "type": "DEFAULT",
+      "__typename": "ProductDescription"
+    },
+    "collection": {
+      "id": "802201",
+      "products": {
+        "pagination": {
+          "total": 0,
+          "__typename": "Pagination"
+        },
+        "__typename": "ProductV2Pagination"
+      },
+      "__typename": "ProductCollection"
+    },
+    "similar": {
+      "pagination": {
+        "total": 18,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "related": {
+      "pagination": {
+        "total": 19,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "accessories": [
+      {
+        "products": {
+          "pagination": {
+            "total": 7,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 1,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 1,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 5,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 19,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 3,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 2,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 2,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      }
+    ],
+    "rating": {
+      "average": 4.5,
+      "canRate": false,
+      "total": {
+        "all": 2,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 1,
+        "value5": 1,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "reviews": {
+      "total": 2,
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "bestCredit": {
+      "monthPayment": 3208,
+      "type": "DEFERRED_PAYMENT",
+      "__typename": "ProductBestCredit"
+    },
+    "isSpare": false,
+    "isService": false,
+    "isVipService": false,
+    "isGiftBonusCard": false,
+    "canBuy": true,
+    "canPayOnline": true,
+    "canRequestPrice": false,
+    "canShowPrice": true,
+    "canSubscribe": false,
+    "needPrepaymentForDelivery": false,
+    "needPrepaymentForPreorder": false,
+    "isSberSpasiboPayAvailable": true,
+    "isYandexPayAllowed": false,
+    "yandexSplit": {
+      "payments": [
+        {
+          "amount": 0,
+          "date": "2026-08-17T08:58:47+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 6425,
+          "date": "2026-08-31T08:58:47+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 6415,
+          "date": "2026-09-14T08:58:47+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 6415,
+          "date": "2026-09-28T08:58:47+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 6415,
+          "date": "2026-10-12T08:58:47+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 6415,
+          "date": "2026-10-26T08:58:47+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 6415,
+          "date": "2026-11-09T08:58:47+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 6415,
+          "date": "2026-11-23T08:58:47+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 6415,
+          "date": "2026-12-07T08:58:47+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 6415,
+          "date": "2026-12-21T08:58:47+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 6415,
+          "date": "2027-01-04T08:58:47+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 6415,
+          "date": "2027-01-18T08:58:47+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 6415,
+          "date": "2027-02-01T08:58:47+0300",
+          "__typename": "YandexSplitPayment"
+        }
+      ],
+      "firstPayment": 0,
+      "restPayment": 76990,
+      "description": "https://yandex.ru/support/split/",
+      "maxAmount": 295000,
+      "__typename": "YandexSplit"
+    },
+    "seo": {
+      "description": "Холодильник Liebherr CNdgc 5703: купить в интернет-магазине Технопарк с расширенной гарантией и бесплатной доставкой по РФ. Подробные характеристики товара с отзывами реальных покупателей.",
+      "text": "Вы можете купить холодильник Liebherr CNdgc 5703 с доставкой по Москве по низкой цене. В интернет-магазине Technopark.ru осуществляется продажа холодильника Liebherr CNdgc 5703 на выгодных условиях.",
+      "textHidden": "",
+      "title": "Холодильник Liebherr CNdgc 5703 - купить в Москве в интернет-магазине Технопарк",
+      "__typename": "SeoData"
+    },
+    "breadcrumbs": [
+      {
+        "name": "Главная",
+        "url": "/",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Крупная бытовая техника",
+        "url": "/krupnaya-bytovaya-tehnika/",
+        "options": [
+          {
+            "name": "Центр инноваций",
+            "url": "/tovary-iz-budushchego/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Смартфоны и гаджеты",
+            "url": "/smartfony-i-gadzhety/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Компьютеры и ноутбуки",
+            "url": "/kompyutery-i-noutbuki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Климатическая техника",
+            "url": "/klimaticheskaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Техника для кухни",
+            "url": "/dlya-kuhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Бытовая техника для дома",
+            "url": "/dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для красоты и здоровья",
+            "url": "/krasota-i-zdorovye/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Спортивные товары",
+            "url": "/trenazhery-dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Телевизоры Аудио Hi-Fi",
+            "url": "/audio-video-foto/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для сада, дома и ремонта",
+            "url": "/dlya-sada-doma-i-remonta/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посуда",
+            "url": "/posuda/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Детские товары",
+            "url": "/detskie-tovary/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для гейминга",
+            "url": "/gaming/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Плоттеры и услуги розницы",
+            "url": "//",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Запасные части",
+            "url": "/zapasnie-chasti/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Холодильники",
+        "url": "/holodilniki/",
+        "options": [
+          {
+            "name": "Стиральные машины",
+            "url": "/stiralnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые варочные панели",
+            "url": "/vstraivaemye-varochnye-poverhnosti/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные плиты",
+            "url": "/plity/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые духовые шкафы",
+            "url": "/vstraivaemye-duhovye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вытяжки для кухни",
+            "url": "/vytyazhki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посудомоечные машины",
+            "url": "/posudomoechnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые холодильники",
+            "url": "/vstraivaemye-holodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые винные шкафы",
+            "url": "/vstraivaemye-vinnye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые вытяжки для кухни",
+            "url": "/vstraivaemye-vytyazhki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые кофемашины",
+            "url": "/vstraivaemye-kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые морозильные камеры",
+            "url": "/vstraivaemye-morozilnye-kamery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые пароварки",
+            "url": "/vstraivaemye-parovarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые посудомоечные машины",
+            "url": "/vstraivaemye-posudomoechnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые стиральные машины",
+            "url": "/vstraivaemye-stiralnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Сушильные машины для белья",
+            "url": "/sushilnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые микроволновые печи",
+            "url": "/vstraivaemye-mikrovolnovye-pechi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Морозильные камеры",
+            "url": "/morozilnye-kamery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Винные шкафы",
+            "url": "/vinnye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые шкафы для подогрева",
+            "url": "/shkafy-dlya-podogreva-posudy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Стиральные машины с функцией сушки (2 в 1)",
+            "url": "/stiralno-sushilnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые вакууматоры",
+            "url": "/vakuumatory/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Измельчители пищевых отходов",
+            "url": "/vstraivaemye-izmelchiteli-pischevyh-othodov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Автохолодильники",
+            "url": "/avtoholodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для крупной бытовой техники",
+            "url": "/aksessuary-krupnaya-bytovaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для холодильников",
+            "url": "/aksessuary-krupnaya-bytovaya-tehnika/filt_naznachenie-k_holodilnikam/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для автохолодильников",
+            "url": "/aksessuary-dlya-avtokholodilnikov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Хьюмидоры",
+            "url": "/khyumidory/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Холодильники Liebherr",
+        "url": "/holodilniki/liebherr/",
+        "options": [
+          {
+            "name": "LG",
+            "url": "/holodilniki/lg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Haier",
+            "url": "/holodilniki/haier/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Maunfeld",
+            "url": "/holodilniki/maunfeld/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Korting",
+            "url": "/holodilniki/korting/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Indesit",
+            "url": "/holodilniki/indesit/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Kuppersberg",
+            "url": "/holodilniki/kuppersberg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Smeg",
+            "url": "/holodilniki/smeg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Beko",
+            "url": "/holodilniki/beko/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Midea",
+            "url": "/holodilniki/midea/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Asko",
+            "url": "/holodilniki/asko/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Gorenje",
+            "url": "/holodilniki/gorenje/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Hisense",
+            "url": "/holodilniki/hisense/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Bosch",
+            "url": "/holodilniki/bosch/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Samsung",
+            "url": "/holodilniki/samsung/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Toshiba",
+            "url": "/holodilniki/toshiba/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Hitachi",
+            "url": "/holodilniki/hitachi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "VARD",
+            "url": "/holodilniki/vard/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Hotpoint",
+            "url": "/holodilniki/hotpoint/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Kuppersbusch",
+            "url": "/holodilniki/kuppersbusch/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Candy",
+            "url": "/holodilniki/candy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Meyvel",
+            "url": "/holodilniki/meyvel/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "TCL",
+            "url": "/holodilniki/tcl/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Casarte",
+            "url": "/holodilniki/casarte/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Electrolux",
+            "url": "/holodilniki/electrolux/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Graude",
+            "url": "/holodilniki/graude/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Siemens",
+            "url": "/holodilniki/siemens/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Libhof",
+            "url": "/holodilniki/libhof/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "AEG",
+            "url": "/holodilniki/aeg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Bertazzoni",
+            "url": "/holodilniki/bertazzoni/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Liebherr CNdgc 5703",
+        "url": "holodilnik-liebherr-cndgc-5703-802201",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      }
+    ],
+    "isArchive": false,
+    "__typename": "ProductV2",
+    "isSberPayOneClickAllowed": false,
+    "isTinkoffPayOneClickAllowed": false,
+    "bonus": null
+  },
+  "details": {
+    "description": "<style> *{box-sizing:border-box;outline:0}body{font-family:'DINPro Technopark',Arial;font-size:14px;font-weight:400;font-display:swap;margin:0;overflow-x:hidden;position:relative;min-height:95vh;-webkit-tap-highlight-color:transparent}body.lock-scroll{overflow:hidden;position:fixed;right:0;left:0;bottom:0}@media (min-width:1192px){body.lock-scroll{position:relative}}@media screen and (max-device-width:480px){body{-webkit-text-size-adjust:none}}.label-for-seo{width:100%}.label-for-seo__span{display:none}a{color:#0093c4;text-decoration:none}.is-visible{display:block!important}.is-hidden{display:none!important}.is-visually-hidden{opacity:0!important;visibility:hidden!important;pointer-events:none!important}.is-link{color:#0093c4}.no-wrap{white-space:nowrap}.container{margin:auto;width:100%}@media (min-width:960px){.container{width:calc(100% - 48px)}}@media (min-width:1482px){.container{max-width:1397px}}.is-overflow-hidden{overflow:hidden}.is-mobile-not{display:none!important}@media (min-width:960px){.is-mobile-not{display:block!important}}@media (min-width:960px){.is-mobile-only{display:none!important}}@media (max-width:959px){.hide-phone{display:none}}@media (min-width:960px) and (max-width:1481px){.hide-tablet{display:none}}.is-hidden{display:none!important}.nowrap-text{white-space:nowrap}.textcenter{text-align:center}ul.list{margin:0;padding:6px 0 18px}@media (min-width:960px){ul.list{padding:6px 0 24px}}ul.list li{font-family:'DINPro Technopark',Arial;font-size:15px;font-weight:400;font-display:swap;color:#fff;line-height:20px;list-style:none;margin:0;padding-left:9px;position:relative}@media (min-width:960px){ul.list li{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:400;font-display:swap;line-height:21px;padding-left:26px}}ul.list>li:before{background-color:#fff;border-radius:50%;content:\"\";display:block;height:3px;left:0;position:absolute;top:10px;width:3px}@media (min-width:960px){ul.list>li:before{border-radius:0;height:1px;width:13px}}ul.list>li>ul{padding:6px 0 6px 15px}@media (min-width:960px){ul.list>li>ul{padding:3px 0 3px 4px}}ul.list>li>ul>li:before{background-color:rgba(255,255,255,.5)}ul.list>li>ul>li>ul{padding:6px 0 0 15px}@media (min-width:960px){ul.list>li>ul>li>ul{padding:3px 0 0 4px}}ul.list>li>ul>li>ul>li:before{background-color:rgba(255,255,255,.2)}ol.list{margin:0;padding:6px 0 18px;counter-reset:list1}@media (min-width:960px){ol.list{padding:6px 0 24px}}ol.list li{font-family:'DINPro Technopark',Arial;font-size:15px;font-weight:400;font-display:swap;color:#fff;line-height:20px;list-style:none;margin:0;padding-left:9px;position:relative}@media (min-width:960px){ol.list li{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:400;font-display:swap;line-height:21px;padding-left:26px}}ol.list>li{padding-left:24px}ol.list>li:before{counter-increment:list1;content:counter(list1) \". \";left:0;position:absolute}ol.list>li>ol{counter-reset:list2;padding:6px 0}@media (min-width:960px){ol.list>li>ol{padding:3px 0}}ol.list>li>ol>li{padding-left:42px}ol.list>li>ol>li:before{counter-increment:list2;content:counter(list1) \".\" counter(list2) \". \"}ol.list>li>ol>li>ol{counter-reset:list3}ol.list>li>ol>li>ol>li:before{counter-increment:list3;content:counter(list1) \".\" counter(list2) \".\" counter(list3) \". \"}ol.list--compact{padding:0}.list--line-interval li:not(:last-child){margin-bottom:1em}input::-ms-clear{display:none}input::-webkit-clear-button{display:none}@media (max-width:767px){.footer{padding-bottom:66px}}.page-container{margin:auto;padding:0 18px;width:100%}@media (min-width:960px){.page-container{padding:0 24px;width:100%}}@media (min-width:1482px){.page-container{width:1481px}}@media (min-width:960px){.page-container--extra-padding{padding:0 42px}}.default-container{width:100%;max-width:1481px;margin:auto;padding:0 12px}@media (min-width:960px){.default-container{padding:0 24px}}button,input,select,textarea{font-family:inherit;font-size:100%;margin:0}textarea{resize:none;overflow:auto}form{margin:0}button{color:inherit}dd,dl,dt{margin:0;padding:0}input[type=search]{-webkit-appearance:none}input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration,input[type=search]::-webkit-search-results-button,input[type=search]::-webkit-search-results-decoration{display:none}input:invalid{box-shadow:none}textarea:invalid{box-shadow:none}svg *{pointer-events:none}.product__desc{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:300;font-display:swap;color:#878787;display:none}.product__desc b{font-family:'DINPro Technopark',Arial;font-size:20px;font-weight:400;font-display:swap;color:#fff}.dyson-v10-picking,.dyson-v10-properties,.dyson-v10-wrapper,.dyson-v10-wrapper .dyson-v10__list span{color:#fff;padding:0 12px}@media (max-width:1154px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:170px}}@media (max-width:1100px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:270px}}@media (max-width:960px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:27px}}.dyson-v10-first-row li.dyson-v10-item{max-width:calc(100% / 3 - 10);padding-right:5px}@media (max-width:959px){.dyson-v10-first-row{flex-direction:column;align-items:flex-start}.dyson-v10-first-row li.dyson-v10-item{max-width:none}}@media (min-width:960px) and (max-width:1303px){.dyson-v10-first-row{flex-direction:column;align-items:flex-start}.dyson-v10-first-row li.dyson-v10-item{max-width:none}}.dyson-v10-chapter{text-align:center!important}.dyson-v10__list li.dyson-v10__list-item{background-size:contain;background-position:left} </style> <p>Liebherr CNdgc 5703 – это современный двухкамерный холодильник с технологией NoFrost, который избавит вас от разморозки навсегда. Его элегантный дизайн станет акцентом вашей кухни, а продуманная эргономика обеспечит максимальное удобство.</p>      <h2>Особенности</h2>  <ul class=\"list\">  <li><b>Система NoFrost</b><br/>  NoFrost защищает морозильную камеру от нежелательного обледенения, расходующего много энергии и порой стоящего достаточно дорого. NoFrost означает: никакого больше утомительного и продолжительного размораживания морозильного отделения, больше времени для других дел – и экономия денег</li>    <li><b>Система охлаждения DuoCooling</b><br/>  Благодаря двум полностью раздельным контурам охлаждения DuoCooling обеспечивает отсутствие воздухообмена между холодильным и морозильным отделениями</li>    <li><b>Сенсорный экран</b><br/>  Реальность прикосновения: сенсорный экран позволяет легко и интуитивно управлять вашим устройством Liebherr. Все функции наглядно расположены на экране. Легким касанием пальца вы можете легко выбрать функции или проверить текущую температуру холодильника</li>    <li><b>Утопленная ручка</b><br/>  Особая и функциональная: благодаря вертикальной, сплошной и эргономичной утопленной ручке устройство можно легко открыть. Кроме того, современный и пуристический дизайн идеально впишется в вашу кухню без ручек</li>    <li><b>Контейнер EasyFresh</b><br/>  Контейнер EasyFresh гарантирует свежесть продуктов в вашем доме, как на рынке. Неупакованные фрукты, овощи или плоды: здесь всё хранится оптимально. Благодаря плотному закрытию контейнера под воздействием продуктов в нём повышается влажность воздуха</li>    <li><b>Система PowerCooling</b><br/>  Система PowerCooling: такой же мощный, как и тихий вентилятор эффективно распределяет холодный воздух по всей холодильной камере</li>    <li><b>Технология BluPerformance</b><br/>  Технология BluPerformance делает его универсальным: он обеспечивает дополнительный объём и хладопроизводительность, но потребляет при этом очень мало энергии</li>    <li><b>Фильтр FreshAir с активированным углём</b><br/>  Благодаря фильтру FreshAir с активированным углём воздух во внутреннем пространстве свежий всегда. Фильтр расположен непосредственно в месте прохождения воздушного потока в корпусе вентилятора и в значительной степени нейтрализует запахи. Индикация на дисплее напомнит вам о необходимости замены фильтра</li>    <li><b>Светодиодное потолочное освещение</b><br/>  Светодиодное потолочное освещение освещает внутреннее пространство сверху для хорошего обзора продуктов. Дополнительный светлое пятно: светодиоды расположены перед стеклянными панелями, так что даже полный холодильник освещается хорошо</li>    <li><b>Блокировка экрана</b><br/>  Блокировка экрана надёжно предотвращает непреднамеренное изменение настроек вашего холодильника</li>    <li><b>SuperFrost</b><br/>  Активируйте SuperFrost – и морозильное отделение увеличит холодопроизводительность. Так температура останется постоянной, когда вы закладываете незамороженные продукты. SuperFrost одновременно экономит энергию: если вы не отключите функцию вручную, она отключится автоматически через 65 часов</li>    <li><b>SuperCool</b><br/>  После активации ваш Liebherr усиливает мощность, пока свежие продукты не станут такими же прохладными, как и остальное содержимое. Затем SuperCool отключается автоматически</li>  </ul>  ",
+    "descriptionType": "DEFAULT",
+    "descriptionBarcode": "4016803154013",
+    "descriptionBrand": "Liebherr",
+    "specifications": {
+      "short": [
+        {
+          "name": "Объем холодильной камеры",
+          "value": "266 л",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Объем морозильной камеры",
+          "value": "94 л",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Размораживание морозильной камеры",
+          "value": "No Frost",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Высота",
+          "value": "201.5 см",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Ширина",
+          "value": "59.7 см",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "barcode": "4016803154013",
+      "country": "Болгария",
+      "full": [
+        {
+          "name": "Основные характеристики",
+          "list": [
+            {
+              "name": "Тип",
+              "value": "холодильник с морозильной камерой",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип установки",
+              "value": "отдельностоящий",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип компрессора",
+              "value": "инверторный",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество компрессоров",
+              "value": "1",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество камер",
+              "value": "2",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Общий полезный объем",
+              "value": "360 л",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Холодильная камера",
+          "list": [
+            {
+              "name": "Объем холодильной камеры",
+              "value": "266 л",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Регулировка температуры в холодильной камере",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Установка температуры",
+              "value": "2-9 °C",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество отделений в холодильной камере",
+              "value": "1",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Размораживание холодильной камеры",
+              "value": "автоматическое",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Морозильная камера",
+          "list": [
+            {
+              "name": "Объем морозильной камеры",
+              "value": "94 л",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Расположение морозильной камеры",
+              "value": "снизу",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Размораживание морозильной камеры",
+              "value": "No Frost",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество отделений в морозильной камере",
+              "value": "1",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Мощность замораживания",
+              "value": "16 кг/сутки",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Хранение продуктов при отключении питания",
+              "value": "24 ч",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Регулировка температуры в морозильной камере",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Минимальная температура в морозильной камере",
+              "value": "-15 °C",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная температура в морозильной камере",
+              "value": "-26 °C",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Зона свежести",
+          "list": [
+            {
+              "name": "Зона свежести",
+              "value": "есть",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип зоны свежести",
+              "value": "влажная",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Управление",
+          "list": [
+            {
+              "name": "Тип управления",
+              "value": "электронное",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Способ управления",
+              "value": "сенсорный",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Расположение панели управления",
+              "value": "на корпусе",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Дисплей",
+          "list": [
+            {
+              "name": "Дисплей",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип дисплея",
+              "value": "LCD, монохромный",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вид дисплея",
+              "value": "цифровой",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Индикация",
+          "list": [
+            {
+              "name": "Индикация температуры морозильной камеры",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация температуры холодильной камеры",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация включения",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация режима работы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет индикации",
+              "value": "белый",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация повышения температуры",
+              "value": "звуковая, визуальная",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация открытой двери",
+              "value": "звуковая, визуальная",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Регулировка яркости индикации",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация неисправностей",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Электропитание",
+          "list": [
+            {
+              "name": "Напряжение",
+              "value": "220-240 B",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Длина сетевого шнура",
+              "value": "2 м",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Класс энергопотребления",
+              "value": "A++",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Энергопотребление",
+              "value": "233 кВтч/год",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Режим энергосбережения",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Климатический класс",
+              "value": "SN-T",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Уровень шума",
+              "value": "37 дБ",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Защита и безопасность",
+          "list": [
+            {
+              "name": "Тип сигнализации",
+              "value": "акустический, оптический",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Сигнализация о неисправности",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Сигнализация об открытой двери",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Сигнализация о повышении температуры",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Сигнализация об отключении питания",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Защита от детей",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Освещение",
+          "list": [
+            {
+              "name": "Освещение холодильной камеры",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип освещения",
+              "value": "светодиодное (LED)",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Функции и возможности",
+          "list": [
+            {
+              "name": "Суперзаморозка",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Независимая регулировка температуры в камерах",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Суперохлаждение",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Система VarioSpace",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Режим «Отпуск»",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Режим «Шаббат»",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дополнительная информация",
+              "value": "режим CleaningMode,, технология DuoCooling, система PowerCooling, сменный дверной уплотнитель, оснащение можно мыть в посудомоечной машине, регулировка яркости дисплея, регулируемые по высоте ножки",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Особенности конструкции",
+          "list": [
+            {
+              "name": "Количество дверей",
+              "value": "2",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Открытие дверцы",
+              "value": "направо",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Перенавешиваемые двери",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Угольный фильтр",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Встроенный вентилятор для распределения температуры",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Контейнеры и полки",
+          "list": [
+            {
+              "name": "Количество полок в холодильной камере",
+              "value": "5",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Регулируемые по высоте полки в холодильной камере",
+              "value": "4",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество полок на дверце холодильной камеры",
+              "value": "4",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество контейнеров в морозильной камере",
+              "value": "3",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество контейнеров в зоне свежести",
+              "value": "1",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Цвет и материал",
+          "list": [
+            {
+              "name": "Цвет",
+              "value": "серый",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет полок",
+              "value": "прозрачный, серебристый",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет ящиков",
+              "value": "прозрачный, серебристый",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал двери",
+              "value": "сталь",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал боковых стенок",
+              "value": "сталь",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал полок",
+              "value": "стекло",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал ящиков",
+              "value": "пластик",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Комплектация",
+          "list": [
+            {
+              "name": "Ролики для транспортировки сзади",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Подставка для яиц",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Размеры и вес",
+          "list": [
+            {
+              "name": "Высота",
+              "value": "201.5 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ширина",
+              "value": "59.7 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Глубина",
+              "value": "67.5 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вес",
+              "value": "75.7 кг",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        }
+      ],
+      "grossWeight": "60",
+      "netWeight": "60",
+      "height": "2.08",
+      "instructionUrl": "https://storage.yandexcloud.net/technopark.instructions/802201/instruction/instrukciya-holodilnik-liebherr-cndgc-5703-802201.pdf",
+      "length": "0.61",
+      "schemeUrl": "https://storage.yandexcloud.net/technopark.instructions/802201/schema/schema-vstraivaniya-holodilnik-liebherr-cndgc-5703-802201.jpg",
+      "warranty": "24",
+      "width": "0.77",
+      "__typename": "ProductV2Specifications"
+    },
+    "certificates": ["https://www.technopark.ru/bipublic/Cert/1408GV2A7RSF28.pdf"],
+    "isManufacturerCountry": false,
+    "isSellerWarranty": false,
+    "reviews": {
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "total": 2,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "rating": {
+      "average": 4.5,
+      "canRate": false,
+      "total": {
+        "all": 2,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 1,
+        "value5": 1,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "isLoading": false
+  },
+  "shots": [
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/802201/1_802201.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/802201/1_802201.jpg?timestamp=2025-09-08_16-00-05"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/802201/2_802201.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/802201/2_802201.jpg?timestamp=2025-09-08_16-00-05"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/802201/3_802201.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/802201/3_802201.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/802201/4_802201.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/802201/4_802201.jpg?timestamp=2025-09-08_16-00-05"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/802201/5_802201.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/802201/5_802201.jpg?timestamp=2025-09-08_16-00-05"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/802201/6_802201.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/802201/6_802201.jpg?timestamp=2025-09-08_16-00-19"
+    ]
+  ],
+  "photos": [
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/holodilnik-liebherr-cndgc-5703-802201-1.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/holodilnik-liebherr-cndgc-5703-802201-2.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/holodilnik-liebherr-cndgc-5703-802201-3.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/holodilnik-liebherr-cndgc-5703-802201-4.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/holodilnik-liebherr-cndgc-5703-802201-5.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/holodilnik-liebherr-cndgc-5703-802201-6.jpg"
+  ]
+}

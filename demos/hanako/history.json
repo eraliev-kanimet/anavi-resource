@@ -1,0 +1,1101 @@
+{
+  "people": [
+    {
+      "key": "h1",
+      "name": "Нурлан Мамытов",
+      "phone": "+996 715 779 558",
+      "direction": "Опт",
+      "contract": 10
+    },
+    {
+      "key": "h2",
+      "name": "Эрмек Касымов",
+      "phone": "+996 724 107 560",
+      "direction": "Опт",
+      "contract": 10
+    },
+    {
+      "key": "h3",
+      "name": "Темирлан Жумабеков",
+      "phone": "+996 749 436 723",
+      "direction": "Опт",
+      "contract": 10
+    },
+    {
+      "key": "h4",
+      "name": "Руслан Абдыкеримов",
+      "phone": "+996 797 924 491",
+      "direction": "Опт",
+      "contract": 10
+    },
+    {
+      "key": "h5",
+      "name": "Канат Сыдыков",
+      "phone": "+996 782 916 445",
+      "direction": "Опт",
+      "contract": 10
+    },
+    {
+      "key": "h6",
+      "name": "Бакыт Асанов",
+      "phone": "+996 795 871 568",
+      "direction": "Опт",
+      "contract": 10
+    }
+  ],
+  "sales": [
+    {
+      "days": 178,
+      "at": [
+        9,
+        50
+      ],
+      "person": "h5",
+      "lines": [
+        {
+          "item": "5w-30-jp",
+          "pick": 1,
+          "qty": 12
+        },
+        {
+          "item": "atf-ws",
+          "pick": 2,
+          "qty": 48
+        },
+        {
+          "item": "10w-40-sp",
+          "pick": 2,
+          "qty": 24
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 174,
+      "at": [
+        14,
+        10
+      ],
+      "person": "h3",
+      "lines": [
+        {
+          "item": "cvt-hmmf",
+          "pick": 2,
+          "qty": 24
+        },
+        {
+          "item": "5w-30-jp",
+          "pick": 1,
+          "qty": 12
+        },
+        {
+          "item": "atf-mb-236-10",
+          "pick": 1,
+          "qty": 24
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 162,
+      "at": [
+        19,
+        10
+      ],
+      "person": "h3",
+      "lines": [
+        {
+          "item": "cvt-hmmf",
+          "pick": 1,
+          "qty": 24
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 153,
+      "at": [
+        16,
+        10
+      ],
+      "person": "h4",
+      "lines": [
+        {
+          "item": "cvt-hmmf",
+          "pick": 2,
+          "qty": 24
+        },
+        {
+          "item": "atf-mb-236-14",
+          "pick": 1,
+          "qty": 24
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 143,
+      "at": [
+        16,
+        50
+      ],
+      "person": "h4",
+      "lines": [
+        {
+          "item": "5w-30-sp-cf",
+          "pick": 2,
+          "qty": 24
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 141,
+      "at": [
+        19,
+        10
+      ],
+      "person": "h6",
+      "lines": [
+        {
+          "item": "atf-ws",
+          "pick": 2,
+          "qty": 48
+        },
+        {
+          "item": "atf-mb-236-14",
+          "pick": 1,
+          "qty": 24
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 140,
+      "at": [
+        16,
+        30
+      ],
+      "person": "h1",
+      "lines": [
+        {
+          "item": "atf-type-t-iv",
+          "pick": 2,
+          "qty": 36
+        },
+        {
+          "item": "5w-40-sl-cf",
+          "pick": 1,
+          "qty": 36
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 134,
+      "at": [
+        9,
+        50
+      ],
+      "person": "h6",
+      "lines": [
+        {
+          "item": "5w-30-jp",
+          "pick": 2,
+          "qty": 12
+        },
+        {
+          "item": "atf-type-t-iv",
+          "pick": 2,
+          "qty": 24
+        },
+        {
+          "item": "cvt-hmmf",
+          "pick": 1,
+          "qty": 24
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 133,
+      "at": [
+        13,
+        40
+      ],
+      "person": "h1",
+      "lines": [
+        {
+          "item": "atf-mb-236-10",
+          "pick": 1,
+          "qty": 36
+        },
+        {
+          "item": "atf-multi-vehicle",
+          "pick": 2,
+          "qty": 36
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 131,
+      "at": [
+        13,
+        50
+      ],
+      "person": "h3",
+      "lines": [
+        {
+          "item": "5w-30-jp",
+          "pick": 3,
+          "qty": 12
+        },
+        {
+          "item": "atf-multi-vehicle",
+          "pick": 1,
+          "qty": 24
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 130,
+      "at": [
+        10,
+        10
+      ],
+      "person": "h6",
+      "lines": [
+        {
+          "item": "5w-40-sp-cf",
+          "pick": 2,
+          "qty": 12
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 127,
+      "at": [
+        12,
+        0
+      ],
+      "person": "h5",
+      "lines": [
+        {
+          "item": "atf-type-t-iv",
+          "pick": 1,
+          "qty": 24
+        },
+        {
+          "item": "atf-z-1",
+          "pick": 2,
+          "qty": 24
+        },
+        {
+          "item": "5w-30-jp",
+          "pick": 1,
+          "qty": 12
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 126,
+      "at": [
+        13,
+        30
+      ],
+      "person": "h3",
+      "lines": [
+        {
+          "item": "atf-ws",
+          "pick": 2,
+          "qty": 48
+        },
+        {
+          "item": "atf-type-t-iv",
+          "pick": 1,
+          "qty": 24
+        },
+        {
+          "item": "5w-40-sl-cf",
+          "pick": 1,
+          "qty": 36
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 123,
+      "at": [
+        11,
+        40
+      ],
+      "person": "h6",
+      "lines": [
+        {
+          "item": "5w-30-jp",
+          "pick": 2,
+          "qty": 12
+        },
+        {
+          "item": "atf-type-t-iv",
+          "pick": 1,
+          "qty": 24
+        },
+        {
+          "item": "atf-multi-vehicle",
+          "pick": 1,
+          "qty": 24
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 118,
+      "at": [
+        10,
+        40
+      ],
+      "person": "h6",
+      "lines": [
+        {
+          "item": "cvt-hmmf",
+          "pick": 1,
+          "qty": 36
+        },
+        {
+          "item": "5w-40-sp-cf",
+          "pick": 2,
+          "qty": 12
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 115,
+      "at": [
+        14,
+        10
+      ],
+      "person": "h1",
+      "lines": [
+        {
+          "item": "atf-z-1",
+          "pick": 2,
+          "qty": 24
+        },
+        {
+          "item": "atf-multi-vehicle",
+          "pick": 1,
+          "qty": 24
+        },
+        {
+          "item": "atf-type-t-iv",
+          "pick": 2,
+          "qty": 36
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 109,
+      "at": [
+        17,
+        20
+      ],
+      "person": "h2",
+      "lines": [
+        {
+          "item": "atf-type-t-iv",
+          "pick": 1,
+          "qty": 48
+        },
+        {
+          "item": "atf-mb-236-14",
+          "pick": 1,
+          "qty": 48
+        },
+        {
+          "item": "5w-40-sl-cf",
+          "pick": 1,
+          "qty": 12
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 108,
+      "at": [
+        15,
+        10
+      ],
+      "person": "h6",
+      "lines": [
+        {
+          "item": "5w-30-sp-cf",
+          "pick": 2,
+          "qty": 24
+        },
+        {
+          "item": "10w-40-sp",
+          "pick": 2,
+          "qty": 36
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 107,
+      "at": [
+        16,
+        20
+      ],
+      "person": "h6",
+      "lines": [
+        {
+          "item": "5w-30-jp",
+          "pick": 2,
+          "qty": 12
+        },
+        {
+          "item": "atf-mb-236-14",
+          "pick": 1,
+          "qty": 48
+        },
+        {
+          "item": "atf-ws",
+          "pick": 1,
+          "qty": 24
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 102,
+      "at": [
+        12,
+        20
+      ],
+      "person": "h5",
+      "lines": [
+        {
+          "item": "atf-type-t-iv",
+          "pick": 1,
+          "qty": 36
+        },
+        {
+          "item": "5w-40-sl-cf",
+          "pick": 1,
+          "qty": 12
+        },
+        {
+          "item": "5w-30-jp",
+          "pick": 3,
+          "qty": 12
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 98,
+      "at": [
+        15,
+        40
+      ],
+      "person": "h3",
+      "lines": [
+        {
+          "item": "atf-ws",
+          "pick": 2,
+          "qty": 36
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 94,
+      "at": [
+        12,
+        10
+      ],
+      "person": "h3",
+      "lines": [
+        {
+          "item": "atf-z-1",
+          "pick": 2,
+          "qty": 48
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 91,
+      "at": [
+        16,
+        10
+      ],
+      "person": "h6",
+      "lines": [
+        {
+          "item": "hybrid-0w-20",
+          "pick": 2,
+          "qty": 36
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 90,
+      "at": [
+        15,
+        0
+      ],
+      "person": "h4",
+      "lines": [
+        {
+          "item": "atf-z-1",
+          "pick": 1,
+          "qty": 48
+        },
+        {
+          "item": "5w-30-jp",
+          "pick": 3,
+          "qty": 36
+        },
+        {
+          "item": "5w-30-jp",
+          "pick": 2,
+          "qty": 36
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 81,
+      "at": [
+        16,
+        50
+      ],
+      "person": "h6",
+      "lines": [
+        {
+          "item": "5w-40-sl-cf",
+          "pick": 1,
+          "qty": 12
+        },
+        {
+          "item": "5w-30-jp",
+          "pick": 3,
+          "qty": 24
+        },
+        {
+          "item": "5w-30-jp",
+          "pick": 2,
+          "qty": 36
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 78,
+      "at": [
+        14,
+        10
+      ],
+      "person": "h1",
+      "lines": [
+        {
+          "item": "atf-ws",
+          "pick": 2,
+          "qty": 24
+        },
+        {
+          "item": "atf-multi-vehicle",
+          "pick": 2,
+          "qty": 48
+        },
+        {
+          "item": "10w-40-sp",
+          "pick": 1,
+          "qty": 12
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 77,
+      "at": [
+        11,
+        40
+      ],
+      "person": "h2",
+      "lines": [
+        {
+          "item": "cvt-hmmf",
+          "pick": 1,
+          "qty": 24
+        },
+        {
+          "item": "atf-ws",
+          "pick": 2,
+          "qty": 36
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 76,
+      "at": [
+        15,
+        0
+      ],
+      "person": "h5",
+      "lines": [
+        {
+          "item": "5w-30-jp",
+          "pick": 1,
+          "qty": 12
+        },
+        {
+          "item": "5w-30-sp-cf",
+          "pick": 1,
+          "qty": 12
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 64,
+      "at": [
+        19,
+        10
+      ],
+      "person": "h3",
+      "lines": [
+        {
+          "item": "atf-mb-236-10",
+          "pick": 1,
+          "qty": 48
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 63,
+      "at": [
+        14,
+        10
+      ],
+      "person": "h6",
+      "lines": [
+        {
+          "item": "10w-40-sp",
+          "pick": 1,
+          "qty": 24
+        },
+        {
+          "item": "atf-z-1",
+          "pick": 2,
+          "qty": 48
+        },
+        {
+          "item": "10w-40-sp",
+          "pick": 2,
+          "qty": 12
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 60,
+      "at": [
+        16,
+        50
+      ],
+      "person": "h6",
+      "lines": [
+        {
+          "item": "5w-40-sl-cf",
+          "pick": 1,
+          "qty": 24
+        },
+        {
+          "item": "atf-multi-vehicle",
+          "pick": 1,
+          "qty": 48
+        },
+        {
+          "item": "atf-z-1",
+          "pick": 1,
+          "qty": 24
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 51,
+      "at": [
+        17,
+        0
+      ],
+      "person": "h3",
+      "lines": [
+        {
+          "item": "5w-30-jp",
+          "pick": 2,
+          "qty": 12
+        },
+        {
+          "item": "5w-40-sl-cf",
+          "pick": 1,
+          "qty": 36
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 49,
+      "at": [
+        17,
+        30
+      ],
+      "person": "h1",
+      "lines": [
+        {
+          "item": "5w-30-sp-cf",
+          "pick": 1,
+          "qty": 36
+        },
+        {
+          "item": "atf-ws",
+          "pick": 2,
+          "qty": 48
+        },
+        {
+          "item": "10w-40-sp",
+          "pick": 1,
+          "qty": 12
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 46,
+      "at": [
+        14,
+        0
+      ],
+      "person": "h1",
+      "lines": [
+        {
+          "item": "atf-multi-vehicle",
+          "pick": 1,
+          "qty": 24
+        },
+        {
+          "item": "atf-multi-vehicle",
+          "pick": 2,
+          "qty": 24
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 42,
+      "at": [
+        10,
+        30
+      ],
+      "person": "h6",
+      "lines": [
+        {
+          "item": "10w-40-sp",
+          "pick": 1,
+          "qty": 36
+        },
+        {
+          "item": "hybrid-0w-20",
+          "pick": 2,
+          "qty": 12
+        },
+        {
+          "item": "atf-multi-vehicle",
+          "pick": 1,
+          "qty": 48
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 41,
+      "at": [
+        18,
+        40
+      ],
+      "person": "h3",
+      "lines": [
+        {
+          "item": "5w-30-sp-cf",
+          "pick": 1,
+          "qty": 12
+        },
+        {
+          "item": "atf-multi-vehicle",
+          "pick": 1,
+          "qty": 24
+        },
+        {
+          "item": "atf-z-1",
+          "pick": 1,
+          "qty": 24
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 40,
+      "at": [
+        13,
+        30
+      ],
+      "person": "h5",
+      "lines": [
+        {
+          "item": "atf-ws",
+          "pick": 2,
+          "qty": 24
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 39,
+      "at": [
+        10,
+        0
+      ],
+      "person": "h3",
+      "lines": [
+        {
+          "item": "hybrid-0w-20",
+          "pick": 2,
+          "qty": 12
+        },
+        {
+          "item": "5w-30-jp",
+          "pick": 1,
+          "qty": 12
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 38,
+      "at": [
+        18,
+        50
+      ],
+      "person": "h5",
+      "lines": [
+        {
+          "item": "atf-z-1",
+          "pick": 1,
+          "qty": 24
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 30,
+      "at": [
+        19,
+        10
+      ],
+      "person": "h6",
+      "lines": [
+        {
+          "item": "atf-mb-236-14",
+          "pick": 1,
+          "qty": 24
+        },
+        {
+          "item": "atf-multi-vehicle",
+          "pick": 1,
+          "qty": 24
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 29,
+      "at": [
+        11,
+        10
+      ],
+      "person": "h3",
+      "lines": [
+        {
+          "item": "atf-type-t-iv",
+          "pick": 2,
+          "qty": 24
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 24,
+      "at": [
+        16,
+        20
+      ],
+      "person": "h3",
+      "lines": [
+        {
+          "item": "5w-30-jp",
+          "pick": 1,
+          "qty": 36
+        },
+        {
+          "item": "atf-multi-vehicle",
+          "pick": 1,
+          "qty": 48
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 23,
+      "at": [
+        14,
+        40
+      ],
+      "person": "h3",
+      "lines": [
+        {
+          "item": "atf-ws",
+          "pick": 2,
+          "qty": 24
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 19,
+      "at": [
+        19,
+        50
+      ],
+      "person": "h4",
+      "lines": [
+        {
+          "item": "atf-mb-236-14",
+          "pick": 1,
+          "qty": 24
+        },
+        {
+          "item": "5w-40-sp-cf",
+          "pick": 3,
+          "qty": 12
+        },
+        {
+          "item": "5w-40-sp-cf",
+          "pick": 2,
+          "qty": 12
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 10,
+      "at": [
+        17,
+        10
+      ],
+      "person": "h2",
+      "lines": [
+        {
+          "item": "10w-40-sp",
+          "pick": 1,
+          "qty": 12
+        },
+        {
+          "item": "5w-40-sp-cf",
+          "pick": 1,
+          "qty": 12
+        },
+        {
+          "item": "hybrid-0w-20",
+          "pick": 1,
+          "qty": 12
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 8,
+      "at": [
+        17,
+        0
+      ],
+      "person": "h2",
+      "lines": [
+        {
+          "item": "5w-30-sp-cf",
+          "pick": 1,
+          "qty": 36
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 5,
+      "at": [
+        13,
+        10
+      ],
+      "person": "h4",
+      "lines": [
+        {
+          "item": "atf-ws",
+          "pick": 2,
+          "qty": 24
+        },
+        {
+          "item": "5w-30-jp",
+          "pick": 1,
+          "qty": 12
+        },
+        {
+          "item": "5w-40-sp-cf",
+          "pick": 2,
+          "qty": 12
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 2,
+      "at": [
+        19,
+        20
+      ],
+      "person": "h5",
+      "lines": [
+        {
+          "item": "5w-40-sp-cf",
+          "pick": 2,
+          "qty": 36
+        },
+        {
+          "item": "atf-ws",
+          "pick": 1,
+          "qty": 24
+        }
+      ],
+      "paid": "transfer"
+    }
+  ]
+}

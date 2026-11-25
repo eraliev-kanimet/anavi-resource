@@ -1,0 +1,2031 @@
+{
+  "shelf": "kofemashiny",
+  "slug": "kofevarka-delonghi-ec685w",
+  "product": {
+    "id": "255656",
+    "article": "117831",
+    "slug": "kofevarka-delonghi-ec685w",
+    "hasSmartInstallments": false,
+    "isActive": true,
+    "name": {
+      "default": "Delonghi EC685.W",
+      "full": "Кофеварка Delonghi EC685.W",
+      "pseudo": null,
+      "spare": null,
+      "fullWithoutSection": "Delonghi EC685.W",
+      "section": "Кофеварка",
+      "__typename": "ProductName"
+    },
+    "price": {
+      "default": 13990,
+      "marketing": null,
+      "old": null,
+      "__typename": "ProductPrice"
+    },
+    "benefit": null,
+    "specifications": {
+      "short": [
+        {
+          "name": "Тип",
+          "value": "рожковая",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Используемый кофе",
+          "value": "молотый",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Потребляемая мощность",
+          "value": "1350 Вт",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Максимальное давление",
+          "value": "15 бар",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Объем резервуара для воды",
+          "value": "1.1 л",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "__typename": "ProductV2Specifications"
+    },
+    "labels": [
+      {
+        "name": "Бонусы Спасибо",
+        "type": "sberspasibo",
+        "items": [
+          {
+            "description": "",
+            "name": "Этот товар можно оплатить бонусами Спасибо от СберБанка",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Рассрочка",
+        "type": "deferred_payment",
+        "items": [
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-6",
+            "url": "/kofevarka-delonghi-ec685w/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-12",
+            "url": "/kofevarka-delonghi-ec685w/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-24",
+            "url": "/kofevarka-delonghi-ec685w/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-18",
+            "url": "/kofevarka-delonghi-ec685w/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      }
+    ],
+    "labelsV2": [
+      {
+        "id": "8",
+        "name": "Бонусы Спасибо",
+        "code": "sberspasibo",
+        "mainColor": "#0C9C0C",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#0C9C0C",
+        "altTextColor": "#FFFFFF",
+        "borderAndTextColor": "#0C9C0C",
+        "items": [
+          {
+            "id": "19876",
+            "text": "Этот товар можно оплатить бонусами Спасибо от СберБанка ",
+            "buttonText": "Подробнее",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      }
+    ],
+    "status": {
+      "id": "IN_STOCK",
+      "name": "В наличии",
+      "type": "POSITIVE",
+      "__typename": "ProductStatus"
+    },
+    "brand": {
+      "code": "delonghi",
+      "id": "40320",
+      "name": "Delonghi",
+      "src": "https://cdn1.technopark.ru/technopark/photos_resized/section_brand_300_100/300_100/40320/1_40320.png",
+      "slug": "delonghi",
+      "sections": [
+        {
+          "name": "Чайники электрические Delonghi",
+          "url": "/chayniki/delonghi/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/859182279/technopark/photos_resized/product/120_120/777001/1_777001.jpg?timestamp=2025-01-22_11-31-55",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3187670030/technopark/photos_resized/product/120_120/777001/2_777001.jpg?timestamp=2025-01-22_11-32-01",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1144071249/technopark/photos_resized/product/120_120/777001/3_777001.jpg?timestamp=2025-01-22_11-31-55",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Кофемолки Delonghi",
+          "url": "/kofemolki/delonghi/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1798880771/technopark/photos_resized/product/120_120/568775/1_568775.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Вспениватели молока Delonghi",
+          "url": "/vspenivateli-moloka/delonghi/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1733456719/technopark/photos_resized/product/120_120/114856/1_114856.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Аксессуары для кофемашин Delonghi",
+          "url": "/dlya-kofemashin/delonghi/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3322658930/technopark/photos_resized/product/120_120/788518/1_788518.jpg?timestamp=2025-05-06_17-05-36",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Кофе в зернах Delonghi",
+          "url": "/kofe-v-zernah/delonghi/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/805820924/technopark/photos_resized/product/120_120/813528/1_813528.jpg?timestamp=2025-12-17_14-28-31",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1593597958/technopark/photos_resized/product/120_120/813528/2_813528.jpg?timestamp=2025-12-17_14-28-32",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3354735036/technopark/photos_resized/product/120_120/813528/3_813528.jpg?timestamp=2025-12-17_14-28-33",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Кофемашины Delonghi",
+          "url": "/kofemashiny/delonghi/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2769882068/technopark/photos_resized/product/120_120/107771/1_107771.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3525196610/technopark/photos_resized/product/120_120/107771/2_107771.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1259825912/technopark/photos_resized/product/120_120/107771/3_107771.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3581149019/technopark/photos_resized/product/120_120/107771/4_107771.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1283108577/technopark/photos_resized/product/120_120/107771/5_107771.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/998088311/technopark/photos_resized/product/120_120/107771/6_107771.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3391719917/technopark/photos_resized/product/120_120/107771/7_107771.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3173955963/technopark/photos_resized/product/120_120/107771/8_107771.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/592063704/technopark/photos_resized/product/120_120/107771/9_107771.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1414339662/technopark/photos_resized/product/120_120/107771/10_107771.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/606595265/technopark/photos_resized/product/120_120/107771/11_107771.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3124985186/technopark/photos_resized/product/120_120/107771/12_107771.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3202888067/technopark/photos_resized/product/120_120/107771/13_107771.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/777464850/technopark/photos_resized/product/120_120/107771/14_107771.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Капсульные кофемашины Delonghi",
+          "url": "/kapsulnye-kofemashiny/delonghi/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3482264557/technopark/photos_resized/product/120_120/773456/1_773456.jpg?timestamp=2025-08-22_14-45-02",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2121116012/technopark/photos_resized/product/120_120/773456/2_773456.jpg?timestamp=2025-08-22_14-45-03",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/427543112/technopark/photos_resized/product/120_120/773456/3_773456.jpg?timestamp=2025-08-22_14-45-04",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2042381229/technopark/photos_resized/product/120_120/773456/4_773456.jpg?timestamp=2025-08-22_14-45-05",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4037296549/technopark/photos_resized/product/120_120/773456/5_773456.jpg?timestamp=2025-08-22_14-45-06",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4256776559/technopark/photos_resized/product/120_120/773456/6_773456.jpg?timestamp=2025-08-22_14-45-06",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2275635507/technopark/photos_resized/product/120_120/773456/7_773456.jpg?timestamp=2025-08-22_14-45-07",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/514465929/technopark/photos_resized/product/120_120/773456/8_773456.jpg?timestamp=2025-08-22_14-45-07",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/436300904/technopark/photos_resized/product/120_120/773456/9_773456.jpg?timestamp=2025-08-22_14-45-09",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Стаканы и шоты Delonghi",
+          "url": "/stakany/delonghi/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/619183685/technopark/photos_resized/product/120_120/714971/1_714971.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        }
+      ],
+      "__typename": "Brand"
+    },
+    "section": {
+      "slug": "kofevarki-i-kofemashiny",
+      "id": "904",
+      "name": "Кофеварки",
+      "parents": [
+        {
+          "id": "900",
+          "name": "Для кухни",
+          "depth": 1,
+          "__typename": "SectionTreeItem"
+        },
+        {
+          "id": "904",
+          "name": "Кофеварки",
+          "depth": 2,
+          "__typename": "SectionTreeItem"
+        }
+      ],
+      "__typename": "Section"
+    },
+    "media": {
+      "gallery": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/255656/1_255656.jpg?timestamp=2025-07-31_15-16-39",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/255656/1_255656.jpg?timestamp=2025-07-31_15-17-33",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/255656/2_255656.jpg?timestamp=2025-07-31_15-16-55",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/255656/2_255656.jpg?timestamp=2025-07-31_15-17-53",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/255656/3_255656.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/255656/3_255656.jpg",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/255656/4_255656.jpg?timestamp=2025-07-31_15-16-39",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/255656/4_255656.jpg?timestamp=2025-07-31_15-17-34",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/255656/5_255656.jpg?timestamp=2025-07-31_15-16-41",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/255656/5_255656.jpg?timestamp=2025-07-31_15-17-39",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/255656/6_255656.jpg?timestamp=2025-07-31_15-16-42",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/255656/6_255656.jpg?timestamp=2025-07-31_15-17-46",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/255656/7_255656.jpg?timestamp=2025-07-31_15-17-17",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/255656/7_255656.jpg?timestamp=2025-07-31_15-17-41",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/255656/8_255656.jpg?timestamp=2025-07-31_15-17-17",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/255656/8_255656.jpg?timestamp=2025-07-31_15-17-42",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/255656/9_255656.jpg?timestamp=2025-07-31_15-16-57",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/255656/9_255656.jpg?timestamp=2025-07-31_15-17-43",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/255656/10_255656.jpg?timestamp=2025-07-31_15-17-00",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/255656/10_255656.jpg?timestamp=2025-07-31_15-17-57",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/255656/11_255656.jpg?timestamp=2025-07-31_15-16-59",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/255656/11_255656.jpg?timestamp=2025-07-31_15-17-48",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/255656/12_255656.jpg?timestamp=2025-07-31_15-39-55",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/255656/12_255656.jpg?timestamp=2025-07-31_15-40-07",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/255656/13_255656.jpg?timestamp=2025-07-31_15-39-54",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/255656/13_255656.jpg?timestamp=2025-07-31_15-39-58",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/255656/14_255656.jpg?timestamp=2025-07-31_15-39-55",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/255656/14_255656.jpg?timestamp=2025-07-31_15-39-58",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "interior": [],
+      "video": [],
+      "vkVideo": null,
+      "view3d": [],
+      "listing": {
+        "default": [
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/255656/1_255656.jpg?timestamp=2025-07-31_15-16-50",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/255656/2_255656.jpg?timestamp=2025-07-31_15-17-01",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/255656/3_255656.jpg?timestamp=2025-07-31_15-16-45",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/255656/4_255656.jpg?timestamp=2025-07-31_15-16-46",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/255656/5_255656.jpg?timestamp=2025-07-31_15-16-46",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/255656/6_255656.jpg?timestamp=2025-07-31_15-16-47",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/255656/7_255656.jpg?timestamp=2025-07-31_15-17-23",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/255656/8_255656.jpg?timestamp=2025-07-31_15-17-23",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/255656/9_255656.jpg?timestamp=2025-07-31_15-17-03",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/255656/10_255656.jpg?timestamp=2025-07-31_15-17-06",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/255656/11_255656.jpg?timestamp=2025-07-31_15-17-04",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/255656/12_255656.jpg?timestamp=2025-07-31_15-40-01",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/255656/13_255656.jpg?timestamp=2025-07-31_15-39-58",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/255656/14_255656.jpg?timestamp=2025-07-31_15-39-58",
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "ProductListing"
+      },
+      "__typename": "ProductV2Media"
+    },
+    "modifications": {
+      "bigBrother": null,
+      "groups": [
+        {
+          "name": "Цвет",
+          "items": [
+            {
+              "value": "белый",
+              "product": {
+                "slug": "kofevarka-delonghi-ec685w",
+                "article": "117831",
+                "name": {
+                  "default": "Delonghi EC685.W",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "IN_STOCK",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/255656/1_255656.jpg?timestamp=2025-07-31_15-16-50",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/255656/2_255656.jpg?timestamp=2025-07-31_15-17-01",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/255656/3_255656.jpg?timestamp=2025-07-31_15-16-45",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/255656/4_255656.jpg?timestamp=2025-07-31_15-16-46",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/255656/5_255656.jpg?timestamp=2025-07-31_15-16-46",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/255656/6_255656.jpg?timestamp=2025-07-31_15-16-47",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/255656/7_255656.jpg?timestamp=2025-07-31_15-17-23",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/255656/8_255656.jpg?timestamp=2025-07-31_15-17-23",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/255656/9_255656.jpg?timestamp=2025-07-31_15-17-03",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/255656/10_255656.jpg?timestamp=2025-07-31_15-17-06",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/255656/11_255656.jpg?timestamp=2025-07-31_15-17-04",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/255656/12_255656.jpg?timestamp=2025-07-31_15-40-01",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/255656/13_255656.jpg?timestamp=2025-07-31_15-39-58",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/255656/14_255656.jpg?timestamp=2025-07-31_15-39-58",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            },
+            {
+              "value": "красный",
+              "product": {
+                "slug": "kofevarka-delonghi-ec685r",
+                "article": "109444",
+                "name": {
+                  "default": "Delonghi EC685.R",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "SHOWCASE",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/218257/1_218257.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/218257/2_218257.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/218257/3_218257.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/218257/4_218257.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/218257/5_218257.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/218257/6_218257.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/218257/7_218257.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/218257/8_218257.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/218257/9_218257.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/218257/10_218257.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/218257/11_218257.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/218257/12_218257.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/218257/13_218257.jpg?timestamp=2024-12-18_16-33-19",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/218257/14_218257.jpg?timestamp=2024-12-18_16-33-21",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            },
+            {
+              "value": "нержавеющая сталь",
+              "product": {
+                "slug": "kofevarka-delonghi-ec685m",
+                "article": "119297",
+                "name": {
+                  "default": "Delonghi EC685.M",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "IN_STOCK",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/266135/1_266135.jpg?timestamp=2024-12-11_09-06-35",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/266135/2_266135.jpg?timestamp=2024-12-11_09-06-42",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/266135/3_266135.jpg?timestamp=2024-12-11_09-06-39",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/266135/4_266135.jpg?timestamp=2024-12-11_09-06-46",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/266135/5_266135.jpg?timestamp=2024-12-11_09-06-40",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/266135/6_266135.jpg?timestamp=2024-12-11_09-06-53",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/266135/7_266135.jpg?timestamp=2024-12-11_09-06-55",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/266135/8_266135.jpg?timestamp=2024-12-11_09-07-18",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/266135/9_266135.jpg?timestamp=2024-12-11_09-06-55",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/266135/10_266135.jpg?timestamp=2024-12-11_09-06-56",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/266135/11_266135.jpg?timestamp=2024-12-11_09-07-10",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/266135/12_266135.jpg?timestamp=2024-12-11_09-07-02",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/266135/13_266135.jpg?timestamp=2024-12-18_16-34-38",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/266135/14_266135.jpg?timestamp=2024-12-18_16-34-38",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            },
+            {
+              "value": "чёрный",
+              "product": {
+                "slug": "kofevarka-delonghi-ec685bk",
+                "article": "112249",
+                "name": {
+                  "default": "Delonghi EC685.BK",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "IN_STOCK",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/232321/1_232321.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/232321/2_232321.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/232321/3_232321.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/232321/4_232321.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/232321/5_232321.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/232321/6_232321.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/232321/7_232321.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/232321/8_232321.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/232321/9_232321.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/232321/10_232321.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/232321/11_232321.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/232321/12_232321.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/232321/13_232321.jpg?timestamp=2024-12-18_16-35-09",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/232321/14_232321.jpg?timestamp=2024-12-18_16-35-09",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            }
+          ],
+          "__typename": "ProductV2ModificationGroup"
+        }
+      ],
+      "__typename": "ProductModifications"
+    },
+    "description": {
+      "hasDescription": true,
+      "type": "DEFAULT",
+      "__typename": "ProductDescription"
+    },
+    "collection": {
+      "id": "255656",
+      "products": {
+        "pagination": {
+          "total": 0,
+          "__typename": "Pagination"
+        },
+        "__typename": "ProductV2Pagination"
+      },
+      "__typename": "ProductCollection"
+    },
+    "similar": {
+      "pagination": {
+        "total": 31,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "related": {
+      "pagination": {
+        "total": 20,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "accessories": [
+      {
+        "products": {
+          "pagination": {
+            "total": 1,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 17,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 16,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 11,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 1,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 2,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 10,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 2,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 5,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 14,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      }
+    ],
+    "rating": {
+      "average": 5,
+      "canRate": false,
+      "total": {
+        "all": 28,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 28,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "reviews": {
+      "total": 28,
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "bestCredit": {
+      "monthPayment": 583,
+      "type": "DEFERRED_PAYMENT",
+      "__typename": "ProductBestCredit"
+    },
+    "isSpare": false,
+    "isService": false,
+    "isVipService": false,
+    "isGiftBonusCard": false,
+    "canBuy": true,
+    "canPayOnline": true,
+    "canRequestPrice": false,
+    "canShowPrice": true,
+    "canSubscribe": false,
+    "needPrepaymentForDelivery": false,
+    "needPrepaymentForPreorder": false,
+    "isSberSpasiboPayAvailable": true,
+    "isYandexPayAllowed": false,
+    "yandexSplit": {
+      "payments": [
+        {
+          "amount": 0,
+          "date": "2026-08-17T09:03:04+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1175,
+          "date": "2026-08-31T09:03:04+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1165,
+          "date": "2026-09-14T09:03:04+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1165,
+          "date": "2026-09-28T09:03:04+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1165,
+          "date": "2026-10-12T09:03:04+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1165,
+          "date": "2026-10-26T09:03:04+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1165,
+          "date": "2026-11-09T09:03:04+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1165,
+          "date": "2026-11-23T09:03:04+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1165,
+          "date": "2026-12-07T09:03:04+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1165,
+          "date": "2026-12-21T09:03:04+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1165,
+          "date": "2027-01-04T09:03:04+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1165,
+          "date": "2027-01-18T09:03:04+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1165,
+          "date": "2027-02-01T09:03:04+0300",
+          "__typename": "YandexSplitPayment"
+        }
+      ],
+      "firstPayment": 0,
+      "restPayment": 13990,
+      "description": "https://yandex.ru/support/split/",
+      "maxAmount": 295000,
+      "__typename": "YandexSplit"
+    },
+    "seo": {
+      "description": "Кофеварка Delonghi EC685.W: купить в интернет-магазине Технопарк с расширенной гарантией и бесплатной доставкой по РФ. Подробные характеристики товара с отзывами реальных покупателей.",
+      "text": "Вы можете купить кофеварку Delonghi EC685.W с доставкой по Москве по низкой цене. В интернет-магазине Technopark.ru осуществляется продажа кофеварки Delonghi EC685.W на выгодных условиях.",
+      "textHidden": "",
+      "title": "Кофеварка Delonghi EC685.W - купить в Москве в интернет-магазине Технопарк",
+      "__typename": "SeoData"
+    },
+    "breadcrumbs": [
+      {
+        "name": "Главная",
+        "url": "/",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Техника для кухни",
+        "url": "/dlya-kuhni/",
+        "options": [
+          {
+            "name": "Центр инноваций",
+            "url": "/tovary-iz-budushchego/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Смартфоны и гаджеты",
+            "url": "/smartfony-i-gadzhety/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Компьютеры и ноутбуки",
+            "url": "/kompyutery-i-noutbuki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Климатическая техника",
+            "url": "/klimaticheskaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Крупная бытовая техника",
+            "url": "/krupnaya-bytovaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Бытовая техника для дома",
+            "url": "/dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для красоты и здоровья",
+            "url": "/krasota-i-zdorovye/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Спортивные товары",
+            "url": "/trenazhery-dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Телевизоры Аудио Hi-Fi",
+            "url": "/audio-video-foto/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для сада, дома и ремонта",
+            "url": "/dlya-sada-doma-i-remonta/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посуда",
+            "url": "/posuda/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Детские товары",
+            "url": "/detskie-tovary/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для гейминга",
+            "url": "/gaming/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Плоттеры и услуги розницы",
+            "url": "//",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Запасные части",
+            "url": "/zapasnie-chasti/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Кофеварки",
+        "url": "/kofevarki-i-kofemashiny/",
+        "options": [
+          {
+            "name": "Аэрогрили",
+            "url": "/aerogrili/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Микроволновые печи",
+            "url": "/mikrovolnovye-pechi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мультиварки",
+            "url": "/multivarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мини-печи",
+            "url": "/mini-pechi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мультишефы BORK",
+            "url": "/multishefy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Миксеры и кухонные машины",
+            "url": "/miksery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрогрили",
+            "url": "/grili/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Уличные грили барбекю",
+            "url": "/ulichnye-grili-barbeku/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Фритюрницы",
+            "url": "/frityurnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Хлебопечки",
+            "url": "/hlebopechki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Пароварки",
+            "url": "/parovarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Настольные плиты",
+            "url": "/induktsionnye-paneli/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мороженицы",
+            "url": "/morozhenitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вакуумные упаковщики (вакууматоры)",
+            "url": "/vakuumnaya-upakovka/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Су виды",
+            "url": "/su-vidy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрические сковороды и воки",
+            "url": "/elektricheskie-skovorody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Автоматические кофемашины",
+            "url": "/kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кофейные станции",
+            "url": "/kofeynye-stantsii/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Капсульные кофемашины",
+            "url": "/kapsulnye-kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Гейзерные кофеварки для дома",
+            "url": "/gejzernye-kofevarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кофемолки",
+            "url": "/kofemolki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вспениватели молока",
+            "url": "/vspenivateli-moloka/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для приготовления кофе",
+            "url": "/prigotovlenie-kofe/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрические чайники",
+            "url": "/chayniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Соковыжималки",
+            "url": "/sokovyzhimalki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Термопоты",
+            "url": "/termopoty/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Декантеры",
+            "url": "/dekantery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кулеры для воды",
+            "url": "/kulery-dlya-vody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Льдогенераторы",
+            "url": "/ledogeneratory/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Системы газации напитков",
+            "url": "/sistema-gazatsii-napitkov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мясорубки",
+            "url": "/myasorubki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Блендеры",
+            "url": "/blendery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные комбайны",
+            "url": "/kuhonnye-kombayny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные измельчители (чопперы)",
+            "url": "/kukhonnye-izmelchiteli/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Ломтерезки",
+            "url": "/lomterezki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Овощерезки",
+            "url": "/elektroterka/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Тостеры",
+            "url": "/tostery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вафельницы",
+            "url": "/vafelnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мультипекари",
+            "url": "/sendvichnitsi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Яйцеварки",
+            "url": "/yaycevarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Блинницы",
+            "url": "/blinnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Йогуртницы",
+            "url": "/yogurtnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Фильтры для воды под мойку",
+            "url": "/filtry-kuvshiny-dlya-ochistki-vody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Фильтры-кувшины для воды",
+            "url": "/filtry-kuvshiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для очистки воды",
+            "url": "/dlya-ochistki-vody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные весы",
+            "url": "/kuhonnye-vesy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Дегидраторы",
+            "url": "/sushki-dlya-ovoschey/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для кухни",
+            "url": "/aksessuary-dlya-kuhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мойки для кухни",
+            "url": "/moyki-dlya-kukhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрошашлычницы",
+            "url": "/shashlychnitsa/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Кофеварки Delonghi",
+        "url": "/kofevarki-i-kofemashiny/delonghi/",
+        "options": [
+          {
+            "name": "BORK",
+            "url": "/kofevarki-i-kofemashiny/bork/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Smeg",
+            "url": "/kofevarki-i-kofemashiny/smeg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Endever",
+            "url": "/kofevarki-i-kofemashiny/endever/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Wacaco",
+            "url": "/kofevarki-i-kofemashiny/wacaco/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Brayer",
+            "url": "/kofevarki-i-kofemashiny/brayer/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Korting",
+            "url": "/kofevarki-i-kofemashiny/korting/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "La Pavoni",
+            "url": "/kofevarki-i-kofemashiny/la_pavoni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Maunfeld",
+            "url": "/kofevarki-i-kofemashiny/maunfeld/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "KitchenAid",
+            "url": "/kofevarki-i-kofemashiny/kitchenaid/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Zigmund Shtain",
+            "url": "/kofevarki-i-kofemashiny/zigmund_shtain/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Polaris",
+            "url": "/kofevarki-i-kofemashiny/polaris/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Beko",
+            "url": "/kofevarki-i-kofemashiny/beko/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Buydeem",
+            "url": "/kofevarki-i-kofemashiny/buydeem/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "REDMOND",
+            "url": "/kofevarki-i-kofemashiny/redmond/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Krups",
+            "url": "/kofevarki-i-kofemashiny/krups/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "VES",
+            "url": "/kofevarki-i-kofemashiny/ves/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Libhof",
+            "url": "/kofevarki-i-kofemashiny/libhof/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "WMF",
+            "url": "/kofevarki-i-kofemashiny/wmf/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Delonghi EC685.W",
+        "url": "kofevarka-delonghi-ec685w",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      }
+    ],
+    "isArchive": false,
+    "__typename": "ProductV2",
+    "isSberPayOneClickAllowed": false,
+    "isTinkoffPayOneClickAllowed": false,
+    "bonus": null
+  },
+  "details": {
+    "description": "<style> *{box-sizing:border-box;outline:0}body{font-family:'DINPro Technopark',Arial;font-size:14px;font-weight:400;font-display:swap;margin:0;overflow-x:hidden;position:relative;min-height:95vh;-webkit-tap-highlight-color:transparent}body.lock-scroll{overflow:hidden;position:fixed;right:0;left:0;bottom:0}@media (min-width:1192px){body.lock-scroll{position:relative}}@media screen and (max-device-width:480px){body{-webkit-text-size-adjust:none}}.label-for-seo{width:100%}.label-for-seo__span{display:none}a{color:#0093c4;text-decoration:none}.is-visible{display:block!important}.is-hidden{display:none!important}.is-visually-hidden{opacity:0!important;visibility:hidden!important;pointer-events:none!important}.is-link{color:#0093c4}.no-wrap{white-space:nowrap}.container{margin:auto;width:100%}@media (min-width:960px){.container{width:calc(100% - 48px)}}@media (min-width:1482px){.container{max-width:1397px}}.is-overflow-hidden{overflow:hidden}.is-mobile-not{display:none!important}@media (min-width:960px){.is-mobile-not{display:block!important}}@media (min-width:960px){.is-mobile-only{display:none!important}}@media (max-width:959px){.hide-phone{display:none}}@media (min-width:960px) and (max-width:1481px){.hide-tablet{display:none}}.is-hidden{display:none!important}.nowrap-text{white-space:nowrap}.textcenter{text-align:center}ul.list{margin:0;padding:6px 0 18px}@media (min-width:960px){ul.list{padding:6px 0 24px}}ul.list li{font-family:'DINPro Technopark',Arial;font-size:15px;font-weight:400;font-display:swap;color:#fff;line-height:20px;list-style:none;margin:0;padding-left:9px;position:relative}@media (min-width:960px){ul.list li{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:400;font-display:swap;line-height:21px;padding-left:26px}}ul.list>li:before{background-color:#fff;border-radius:50%;content:\"\";display:block;height:3px;left:0;position:absolute;top:10px;width:3px}@media (min-width:960px){ul.list>li:before{border-radius:0;height:1px;width:13px}}ul.list>li>ul{padding:6px 0 6px 15px}@media (min-width:960px){ul.list>li>ul{padding:3px 0 3px 4px}}ul.list>li>ul>li:before{background-color:rgba(255,255,255,.5)}ul.list>li>ul>li>ul{padding:6px 0 0 15px}@media (min-width:960px){ul.list>li>ul>li>ul{padding:3px 0 0 4px}}ul.list>li>ul>li>ul>li:before{background-color:rgba(255,255,255,.2)}ol.list{margin:0;padding:6px 0 18px;counter-reset:list1}@media (min-width:960px){ol.list{padding:6px 0 24px}}ol.list li{font-family:'DINPro Technopark',Arial;font-size:15px;font-weight:400;font-display:swap;color:#fff;line-height:20px;list-style:none;margin:0;padding-left:9px;position:relative}@media (min-width:960px){ol.list li{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:400;font-display:swap;line-height:21px;padding-left:26px}}ol.list>li{padding-left:24px}ol.list>li:before{counter-increment:list1;content:counter(list1) \". \";left:0;position:absolute}ol.list>li>ol{counter-reset:list2;padding:6px 0}@media (min-width:960px){ol.list>li>ol{padding:3px 0}}ol.list>li>ol>li{padding-left:42px}ol.list>li>ol>li:before{counter-increment:list2;content:counter(list1) \".\" counter(list2) \". \"}ol.list>li>ol>li>ol{counter-reset:list3}ol.list>li>ol>li>ol>li:before{counter-increment:list3;content:counter(list1) \".\" counter(list2) \".\" counter(list3) \". \"}ol.list--compact{padding:0}.list--line-interval li:not(:last-child){margin-bottom:1em}input::-ms-clear{display:none}input::-webkit-clear-button{display:none}@media (max-width:767px){.footer{padding-bottom:66px}}.page-container{margin:auto;padding:0 18px;width:100%}@media (min-width:960px){.page-container{padding:0 24px;width:100%}}@media (min-width:1482px){.page-container{width:1481px}}@media (min-width:960px){.page-container--extra-padding{padding:0 42px}}.default-container{width:100%;max-width:1481px;margin:auto;padding:0 12px}@media (min-width:960px){.default-container{padding:0 24px}}button,input,select,textarea{font-family:inherit;font-size:100%;margin:0}textarea{resize:none;overflow:auto}form{margin:0}button{color:inherit}dd,dl,dt{margin:0;padding:0}input[type=search]{-webkit-appearance:none}input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration,input[type=search]::-webkit-search-results-button,input[type=search]::-webkit-search-results-decoration{display:none}input:invalid{box-shadow:none}textarea:invalid{box-shadow:none}svg *{pointer-events:none}.product__desc{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:300;font-display:swap;color:#878787;display:none}.product__desc b{font-family:'DINPro Technopark',Arial;font-size:20px;font-weight:400;font-display:swap;color:#fff}.dyson-v10-picking,.dyson-v10-properties,.dyson-v10-wrapper,.dyson-v10-wrapper .dyson-v10__list span{color:#fff;padding:0 12px}@media (max-width:1154px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:170px}}@media (max-width:1100px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:270px}}@media (max-width:960px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:27px}}.dyson-v10-first-row li.dyson-v10-item{max-width:calc(100% / 3 - 10);padding-right:5px}@media (max-width:959px){.dyson-v10-first-row{flex-direction:column;align-items:flex-start}.dyson-v10-first-row li.dyson-v10-item{max-width:none}}@media (min-width:960px) and (max-width:1303px){.dyson-v10-first-row{flex-direction:column;align-items:flex-start}.dyson-v10-first-row li.dyson-v10-item{max-width:none}}.dyson-v10-chapter{text-align:center!important}.dyson-v10__list li.dyson-v10__list-item{background-size:contain;background-position:left} </style> <p>  Рожковая кофеварка Delonghi EC685.W мощностью 1350 Вт и давлением 15 бар позволяет готовить насыщенный эспрессо из молотого кофе, в том числе сразу на 2 чашки. Регулировка объёма порции и 3 уровня температуры дают возможность настроить напиток в соответствии с вашими предпочтениями, а подогрев чашек помогает дольше сохранять его температуру, вкус и аромат. Ручной капучинатор с функциями подачи пара и горячей воды позволяет приготовить нежную молочную пену для капучино и других кофейных напитков. Съёмный резервуар для воды, регулируемый поддон для чашек высотой до 13 см, индикатор необходимости удаления накипи и автоматическое отключение делают использование кофеварки простым и комфортным.  </p>  <h2>Особенности</h2>  <ul class=\"list\">  <li><b>Давление 15 бар</b><br>  Давление 15 бар обеспечивает оптимальную экстракцию молотого кофе, раскрывая его насыщенный вкус и выразительный аромат</li>  <li><b>Ручной капучинатор</b><br>  Ручной капучинатор позволяет самостоятельно вспенивать молоко для приготовления капучино, латте и других кофейных напитков с нежной воздушной пеной</li>  <li><b>Подогрев чашек</b><br>  Подогрев чашек позволяет предварительно прогреть посуду перед приготовлением кофе. Благодаря этому напиток дольше сохраняет оптимальную температуру, вкус и аромат</li>  <li><b>Регулировка температуры кофе</b><br>  Регулировка температуры кофе позволяет выбрать 1 из 3 уровней нагрева в зависимости от ваших предпочтений и сорта кофе</li>  <li><b>Программируемый объём порции</b><br>  Регулировка объёма порции позволяет подобрать оптимальное количество кофе в соответствии с вашими предпочтениями</li>  <li><b>Приготовление 2 чашек одновременно</b><br>  Возможность приготовления 2 чашек одновременно позволяет за 1 цикл получить 2 порции ароматного напитка</li>  <li><b>Подходит для высоких чашек</b><br>  Благодаря регулируемому поддону кофемашина поддерживает использование чашек высотой до 13 см</li>  <li><b>Автоматическое отключение</b><br>  Автоматическое отключение переводит кофемашину в режим ожидания после периода бездействия, помогая снизить расход электроэнергии. Время отключения можно настроить на 9 минут, 30 минут или 3 часа</li>  <li><b>Простота ухода</b><br>  Съёмный резервуар для воды, съёмный поддон для сбора капель и индикатор необходимости очистки делают обслуживание кофемашины простым и удобным</li>    </ul>",
+    "descriptionType": "DEFAULT",
+    "descriptionBarcode": "8004399331211",
+    "descriptionBrand": "Delonghi",
+    "specifications": {
+      "short": [
+        {
+          "name": "Тип",
+          "value": "рожковая",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Используемый кофе",
+          "value": "молотый",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Потребляемая мощность",
+          "value": "1350 Вт",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Максимальное давление",
+          "value": "15 бар",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Объем резервуара для воды",
+          "value": "1.1 л",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "barcode": "8004399331211",
+      "country": "Китай",
+      "full": [
+        {
+          "name": "Основные характеристики",
+          "list": [
+            {
+              "name": "Тип",
+              "value": "рожковая",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Установка",
+              "value": "отдельностоящая",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Используемый кофе",
+              "value": "молотый",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Потребляемая мощность",
+              "value": "1350 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальное давление",
+              "value": "15 бар",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Съемный контейнер для воды",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Объем резервуара для воды",
+              "value": "1.1 л",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Капучинатор",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Управление",
+          "list": [
+            {
+              "name": "Управление",
+              "value": "кнопочное, механическое, поворотное",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Регулировка порций",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Регулировка температуры кофе",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Регулировка объема молочной пены",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Приготовление напитка",
+          "list": [
+            {
+              "name": "Приготовление эспрессо",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Режим приготовления эспрессо",
+              "value": "автоматический",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Возможность приготовления капучино",
+              "value": "есть",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Режим приготовления капучино",
+              "value": "ручной",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Приготовление горячего молока",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Молочная пена",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Одновременное приготовление двух чашек",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Функции и режимы",
+          "list": [
+            {
+              "name": "Подогрев чашек",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Горячая вода",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Быстрый пар",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Режим энергосбережения",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автоматическое отключение",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Особенности",
+          "list": [
+            {
+              "name": "Регулировка положения трубки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Трубка подачи пара",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Съемный лоток для сбора капель",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Противокапельная система",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Регулировка жесткости воды",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Регулировка высоты каплесборника",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Индикация",
+          "list": [
+            {
+              "name": "Индикатор уровня воды",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация включения",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикатор необходимости очистки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Корпус",
+          "list": [
+            {
+              "name": "Материал корпуса",
+              "value": "металл",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет",
+              "value": "белый",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал рожка",
+              "value": "металл",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал ручки",
+              "value": "пластик",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная высота чашки",
+              "value": "13 см",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Комплектация",
+          "list": [
+            {
+              "name": "Количество фильтров для холдера",
+              "value": "2",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Мерная ложечка",
+              "value": "в комплекте",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Инструкция",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Питание",
+          "list": [
+            {
+              "name": "Длина сетевого шнура",
+              "value": "1 м",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Напряжение",
+              "value": "220-240 В",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автоматическое переключение напряжения",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Размеры и вес",
+          "list": [
+            {
+              "name": "Высота",
+              "value": "30.5 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ширина",
+              "value": "14.9 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Глубина",
+              "value": "33 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вес",
+              "value": "4.2 кг",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        }
+      ],
+      "grossWeight": "5.48",
+      "netWeight": "4.22",
+      "height": "0.35",
+      "instructionUrl": "https://storage.yandexcloud.net/technopark.instructions/255656/instruction/instrukciya-kofevarka-delonghi-ec685w.pdf",
+      "length": "0.4",
+      "schemeUrl": null,
+      "warranty": "24",
+      "width": "0.22",
+      "__typename": "ProductV2Specifications"
+    },
+    "certificates": ["https://www.technopark.ru/bipublic/Cert/I00HH3B10JBJI6.pdf"],
+    "isManufacturerCountry": false,
+    "isSellerWarranty": false,
+    "reviews": {
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "total": 28,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "rating": {
+      "average": 5,
+      "canRate": false,
+      "total": {
+        "all": 28,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 28,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "isLoading": false
+  },
+  "shots": [
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/255656/1_255656.jpg?timestamp=2025-07-31_15-17-33",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/255656/1_255656.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/255656/1_255656.jpg?timestamp=2025-07-31_15-16-39"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/255656/2_255656.jpg?timestamp=2025-07-31_15-17-53",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/255656/2_255656.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/255656/2_255656.jpg?timestamp=2025-07-31_15-16-55"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/255656/3_255656.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/255656/3_255656.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/255656/3_255656.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/255656/4_255656.jpg?timestamp=2025-07-31_15-17-34",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/255656/4_255656.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/255656/4_255656.jpg?timestamp=2025-07-31_15-16-39"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/255656/5_255656.jpg?timestamp=2025-07-31_15-17-39",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/255656/5_255656.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/255656/5_255656.jpg?timestamp=2025-07-31_15-16-41"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/255656/6_255656.jpg?timestamp=2025-07-31_15-17-46",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/255656/6_255656.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/255656/6_255656.jpg?timestamp=2025-07-31_15-16-42"
+    ]
+  ],
+  "photos": [
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/kofevarka-delonghi-ec685w-1.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/kofevarka-delonghi-ec685w-2.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/kofevarka-delonghi-ec685w-3.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/kofevarka-delonghi-ec685w-4.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/kofevarka-delonghi-ec685w-5.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/kofevarka-delonghi-ec685w-6.jpg"
+  ]
+}

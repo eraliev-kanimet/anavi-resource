@@ -1,0 +1,1544 @@
+{
+  "shelf": "plity",
+  "slug": "plita-gorenje-gec5c61wg",
+  "product": {
+    "id": "678093",
+    "article": "183030",
+    "slug": "plita-gorenje-gec5c61wg",
+    "hasSmartInstallments": false,
+    "isActive": true,
+    "name": {
+      "default": "Gorenje GEC5C61WG",
+      "full": "Электрическая плита Gorenje GEC5C61WG",
+      "pseudo": null,
+      "spare": null,
+      "fullWithoutSection": "Электрическая плита Gorenje GEC5C61WG",
+      "section": "Плита",
+      "__typename": "ProductName"
+    },
+    "price": {
+      "default": 50990,
+      "marketing": null,
+      "old": null,
+      "__typename": "ProductPrice"
+    },
+    "benefit": null,
+    "specifications": {
+      "short": [
+        {
+          "name": "Варочная панель",
+          "value": "электрическая",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Духовка",
+          "value": "электрическая",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Рабочая поверхность",
+          "value": "стеклокерамика",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Объем духовки",
+          "value": "70 л",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Ширина",
+          "value": "50 см",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "__typename": "ProductV2Specifications"
+    },
+    "labels": [
+      {
+        "name": "Бонусы Спасибо",
+        "type": "sberspasibo",
+        "items": [
+          {
+            "description": "",
+            "name": "Этот товар можно оплатить бонусами Спасибо от СберБанка",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Выгодное предложение",
+        "type": "special_offer",
+        "items": [
+          {
+            "description": "",
+            "name": "Техника и электроника",
+            "url": "/action/vygodnaya-tsena/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Рассрочка",
+        "type": "deferred_payment",
+        "items": [
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-12",
+            "url": "/plita-gorenje-gec5c61wg/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-6",
+            "url": "/plita-gorenje-gec5c61wg/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      }
+    ],
+    "labelsV2": [
+      {
+        "id": "14",
+        "name": "-15% на технику",
+        "code": "15-na-tekhniku",
+        "mainColor": "#F54B4B",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#FFFFFF",
+        "altTextColor": "#F54B4B",
+        "borderAndTextColor": "#F54B4B",
+        "items": [
+          {
+            "id": "146699",
+            "text": "Выгода при покупке крупной бытовой техники",
+            "buttonText": "Подробнее",
+            "url": "/action/vygoda-pri-pokupke-krupnoy-bytovoy-tekhniki/",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      },
+      {
+        "id": "8",
+        "name": "Бонусы Спасибо",
+        "code": "sberspasibo",
+        "mainColor": "#0C9C0C",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#0C9C0C",
+        "altTextColor": "#FFFFFF",
+        "borderAndTextColor": "#0C9C0C",
+        "items": [
+          {
+            "id": "21808",
+            "text": "Этот товар можно оплатить бонусами Спасибо от СберБанка ",
+            "buttonText": "Подробнее",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      },
+      {
+        "id": "5",
+        "name": "Выгода",
+        "code": "vygoda",
+        "mainColor": "#fd9600",
+        "mainTextColor": "#ffffff",
+        "altColor": "#fd9600",
+        "altTextColor": "#ffffff",
+        "borderAndTextColor": "#fd9600",
+        "items": [
+          {
+            "id": "780",
+            "text": "Выгодное предложение",
+            "buttonText": "Подробнее",
+            "url": "/action/vygodnaya-tsena/",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      }
+    ],
+    "status": {
+      "id": "IN_STOCK",
+      "name": "В наличии",
+      "type": "POSITIVE",
+      "__typename": "ProductStatus"
+    },
+    "brand": {
+      "code": "gorenje",
+      "id": "40276",
+      "name": "Gorenje",
+      "src": "https://cdn1.technopark.ru/technopark/photos_resized/section_brand_300_100/300_100/40276/1_40276.png",
+      "slug": "gorenje",
+      "sections": [
+        {
+          "name": "Варочные поверхности Gorenje",
+          "url": "/vstraivaemye-varochnye-poverhnosti/gorenje/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1826237018/technopark/photos_resized/product/120_120/170967/1_170967.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3850241674/technopark/photos_resized/product/120_120/170967/2_170967.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/467475148/technopark/photos_resized/product/120_120/170967/3_170967.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Микроволновые печи Gorenje",
+          "url": "/mikrovolnovye-pechi/gorenje/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/297482419/technopark/photos_resized/product/120_120/65663/1_65663.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1702527197/technopark/photos_resized/product/120_120/65663/2_65663.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1977089463/technopark/photos_resized/product/120_120/65663/3_65663.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2614729883/technopark/photos_resized/product/120_120/65663/7_65663.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3354656718/technopark/photos_resized/product/120_120/65663/8_65663.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/961602440/technopark/photos_resized/product/120_120/65663/9_65663.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Чайники электрические Gorenje",
+          "url": "/chayniki/gorenje/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/4094143709/technopark/photos_resized/product/120_120/839448/1_839448.jpg?timestamp=2026-07-29_12-37-46",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2585505034/technopark/photos_resized/product/120_120/839448/2_839448.jpg?timestamp=2026-07-29_12-37-47",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/339082734/technopark/photos_resized/product/120_120/839448/3_839448.jpg?timestamp=2026-07-29_12-37-48",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/221170863/technopark/photos_resized/product/120_120/839448/4_839448.jpg?timestamp=2026-07-29_12-37-57",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3618648283/technopark/photos_resized/product/120_120/839448/5_839448.jpg?timestamp=2026-07-29_12-37-59",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Блендеры Gorenje",
+          "url": "/blendery/gorenje/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/4024201442/technopark/photos_resized/product/120_120/838826/1_838826.jpg?timestamp=2026-07-27_15-55-11",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3172911721/technopark/photos_resized/product/120_120/838826/2_838826.jpg?timestamp=2026-07-27_15-55-12",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1393601349/technopark/photos_resized/product/120_120/838826/3_838826.jpg?timestamp=2026-07-27_15-55-13",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3390700287/technopark/photos_resized/product/120_120/838826/4_838826.jpg?timestamp=2026-07-27_15-55-13",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/595222474/technopark/photos_resized/product/120_120/838826/5_838826.jpg?timestamp=2026-07-27_15-55-14",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1417506652/technopark/photos_resized/product/120_120/838826/6_838826.jpg?timestamp=2026-07-27_15-55-14",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2756888065/technopark/photos_resized/product/120_120/838826/7_838826.jpg?timestamp=2026-07-27_15-55-15",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/113235415/technopark/photos_resized/product/120_120/838826/8_838826.jpg?timestamp=2026-07-27_15-55-15",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Тостеры Gorenje",
+          "url": "/tostery/gorenje/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3353559576/technopark/photos_resized/product/120_120/838836/1_838836.jpg?timestamp=2026-07-27_12-39-11",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3375942186/technopark/photos_resized/product/120_120/838836/2_838836.jpg?timestamp=2026-07-27_12-39-12",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1484188768/technopark/photos_resized/product/120_120/838836/3_838836.jpg?timestamp=2026-07-27_13-17-23",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Хлебопечки Gorenje",
+          "url": "/hlebopechki/gorenje/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3270637465/technopark/photos_resized/product/120_120/839292/1_839292.jpg?timestamp=2026-07-28_14-50-27",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1543022115/technopark/photos_resized/product/120_120/839292/2_839292.jpg?timestamp=2026-07-28_14-50-27",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3315348352/technopark/photos_resized/product/120_120/839292/3_839292.jpg?timestamp=2026-07-28_14-50-27",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1166955387/technopark/photos_resized/product/120_120/839292/4_839292.jpg?timestamp=2026-07-28_14-50-27",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Морозильные камеры встраиваемые Gorenje",
+          "url": "/vstraivaemye-morozilnye-kamery/gorenje/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2216972567/technopark/photos_resized/product/120_120/801698/1_801698.jpg?timestamp=2025-09-03_16-42-56",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3965089424/technopark/photos_resized/product/120_120/801698/2_801698.jpg?timestamp=2025-09-03_16-43-06",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1693562889/technopark/photos_resized/product/120_120/801698/3_801698.jpg?timestamp=2025-09-03_16-42-54",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/226524615/technopark/photos_resized/product/120_120/801698/4_801698.jpg?timestamp=2025-09-03_16-42-59",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2332023077/technopark/photos_resized/product/120_120/801698/5_801698.jpg?timestamp=2025-09-03_16-42-53",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2375163196/technopark/photos_resized/product/120_120/801698/6_801698.jpg?timestamp=2025-09-03_16-42-55",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2621211167/technopark/photos_resized/product/120_120/801698/7_801698.jpg?timestamp=2025-09-03_16-43-07",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2185918279/technopark/photos_resized/product/120_120/801698/8_801698.jpg?timestamp=2025-09-03_16-43-09",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/457385725/technopark/photos_resized/product/120_120/801698/9_801698.jpg?timestamp=2025-09-03_16-43-09",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Микроволновые печи встраиваемые Gorenje",
+          "url": "/vstraivaemye-mikrovolnovye-pechi/gorenje/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2351865309/technopark/photos_resized/product/120_120/622946/1_622946.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/354929767/technopark/photos_resized/product/120_120/622946/2_622946.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/306841726/technopark/photos_resized/product/120_120/622946/3_622946.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2552802390/technopark/photos_resized/product/120_120/622946/4_622946.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1646329073/technopark/photos_resized/product/120_120/622946/5_622946.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4213812555/technopark/photos_resized/product/120_120/622946/6_622946.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4012874944/technopark/photos_resized/product/120_120/622946/7_622946.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1900743011/technopark/photos_resized/product/120_120/622946/8_622946.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Вафельницы Gorenje",
+          "url": "/vafelnitsy/gorenje/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2048077727/technopark/photos_resized/product/120_120/829204/1_829204.jpg?timestamp=2026-04-28_08-33-37",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1940218804/technopark/photos_resized/product/120_120/829204/2_829204.jpg?timestamp=2026-04-28_08-33-37",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4107978582/technopark/photos_resized/product/120_120/829204/3_829204.jpg?timestamp=2026-04-28_08-33-37",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/498688611/technopark/photos_resized/product/120_120/829204/4_829204.jpg?timestamp=2026-04-28_08-33-37",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3937153550/technopark/photos_resized/product/120_120/829204/5_829204.jpg?timestamp=2026-04-28_08-33-37",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        }
+      ],
+      "__typename": "Brand"
+    },
+    "section": {
+      "slug": "plity",
+      "id": "908",
+      "name": "Плиты",
+      "parents": [
+        {
+          "id": "877",
+          "name": "Крупная бытовая",
+          "depth": 1,
+          "__typename": "SectionTreeItem"
+        },
+        {
+          "id": "908",
+          "name": "Плиты",
+          "depth": 2,
+          "__typename": "SectionTreeItem"
+        }
+      ],
+      "__typename": "Section"
+    },
+    "media": {
+      "gallery": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/678093/1_678093.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/678093/2_678093.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/678093/3_678093.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/678093/4_678093.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/678093/5_678093.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/678093/6_678093.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/678093/7_678093.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/678093/8_678093.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/678093/9_678093.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/678093/10_678093.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/678093/11_678093.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/678093/12_678093.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/678093/13_678093.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "interior": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior/1000_1000/678093/1_678093.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "video": [],
+      "vkVideo": null,
+      "view3d": [],
+      "listing": {
+        "default": [
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/678093/1_678093.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/678093/2_678093.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/678093/3_678093.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/678093/4_678093.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/678093/5_678093.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/678093/6_678093.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/678093/7_678093.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/678093/8_678093.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/678093/9_678093.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/678093/10_678093.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/678093/11_678093.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/678093/12_678093.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/678093/13_678093.jpg",
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "ProductListing"
+      },
+      "__typename": "ProductV2Media"
+    },
+    "modifications": {
+      "bigBrother": null,
+      "groups": [],
+      "__typename": "ProductModifications"
+    },
+    "description": {
+      "hasDescription": true,
+      "type": "RICH",
+      "__typename": "ProductDescription"
+    },
+    "collection": {
+      "id": "678093",
+      "products": {
+        "pagination": {
+          "total": 0,
+          "__typename": "Pagination"
+        },
+        "__typename": "ProductV2Pagination"
+      },
+      "__typename": "ProductCollection"
+    },
+    "similar": {
+      "pagination": {
+        "total": 20,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "related": {
+      "pagination": {
+        "total": 20,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "accessories": [
+      {
+        "products": {
+          "pagination": {
+            "total": 6,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 17,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 19,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      }
+    ],
+    "rating": {
+      "average": 5,
+      "canRate": false,
+      "total": {
+        "all": 1,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 1,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "reviews": {
+      "total": 1,
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "bestCredit": {
+      "monthPayment": 4250,
+      "type": "DEFERRED_PAYMENT",
+      "__typename": "ProductBestCredit"
+    },
+    "isSpare": false,
+    "isService": false,
+    "isVipService": false,
+    "isGiftBonusCard": false,
+    "canBuy": true,
+    "canPayOnline": true,
+    "canRequestPrice": false,
+    "canShowPrice": true,
+    "canSubscribe": false,
+    "needPrepaymentForDelivery": false,
+    "needPrepaymentForPreorder": false,
+    "isSberSpasiboPayAvailable": true,
+    "isYandexPayAllowed": false,
+    "yandexSplit": {
+      "payments": [
+        {
+          "amount": 0,
+          "date": "2026-08-17T09:00:44+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4251,
+          "date": "2026-08-31T09:00:44+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4249,
+          "date": "2026-09-14T09:00:44+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4249,
+          "date": "2026-09-28T09:00:44+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4249,
+          "date": "2026-10-12T09:00:44+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4249,
+          "date": "2026-10-26T09:00:44+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4249,
+          "date": "2026-11-09T09:00:44+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4249,
+          "date": "2026-11-23T09:00:44+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4249,
+          "date": "2026-12-07T09:00:44+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4249,
+          "date": "2026-12-21T09:00:44+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4249,
+          "date": "2027-01-04T09:00:44+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4249,
+          "date": "2027-01-18T09:00:44+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4249,
+          "date": "2027-02-01T09:00:44+0300",
+          "__typename": "YandexSplitPayment"
+        }
+      ],
+      "firstPayment": 0,
+      "restPayment": 50990,
+      "description": "https://yandex.ru/support/split/",
+      "maxAmount": 295000,
+      "__typename": "YandexSplit"
+    },
+    "seo": {
+      "description": "Электрическая плита Gorenje GEC5C61WG: купить в интернет-магазине Технопарк с расширенной гарантией и бесплатной доставкой по РФ. Подробные характеристики товара с отзывами реальных покупателей.",
+      "text": "Вы можете купить плиту Gorenje GEC5C61WG с доставкой по Москве по низкой цене. В интернет-магазине Technopark.ru осуществляется продажа плиты Gorenje GEC5C61WG на выгодных условиях.",
+      "textHidden": "",
+      "title": "Электрическая плита Gorenje GEC5C61WG - купить в Москве в интернет-магазине Технопарк",
+      "__typename": "SeoData"
+    },
+    "breadcrumbs": [
+      {
+        "name": "Главная",
+        "url": "/",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Крупная бытовая техника",
+        "url": "/krupnaya-bytovaya-tehnika/",
+        "options": [
+          {
+            "name": "Центр инноваций",
+            "url": "/tovary-iz-budushchego/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Смартфоны и гаджеты",
+            "url": "/smartfony-i-gadzhety/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Компьютеры и ноутбуки",
+            "url": "/kompyutery-i-noutbuki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Климатическая техника",
+            "url": "/klimaticheskaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Техника для кухни",
+            "url": "/dlya-kuhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Бытовая техника для дома",
+            "url": "/dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для красоты и здоровья",
+            "url": "/krasota-i-zdorovye/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Спортивные товары",
+            "url": "/trenazhery-dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Телевизоры Аудио Hi-Fi",
+            "url": "/audio-video-foto/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для сада, дома и ремонта",
+            "url": "/dlya-sada-doma-i-remonta/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посуда",
+            "url": "/posuda/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Детские товары",
+            "url": "/detskie-tovary/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для гейминга",
+            "url": "/gaming/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Плоттеры и услуги розницы",
+            "url": "//",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Запасные части",
+            "url": "/zapasnie-chasti/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Кухонные плиты",
+        "url": "/plity/",
+        "options": [
+          {
+            "name": "Стиральные машины",
+            "url": "/stiralnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые варочные панели",
+            "url": "/vstraivaemye-varochnye-poverhnosti/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Холодильники",
+            "url": "/holodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые духовые шкафы",
+            "url": "/vstraivaemye-duhovye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вытяжки для кухни",
+            "url": "/vytyazhki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посудомоечные машины",
+            "url": "/posudomoechnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые холодильники",
+            "url": "/vstraivaemye-holodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые винные шкафы",
+            "url": "/vstraivaemye-vinnye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые вытяжки для кухни",
+            "url": "/vstraivaemye-vytyazhki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые кофемашины",
+            "url": "/vstraivaemye-kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые морозильные камеры",
+            "url": "/vstraivaemye-morozilnye-kamery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые пароварки",
+            "url": "/vstraivaemye-parovarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые посудомоечные машины",
+            "url": "/vstraivaemye-posudomoechnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые стиральные машины",
+            "url": "/vstraivaemye-stiralnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Сушильные машины для белья",
+            "url": "/sushilnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые микроволновые печи",
+            "url": "/vstraivaemye-mikrovolnovye-pechi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Морозильные камеры",
+            "url": "/morozilnye-kamery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Винные шкафы",
+            "url": "/vinnye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые шкафы для подогрева",
+            "url": "/shkafy-dlya-podogreva-posudy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Стиральные машины с функцией сушки (2 в 1)",
+            "url": "/stiralno-sushilnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые вакууматоры",
+            "url": "/vakuumatory/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Измельчители пищевых отходов",
+            "url": "/vstraivaemye-izmelchiteli-pischevyh-othodov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Автохолодильники",
+            "url": "/avtoholodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для крупной бытовой техники",
+            "url": "/aksessuary-krupnaya-bytovaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для холодильников",
+            "url": "/aksessuary-krupnaya-bytovaya-tehnika/filt_naznachenie-k_holodilnikam/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для автохолодильников",
+            "url": "/aksessuary-dlya-avtokholodilnikov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Хьюмидоры",
+            "url": "/khyumidory/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Кухонные плиты Gorenje",
+        "url": "/plity/gorenje/",
+        "options": [
+          {
+            "name": "Bertazzoni",
+            "url": "/plity/bertazzoni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Smeg",
+            "url": "/plity/smeg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Maunfeld",
+            "url": "/plity/maunfeld/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Электрическая плита Gorenje GEC5C61WG",
+        "url": "plita-gorenje-gec5c61wg",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      }
+    ],
+    "isArchive": false,
+    "__typename": "ProductV2",
+    "isSberPayOneClickAllowed": false,
+    "isTinkoffPayOneClickAllowed": false,
+    "bonus": null
+  },
+  "details": {
+    "description": "<div id=\"stream24-inpage\"></div> <script> (function (w, d, s, o) {   var f = d.getElementsByTagName(s)[0];   var j = d.createElement(s);   w.TTLStreamReady = new Promise((resolve) => {     j.async = true;     j.src = 'https://content.24ttl.stream/widget.js';     f.parentNode.insertBefore(j, f);     j.onload = function () {       w.ttlStream = new TTLStream(o);       resolve(w.ttlStream);     };   }); })(window, document, 'script', {}); </script> <script> var styleElement = document.createElement('style');  styleElement.innerHTML = \"body #stream24-inpage #stream-container *{ font-family: 'DINPro Technopark' !important; }\"; document.getElementsByTagName(\"head\")[0].appendChild(styleElement);  TTLStreamReady.then(() => {   ttlStream.findAndInsert({     el: '#stream24-inpage',     brand: 'gorenje',     productId: '3838782619304',     retailerDomain: 'www.technopark.ru',     templateType: 'master_template',     resultType: 'html',     contentType: 'minisite'   }); }); </script>",
+    "descriptionType": "RICH_STREAM_24",
+    "descriptionBarcode": "3838782619304",
+    "descriptionBrand": "Gorenje",
+    "specifications": {
+      "short": [
+        {
+          "name": "Варочная панель",
+          "value": "электрическая",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Духовка",
+          "value": "электрическая",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Рабочая поверхность",
+          "value": "стеклокерамика",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Объем духовки",
+          "value": "70 л",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Ширина",
+          "value": "50 см",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "barcode": "3838782619304",
+      "country": "Чехия",
+      "full": [
+        {
+          "name": "Основные характеристики",
+          "list": [
+            {
+              "name": "Тип",
+              "value": "электрическая",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Варочная панель",
+              "value": "электрическая",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Духовка",
+              "value": "электрическая",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Рабочая поверхность",
+              "value": "стеклокерамика",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет",
+              "value": "белый",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет панели конфорок",
+              "value": "чёрный",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет фурнитуры",
+              "value": "белый, чёрный",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Управление",
+          "list": [
+            {
+              "name": "Тип управления",
+              "value": "электромеханическое",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Переключатели",
+              "value": "поворотные, сенсорные",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип дисплея",
+              "value": "LED",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Таймер",
+              "value": "цифровой, таймер включения/выключения",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Звуковой таймер",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Варочная панель",
+          "list": [
+            {
+              "name": "Всего конфорок",
+              "value": "4",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип электроконфорок",
+              "value": "Hi-Light",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество электрических конфорок",
+              "value": "4",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Мощность задней левой конфорки",
+              "value": "1200 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Мощность задней правой конфорки",
+              "value": "1700 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Мощность передней левой конфорки",
+              "value": "1700 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Мощность передней правой конфорки",
+              "value": "1200 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Размер левой задней конфорки",
+              "value": "14.5 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Размер левой передней конфорки",
+              "value": "18 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Размер правой задней конфорки",
+              "value": "18 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Размер правой передней конфорки",
+              "value": "14.5 см",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Духовка",
+          "list": [
+            {
+              "name": "Количество духовок",
+              "value": "1",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Объем духовки",
+              "value": "70 л",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал рабочей камеры",
+              "value": "эмаль",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Очистка духовки",
+              "value": "гидролизная",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество режимов работы",
+              "value": "15",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Режимы работы",
+              "value": "быстрый нагрев, классический нагрев (сверху + снизу), нагрев сверху, нагрев снизу, классический нагрев (сверху + снизу) + работа вентилятора, гриль, большой гриль, гриль + работа вентилятора, нагрев сверху + работа вентилятора, интенсивное запекание AirFry, вентиляционный нагрев, нагрев снизу + работа вентилятора, пицца, приготовление замороженных продуктов, размораживание",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип гриля",
+              "value": "тэн",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество уровней приготовления",
+              "value": "4",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество стекол дверцы",
+              "value": "2",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Полозья для противней",
+              "value": "съемные, металлические",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Индикация",
+          "list": [
+            {
+              "name": "Индикация включения",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикаторная лампочка",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикатор работы духовки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикатор времени приготовления",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация остаточного тепла",
+              "value": "для всех зон",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Защита и безопасность",
+          "list": [
+            {
+              "name": "Блокировка панели управления",
+              "value": "есть",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автоматическое отключение при открытой дверце",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Энергопотребление",
+          "list": [
+            {
+              "name": "Класс энергопотребления",
+              "value": "A",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Мощность подключения",
+              "value": "9100 Вт",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Дополнительная информация",
+          "list": [
+            {
+              "name": "Дополнительные возможности духового шкафа",
+              "value": "вентилятор охлаждения, быстрый разогрев",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Часы",
+              "value": "электронные",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип освещения",
+              "value": "галогенная лампа",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество ламп освещения",
+              "value": "1",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Мощность одной лампы",
+              "value": "25 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дополнительная информация",
+              "value": "сводчатая форма духовки HomeMade, равномерное пропекание со всех сторон MultiAir",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Комплектация",
+          "list": [
+            {
+              "name": "Комплект поставки",
+              "value": "глубокий эмалированный противень, решётка",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ящик для посуды",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Инструкция",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Размеры и вес",
+          "list": [
+            {
+              "name": "Высота",
+              "value": "85 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ширина",
+              "value": "50 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Глубина",
+              "value": "59.4 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вес",
+              "value": "37.2 кг",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        }
+      ],
+      "grossWeight": "30",
+      "netWeight": "30",
+      "height": "0.95",
+      "instructionUrl": "https://storage.yandexcloud.net/technopark.instructions/678093/instruction/instrukciya-plita-gorenje-gec5c61wg.pdf",
+      "length": "0.58",
+      "schemeUrl": null,
+      "warranty": "12",
+      "width": "0.69",
+      "__typename": "ProductV2Specifications"
+    },
+    "certificates": ["https://www.technopark.ru/bipublic/Cert/IG0G15DTV0RRNM.pdf"],
+    "isManufacturerCountry": false,
+    "isSellerWarranty": false,
+    "reviews": {
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "total": 1,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "rating": {
+      "average": 5,
+      "canRate": false,
+      "total": {
+        "all": 1,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 1,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "isLoading": false
+  },
+  "shots": [
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/678093/1_678093.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/678093/1_678093.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/678093/2_678093.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/678093/2_678093.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/678093/3_678093.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/678093/3_678093.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/678093/4_678093.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/678093/4_678093.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/678093/5_678093.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/678093/5_678093.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/678093/6_678093.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/678093/6_678093.jpg"
+    ]
+  ],
+  "photos": [
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/plita-gorenje-gec5c61wg-1.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/plita-gorenje-gec5c61wg-2.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/plita-gorenje-gec5c61wg-3.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/plita-gorenje-gec5c61wg-4.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/plita-gorenje-gec5c61wg-5.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/plita-gorenje-gec5c61wg-6.jpg"
+  ]
+}

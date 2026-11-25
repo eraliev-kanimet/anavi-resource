@@ -1,0 +1,1387 @@
+{
+  "shelf": "duhovye-shkafy",
+  "slug": "duhovoy-shkaf-hotpoint-ariston-fe8-1231-smp-blg",
+  "product": {
+    "id": "726379",
+    "article": "166401",
+    "slug": "duhovoy-shkaf-hotpoint-ariston-fe8-1231-smp-blg",
+    "hasSmartInstallments": false,
+    "isActive": true,
+    "name": {
+      "default": "Hotpoint FE8 1231 SMP BLG",
+      "full": "Духовой шкаф Hotpoint FE8 1231 SMP BLG",
+      "pseudo": null,
+      "spare": null,
+      "fullWithoutSection": "Hotpoint FE8 1231 SMP BLG",
+      "section": "Духовой шкаф",
+      "__typename": "ProductName"
+    },
+    "price": {
+      "default": 43990,
+      "marketing": null,
+      "old": 64990,
+      "__typename": "ProductPrice"
+    },
+    "benefit": 21000,
+    "specifications": {
+      "short": [
+        {
+          "name": "Тип",
+          "value": "электрический",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Объем духовки",
+          "value": "72 л",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Количество режимов работы",
+          "value": "8",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Размеры (ширина)",
+          "value": "60 см",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Высота",
+          "value": "59.5 см",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "__typename": "ProductV2Specifications"
+    },
+    "labels": [
+      {
+        "name": "Бонусы Спасибо",
+        "type": "sberspasibo",
+        "items": [
+          {
+            "description": "",
+            "name": "Этот товар можно оплатить бонусами Спасибо от СберБанка",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Выгодное предложение",
+        "type": "special_offer",
+        "items": [
+          {
+            "description": "",
+            "name": "Техника и электроника",
+            "url": "/action/vygodnaya-tsena/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "5 000 бонусов за покупки",
+            "url": "/action/5-000-bonusov-za-pokupki/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Кредит",
+        "type": "credit",
+        "items": [
+          {
+            "description": "",
+            "name": "Кредит с переплатой 1% в месяц",
+            "url": "/duhovoy-shkaf-hotpoint-ariston-fe8-1231-smp-blg/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Кредит до 1% в месяц",
+            "url": "/duhovoy-shkaf-hotpoint-ariston-fe8-1231-smp-blg/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      }
+    ],
+    "labelsV2": [
+      {
+        "id": "14",
+        "name": "-15% на технику",
+        "code": "15-na-tekhniku",
+        "mainColor": "#F54B4B",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#FFFFFF",
+        "altTextColor": "#F54B4B",
+        "borderAndTextColor": "#F54B4B",
+        "items": [
+          {
+            "id": "152719",
+            "text": "Выгода при покупке крупной бытовой техники",
+            "buttonText": "Подробнее",
+            "url": "/action/vygoda-pri-pokupke-krupnoy-bytovoy-tekhniki/",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      },
+      {
+        "id": "8",
+        "name": "Бонусы Спасибо",
+        "code": "sberspasibo",
+        "mainColor": "#0C9C0C",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#0C9C0C",
+        "altTextColor": "#FFFFFF",
+        "borderAndTextColor": "#0C9C0C",
+        "items": [
+          {
+            "id": "29926",
+            "text": "Этот товар можно оплатить бонусами Спасибо от СберБанка ",
+            "buttonText": "Подробнее",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      },
+      {
+        "id": "5",
+        "name": "Выгода",
+        "code": "vygoda",
+        "mainColor": "#fd9600",
+        "mainTextColor": "#ffffff",
+        "altColor": "#fd9600",
+        "altTextColor": "#ffffff",
+        "borderAndTextColor": "#fd9600",
+        "items": [
+          {
+            "id": "874",
+            "text": "Выгодное предложение",
+            "buttonText": "Подробнее",
+            "url": "/action/vygodnaya-tsena/",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      }
+    ],
+    "status": {
+      "id": "IN_STOCK",
+      "name": "В наличии",
+      "type": "POSITIVE",
+      "__typename": "ProductStatus"
+    },
+    "brand": {
+      "code": "hotpoint",
+      "id": "40234",
+      "name": "Hotpoint",
+      "src": "https://cdn1.technopark.ru/technopark/photos_resized/section_brand_300_100/300_100/40234/1_40234.png",
+      "slug": "hotpoint",
+      "sections": [
+        {
+          "name": "Стиральные машины Hotpoint",
+          "url": "/stiralnye-mashiny/hotpoint/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3865812280/technopark/photos_resized/product/120_120/96024/1_96024.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2755070773/technopark/photos_resized/product/120_120/96024/2_96024.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3131459136/technopark/photos_resized/product/120_120/96024/3_96024.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/879734409/technopark/photos_resized/product/120_120/96024/4_96024.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Варочные поверхности Hotpoint",
+          "url": "/vstraivaemye-varochnye-poverhnosti/hotpoint/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/4082644754/technopark/photos_resized/product/120_120/728071/1_728071.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1676094083/technopark/photos_resized/product/120_120/728071/2_728071.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2586440412/technopark/photos_resized/product/120_120/728071/3_728071.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2220820356/technopark/photos_resized/product/120_120/728071/4_728071.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/52470630/technopark/photos_resized/product/120_120/728071/5_728071.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Холодильники Hotpoint",
+          "url": "/holodilniki/hotpoint/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/31305798/technopark/photos_resized/product/120_120/699839/1_699839.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3305013929/technopark/photos_resized/product/120_120/699839/2_699839.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3029628454/technopark/photos_resized/product/120_120/699839/3_699839.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1357566937/technopark/photos_resized/product/120_120/699839/4_699839.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Посудомоечные машины Hotpoint",
+          "url": "/posudomoechnye-mashiny/hotpoint/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/251888571/technopark/photos_resized/product/120_120/265984/1_265984.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2439452184/technopark/photos_resized/product/120_120/265984/2_265984.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Холодильники встраиваемые Hotpoint",
+          "url": "/vstraivaemye-holodilniki/hotpoint/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/4032194845/technopark/photos_resized/product/120_120/800855/1_800855.jpg?timestamp=2025-08-25_13-38-39",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3043441417/technopark/photos_resized/product/120_120/800855/2_800855.jpg?timestamp=2025-08-25_13-38-44",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2870070865/technopark/photos_resized/product/120_120/800855/3_800855.jpg?timestamp=2025-08-25_13-39-10",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3261074335/technopark/photos_resized/product/120_120/800855/4_800855.jpg?timestamp=2025-08-25_13-38-45",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/509085745/technopark/photos_resized/product/120_120/800855/5_800855.jpg?timestamp=2025-08-25_13-38-39",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3190959552/technopark/photos_resized/product/120_120/800855/6_800855.jpg?timestamp=2025-08-25_13-38-37",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Посудомоечные машины встраиваемые Hotpoint",
+          "url": "/vstraivaemye-posudomoechnye-mashiny/hotpoint/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3555830168/technopark/photos_resized/product/120_120/726453/1_726453.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3567021441/technopark/photos_resized/product/120_120/726453/2_726453.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Стиральные машины встраиваемые Hotpoint",
+          "url": "/vstraivaemye-stiralnye-mashiny/hotpoint/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1184856305/technopark/photos_resized/product/120_120/812029/1_812029.jpg?timestamp=2025-12-05_10-42-43",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4117184634/technopark/photos_resized/product/120_120/812029/2_812029.jpg?timestamp=2025-12-05_10-42-43",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1708678635/technopark/photos_resized/product/120_120/812029/3_812029.jpg?timestamp=2025-12-05_10-42-44",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/316632445/technopark/photos_resized/product/120_120/812029/4_812029.jpg?timestamp=2025-12-05_10-42-45",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2346073287/technopark/photos_resized/product/120_120/812029/5_812029.jpg?timestamp=2025-12-05_10-42-46",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Морозильные камеры Hotpoint",
+          "url": "/morozilnye-kamery/hotpoint/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2201671919/technopark/photos_resized/product/120_120/161485/1_161485.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4097697913/technopark/photos_resized/product/120_120/161485/2_161485.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Стиральные машины с сушкой Hotpoint",
+          "url": "/stiralno-sushilnye-mashiny/hotpoint/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2516379145/technopark/photos_resized/product/120_120/625297/1_625297.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2622138914/technopark/photos_resized/product/120_120/625297/2_625297.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/217429939/technopark/photos_resized/product/120_120/625297/3_625297.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2079491877/technopark/photos_resized/product/120_120/625297/4_625297.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3808155295/technopark/photos_resized/product/120_120/625297/5_625297.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        }
+      ],
+      "__typename": "Brand"
+    },
+    "section": {
+      "slug": "vstraivaemye-duhovye-shkafy",
+      "id": "914",
+      "name": "Духовые шкафы",
+      "parents": [
+        {
+          "id": "877",
+          "name": "Крупная бытовая",
+          "depth": 1,
+          "__typename": "SectionTreeItem"
+        },
+        {
+          "id": "914",
+          "name": "Духовые шкафы",
+          "depth": 2,
+          "__typename": "SectionTreeItem"
+        }
+      ],
+      "__typename": "Section"
+    },
+    "media": {
+      "gallery": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/726379/1_726379.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/726379/2_726379.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/726379/3_726379.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/726379/4_726379.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/726379/5_726379.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "interior": [],
+      "video": [],
+      "vkVideo": null,
+      "view3d": [],
+      "listing": {
+        "default": [
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/726379/1_726379.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/726379/2_726379.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/726379/3_726379.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/726379/4_726379.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/726379/5_726379.jpg",
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "ProductListing"
+      },
+      "__typename": "ProductV2Media"
+    },
+    "modifications": {
+      "bigBrother": null,
+      "groups": [],
+      "__typename": "ProductModifications"
+    },
+    "description": {
+      "hasDescription": true,
+      "type": "RICH",
+      "__typename": "ProductDescription"
+    },
+    "collection": {
+      "id": "726379",
+      "products": {
+        "pagination": {
+          "total": 0,
+          "__typename": "Pagination"
+        },
+        "__typename": "ProductV2Pagination"
+      },
+      "__typename": "ProductCollection"
+    },
+    "similar": {
+      "pagination": {
+        "total": 20,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "related": {
+      "pagination": {
+        "total": 19,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "accessories": [
+      {
+        "products": {
+          "pagination": {
+            "total": 1,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 18,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 9,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 4,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      }
+    ],
+    "rating": {
+      "average": 5,
+      "canRate": false,
+      "total": {
+        "all": 7,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 7,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "reviews": {
+      "total": 7,
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "totalRecommendations": 5,
+      "__typename": "ProductReviews"
+    },
+    "bestCredit": {
+      "monthPayment": 1369,
+      "type": "CREDIT",
+      "__typename": "ProductBestCredit"
+    },
+    "isSpare": false,
+    "isService": false,
+    "isVipService": false,
+    "isGiftBonusCard": false,
+    "canBuy": true,
+    "canPayOnline": true,
+    "canRequestPrice": false,
+    "canShowPrice": true,
+    "canSubscribe": false,
+    "needPrepaymentForDelivery": false,
+    "needPrepaymentForPreorder": false,
+    "isSberSpasiboPayAvailable": true,
+    "isYandexPayAllowed": false,
+    "yandexSplit": null,
+    "seo": {
+      "description": "Духовой шкаф Hotpoint FE8 1231 SMP BLG: купить в интернет-магазине Технопарк с расширенной гарантией и бесплатной доставкой по РФ. Подробные характеристики товара с отзывами реальных покупателей.",
+      "text": "Вы можете купить духовой шкаф Hotpoint FE8 1231 SMP BLG с доставкой по Москве по низкой цене. В интернет-магазине Technopark.ru осуществляется продажа духового шкафа Hotpoint FE8 1231 SMP BLG на выгодных условиях.",
+      "textHidden": "",
+      "title": "Духовой шкаф Hotpoint FE8 1231 SMP BLG - купить в Москве в интернет-магазине Технопарк",
+      "__typename": "SeoData"
+    },
+    "breadcrumbs": [
+      {
+        "name": "Главная",
+        "url": "/",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Крупная бытовая техника",
+        "url": "/krupnaya-bytovaya-tehnika/",
+        "options": [
+          {
+            "name": "Центр инноваций",
+            "url": "/tovary-iz-budushchego/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Смартфоны и гаджеты",
+            "url": "/smartfony-i-gadzhety/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Компьютеры и ноутбуки",
+            "url": "/kompyutery-i-noutbuki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Климатическая техника",
+            "url": "/klimaticheskaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Техника для кухни",
+            "url": "/dlya-kuhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Бытовая техника для дома",
+            "url": "/dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для красоты и здоровья",
+            "url": "/krasota-i-zdorovye/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Спортивные товары",
+            "url": "/trenazhery-dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Телевизоры Аудио Hi-Fi",
+            "url": "/audio-video-foto/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для сада, дома и ремонта",
+            "url": "/dlya-sada-doma-i-remonta/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посуда",
+            "url": "/posuda/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Детские товары",
+            "url": "/detskie-tovary/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для гейминга",
+            "url": "/gaming/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Плоттеры и услуги розницы",
+            "url": "//",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Запасные части",
+            "url": "/zapasnie-chasti/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Встраиваемые духовые шкафы",
+        "url": "/vstraivaemye-duhovye-shkafy/",
+        "options": [
+          {
+            "name": "Стиральные машины",
+            "url": "/stiralnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые варочные панели",
+            "url": "/vstraivaemye-varochnye-poverhnosti/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные плиты",
+            "url": "/plity/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Холодильники",
+            "url": "/holodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вытяжки для кухни",
+            "url": "/vytyazhki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посудомоечные машины",
+            "url": "/posudomoechnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые холодильники",
+            "url": "/vstraivaemye-holodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые винные шкафы",
+            "url": "/vstraivaemye-vinnye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые вытяжки для кухни",
+            "url": "/vstraivaemye-vytyazhki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые кофемашины",
+            "url": "/vstraivaemye-kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые морозильные камеры",
+            "url": "/vstraivaemye-morozilnye-kamery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые пароварки",
+            "url": "/vstraivaemye-parovarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые посудомоечные машины",
+            "url": "/vstraivaemye-posudomoechnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые стиральные машины",
+            "url": "/vstraivaemye-stiralnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Сушильные машины для белья",
+            "url": "/sushilnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые микроволновые печи",
+            "url": "/vstraivaemye-mikrovolnovye-pechi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Морозильные камеры",
+            "url": "/morozilnye-kamery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Винные шкафы",
+            "url": "/vinnye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые шкафы для подогрева",
+            "url": "/shkafy-dlya-podogreva-posudy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Стиральные машины с функцией сушки (2 в 1)",
+            "url": "/stiralno-sushilnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые вакууматоры",
+            "url": "/vakuumatory/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Измельчители пищевых отходов",
+            "url": "/vstraivaemye-izmelchiteli-pischevyh-othodov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Автохолодильники",
+            "url": "/avtoholodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для крупной бытовой техники",
+            "url": "/aksessuary-krupnaya-bytovaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для холодильников",
+            "url": "/aksessuary-krupnaya-bytovaya-tehnika/filt_naznachenie-k_holodilnikam/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для автохолодильников",
+            "url": "/aksessuary-dlya-avtokholodilnikov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Хьюмидоры",
+            "url": "/khyumidory/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Встраиваемые духовые шкафы Hotpoint",
+        "url": "/vstraivaemye-duhovye-shkafy/hotpoint/",
+        "options": [
+          {
+            "name": "Kuppersbusch",
+            "url": "/vstraivaemye-duhovye-shkafy/kuppersbusch/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Maunfeld",
+            "url": "/vstraivaemye-duhovye-shkafy/maunfeld/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Korting",
+            "url": "/vstraivaemye-duhovye-shkafy/korting/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Smeg",
+            "url": "/vstraivaemye-duhovye-shkafy/smeg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Bosch",
+            "url": "/vstraivaemye-duhovye-shkafy/bosch/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Electrolux",
+            "url": "/vstraivaemye-duhovye-shkafy/electrolux/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Asko",
+            "url": "/vstraivaemye-duhovye-shkafy/asko/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Kuppersberg",
+            "url": "/vstraivaemye-duhovye-shkafy/kuppersberg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Bertazzoni",
+            "url": "/vstraivaemye-duhovye-shkafy/bertazzoni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Gorenje",
+            "url": "/vstraivaemye-duhovye-shkafy/gorenje/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Midea",
+            "url": "/vstraivaemye-duhovye-shkafy/midea/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "AEG",
+            "url": "/vstraivaemye-duhovye-shkafy/aeg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "VARD",
+            "url": "/vstraivaemye-duhovye-shkafy/vard/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "De Dietrich",
+            "url": "/vstraivaemye-duhovye-shkafy/de_dietrich/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Haier",
+            "url": "/vstraivaemye-duhovye-shkafy/haier/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Siemens",
+            "url": "/vstraivaemye-duhovye-shkafy/siemens/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Miele",
+            "url": "/vstraivaemye-duhovye-shkafy/miele/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Beko",
+            "url": "/vstraivaemye-duhovye-shkafy/beko/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Whirlpool",
+            "url": "/vstraivaemye-duhovye-shkafy/whirlpool/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "V-ZUG",
+            "url": "/vstraivaemye-duhovye-shkafy/v_zug/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Indesit",
+            "url": "/vstraivaemye-duhovye-shkafy/indesit/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Elica",
+            "url": "/vstraivaemye-duhovye-shkafy/elica/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Brandt",
+            "url": "/vstraivaemye-duhovye-shkafy/brandt/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Casarte",
+            "url": "/vstraivaemye-duhovye-shkafy/casarte/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Hotpoint FE8 1231 SMP BLG",
+        "url": "duhovoy-shkaf-hotpoint-ariston-fe8-1231-smp-blg",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      }
+    ],
+    "isArchive": false,
+    "__typename": "ProductV2",
+    "isSberPayOneClickAllowed": false,
+    "isTinkoffPayOneClickAllowed": false,
+    "bonus": null
+  },
+  "details": {
+    "description": "<div id=\"stream24-inpage\"></div> <script> (function (w, d, s, o) {   var f = d.getElementsByTagName(s)[0];   var j = d.createElement(s);   w.TTLStreamReady = new Promise((resolve) => {     j.async = true;     j.src = 'https://content.24ttl.stream/widget.js';     f.parentNode.insertBefore(j, f);     j.onload = function () {       w.ttlStream = new TTLStream(o);       resolve(w.ttlStream);     };   }); })(window, document, 'script', {}); </script> <script> var styleElement = document.createElement('style');  styleElement.innerHTML = \"body #stream24-inpage #stream-container *{ font-family: 'DINPro Technopark' !important; }\"; document.getElementsByTagName(\"head\")[0].appendChild(styleElement);  TTLStreamReady.then(() => {   ttlStream.findAndInsert({     el: '#stream24-inpage',     brand: 'hotpoint',     productId: '8690842621932',     retailerDomain: 'www.technopark.ru',     templateType: 'master_template',     resultType: 'html',     contentType: 'minisite'   }); }); </script>",
+    "descriptionType": "RICH_STREAM_24",
+    "descriptionBarcode": "8690842621932",
+    "descriptionBrand": "Hotpoint",
+    "specifications": {
+      "short": [
+        {
+          "name": "Тип",
+          "value": "электрический",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Объем духовки",
+          "value": "72 л",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Количество режимов работы",
+          "value": "8",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Размеры (ширина)",
+          "value": "60 см",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Высота",
+          "value": "59.5 см",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "barcode": "8690842621932",
+      "country": "Турция",
+      "full": [
+        {
+          "name": "Общие характеристики",
+          "list": [
+            {
+              "name": "Тип",
+              "value": "электрический",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип подключения",
+              "value": "независимая",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Очистка",
+              "value": "пиролитическая",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал камеры",
+              "value": "эмаль",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал фронтальной панели",
+              "value": "стекло",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Объем духовки",
+              "value": "72 л",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет",
+              "value": "чёрный",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет фурнитуры",
+              "value": "чёрный",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет ручки",
+              "value": "серебристый",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Управление",
+          "list": [
+            {
+              "name": "Тип управления",
+              "value": "электромеханическое",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Переключатели",
+              "value": "поворотные, сенсорные, утапливаемые",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Расположение переключателя",
+              "value": "на поверхности духового шкафа",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип дисплея",
+              "value": "цифровой",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Таймер",
+              "value": "цифровой",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Звуковой таймер",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Индикация",
+          "list": [
+            {
+              "name": "Индикация режима работы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация окончания приготовления",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация включения",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикатор текущей температуры",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикатор времени приготовления",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Режимы работы",
+          "list": [
+            {
+              "name": "Количество режимов работы",
+              "value": "8",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Режимы работы",
+              "value": "работа с вентилятором, верхний и нижний нагрев, нижний нагрев, вентилятор нижнего/верхнего нагрева, конвекция, эко вентилятор с нагревом, функция «3D», полный гриль",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип гриля",
+              "value": "тэн",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная температура духового шкафа",
+              "value": "280 °С",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Безопасность",
+          "list": [
+            {
+              "name": "Блокировка панели управления",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Блокировка от детей",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Мощность и энергопотребление",
+          "list": [
+            {
+              "name": "Класс энергопотребления",
+              "value": "A+",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Потребляемая мощность",
+              "value": "3300 Вт",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Дополнительная информация",
+          "list": [
+            {
+              "name": "Дополнительные возможности духового шкафа",
+              "value": "вентилятор охлаждения",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Особенности конструкции духового шкафа",
+              "value": "петли Soft close, плавное закрытие дверцы, съемная дверца, съемное внутреннее стекло",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дверца духовки",
+              "value": "откидная",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество стекол дверцы",
+              "value": "4",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Часы",
+              "value": "электронные",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип освещения",
+              "value": "лампа накаливания",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество ламп освещения",
+              "value": "1",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Мощность одной лампы",
+              "value": "40 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество уровней направляющих",
+              "value": "5",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Полозья для противней",
+              "value": "металлические, съемные",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Телескопические направляющие",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Размещение телескопических направляющих",
+              "value": "одноуровневые",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дополнительная информация",
+              "value": "технология Flexi Crisp, технология AeroChef",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Комплектация",
+          "list": [
+            {
+              "name": "Комплект поставки",
+              "value": "стандартный противень, глубокий противень, решётка",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Инструкция",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Размеры и вес",
+          "list": [
+            {
+              "name": "Высота",
+              "value": "59.5 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ширина",
+              "value": "59.4 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Глубина",
+              "value": "56.7 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Высота встраивания",
+              "value": "59 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ширина встраивания",
+              "value": "56 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Глубина встраивания",
+              "value": "55 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вес",
+              "value": "35.2 кг",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        }
+      ],
+      "grossWeight": "37.2",
+      "netWeight": "35.2",
+      "height": "0.65",
+      "instructionUrl": "https://storage.yandexcloud.net/technopark.instructions/726379/instruction/instrukciya-duhovoy-shkaf-hotpoint-ariston-fe8-1231-smp-blg.pdf",
+      "length": "0.65",
+      "schemeUrl": null,
+      "warranty": "12",
+      "width": "0.65",
+      "__typename": "ProductV2Specifications"
+    },
+    "certificates": ["https://www.technopark.ru/bipublic/Cert/IG0G15EKFHUG3R.pdf"],
+    "isManufacturerCountry": false,
+    "isSellerWarranty": false,
+    "reviews": {
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "total": 7,
+      "totalRecommendations": 5,
+      "__typename": "ProductReviews"
+    },
+    "rating": {
+      "average": 5,
+      "canRate": false,
+      "total": {
+        "all": 7,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 7,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "isLoading": false
+  },
+  "shots": [
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/726379/1_726379.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/726379/1_726379.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/726379/2_726379.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/726379/2_726379.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/726379/3_726379.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/726379/3_726379.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/726379/4_726379.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/726379/4_726379.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/726379/5_726379.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/726379/5_726379.jpg"
+    ]
+  ],
+  "photos": [
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/duhovoy-shkaf-hotpoint-ariston-fe8-1231-smp-blg-1.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/duhovoy-shkaf-hotpoint-ariston-fe8-1231-smp-blg-2.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/duhovoy-shkaf-hotpoint-ariston-fe8-1231-smp-blg-3.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/duhovoy-shkaf-hotpoint-ariston-fe8-1231-smp-blg-4.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/duhovoy-shkaf-hotpoint-ariston-fe8-1231-smp-blg-5.jpg"
+  ]
+}

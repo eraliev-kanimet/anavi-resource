@@ -1,0 +1,1811 @@
+{
+  "shelf": "konditsionery",
+  "slug": "konditsioner-ballu-bsei-09hn8",
+  "product": {
+    "id": "729337",
+    "article": "167327",
+    "slug": "konditsioner-ballu-bsei-09hn8",
+    "hasSmartInstallments": false,
+    "isActive": true,
+    "name": {
+      "default": "Ballu BSEI-09HN8 Platinum DC Inverter",
+      "full": "Кондиционер Ballu BSEI-09HN8 Platinum DC Inverter",
+      "pseudo": null,
+      "spare": null,
+      "fullWithoutSection": "Ballu BSEI-09HN8 Platinum DC Inverter",
+      "section": "Кондиционер",
+      "__typename": "ProductName"
+    },
+    "price": {
+      "default": 34990,
+      "marketing": null,
+      "old": null,
+      "__typename": "ProductPrice"
+    },
+    "benefit": null,
+    "specifications": {
+      "short": [
+        {
+          "name": "Тип",
+          "value": "сплит-система",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Площадь помещения",
+          "value": "27 кв.м",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Мощность в режиме охлаждения",
+          "value": "2.7 кВт",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Мощность в режиме обогрева",
+          "value": "2.7 кВт",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Расход воздуха наружного блока",
+          "value": "1600 м3/ч",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "__typename": "ProductV2Specifications"
+    },
+    "labels": [
+      {
+        "name": "Бонусы Спасибо",
+        "type": "sberspasibo",
+        "items": [
+          {
+            "description": "",
+            "name": "Этот товар можно оплатить бонусами Спасибо от СберБанка",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Акция",
+        "type": "special_offer",
+        "items": [
+          {
+            "description": "",
+            "name": "5 000 бонусов за покупки",
+            "url": "/action/5-000-bonusov-za-pokupki/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Рассрочка",
+        "type": "deferred_payment",
+        "items": [
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-6",
+            "url": "/konditsioner-ballu-bsei-09hn8/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-12",
+            "url": "/konditsioner-ballu-bsei-09hn8/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-18",
+            "url": "/konditsioner-ballu-bsei-09hn8/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-24",
+            "url": "/konditsioner-ballu-bsei-09hn8/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      }
+    ],
+    "labelsV2": [
+      {
+        "id": "8",
+        "name": "Бонусы Спасибо",
+        "code": "sberspasibo",
+        "mainColor": "#0C9C0C",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#0C9C0C",
+        "altTextColor": "#FFFFFF",
+        "borderAndTextColor": "#0C9C0C",
+        "items": [
+          {
+            "id": "5132",
+            "text": "Этот товар можно оплатить бонусами Спасибо от СберБанка ",
+            "buttonText": "Подробнее",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      }
+    ],
+    "status": {
+      "id": "IN_STOCK",
+      "name": "В наличии",
+      "type": "POSITIVE",
+      "__typename": "ProductStatus"
+    },
+    "brand": {
+      "code": "ballu",
+      "id": "40211",
+      "name": "Ballu",
+      "src": "https://cdn1.technopark.ru/technopark/photos_resized/section_brand_300_100/300_100/40211/1_40211.png",
+      "slug": "ballu",
+      "sections": [
+        {
+          "name": "Вентиляторы Ballu",
+          "url": "/ventilyatory/ballu/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3130205461/technopark/photos_resized/product/120_120/787290/1_787290.jpg?timestamp=2025-04-24_10-16-27",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/597324975/technopark/photos_resized/product/120_120/787290/2_787290.jpg?timestamp=2025-04-24_10-16-27",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3554861275/technopark/photos_resized/product/120_120/787290/3_787290.jpg?timestamp=2025-04-24_10-16-29",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Очистители воздуха Ballu",
+          "url": "/ochistiteli-vozduha/ballu/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2515465273/technopark/photos_resized/product/120_120/693373/1_693373.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/145445199/technopark/photos_resized/product/120_120/693373/2_693373.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/89254312/technopark/photos_resized/product/120_120/693373/3_693373.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3031655209/technopark/photos_resized/product/120_120/693373/4_693373.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3806971055/technopark/photos_resized/product/120_120/693373/5_693373.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2742278746/technopark/photos_resized/product/120_120/693373/6_693373.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/383624215/technopark/photos_resized/product/120_120/693373/7_693373.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3869585507/technopark/photos_resized/product/120_120/693373/8_693373.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Все водонагреватели Ballu",
+          "url": "/vodonagrevateli/ballu/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/365920839/technopark/photos_resized/product/120_120/725588/1_725588.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1195272480/technopark/photos_resized/product/120_120/725588/2_725588.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4112149337/technopark/photos_resized/product/120_120/725588/3_725588.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2182962127/technopark/photos_resized/product/120_120/725588/4_725588.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/819913115/technopark/photos_resized/product/120_120/725588/5_725588.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/809064886/technopark/photos_resized/product/120_120/725588/6_725588.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2690776074/technopark/photos_resized/product/120_120/725588/7_725588.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Обогреватели Ballu",
+          "url": "/obogrevateli-i-teplovye-zavesy/ballu/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2364837547/technopark/photos_resized/product/120_120/576138/1_576138.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3720604980/technopark/photos_resized/product/120_120/576138/2_576138.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4227055165/technopark/photos_resized/product/120_120/576138/3_576138.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/368959249/technopark/photos_resized/product/120_120/576138/4_576138.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2458024947/technopark/photos_resized/product/120_120/576138/5_576138.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4238244388/technopark/photos_resized/product/120_120/576138/6_576138.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Увлажнители воздуха Ballu",
+          "url": "/uvlazhniteli-vozduha/ballu/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3118807377/technopark/photos_resized/product/120_120/680757/1_680757.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1583158358/technopark/photos_resized/product/120_120/680757/2_680757.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/693773504/technopark/photos_resized/product/120_120/680757/3_680757.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4137987990/technopark/photos_resized/product/120_120/680757/4_680757.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Мойки воздуха Ballu",
+          "url": "/moyki-vozduha/ballu/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2247060428/technopark/photos_resized/product/120_120/680754/1_680754.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4075314010/technopark/photos_resized/product/120_120/680754/2_680754.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1649886923/technopark/photos_resized/product/120_120/680754/3_680754.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1929001889/technopark/photos_resized/product/120_120/680754/4_680754.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Камины Ballu",
+          "url": "/elektrokaminy/ballu/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2061871177/technopark/photos_resized/product/120_120/766273/1_766273.jpg?timestamp=2024-11-06_10-58-32",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1950228603/technopark/photos_resized/product/120_120/766273/2_766273.jpg?timestamp=2024-11-06_10-58-34",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/351906206/technopark/photos_resized/product/120_120/766273/3_766273.jpg?timestamp=2024-11-06_10-58-35",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1831145786/technopark/photos_resized/product/120_120/766273/4_766273.jpg?timestamp=2024-11-06_10-58-37",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/177167558/technopark/photos_resized/product/120_120/766273/5_766273.jpg?timestamp=2024-11-06_10-58-33",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Осушители Ballu",
+          "url": "/osushiteli/ballu/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3024999927/technopark/photos_resized/product/120_120/830308/1_830308.jpg?timestamp=2026-05-07_10-33-38",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Тепловые пушки Ballu",
+          "url": "/teplovye-pushki/ballu/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2142992883/technopark/photos_resized/product/120_120/775733/1_775733.jpg?timestamp=2025-01-14_15-30-42",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/289456137/technopark/photos_resized/product/120_120/775733/2_775733.jpg?timestamp=2025-01-14_15-30-43",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2286522803/technopark/photos_resized/product/120_120/775733/3_775733.jpg?timestamp=2025-01-14_15-30-43",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/634412369/technopark/photos_resized/product/120_120/775733/4_775733.jpg?timestamp=2025-01-14_15-30-54",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4053084439/technopark/photos_resized/product/120_120/775733/5_775733.jpg?timestamp=2025-01-14_15-30-44",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4283343141/technopark/photos_resized/product/120_120/775733/6_775733.jpg?timestamp=2025-01-14_15-30-43",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/582850888/technopark/photos_resized/product/120_120/775733/7_775733.jpg?timestamp=2025-01-14_15-30-56",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        }
+      ],
+      "__typename": "Brand"
+    },
+    "section": {
+      "slug": "konditsionery",
+      "id": "880",
+      "name": "Все кондиционеры",
+      "parents": [
+        {
+          "id": "878",
+          "name": "Климат",
+          "depth": 1,
+          "__typename": "SectionTreeItem"
+        },
+        {
+          "id": "880",
+          "name": "Все кондиционеры",
+          "depth": 2,
+          "__typename": "SectionTreeItem"
+        }
+      ],
+      "__typename": "Section"
+    },
+    "media": {
+      "gallery": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/729337/1_729337.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/729337/2_729337.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/729337/3_729337.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/729337/4_729337.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/729337/5_729337.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "interior": [],
+      "video": [],
+      "vkVideo": null,
+      "view3d": [],
+      "listing": {
+        "default": [
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/729337/1_729337.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/729337/2_729337.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/729337/3_729337.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/729337/4_729337.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/729337/5_729337.jpg",
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "ProductListing"
+      },
+      "__typename": "ProductV2Media"
+    },
+    "modifications": {
+      "bigBrother": null,
+      "groups": [
+        {
+          "name": "Обслуживаемая площадь",
+          "items": [
+            {
+              "value": "23",
+              "product": {
+                "slug": "konditsioner-ballu-bsei-07hn8",
+                "article": "167326",
+                "name": {
+                  "default": "Ballu BSEI-07HN8 Platinum DC Inverter",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "SHOWCASE",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/729269/1_729269.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/729269/2_729269.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/729269/3_729269.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/729269/4_729269.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/729269/5_729269.jpg",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            },
+            {
+              "value": "27",
+              "product": {
+                "slug": "konditsioner-ballu-bsei-09hn8",
+                "article": "167327",
+                "name": {
+                  "default": "Ballu BSEI-09HN8 Platinum DC Inverter",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "IN_STOCK",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/729337/1_729337.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/729337/2_729337.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/729337/3_729337.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/729337/4_729337.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/729337/5_729337.jpg",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            },
+            {
+              "value": "37",
+              "product": {
+                "slug": "konditsioner-ballu-bsei-12hn8",
+                "article": "167328",
+                "name": {
+                  "default": "Ballu BSEI-12HN8 Platinum DC Inverter",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "NOT_AVAILABLE",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/729345/1_729345.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/729345/2_729345.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/729345/3_729345.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/729345/4_729345.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/729345/5_729345.jpg",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            }
+          ],
+          "__typename": "ProductV2ModificationGroup"
+        }
+      ],
+      "__typename": "ProductModifications"
+    },
+    "description": {
+      "hasDescription": true,
+      "type": "DEFAULT",
+      "__typename": "ProductDescription"
+    },
+    "collection": {
+      "id": "729337",
+      "products": {
+        "pagination": {
+          "total": 0,
+          "__typename": "Pagination"
+        },
+        "__typename": "ProductV2Pagination"
+      },
+      "__typename": "ProductCollection"
+    },
+    "similar": {
+      "pagination": {
+        "total": 20,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "related": {
+      "pagination": {
+        "total": 20,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "accessories": [
+      {
+        "products": {
+          "pagination": {
+            "total": 3,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      }
+    ],
+    "rating": {
+      "average": 5,
+      "canRate": false,
+      "total": {
+        "all": 4,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 4,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "reviews": {
+      "total": 4,
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "bestCredit": {
+      "monthPayment": 1458,
+      "type": "DEFERRED_PAYMENT",
+      "__typename": "ProductBestCredit"
+    },
+    "isSpare": false,
+    "isService": false,
+    "isVipService": false,
+    "isGiftBonusCard": false,
+    "canBuy": true,
+    "canPayOnline": true,
+    "canRequestPrice": false,
+    "canShowPrice": true,
+    "canSubscribe": false,
+    "needPrepaymentForDelivery": false,
+    "needPrepaymentForPreorder": false,
+    "isSberSpasiboPayAvailable": true,
+    "isYandexPayAllowed": false,
+    "yandexSplit": {
+      "payments": [
+        {
+          "amount": 0,
+          "date": "2026-08-17T09:05:48+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2925,
+          "date": "2026-08-31T09:05:48+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2915,
+          "date": "2026-09-14T09:05:48+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2915,
+          "date": "2026-09-28T09:05:48+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2915,
+          "date": "2026-10-12T09:05:48+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2915,
+          "date": "2026-10-26T09:05:48+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2915,
+          "date": "2026-11-09T09:05:48+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2915,
+          "date": "2026-11-23T09:05:48+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2915,
+          "date": "2026-12-07T09:05:48+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2915,
+          "date": "2026-12-21T09:05:48+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2915,
+          "date": "2027-01-04T09:05:48+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2915,
+          "date": "2027-01-18T09:05:48+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2915,
+          "date": "2027-02-01T09:05:48+0300",
+          "__typename": "YandexSplitPayment"
+        }
+      ],
+      "firstPayment": 0,
+      "restPayment": 34990,
+      "description": "https://yandex.ru/support/split/",
+      "maxAmount": 295000,
+      "__typename": "YandexSplit"
+    },
+    "seo": {
+      "description": "Кондиционер Ballu BSEI-09HN8 Platinum DC Inverter: купить в интернет-магазине Технопарк с расширенной гарантией и бесплатной доставкой по РФ. Подробные характеристики товара с отзывами реальных покупателей.",
+      "text": "Вы можете купить кондиционер Ballu BSEI-09HN8 Platinum DC Inverter с доставкой по Москве по низкой цене. В интернет-магазине Technopark.ru осуществляется продажа кондиционера Ballu BSEI-09HN8 Platinum DC Inverter на выгодных условиях.",
+      "textHidden": "",
+      "title": "Кондиционер Ballu BSEI-09HN8 Platinum DC Inverter - купить в Москве в интернет-магазине Технопарк",
+      "__typename": "SeoData"
+    },
+    "breadcrumbs": [
+      {
+        "name": "Главная",
+        "url": "/",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Климатическая техника",
+        "url": "/klimaticheskaya-tehnika/",
+        "options": [
+          {
+            "name": "Центр инноваций",
+            "url": "/tovary-iz-budushchego/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Смартфоны и гаджеты",
+            "url": "/smartfony-i-gadzhety/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Компьютеры и ноутбуки",
+            "url": "/kompyutery-i-noutbuki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Крупная бытовая техника",
+            "url": "/krupnaya-bytovaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Техника для кухни",
+            "url": "/dlya-kuhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Бытовая техника для дома",
+            "url": "/dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для красоты и здоровья",
+            "url": "/krasota-i-zdorovye/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Спортивные товары",
+            "url": "/trenazhery-dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Телевизоры Аудио Hi-Fi",
+            "url": "/audio-video-foto/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для сада, дома и ремонта",
+            "url": "/dlya-sada-doma-i-remonta/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посуда",
+            "url": "/posuda/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Детские товары",
+            "url": "/detskie-tovary/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для гейминга",
+            "url": "/gaming/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Плоттеры и услуги розницы",
+            "url": "//",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Запасные части",
+            "url": "/zapasnie-chasti/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Кондиционеры",
+        "url": "/konditsionery/",
+        "options": [
+          {
+            "name": "Вентиляторы",
+            "url": "/ventilyatory/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мульти сплит-системы",
+            "url": "/multisplit-sistemy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Водонагреватели",
+            "url": "/vodonagrevateli/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Очиститель воздуха для квартиры и дома",
+            "url": "/ochistiteli-vozduha/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Увлажнители воздуха",
+            "url": "/uvlazhniteli-vozduha/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мойки воздуха",
+            "url": "/moyki-vozduha/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Ионизаторы воздуха",
+            "url": "/ionizatory-vozdukha/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Осушители воздуха",
+            "url": "/osushiteli/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрические обогреватели",
+            "url": "/obogrevateli-i-teplovye-zavesy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Тепловые пушки",
+            "url": "/teplovye-pushki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрические тепловые завесы",
+            "url": "/teplovye-zavesy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Камины",
+            "url": "/elektrokaminy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Метеостанции",
+            "url": "/tsifrovye-meteostantsii/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для очистителей воздуха",
+            "url": "/aksessuary-dlya-ochistiteley-vozduha/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для увлажнителей",
+            "url": "/aksessuary-dlya-uvlazhniteley/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для обогревателей",
+            "url": "/aksessuar-dlya-obogrevateley/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для электрокаминов ",
+            "url": "/aksessuary-dlya-elektrokaminov-/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для вентиляторов",
+            "url": "/aksessuary-dlya-ventilyatorov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для кондиционеров",
+            "url": "/filtry-dlya-klimata/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Кондиционеры Ballu",
+        "url": "/konditsionery/ballu/",
+        "options": [
+          {
+            "name": "QYRON",
+            "url": "/konditsionery/qyron/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Hisense",
+            "url": "/konditsionery/hisense/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "ROYAL Clima",
+            "url": "/konditsionery/royal_clima/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Haier",
+            "url": "/konditsionery/haier/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Funai",
+            "url": "/konditsionery/funai/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Loriot",
+            "url": "/konditsionery/loriot/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Midea",
+            "url": "/konditsionery/midea/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "LG",
+            "url": "/konditsionery/lg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Electrolux",
+            "url": "/konditsionery/electrolux/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Ishimatsu",
+            "url": "/konditsionery/ishimatsu/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "AQUA",
+            "url": "/konditsionery/aqua/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Panasonic",
+            "url": "/konditsionery/panasonic/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Casarte",
+            "url": "/konditsionery/casarte/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Mitsubishi Electric",
+            "url": "/konditsionery/mitsubishi_electric/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Pioneer",
+            "url": "/konditsionery/pioneer/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Aurum",
+            "url": "/konditsionery/aurum/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Breeon",
+            "url": "/konditsionery/breeon/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Akai",
+            "url": "/konditsionery/akai/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "AURUS",
+            "url": "/konditsionery/aurus/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Kentatsu",
+            "url": "/konditsionery/kentatsu/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "IGC",
+            "url": "/konditsionery/igc/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Hitachi",
+            "url": "/konditsionery/hitachi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Viomi",
+            "url": "/konditsionery/viomi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Suzuki",
+            "url": "/konditsionery/suzuki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "TCL",
+            "url": "/konditsionery/tcl/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Daikin",
+            "url": "/konditsionery/daikin/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "DAICHI",
+            "url": "/konditsionery/daichi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Samsung",
+            "url": "/konditsionery/samsung/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Dantex",
+            "url": "/konditsionery/dantex/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Bosch",
+            "url": "/konditsionery/bosch/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Mitsubishi Heavy Industries",
+            "url": "/konditsionery/mitsubishi_heavy_industries/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Shivaki",
+            "url": "/konditsionery/shivaki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Primera",
+            "url": "/konditsionery/primera/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "HitAir",
+            "url": "/konditsionery/hitair/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Evapolar",
+            "url": "/konditsionery/evapolar/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Abion",
+            "url": "/konditsionery/abion/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Toshiba",
+            "url": "/konditsionery/toshiba/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Mitsubishi",
+            "url": "/konditsionery/mitsubishi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Zanussi",
+            "url": "/konditsionery/zanussi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Fujiplus",
+            "url": "/konditsionery/fujiplus/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Ballu BSEI-09HN8 Platinum DC Inverter",
+        "url": "konditsioner-ballu-bsei-09hn8",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      }
+    ],
+    "isArchive": false,
+    "__typename": "ProductV2",
+    "isSberPayOneClickAllowed": false,
+    "isTinkoffPayOneClickAllowed": false,
+    "bonus": null
+  },
+  "details": {
+    "description": "<style> *{box-sizing:border-box;outline:0}body{font-family:'DINPro Technopark',Arial;font-size:14px;font-weight:400;font-display:swap;margin:0;overflow-x:hidden;position:relative;min-height:95vh;-webkit-tap-highlight-color:transparent}body.lock-scroll{overflow:hidden;position:fixed;right:0;left:0;bottom:0}@media (min-width:1192px){body.lock-scroll{position:relative}}@media screen and (max-device-width:480px){body{-webkit-text-size-adjust:none}}.label-for-seo{width:100%}.label-for-seo__span{display:none}a{color:#0093c4;text-decoration:none}.is-visible{display:block!important}.is-hidden{display:none!important}.is-visually-hidden{opacity:0!important;visibility:hidden!important;pointer-events:none!important}.is-link{color:#0093c4}.no-wrap{white-space:nowrap}.container{margin:auto;width:100%}@media (min-width:960px){.container{width:calc(100% - 48px)}}@media (min-width:1482px){.container{max-width:1397px}}.is-overflow-hidden{overflow:hidden}.is-mobile-not{display:none!important}@media (min-width:960px){.is-mobile-not{display:block!important}}@media (min-width:960px){.is-mobile-only{display:none!important}}@media (max-width:959px){.hide-phone{display:none}}@media (min-width:960px) and (max-width:1481px){.hide-tablet{display:none}}.is-hidden{display:none!important}.nowrap-text{white-space:nowrap}.textcenter{text-align:center}ul.list{margin:0;padding:6px 0 18px}@media (min-width:960px){ul.list{padding:6px 0 24px}}ul.list li{font-family:'DINPro Technopark',Arial;font-size:15px;font-weight:400;font-display:swap;color:#fff;line-height:20px;list-style:none;margin:0;padding-left:9px;position:relative}@media (min-width:960px){ul.list li{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:400;font-display:swap;line-height:21px;padding-left:26px}}ul.list>li:before{background-color:#fff;border-radius:50%;content:\"\";display:block;height:3px;left:0;position:absolute;top:10px;width:3px}@media (min-width:960px){ul.list>li:before{border-radius:0;height:1px;width:13px}}ul.list>li>ul{padding:6px 0 6px 15px}@media (min-width:960px){ul.list>li>ul{padding:3px 0 3px 4px}}ul.list>li>ul>li:before{background-color:rgba(255,255,255,.5)}ul.list>li>ul>li>ul{padding:6px 0 0 15px}@media (min-width:960px){ul.list>li>ul>li>ul{padding:3px 0 0 4px}}ul.list>li>ul>li>ul>li:before{background-color:rgba(255,255,255,.2)}ol.list{margin:0;padding:6px 0 18px;counter-reset:list1}@media (min-width:960px){ol.list{padding:6px 0 24px}}ol.list li{font-family:'DINPro Technopark',Arial;font-size:15px;font-weight:400;font-display:swap;color:#fff;line-height:20px;list-style:none;margin:0;padding-left:9px;position:relative}@media (min-width:960px){ol.list li{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:400;font-display:swap;line-height:21px;padding-left:26px}}ol.list>li{padding-left:24px}ol.list>li:before{counter-increment:list1;content:counter(list1) \". \";left:0;position:absolute}ol.list>li>ol{counter-reset:list2;padding:6px 0}@media (min-width:960px){ol.list>li>ol{padding:3px 0}}ol.list>li>ol>li{padding-left:42px}ol.list>li>ol>li:before{counter-increment:list2;content:counter(list1) \".\" counter(list2) \". \"}ol.list>li>ol>li>ol{counter-reset:list3}ol.list>li>ol>li>ol>li:before{counter-increment:list3;content:counter(list1) \".\" counter(list2) \".\" counter(list3) \". \"}ol.list--compact{padding:0}.list--line-interval li:not(:last-child){margin-bottom:1em}input::-ms-clear{display:none}input::-webkit-clear-button{display:none}@media (max-width:767px){.footer{padding-bottom:66px}}.page-container{margin:auto;padding:0 18px;width:100%}@media (min-width:960px){.page-container{padding:0 24px;width:100%}}@media (min-width:1482px){.page-container{width:1481px}}@media (min-width:960px){.page-container--extra-padding{padding:0 42px}}.default-container{width:100%;max-width:1481px;margin:auto;padding:0 12px}@media (min-width:960px){.default-container{padding:0 24px}}button,input,select,textarea{font-family:inherit;font-size:100%;margin:0}textarea{resize:none;overflow:auto}form{margin:0}button{color:inherit}dd,dl,dt{margin:0;padding:0}input[type=search]{-webkit-appearance:none}input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration,input[type=search]::-webkit-search-results-button,input[type=search]::-webkit-search-results-decoration{display:none}input:invalid{box-shadow:none}textarea:invalid{box-shadow:none}svg *{pointer-events:none}.product__desc{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:300;font-display:swap;color:#878787;display:none}.product__desc b{font-family:'DINPro Technopark',Arial;font-size:20px;font-weight:400;font-display:swap;color:#fff}.dyson-v10-picking,.dyson-v10-properties,.dyson-v10-wrapper,.dyson-v10-wrapper .dyson-v10__list span{color:#fff;padding:0 12px}@media (max-width:1154px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:170px}}@media (max-width:1100px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:270px}}@media (max-width:960px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:27px}}.dyson-v10-first-row li.dyson-v10-item{max-width:calc(100% / 3 - 10);padding-right:5px}@media (max-width:959px){.dyson-v10-first-row{flex-direction:column;align-items:flex-start}.dyson-v10-first-row li.dyson-v10-item{max-width:none}}@media (min-width:960px) and (max-width:1303px){.dyson-v10-first-row{flex-direction:column;align-items:flex-start}.dyson-v10-first-row li.dyson-v10-item{max-width:none}}.dyson-v10-chapter{text-align:center!important}.dyson-v10__list li.dyson-v10__list-item{background-size:contain;background-position:left} </style> <p>  \tКондиционер Ballu BSEI-09HN8 Platinum DC Inverter эффективно охлаждает и обогревает помещения до 27 м2, поддерживая стабильную температуру при низком энергопотреблении. Тихая работа от 25 дБ, многоступенчатая регулировка воздушного потока, функции самоочистки и «Дежурного обогрева» обеспечивают комфортный микроклимат круглый год. Удобное управление с пульта ДУ позволяет легко настраивать режимы и параметры работы.  </p>  <h2>Особенности</h2>  <ul class=\"list\">  <li><b>Инверторная технология</b><br>  Инверторная технология автоматически регулирует мощность компрессора, поддерживая стабильную температуру без резких перепадов. Это снижает энергопотребление, уменьшает уровень шума и продлевает срок службы кондиционера</li>  <li><b>Управление</b><br>  \tУправление осуществляется с помощью удобного пульта ДУ с цифровой индикацией, позволяющего точно настраивать температуру, режимы и направление воздушного потока</li>    <li><b>Режим охлаждения</b><br>  Режим охлаждения обеспечивает эффективное снижение температуры в помещении, быстро создавая комфортный микроклимат</li>  \t  <li><b> Режим обогрева</b><br>  \t Режим обогрева эффективно поддерживает необходимую температуру в помещении даже при низких наружных температурах до -15 °C, а функция «тёплого пуска» предотвращает подачу холодного воздуха при включении кондиционера</li>  \t<li><b>3D контроль потока воздуха</b><br>  \t Одной из ключевых особенностей кондиционеров Ballu Platinum DC Inverter является трёхмерное управление воздушным потоком, благодаря которому холодный или тёплый воздух равномерно распределяется по всему помещению</li>  \t<li><b>Функция I-Feel</b><br>  \tФункция I-Feel обеспечивает высокоточное поддержание температуры вблизи пользователя за счёт работы датчиков во внутреннем блоке и пульте ДУ, автоматически корректируя параметры работы кондиционера</li>  <li><b>Функция «Дежурный обогрев»</b><br>  Функция «Дежурный обогрев» поддерживает температуру в помещении на уровне около 8 °C, предотвращая его переохлаждение и замерзание в холодный период</li>  <li><b>Функция самоочистки</b><br>  Функция самоочистки очищает теплообменник от пыли и удаляет остаточную влагу, предотвращая образование плесени и неприятных запахов</li>  <li><b>Возможность подключения Wi-Fi модуля</b><br>  Предусмотрена возможность подключения Wi-Fi модуля (приобретается отдельно), что позволяет расширить функциональность кондиционера и управлять его работой удалённо через мобильное приложение</li>  \t  </ul>",
+    "descriptionType": "DEFAULT",
+    "descriptionBarcode": "2401100067319",
+    "descriptionBrand": "Ballu",
+    "specifications": {
+      "short": [
+        {
+          "name": "Тип",
+          "value": "сплит-система",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Площадь помещения",
+          "value": "27 кв.м",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Мощность в режиме охлаждения",
+          "value": "2.7 кВт",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Мощность в режиме обогрева",
+          "value": "2.7 кВт",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Расход воздуха наружного блока",
+          "value": "1600 м3/ч",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "barcode": "2401100067319",
+      "country": "Китай",
+      "full": [
+        {
+          "name": "Основные характеристики",
+          "list": [
+            {
+              "name": "Тип",
+              "value": "сплит-система",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Размещение внутреннего блока",
+              "value": "настенный",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Инверторная технология",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Площадь помещения",
+              "value": "27 кв.м",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип хладагента",
+              "value": "R-32",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Серия",
+              "value": "Platinum DС Inverter",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Производительность",
+          "list": [
+            {
+              "name": "Мощность в режиме охлаждения",
+              "value": "2.7 кВт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Мощность в режиме обогрева",
+              "value": "2.7 кВт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Расход воздуха наружного блока",
+              "value": "1600 м3/ч",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Расход воздуха внутреннего блока",
+              "value": "600 м3/ч",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Основные режимы",
+          "list": [
+            {
+              "name": "Охлаждение",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Обогрев",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Осушение воздуха",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автоматический режим",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вентиляция",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ночной режим",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тихий режим",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Функции",
+          "list": [
+            {
+              "name": "Таймер включения",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Таймер выключения",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Авторестарт",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Теплый пуск",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Обогрев при низких температурах",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Самоочистка",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Турбо режим",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Регулировка воздушного потока",
+          "list": [
+            {
+              "name": "Количество скоростей",
+              "value": "5",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автоматическое распределение воздушных потоков",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Регулировка силы воздушного потока",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Управление направлением воздушного потока (вверх/вниз)",
+              "value": "с пульта",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Управление направлением воздушного потока (влево/вправо)",
+              "value": "с пульта",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Уровень шума",
+          "list": [
+            {
+              "name": "Максимальный уровень шума внутреннего блока",
+              "value": "25 дБ",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальный уровень шума внешнего блока",
+              "value": "50 дБ",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Фильтрация",
+          "list": [
+            {
+              "name": "Фильтрация воздуха",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Фильтр грубой очистки (сетчатый)",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Особенности",
+          "list": [
+            {
+              "name": "Тепловой насос",
+              "value": "нет",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Датчики",
+              "value": "температуры",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Поддержание температуры в месте нахождения пульта",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Защита от обмерзания наружного блока",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Память позиции жалюзи",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дополнительная информация",
+              "value": "функция «Дежурный обогрев»",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Управление",
+          "list": [
+            {
+              "name": "Управление",
+              "value": "электронное",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Пульт ДУ",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Управление со смартфона",
+              "value": "да, подключение через Wi-Fi модуль",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Wi-Fi модуль",
+              "value": "приобретается дополнительно",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Поддержка приложений",
+              "value": "Hommyn",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Дисплей",
+          "list": [
+            {
+              "name": "Тип дисплея",
+              "value": "цифровой",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Расположение дисплея",
+              "value": "корпус, пульт",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Индикация",
+          "list": [
+            {
+              "name": "Индикация включения",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация режима работы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация температуры",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация неисправности",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Температурный режим работы",
+          "list": [
+            {
+              "name": "Минимальная рабочая температура при охлаждении",
+              "value": "18 °C",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная рабочая температура при охлаждении",
+              "value": "43 °C",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Минимальная рабочая температура при обогреве",
+              "value": "-15 °C",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная рабочая температура при обогреве",
+              "value": "24 °C",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Фреоновые магистрали",
+          "list": [
+            {
+              "name": "Максимальный перепад высоты магистрали",
+              "value": "10 м",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная длина магистрали",
+              "value": "20 м",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Диаметр жидкостной трубы",
+              "value": "6.35 мм",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Диаметр газовой трубы",
+              "value": "9.53 мм",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Электропитание",
+          "list": [
+            {
+              "name": "Потребляемая мощность при охлаждении",
+              "value": "835 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Потребляемая мощность при обогреве",
+              "value": "720 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Класс энергоэффективности",
+              "value": "A",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Рабочий ток при охлаждении",
+              "value": "4.2 A",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Рабочий ток при обогреве",
+              "value": "3.1 A",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Рабочее напряжение",
+              "value": "220-240 B",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Рабочая частота",
+              "value": "50 Гц",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Степень защиты",
+              "value": "IPX0/IPX4",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Режим энергосбережения",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Корпус",
+          "list": [
+            {
+              "name": "Цвет",
+              "value": "белый",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет внешнего блока",
+              "value": "белый",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Комплектация",
+          "list": [
+            {
+              "name": "Пульт ДУ",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Инструкция",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Размеры и вес",
+          "list": [
+            {
+              "name": "Высота внутреннего блока",
+              "value": "27 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ширина внутреннего блока",
+              "value": "78 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Глубина внутреннего блока",
+              "value": "21.2 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вес внутреннего блока",
+              "value": "7.8 кг",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Высота внешнего блока",
+              "value": "48.2 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ширина внешнего блока",
+              "value": "66 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Глубина внешнего блока",
+              "value": "24 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вес внешнего блока",
+              "value": "20.5 кг",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        }
+      ],
+      "grossWeight": "32.1",
+      "netWeight": "28.3",
+      "height": "0.51",
+      "instructionUrl": "https://storage.yandexcloud.net/technopark.instructions/729337/instruction/instruction-konditsioner-ballu-bsei-09hn8.pdf",
+      "length": "0.34",
+      "schemeUrl": null,
+      "warranty": "36",
+      "width": "1.16",
+      "__typename": "ProductV2Specifications"
+    },
+    "certificates": ["https://www.technopark.ru/bipublic/Cert/I00HH37BL3SUFH.pdf"],
+    "isManufacturerCountry": false,
+    "isSellerWarranty": false,
+    "reviews": {
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "total": 4,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "rating": {
+      "average": 5,
+      "canRate": false,
+      "total": {
+        "all": 4,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 4,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "isLoading": false
+  },
+  "shots": [
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/729337/1_729337.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/729337/1_729337.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/729337/2_729337.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/729337/2_729337.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/729337/3_729337.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/729337/3_729337.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/729337/4_729337.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/729337/4_729337.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/729337/5_729337.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/729337/5_729337.jpg"
+    ]
+  ],
+  "photos": [
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/konditsioner-ballu-bsei-09hn8-1.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/konditsioner-ballu-bsei-09hn8-2.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/konditsioner-ballu-bsei-09hn8-3.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/konditsioner-ballu-bsei-09hn8-4.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/konditsioner-ballu-bsei-09hn8-5.jpg"
+  ]
+}

@@ -1,0 +1,1348 @@
+{
+  "shelf": "plity",
+  "slug": "plita-smeg-c6imxt2-classica",
+  "product": {
+    "id": "660082",
+    "article": "153724",
+    "slug": "plita-smeg-c6imxt2-classica",
+    "hasSmartInstallments": false,
+    "isActive": true,
+    "name": {
+      "default": "Smeg C6IMXT2 Classica",
+      "full": "Плита Smeg C6IMXT2 Classica",
+      "pseudo": null,
+      "spare": null,
+      "fullWithoutSection": "Smeg C6IMXT2 Classica",
+      "section": "Плита",
+      "__typename": "ProductName"
+    },
+    "price": {
+      "default": 135990,
+      "marketing": null,
+      "old": null,
+      "__typename": "ProductPrice"
+    },
+    "benefit": null,
+    "specifications": {
+      "short": [
+        {
+          "name": "Варочная панель",
+          "value": "индукционная",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Духовка",
+          "value": "электрическая",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Рабочая поверхность",
+          "value": "стеклокерамика",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Объем духовки",
+          "value": "79 л",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Ширина",
+          "value": "60 см",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "__typename": "ProductV2Specifications"
+    },
+    "labels": [
+      {
+        "name": "Бонусы Спасибо",
+        "type": "sberspasibo",
+        "items": [
+          {
+            "description": "",
+            "name": "Этот товар можно оплатить бонусами Спасибо от СберБанка",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Рассрочка",
+        "type": "deferred_payment",
+        "items": [
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-6",
+            "url": "/plita-smeg-c6imxt2-classica/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-12",
+            "url": "/plita-smeg-c6imxt2-classica/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-18",
+            "url": "/plita-smeg-c6imxt2-classica/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-24",
+            "url": "/plita-smeg-c6imxt2-classica/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      }
+    ],
+    "labelsV2": [
+      {
+        "id": "14",
+        "name": "-15% на технику",
+        "code": "15-na-tekhniku",
+        "mainColor": "#F54B4B",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#FFFFFF",
+        "altTextColor": "#F54B4B",
+        "borderAndTextColor": "#F54B4B",
+        "items": [
+          {
+            "id": "146691",
+            "text": "Выгода при покупке крупной бытовой техники",
+            "buttonText": "Подробнее",
+            "url": "/action/vygoda-pri-pokupke-krupnoy-bytovoy-tekhniki/",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      },
+      {
+        "id": "8",
+        "name": "Бонусы Спасибо",
+        "code": "sberspasibo",
+        "mainColor": "#0C9C0C",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#0C9C0C",
+        "altTextColor": "#FFFFFF",
+        "borderAndTextColor": "#0C9C0C",
+        "items": [
+          {
+            "id": "21800",
+            "text": "Этот товар можно оплатить бонусами Спасибо от СберБанка ",
+            "buttonText": "Подробнее",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      }
+    ],
+    "status": {
+      "id": "IN_STOCK",
+      "name": "В наличии",
+      "type": "POSITIVE",
+      "__typename": "ProductStatus"
+    },
+    "brand": {
+      "code": "smeg",
+      "id": "40283",
+      "name": "Smeg",
+      "src": "https://cdn1.technopark.ru/technopark/photos_resized/section_brand_300_100/300_100/40283/1_40283.png",
+      "slug": "smeg",
+      "sections": [
+        {
+          "name": "Духовые шкафы Smeg",
+          "url": "/vstraivaemye-duhovye-shkafy/smeg/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/692708231/technopark/photos_resized/product/120_120/789967/1_789967.jpg?timestamp=2025-05-19_15-38-52",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4153588427/technopark/photos_resized/product/120_120/789967/2_789967.jpg?timestamp=2025-05-19_15-38-51",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Мойки для кухни Smeg",
+          "url": "/moyki-dlya-kukhni/smeg/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/4185680820/technopark/photos_resized/product/120_120/667198/1_667198.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Морозильные камеры встраиваемые Smeg",
+          "url": "/vstraivaemye-morozilnye-kamery/smeg/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2373564139/technopark/photos_resized/product/120_120/805403/1_805403.jpg?timestamp=2025-10-07_16-29-21",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2489485226/technopark/photos_resized/product/120_120/805403/2_805403.jpg?timestamp=2025-10-07_16-29-26",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/342943569/technopark/photos_resized/product/120_120/805403/3_805403.jpg?timestamp=2025-10-07_16-29-19",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Стиральные машины встраиваемые Smeg",
+          "url": "/vstraivaemye-stiralnye-mashiny/smeg/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1237067717/technopark/photos_resized/product/120_120/279583/1_279583.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Сушильные машины Smeg",
+          "url": "/sushilnye-mashiny/smeg/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2688767296/technopark/photos_resized/product/120_120/764867/1_764867.jpg?timestamp=2024-10-25_15-30-37",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3611583958/technopark/photos_resized/product/120_120/764867/2_764867.jpg?timestamp=2024-10-25_15-30-38",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Вспениватели молока Smeg",
+          "url": "/vspenivateli-moloka/smeg/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3421485576/technopark/photos_resized/product/120_120/826062/1_826062.jpg?timestamp=2026-04-05_13-32-45",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2971928956/technopark/photos_resized/product/120_120/826062/2_826062.jpg?timestamp=2026-04-05_13-32-45",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1788890595/technopark/photos_resized/product/120_120/826062/3_826062.jpg?timestamp=2026-04-05_13-32-46",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2210654422/technopark/photos_resized/product/120_120/826062/4_826062.jpg?timestamp=2026-04-05_13-32-46",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/497515893/technopark/photos_resized/product/120_120/826062/5_826062.jpg?timestamp=2026-04-05_13-32-47",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/743937807/technopark/photos_resized/product/120_120/826062/6_826062.jpg?timestamp=2026-04-05_13-32-47",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3756624771/technopark/photos_resized/product/120_120/826062/7_826062.jpg?timestamp=2026-04-05_13-32-48",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1189141049/technopark/photos_resized/product/120_120/826062/8_826062.jpg?timestamp=2026-04-05_13-32-48",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Все аксессуары Smeg",
+          "url": "/aksessuary-krupnaya-bytovaya-tehnika/smeg/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3415141281/technopark/photos_resized/product/120_120/669091/1_669091.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Настольные плиты Smeg",
+          "url": "/induktsionnye-paneli/smeg/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1027243513/technopark/photos_resized/product/120_120/759560/1_759560.jpg?timestamp=2024-09-17_11-50-07",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4139960100/technopark/photos_resized/product/120_120/759560/2_759560.jpg?timestamp=2024-09-17_11-50-06",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3543407829/technopark/photos_resized/product/120_120/759560/3_759560.jpg?timestamp=2024-09-17_11-50-07",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4277452206/technopark/photos_resized/product/120_120/759560/4_759560.jpg?timestamp=2024-09-17_11-50-20",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2754817091/technopark/photos_resized/product/120_120/759560/5_759560.jpg?timestamp=2024-09-17_11-50-07",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1245531503/technopark/photos_resized/product/120_120/759560/6_759560.jpg?timestamp=2024-09-17_11-50-07",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1850449983/technopark/photos_resized/product/120_120/759560/7_759560.jpg?timestamp=2024-09-17_11-50-19",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/505500848/technopark/photos_resized/product/120_120/759560/8_759560.jpg?timestamp=2024-09-17_11-50-18",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2267546890/technopark/photos_resized/product/120_120/759560/9_759560.jpg?timestamp=2024-09-17_11-50-18",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Стиральные машины с сушкой Smeg",
+          "url": "/stiralno-sushilnye-mashiny/smeg/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2192328427/technopark/photos_resized/product/120_120/277826/1_277826.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        }
+      ],
+      "__typename": "Brand"
+    },
+    "section": {
+      "slug": "plity",
+      "id": "908",
+      "name": "Плиты",
+      "parents": [
+        {
+          "id": "877",
+          "name": "Крупная бытовая",
+          "depth": 1,
+          "__typename": "SectionTreeItem"
+        },
+        {
+          "id": "908",
+          "name": "Плиты",
+          "depth": 2,
+          "__typename": "SectionTreeItem"
+        }
+      ],
+      "__typename": "Section"
+    },
+    "media": {
+      "gallery": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/660082/1_660082.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/660082/2_660082.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/660082/3_660082.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "interior": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior/1000_1000/660082/1_660082.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior/1000_1000/660082/2_660082.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior/1000_1000/660082/3_660082.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior/1000_1000/660082/4_660082.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "video": [],
+      "vkVideo": null,
+      "view3d": [],
+      "listing": {
+        "default": [
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/660082/1_660082.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/660082/2_660082.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/660082/3_660082.jpg",
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "ProductListing"
+      },
+      "__typename": "ProductV2Media"
+    },
+    "modifications": {
+      "bigBrother": null,
+      "groups": [],
+      "__typename": "ProductModifications"
+    },
+    "description": {
+      "hasDescription": true,
+      "type": "DEFAULT",
+      "__typename": "ProductDescription"
+    },
+    "collection": {
+      "id": "660082",
+      "products": {
+        "pagination": {
+          "total": 0,
+          "__typename": "Pagination"
+        },
+        "__typename": "ProductV2Pagination"
+      },
+      "__typename": "ProductCollection"
+    },
+    "similar": {
+      "pagination": {
+        "total": 20,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "related": {
+      "pagination": {
+        "total": 20,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "accessories": [
+      {
+        "products": {
+          "pagination": {
+            "total": 6,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 17,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 19,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      }
+    ],
+    "rating": {
+      "average": 5,
+      "canRate": false,
+      "total": {
+        "all": 1,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 1,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "reviews": {
+      "total": 1,
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "bestCredit": {
+      "monthPayment": 5667,
+      "type": "DEFERRED_PAYMENT",
+      "__typename": "ProductBestCredit"
+    },
+    "isSpare": false,
+    "isService": false,
+    "isVipService": false,
+    "isGiftBonusCard": false,
+    "canBuy": true,
+    "canPayOnline": true,
+    "canRequestPrice": false,
+    "canShowPrice": true,
+    "canSubscribe": false,
+    "needPrepaymentForDelivery": false,
+    "needPrepaymentForPreorder": false,
+    "isSberSpasiboPayAvailable": true,
+    "isYandexPayAllowed": false,
+    "yandexSplit": {
+      "payments": [
+        {
+          "amount": 0,
+          "date": "2026-08-17T09:00:48+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 11338,
+          "date": "2026-08-31T09:00:48+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 11332,
+          "date": "2026-09-14T09:00:48+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 11332,
+          "date": "2026-09-28T09:00:48+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 11332,
+          "date": "2026-10-12T09:00:48+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 11332,
+          "date": "2026-10-26T09:00:48+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 11332,
+          "date": "2026-11-09T09:00:48+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 11332,
+          "date": "2026-11-23T09:00:48+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 11332,
+          "date": "2026-12-07T09:00:48+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 11332,
+          "date": "2026-12-21T09:00:48+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 11332,
+          "date": "2027-01-04T09:00:48+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 11332,
+          "date": "2027-01-18T09:00:48+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 11332,
+          "date": "2027-02-01T09:00:48+0300",
+          "__typename": "YandexSplitPayment"
+        }
+      ],
+      "firstPayment": 0,
+      "restPayment": 135990,
+      "description": "https://yandex.ru/support/split/",
+      "maxAmount": 295000,
+      "__typename": "YandexSplit"
+    },
+    "seo": {
+      "description": "Плита Smeg C6IMXT2 Classica: купить в интернет-магазине Технопарк с расширенной гарантией и бесплатной доставкой по РФ. Подробные характеристики товара с отзывами реальных покупателей.",
+      "text": "Вы можете купить плиту Smeg C6IMXT2 Classica с доставкой по Москве по низкой цене. В интернет-магазине Technopark.ru осуществляется продажа плиты Smeg C6IMXT2 Classica на выгодных условиях.",
+      "textHidden": "",
+      "title": "Плита Smeg C6IMXT2 Classica - купить в Москве в интернет-магазине Технопарк",
+      "__typename": "SeoData"
+    },
+    "breadcrumbs": [
+      {
+        "name": "Главная",
+        "url": "/",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Крупная бытовая техника",
+        "url": "/krupnaya-bytovaya-tehnika/",
+        "options": [
+          {
+            "name": "Центр инноваций",
+            "url": "/tovary-iz-budushchego/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Смартфоны и гаджеты",
+            "url": "/smartfony-i-gadzhety/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Компьютеры и ноутбуки",
+            "url": "/kompyutery-i-noutbuki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Климатическая техника",
+            "url": "/klimaticheskaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Техника для кухни",
+            "url": "/dlya-kuhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Бытовая техника для дома",
+            "url": "/dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для красоты и здоровья",
+            "url": "/krasota-i-zdorovye/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Спортивные товары",
+            "url": "/trenazhery-dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Телевизоры Аудио Hi-Fi",
+            "url": "/audio-video-foto/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для сада, дома и ремонта",
+            "url": "/dlya-sada-doma-i-remonta/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посуда",
+            "url": "/posuda/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Детские товары",
+            "url": "/detskie-tovary/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для гейминга",
+            "url": "/gaming/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Плоттеры и услуги розницы",
+            "url": "//",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Запасные части",
+            "url": "/zapasnie-chasti/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Кухонные плиты",
+        "url": "/plity/",
+        "options": [
+          {
+            "name": "Стиральные машины",
+            "url": "/stiralnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые варочные панели",
+            "url": "/vstraivaemye-varochnye-poverhnosti/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Холодильники",
+            "url": "/holodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые духовые шкафы",
+            "url": "/vstraivaemye-duhovye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вытяжки для кухни",
+            "url": "/vytyazhki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посудомоечные машины",
+            "url": "/posudomoechnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые холодильники",
+            "url": "/vstraivaemye-holodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые винные шкафы",
+            "url": "/vstraivaemye-vinnye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые вытяжки для кухни",
+            "url": "/vstraivaemye-vytyazhki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые кофемашины",
+            "url": "/vstraivaemye-kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые морозильные камеры",
+            "url": "/vstraivaemye-morozilnye-kamery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые пароварки",
+            "url": "/vstraivaemye-parovarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые посудомоечные машины",
+            "url": "/vstraivaemye-posudomoechnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые стиральные машины",
+            "url": "/vstraivaemye-stiralnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Сушильные машины для белья",
+            "url": "/sushilnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые микроволновые печи",
+            "url": "/vstraivaemye-mikrovolnovye-pechi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Морозильные камеры",
+            "url": "/morozilnye-kamery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Винные шкафы",
+            "url": "/vinnye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые шкафы для подогрева",
+            "url": "/shkafy-dlya-podogreva-posudy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Стиральные машины с функцией сушки (2 в 1)",
+            "url": "/stiralno-sushilnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые вакууматоры",
+            "url": "/vakuumatory/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Измельчители пищевых отходов",
+            "url": "/vstraivaemye-izmelchiteli-pischevyh-othodov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Автохолодильники",
+            "url": "/avtoholodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для крупной бытовой техники",
+            "url": "/aksessuary-krupnaya-bytovaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для холодильников",
+            "url": "/aksessuary-krupnaya-bytovaya-tehnika/filt_naznachenie-k_holodilnikam/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для автохолодильников",
+            "url": "/aksessuary-dlya-avtokholodilnikov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Хьюмидоры",
+            "url": "/khyumidory/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Кухонные плиты Smeg",
+        "url": "/plity/smeg/",
+        "options": [
+          {
+            "name": "Bertazzoni",
+            "url": "/plity/bertazzoni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Maunfeld",
+            "url": "/plity/maunfeld/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Gorenje",
+            "url": "/plity/gorenje/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Smeg C6IMXT2 Classica",
+        "url": "plita-smeg-c6imxt2-classica",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      }
+    ],
+    "isArchive": false,
+    "__typename": "ProductV2",
+    "isSberPayOneClickAllowed": false,
+    "isTinkoffPayOneClickAllowed": false,
+    "bonus": null
+  },
+  "details": {
+    "description": "<style> *{box-sizing:border-box;outline:0}body{font-family:'DINPro Technopark',Arial;font-size:14px;font-weight:400;font-display:swap;margin:0;overflow-x:hidden;position:relative;min-height:95vh;-webkit-tap-highlight-color:transparent}body.lock-scroll{overflow:hidden;position:fixed;right:0;left:0;bottom:0}@media (min-width:1192px){body.lock-scroll{position:relative}}@media screen and (max-device-width:480px){body{-webkit-text-size-adjust:none}}.label-for-seo{width:100%}.label-for-seo__span{display:none}a{color:#0093c4;text-decoration:none}.is-visible{display:block!important}.is-hidden{display:none!important}.is-visually-hidden{opacity:0!important;visibility:hidden!important;pointer-events:none!important}.is-link{color:#0093c4}.no-wrap{white-space:nowrap}.container{margin:auto;width:100%}@media (min-width:960px){.container{width:calc(100% - 48px)}}@media (min-width:1482px){.container{max-width:1397px}}.is-overflow-hidden{overflow:hidden}.is-mobile-not{display:none!important}@media (min-width:960px){.is-mobile-not{display:block!important}}@media (min-width:960px){.is-mobile-only{display:none!important}}@media (max-width:959px){.hide-phone{display:none}}@media (min-width:960px) and (max-width:1481px){.hide-tablet{display:none}}.is-hidden{display:none!important}.nowrap-text{white-space:nowrap}.textcenter{text-align:center}ul.list{margin:0;padding:6px 0 18px}@media (min-width:960px){ul.list{padding:6px 0 24px}}ul.list li{font-family:'DINPro Technopark',Arial;font-size:15px;font-weight:400;font-display:swap;color:#fff;line-height:20px;list-style:none;margin:0;padding-left:9px;position:relative}@media (min-width:960px){ul.list li{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:400;font-display:swap;line-height:21px;padding-left:26px}}ul.list>li:before{background-color:#fff;border-radius:50%;content:\"\";display:block;height:3px;left:0;position:absolute;top:10px;width:3px}@media (min-width:960px){ul.list>li:before{border-radius:0;height:1px;width:13px}}ul.list>li>ul{padding:6px 0 6px 15px}@media (min-width:960px){ul.list>li>ul{padding:3px 0 3px 4px}}ul.list>li>ul>li:before{background-color:rgba(255,255,255,.5)}ul.list>li>ul>li>ul{padding:6px 0 0 15px}@media (min-width:960px){ul.list>li>ul>li>ul{padding:3px 0 0 4px}}ul.list>li>ul>li>ul>li:before{background-color:rgba(255,255,255,.2)}ol.list{margin:0;padding:6px 0 18px;counter-reset:list1}@media (min-width:960px){ol.list{padding:6px 0 24px}}ol.list li{font-family:'DINPro Technopark',Arial;font-size:15px;font-weight:400;font-display:swap;color:#fff;line-height:20px;list-style:none;margin:0;padding-left:9px;position:relative}@media (min-width:960px){ol.list li{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:400;font-display:swap;line-height:21px;padding-left:26px}}ol.list>li{padding-left:24px}ol.list>li:before{counter-increment:list1;content:counter(list1) \". \";left:0;position:absolute}ol.list>li>ol{counter-reset:list2;padding:6px 0}@media (min-width:960px){ol.list>li>ol{padding:3px 0}}ol.list>li>ol>li{padding-left:42px}ol.list>li>ol>li:before{counter-increment:list2;content:counter(list1) \".\" counter(list2) \". \"}ol.list>li>ol>li>ol{counter-reset:list3}ol.list>li>ol>li>ol>li:before{counter-increment:list3;content:counter(list1) \".\" counter(list2) \".\" counter(list3) \". \"}ol.list--compact{padding:0}.list--line-interval li:not(:last-child){margin-bottom:1em}input::-ms-clear{display:none}input::-webkit-clear-button{display:none}@media (max-width:767px){.footer{padding-bottom:66px}}.page-container{margin:auto;padding:0 18px;width:100%}@media (min-width:960px){.page-container{padding:0 24px;width:100%}}@media (min-width:1482px){.page-container{width:1481px}}@media (min-width:960px){.page-container--extra-padding{padding:0 42px}}.default-container{width:100%;max-width:1481px;margin:auto;padding:0 12px}@media (min-width:960px){.default-container{padding:0 24px}}button,input,select,textarea{font-family:inherit;font-size:100%;margin:0}textarea{resize:none;overflow:auto}form{margin:0}button{color:inherit}dd,dl,dt{margin:0;padding:0}input[type=search]{-webkit-appearance:none}input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration,input[type=search]::-webkit-search-results-button,input[type=search]::-webkit-search-results-decoration{display:none}input:invalid{box-shadow:none}textarea:invalid{box-shadow:none}svg *{pointer-events:none}.product__desc{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:300;font-display:swap;color:#878787;display:none}.product__desc b{font-family:'DINPro Technopark',Arial;font-size:20px;font-weight:400;font-display:swap;color:#fff}.dyson-v10-picking,.dyson-v10-properties,.dyson-v10-wrapper,.dyson-v10-wrapper .dyson-v10__list span{color:#fff;padding:0 12px}@media (max-width:1154px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:170px}}@media (max-width:1100px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:270px}}@media (max-width:960px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:27px}}.dyson-v10-first-row li.dyson-v10-item{max-width:calc(100% / 3 - 10);padding-right:5px}@media (max-width:959px){.dyson-v10-first-row{flex-direction:column;align-items:flex-start}.dyson-v10-first-row li.dyson-v10-item{max-width:none}}@media (min-width:960px) and (max-width:1303px){.dyson-v10-first-row{flex-direction:column;align-items:flex-start}.dyson-v10-first-row li.dyson-v10-item{max-width:none}}.dyson-v10-chapter{text-align:center!important}.dyson-v10__list li.dyson-v10__list-item{background-size:contain;background-position:left} </style> <p>  \t Плита Smeg C6IMXT2 Classica оснащена индукционной варочной панелью и электрическим духовым шкафом. Цифровые часы служат для отображения текущего времени, настройки приготовления и таймера.  </p>  <h2>Особенности</h2>  <ul class=\"list\">  \t<li><b>Индукционная варочная поверхность</b><br>  \t Стеклокерамическая индукционная варочная поверхность оснащена четырьмя конфорками. Для управления работой каждой из зон нагрева установлен модуль с сенсорными переключателями. Предусмотрена индикация остаточного тепла и автоматическое определение диаметра посуды </li>  \t<li><b>Функция Booster</b><br>  \t Функция Booster позволяет максимально нагреть ёмкость за ограниченное время. Она может пригодиться для быстрого кипячения большого количества воды </li>  \t<li><b>Термоизолированная дверца духовки</b><br>  \t Духовой шкаф оборудован съёмной, полностью стеклянной дверцей с тройным стеклопакетом, внешняя поверхность которой не нагревается до высоких температур </li>  \t<li><b>Дизайн</b><br>  \t Плита представлена в классическом корпусе, выполненном из нержавеющей стали с матовым покрытием, на котором не остаются отпечатки пальцев </li>  </ul>",
+    "descriptionType": "DEFAULT",
+    "descriptionBarcode": "8017709329013",
+    "descriptionBrand": "Smeg",
+    "specifications": {
+      "short": [
+        {
+          "name": "Варочная панель",
+          "value": "индукционная",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Духовка",
+          "value": "электрическая",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Рабочая поверхность",
+          "value": "стеклокерамика",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Объем духовки",
+          "value": "79 л",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Ширина",
+          "value": "60 см",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "barcode": "8017709329013",
+      "country": "Италия",
+      "full": [
+        {
+          "name": "Основные характеристики",
+          "list": [
+            {
+              "name": "Тип",
+              "value": "электрическая",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Варочная панель",
+              "value": "индукционная",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Духовка",
+              "value": "электрическая",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Рабочая поверхность",
+              "value": "стеклокерамика",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет",
+              "value": "серебристый",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет панели конфорок",
+              "value": "чёрный",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет фурнитуры",
+              "value": "серебристый",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Управление",
+          "list": [
+            {
+              "name": "Тип управления",
+              "value": "электромеханическое",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Переключатели",
+              "value": "поворотные, сенсорные",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип дисплея",
+              "value": "сенсорный",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Таймер",
+              "value": "таймер выключения",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Звуковой таймер",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Варочная панель",
+          "list": [
+            {
+              "name": "Всего конфорок",
+              "value": "4",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип электроконфорок",
+              "value": "индукционный",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Мощность задней левой конфорки",
+              "value": "1200/1600 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Мощность задней правой конфорки",
+              "value": "1500/2000 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Мощность передней левой конфорки",
+              "value": "1500/2000 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Мощность передней правой конфорки",
+              "value": "1200/1600 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Размер левой задней конфорки",
+              "value": "15 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Размер левой передней конфорки",
+              "value": "21 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Размер правой задней конфорки",
+              "value": "21 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Размер правой передней конфорки",
+              "value": "15 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Режим усиленного нагрева",
+              "value": "Booster",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество конфорок с режимом усиления",
+              "value": "4",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Духовка",
+          "list": [
+            {
+              "name": "Количество духовок",
+              "value": "1",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Объем духовки",
+              "value": "79 л",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал рабочей камеры",
+              "value": "эмаль Ever Clean",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Очистка духовки",
+              "value": "гидролизная",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество режимов работы",
+              "value": "6",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Режимы работы",
+              "value": "статический нагрев, конвекция, Eco, большой гриль, большой гриль + конвекция, нижний нагрев + конвекция",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип гриля",
+              "value": "тэн",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество уровней приготовления",
+              "value": "5",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная температура духового шкафа",
+              "value": "260 °С",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество стекол дверцы",
+              "value": "3",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Полозья для противней",
+              "value": "металлические",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Индикация",
+          "list": [
+            {
+              "name": "Индикация режима работы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикаторная лампочка",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикатор работы духовки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация остаточного тепла",
+              "value": "для всех зон",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Защита и безопасность",
+          "list": [
+            {
+              "name": "Блокировка панели управления",
+              "value": "нет",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Термоэлектрический предохранитель",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Отключение при перегреве",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Защита от перегрева",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тангенциальное охлаждение",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Энергопотребление",
+          "list": [
+            {
+              "name": "Класс энергопотребления",
+              "value": "A",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Мощность подключения",
+              "value": "10000 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Мощность гриля",
+              "value": "2700 Вт",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Дополнительная информация",
+          "list": [
+            {
+              "name": "Дополнительные возможности духового шкафа",
+              "value": "вентилятор охлаждения",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Часы",
+              "value": "электронные",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип освещения",
+              "value": "галогенная лампа",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество ламп освещения",
+              "value": "1",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Мощность одной лампы",
+              "value": "40 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Защитное покрытие от отпечатков пальцев",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Распознавание размера посуды",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Комплектация",
+          "list": [
+            {
+              "name": "Комплект поставки",
+              "value": "решётка с задним и боковым упором, глубокий противень",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Инструкция",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Размеры и вес",
+          "list": [
+            {
+              "name": "Высота",
+              "value": "90 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ширина",
+              "value": "60 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Глубина",
+              "value": "60 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вес",
+              "value": "50.1 кг",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        }
+      ],
+      "grossWeight": "57",
+      "netWeight": "50.1",
+      "height": "0.86",
+      "instructionUrl": "https://storage.yandexcloud.net/technopark.instructions/660082/instruction/instrukciya-plita-smeg-c6imxt2-classica.pdf",
+      "length": "0.68",
+      "schemeUrl": null,
+      "warranty": "24",
+      "width": "0.67",
+      "__typename": "ProductV2Specifications"
+    },
+    "certificates": [
+      "https://www.technopark.ru/bipublic/Cert/1408H2E078SK0I.pdf",
+      "https://www.technopark.ru/bipublic/Cert/IG0G15DB70RDA4.pdf"
+    ],
+    "isManufacturerCountry": false,
+    "isSellerWarranty": false,
+    "reviews": {
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "total": 1,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "rating": {
+      "average": 5,
+      "canRate": false,
+      "total": {
+        "all": 1,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 1,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "isLoading": false
+  },
+  "shots": [
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/660082/1_660082.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/660082/1_660082.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/660082/2_660082.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/660082/2_660082.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/660082/3_660082.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/660082/3_660082.jpg"
+    ]
+  ],
+  "photos": [
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/plita-smeg-c6imxt2-classica-1.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/plita-smeg-c6imxt2-classica-2.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/plita-smeg-c6imxt2-classica-3.jpg"
+  ]
+}

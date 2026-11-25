@@ -1,0 +1,1634 @@
+{
+  "shelf": "stiralnye-mashiny",
+  "slug": "stiralnaya-mashina-miele-wq-1000-wps-834642",
+  "product": {
+    "id": "834642",
+    "article": "187487",
+    "slug": "stiralnaya-mashina-miele-wq-1000-wps-834642",
+    "hasSmartInstallments": false,
+    "isActive": true,
+    "name": {
+      "default": "Miele WQ 1000 WPS RU",
+      "full": "Стиральная машина Miele WQ 1000 WPS RU",
+      "pseudo": null,
+      "spare": null,
+      "fullWithoutSection": "Miele WQ 1000 WPS RU",
+      "section": "Стиральная машина",
+      "__typename": "ProductName"
+    },
+    "price": {
+      "default": 339990,
+      "marketing": null,
+      "old": null,
+      "__typename": "ProductPrice"
+    },
+    "benefit": null,
+    "specifications": {
+      "short": [
+        {
+          "name": "Установка",
+          "value": "отдельностоящая",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Максимальная загрузка белья",
+          "value": "9 кг",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Максимальная скорость отжима",
+          "value": "до 1600 об/мин",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Количество программ",
+          "value": "25",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Глубина",
+          "value": "60 см",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "__typename": "ProductV2Specifications"
+    },
+    "labels": [
+      {
+        "name": "Бонусы Спасибо",
+        "type": "sberspasibo",
+        "items": [
+          {
+            "description": "",
+            "name": "Этот товар можно оплатить бонусами Спасибо от СберБанка",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Новинка",
+        "type": "new",
+        "items": null,
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Акция",
+        "type": "special_offer",
+        "items": [
+          {
+            "description": "",
+            "name": "5 000 бонусов за покупки",
+            "url": "/action/5-000-bonusov-za-pokupki/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Премиальный уход Miele",
+            "url": "/action/premialnyy-ukhod-miele/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Рассрочка",
+        "type": "deferred_payment",
+        "items": [
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-12",
+            "url": "/stiralnaya-mashina-miele-wq-1000-wps-834642/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-6",
+            "url": "/stiralnaya-mashina-miele-wq-1000-wps-834642/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-6",
+            "url": "/stiralnaya-mashina-miele-wq-1000-wps-834642/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      }
+    ],
+    "labelsV2": [
+      {
+        "id": "2",
+        "name": "Новинка",
+        "code": "novinka",
+        "mainColor": "#02b513",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#02b513",
+        "altTextColor": "#ffffff",
+        "borderAndTextColor": "#02b513",
+        "items": [
+          {
+            "id": "130639",
+            "text": "Новинка",
+            "__typename": "ProductLabelTextItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      },
+      {
+        "id": "14",
+        "name": "-15% на технику",
+        "code": "15-na-tekhniku",
+        "mainColor": "#F54B4B",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#FFFFFF",
+        "altTextColor": "#F54B4B",
+        "borderAndTextColor": "#F54B4B",
+        "items": [
+          {
+            "id": "142485",
+            "text": "Выгода при покупке крупной бытовой техники",
+            "buttonText": "Подробнее",
+            "url": "/action/vygoda-pri-pokupke-krupnoy-bytovoy-tekhniki/",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      },
+      {
+        "id": "8",
+        "name": "Бонусы Спасибо",
+        "code": "sberspasibo",
+        "mainColor": "#0C9C0C",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#0C9C0C",
+        "altTextColor": "#FFFFFF",
+        "borderAndTextColor": "#0C9C0C",
+        "items": [
+          {
+            "id": "15556",
+            "text": "Этот товар можно оплатить бонусами Спасибо от СберБанка ",
+            "buttonText": "Подробнее",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      }
+    ],
+    "status": {
+      "id": "IN_STOCK",
+      "name": "В наличии",
+      "type": "POSITIVE",
+      "__typename": "ProductStatus"
+    },
+    "brand": {
+      "code": "miele",
+      "id": "40229",
+      "name": "Miele",
+      "src": "https://cdn1.technopark.ru/technopark/photos_resized/section_brand_300_100/300_100/40229/1_40229.png",
+      "slug": "miele",
+      "sections": [
+        {
+          "name": "Все пылесосы Miele",
+          "url": "/pylesosy/miele/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2435614302/technopark/photos_resized/product/120_120/674992/1_674992.jpg?timestamp=2025-06-23_16-52-56",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3439781131/technopark/photos_resized/product/120_120/674992/2_674992.jpg?timestamp=2025-06-23_16-52-54",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3120682397/technopark/photos_resized/product/120_120/674992/3_674992.jpg?timestamp=2025-06-23_16-52-54",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/587760679/technopark/photos_resized/product/120_120/674992/4_674992.jpg?timestamp=2025-06-23_16-52-54",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3956346415/technopark/photos_resized/product/120_120/674992/5_674992.jpg?timestamp=2025-06-23_16-53-24",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1797576441/technopark/photos_resized/product/120_120/674992/6_674992.jpg?timestamp=2025-06-23_16-53-09",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/610615358/technopark/photos_resized/product/120_120/674992/7_674992.jpg?timestamp=2025-06-23_16-52-53",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/472114799/technopark/photos_resized/product/120_120/674992/8_674992.jpg?timestamp=2025-06-23_16-53-09",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3857530416/technopark/photos_resized/product/120_120/674992/9_674992.jpg?timestamp=2025-06-23_16-53-13",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4114629466/technopark/photos_resized/product/120_120/674992/10_674992.jpg?timestamp=2025-06-23_16-53-10",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2185720780/technopark/photos_resized/product/120_120/674992/11_674992.jpg?timestamp=2025-06-23_16-53-09",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Варочные поверхности Miele",
+          "url": "/vstraivaemye-varochnye-poverhnosti/miele/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/817081513/technopark/photos_resized/product/120_120/836405/1_836405.jpg?timestamp=2026-07-07_11-23-17",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1308807188/technopark/photos_resized/product/120_120/836405/2_836405.jpg?timestamp=2026-07-07_11-23-17",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Духовые шкафы Miele",
+          "url": "/vstraivaemye-duhovye-shkafy/miele/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/688386329/technopark/photos_resized/product/120_120/170582/0_170582.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Посудомоечные машины встраиваемые Miele",
+          "url": "/vstraivaemye-posudomoechnye-mashiny/miele/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3746686351/technopark/photos_resized/product/120_120/836801/1_836801.jpg?timestamp=2026-07-10_10-27-45",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Сушильные машины Miele",
+          "url": "/sushilnye-mashiny/miele/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2919665285/technopark/photos_resized/product/120_120/714963/1_714963.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1346513646/technopark/photos_resized/product/120_120/714963/2_714963.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Микроволновые печи встраиваемые Miele",
+          "url": "/vstraivaemye-mikrovolnovye-pechi/miele/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3365680119/technopark/photos_resized/product/120_120/170383/0_170383.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Гладильные системы Miele",
+          "url": "/gladilnye-sistemy/miele/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/109588039/technopark/photos_resized/product/120_120/695993/1_695993.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1893845643/technopark/photos_resized/product/120_120/695993/2_695993.jpg?timestamp=2026-07-09_10-52-29",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Аксессуары для пылесосов Miele",
+          "url": "/aksessuary-k-pylesosam/miele/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/341065095/technopark/photos_resized/product/120_120/533872/1_533872.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3211464383/technopark/photos_resized/product/120_120/533872/2_533872.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Аксессуары для кофемашин Miele",
+          "url": "/dlya-kofemashin/miele/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3122688349/technopark/photos_resized/product/120_120/822291/1_822291.jpg?timestamp=2026-02-25_15-32-59",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        }
+      ],
+      "__typename": "Brand"
+    },
+    "section": {
+      "slug": "stiralnye-mashiny",
+      "id": "898",
+      "name": "Стиральные машины",
+      "parents": [
+        {
+          "id": "877",
+          "name": "Крупная бытовая",
+          "depth": 1,
+          "__typename": "SectionTreeItem"
+        },
+        {
+          "id": "898",
+          "name": "Стиральные машины",
+          "depth": 2,
+          "__typename": "SectionTreeItem"
+        }
+      ],
+      "__typename": "Section"
+    },
+    "media": {
+      "gallery": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/834642/1_834642.jpg?timestamp=2026-06-23_15-48-41",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/834642/2_834642.jpg?timestamp=2026-06-23_15-48-41",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/834642/3_834642.jpg?timestamp=2026-06-23_15-48-41",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "interior": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior/1000_1000/834642/1_834642.jpg?timestamp=2026-06-23_15-48-47",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior/1000_1000/834642/2_834642.jpg?timestamp=2026-06-23_15-48-47",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "video": [],
+      "vkVideo": null,
+      "view3d": [],
+      "listing": {
+        "default": [
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/834642/1_834642.jpg?timestamp=2026-06-23_15-48-41",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/834642/2_834642.jpg?timestamp=2026-06-23_15-48-41",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/834642/3_834642.jpg?timestamp=2026-06-23_15-48-41",
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "ProductListing"
+      },
+      "__typename": "ProductV2Media"
+    },
+    "modifications": {
+      "bigBrother": null,
+      "groups": [],
+      "__typename": "ProductModifications"
+    },
+    "description": {
+      "hasDescription": true,
+      "type": "DEFAULT",
+      "__typename": "ProductDescription"
+    },
+    "collection": {
+      "id": "834642",
+      "products": {
+        "pagination": {
+          "total": 0,
+          "__typename": "Pagination"
+        },
+        "__typename": "ProductV2Pagination"
+      },
+      "__typename": "ProductCollection"
+    },
+    "similar": {
+      "pagination": {
+        "total": 20,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "related": {
+      "pagination": {
+        "total": 18,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "accessories": [
+      {
+        "products": {
+          "pagination": {
+            "total": 18,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      }
+    ],
+    "rating": {
+      "average": 0,
+      "canRate": false,
+      "total": {
+        "all": 0,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 0,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "reviews": {
+      "total": 0,
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "bestCredit": {
+      "monthPayment": 28333,
+      "type": "DEFERRED_PAYMENT",
+      "__typename": "ProductBestCredit"
+    },
+    "isSpare": false,
+    "isService": false,
+    "isVipService": false,
+    "isGiftBonusCard": false,
+    "canBuy": true,
+    "canPayOnline": true,
+    "canRequestPrice": false,
+    "canShowPrice": true,
+    "canSubscribe": false,
+    "needPrepaymentForDelivery": false,
+    "needPrepaymentForPreorder": false,
+    "isSberSpasiboPayAvailable": true,
+    "isYandexPayAllowed": false,
+    "yandexSplit": null,
+    "seo": {
+      "description": "Стиральная машина Miele WQ 1000 WPS RU: купить в интернет-магазине Технопарк с расширенной гарантией и бесплатной доставкой по РФ. Подробные характеристики товара с отзывами реальных покупателей.",
+      "text": "",
+      "textHidden": "",
+      "title": "Стиральная машина Miele WQ 1000 WPS RU - купить в Москве в интернет-магазине Технопарк",
+      "__typename": "SeoData"
+    },
+    "breadcrumbs": [
+      {
+        "name": "Главная",
+        "url": "/",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Крупная бытовая техника",
+        "url": "/krupnaya-bytovaya-tehnika/",
+        "options": [
+          {
+            "name": "Центр инноваций",
+            "url": "/tovary-iz-budushchego/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Смартфоны и гаджеты",
+            "url": "/smartfony-i-gadzhety/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Компьютеры и ноутбуки",
+            "url": "/kompyutery-i-noutbuki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Климатическая техника",
+            "url": "/klimaticheskaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Техника для кухни",
+            "url": "/dlya-kuhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Бытовая техника для дома",
+            "url": "/dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для красоты и здоровья",
+            "url": "/krasota-i-zdorovye/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Спортивные товары",
+            "url": "/trenazhery-dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Телевизоры Аудио Hi-Fi",
+            "url": "/audio-video-foto/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для сада, дома и ремонта",
+            "url": "/dlya-sada-doma-i-remonta/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посуда",
+            "url": "/posuda/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Детские товары",
+            "url": "/detskie-tovary/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для гейминга",
+            "url": "/gaming/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Плоттеры и услуги розницы",
+            "url": "//",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Запасные части",
+            "url": "/zapasnie-chasti/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Стиральные машины",
+        "url": "/stiralnye-mashiny/",
+        "options": [
+          {
+            "name": "Встраиваемые варочные панели",
+            "url": "/vstraivaemye-varochnye-poverhnosti/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные плиты",
+            "url": "/plity/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Холодильники",
+            "url": "/holodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые духовые шкафы",
+            "url": "/vstraivaemye-duhovye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вытяжки для кухни",
+            "url": "/vytyazhki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посудомоечные машины",
+            "url": "/posudomoechnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые холодильники",
+            "url": "/vstraivaemye-holodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые винные шкафы",
+            "url": "/vstraivaemye-vinnye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые вытяжки для кухни",
+            "url": "/vstraivaemye-vytyazhki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые кофемашины",
+            "url": "/vstraivaemye-kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые морозильные камеры",
+            "url": "/vstraivaemye-morozilnye-kamery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые пароварки",
+            "url": "/vstraivaemye-parovarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые посудомоечные машины",
+            "url": "/vstraivaemye-posudomoechnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые стиральные машины",
+            "url": "/vstraivaemye-stiralnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Сушильные машины для белья",
+            "url": "/sushilnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые микроволновые печи",
+            "url": "/vstraivaemye-mikrovolnovye-pechi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Морозильные камеры",
+            "url": "/morozilnye-kamery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Винные шкафы",
+            "url": "/vinnye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые шкафы для подогрева",
+            "url": "/shkafy-dlya-podogreva-posudy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Стиральные машины с функцией сушки (2 в 1)",
+            "url": "/stiralno-sushilnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые вакууматоры",
+            "url": "/vakuumatory/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Измельчители пищевых отходов",
+            "url": "/vstraivaemye-izmelchiteli-pischevyh-othodov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Автохолодильники",
+            "url": "/avtoholodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для крупной бытовой техники",
+            "url": "/aksessuary-krupnaya-bytovaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для холодильников",
+            "url": "/aksessuary-krupnaya-bytovaya-tehnika/filt_naznachenie-k_holodilnikam/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для автохолодильников",
+            "url": "/aksessuary-dlya-avtokholodilnikov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Хьюмидоры",
+            "url": "/khyumidory/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Стиральные машины Miele",
+        "url": "/stiralnye-mashiny/miele/",
+        "options": [
+          {
+            "name": "LG",
+            "url": "/stiralnye-mashiny/lg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Electrolux",
+            "url": "/stiralnye-mashiny/electrolux/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Haier",
+            "url": "/stiralnye-mashiny/haier/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Korting",
+            "url": "/stiralnye-mashiny/korting/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Samsung",
+            "url": "/stiralnye-mashiny/samsung/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Bosch",
+            "url": "/stiralnye-mashiny/bosch/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Indesit",
+            "url": "/stiralnye-mashiny/indesit/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Midea",
+            "url": "/stiralnye-mashiny/midea/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Maunfeld",
+            "url": "/stiralnye-mashiny/maunfeld/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Beko",
+            "url": "/stiralnye-mashiny/beko/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Candy",
+            "url": "/stiralnye-mashiny/candy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Asko",
+            "url": "/stiralnye-mashiny/asko/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "AEG",
+            "url": "/stiralnye-mashiny/aeg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Hotpoint",
+            "url": "/stiralnye-mashiny/hotpoint/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Gorenje",
+            "url": "/stiralnye-mashiny/gorenje/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Schulthess",
+            "url": "/stiralnye-mashiny/schulthess/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Kuppersberg",
+            "url": "/stiralnye-mashiny/kuppersberg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Toshiba",
+            "url": "/stiralnye-mashiny/toshiba/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "VARD",
+            "url": "/stiralnye-mashiny/vard/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Hisense",
+            "url": "/stiralnye-mashiny/hisense/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Smeg",
+            "url": "/stiralnye-mashiny/smeg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Whirlpool",
+            "url": "/stiralnye-mashiny/whirlpool/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Panasonic",
+            "url": "/stiralnye-mashiny/panasonic/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "V-ZUG",
+            "url": "/stiralnye-mashiny/v_zug/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Kuppersbusch",
+            "url": "/stiralnye-mashiny/kuppersbusch/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Roborock",
+            "url": "/stiralnye-mashiny/roborock/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Casarte",
+            "url": "/stiralnye-mashiny/casarte/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Siemens",
+            "url": "/stiralnye-mashiny/siemens/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "TCL",
+            "url": "/stiralnye-mashiny/tcl/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Brandt",
+            "url": "/stiralnye-mashiny/brandt/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Viomi",
+            "url": "/stiralnye-mashiny/viomi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Hyundai",
+            "url": "/stiralnye-mashiny/hyundai/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Dreame",
+            "url": "/stiralnye-mashiny/dreame/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Miele WQ 1000 WPS RU",
+        "url": "stiralnaya-mashina-miele-wq-1000-wps-834642",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      }
+    ],
+    "isArchive": false,
+    "__typename": "ProductV2",
+    "isSberPayOneClickAllowed": false,
+    "isTinkoffPayOneClickAllowed": false,
+    "bonus": null
+  },
+  "details": {
+    "description": "<style> *{box-sizing:border-box;outline:0}body{font-family:'DINPro Technopark',Arial;font-size:14px;font-weight:400;font-display:swap;margin:0;overflow-x:hidden;position:relative;min-height:95vh;-webkit-tap-highlight-color:transparent}body.lock-scroll{overflow:hidden;position:fixed;right:0;left:0;bottom:0}@media (min-width:1192px){body.lock-scroll{position:relative}}@media screen and (max-device-width:480px){body{-webkit-text-size-adjust:none}}.label-for-seo{width:100%}.label-for-seo__span{display:none}a{color:#0093c4;text-decoration:none}.is-visible{display:block!important}.is-hidden{display:none!important}.is-visually-hidden{opacity:0!important;visibility:hidden!important;pointer-events:none!important}.is-link{color:#0093c4}.no-wrap{white-space:nowrap}.container{margin:auto;width:100%}@media (min-width:960px){.container{width:calc(100% - 48px)}}@media (min-width:1482px){.container{max-width:1397px}}.is-overflow-hidden{overflow:hidden}.is-mobile-not{display:none!important}@media (min-width:960px){.is-mobile-not{display:block!important}}@media (min-width:960px){.is-mobile-only{display:none!important}}@media (max-width:959px){.hide-phone{display:none}}@media (min-width:960px) and (max-width:1481px){.hide-tablet{display:none}}.is-hidden{display:none!important}.nowrap-text{white-space:nowrap}.textcenter{text-align:center}ul.list{margin:0;padding:6px 0 18px}@media (min-width:960px){ul.list{padding:6px 0 24px}}ul.list li{font-family:'DINPro Technopark',Arial;font-size:15px;font-weight:400;font-display:swap;color:#fff;line-height:20px;list-style:none;margin:0;padding-left:9px;position:relative}@media (min-width:960px){ul.list li{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:400;font-display:swap;line-height:21px;padding-left:26px}}ul.list>li:before{background-color:#fff;border-radius:50%;content:\"\";display:block;height:3px;left:0;position:absolute;top:10px;width:3px}@media (min-width:960px){ul.list>li:before{border-radius:0;height:1px;width:13px}}ul.list>li>ul{padding:6px 0 6px 15px}@media (min-width:960px){ul.list>li>ul{padding:3px 0 3px 4px}}ul.list>li>ul>li:before{background-color:rgba(255,255,255,.5)}ul.list>li>ul>li>ul{padding:6px 0 0 15px}@media (min-width:960px){ul.list>li>ul>li>ul{padding:3px 0 0 4px}}ul.list>li>ul>li>ul>li:before{background-color:rgba(255,255,255,.2)}ol.list{margin:0;padding:6px 0 18px;counter-reset:list1}@media (min-width:960px){ol.list{padding:6px 0 24px}}ol.list li{font-family:'DINPro Technopark',Arial;font-size:15px;font-weight:400;font-display:swap;color:#fff;line-height:20px;list-style:none;margin:0;padding-left:9px;position:relative}@media (min-width:960px){ol.list li{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:400;font-display:swap;line-height:21px;padding-left:26px}}ol.list>li{padding-left:24px}ol.list>li:before{counter-increment:list1;content:counter(list1) \". \";left:0;position:absolute}ol.list>li>ol{counter-reset:list2;padding:6px 0}@media (min-width:960px){ol.list>li>ol{padding:3px 0}}ol.list>li>ol>li{padding-left:42px}ol.list>li>ol>li:before{counter-increment:list2;content:counter(list1) \".\" counter(list2) \". \"}ol.list>li>ol>li>ol{counter-reset:list3}ol.list>li>ol>li>ol>li:before{counter-increment:list3;content:counter(list1) \".\" counter(list2) \".\" counter(list3) \". \"}ol.list--compact{padding:0}.list--line-interval li:not(:last-child){margin-bottom:1em}input::-ms-clear{display:none}input::-webkit-clear-button{display:none}@media (max-width:767px){.footer{padding-bottom:66px}}.page-container{margin:auto;padding:0 18px;width:100%}@media (min-width:960px){.page-container{padding:0 24px;width:100%}}@media (min-width:1482px){.page-container{width:1481px}}@media (min-width:960px){.page-container--extra-padding{padding:0 42px}}.default-container{width:100%;max-width:1481px;margin:auto;padding:0 12px}@media (min-width:960px){.default-container{padding:0 24px}}button,input,select,textarea{font-family:inherit;font-size:100%;margin:0}textarea{resize:none;overflow:auto}form{margin:0}button{color:inherit}dd,dl,dt{margin:0;padding:0}input[type=search]{-webkit-appearance:none}input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration,input[type=search]::-webkit-search-results-button,input[type=search]::-webkit-search-results-decoration{display:none}input:invalid{box-shadow:none}textarea:invalid{box-shadow:none}svg *{pointer-events:none}.product__desc{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:300;font-display:swap;color:#878787;display:none}.product__desc b{font-family:'DINPro Technopark',Arial;font-size:20px;font-weight:400;font-display:swap;color:#fff}.dyson-v10-picking,.dyson-v10-properties,.dyson-v10-wrapper,.dyson-v10-wrapper .dyson-v10__list span{color:#fff;padding:0 12px}@media (max-width:1154px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:170px}}@media (max-width:1100px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:270px}}@media (max-width:960px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:27px}}.dyson-v10-first-row li.dyson-v10-item{max-width:calc(100% / 3 - 10);padding-right:5px}@media (max-width:959px){.dyson-v10-first-row{flex-direction:column;align-items:flex-start}.dyson-v10-first-row li.dyson-v10-item{max-width:none}}@media (min-width:960px) and (max-width:1303px){.dyson-v10-first-row{flex-direction:column;align-items:flex-start}.dyson-v10-first-row li.dyson-v10-item{max-width:none}}.dyson-v10-chapter{text-align:center!important}.dyson-v10__list li.dyson-v10__list-item{background-size:contain;background-position:left} </style> <p>Стиральная машина Miele WQ 1000 WPS Nova Edition — это высокотехнологичное немецкое решение для безупречного ухода за бельём, сочетающее элегантный дизайн с инновационными технологиями: инверторный двигатель ProfiEco и сотовый барабан InfinityCare обеспечивают тихую и эффективную работу, система TwinDos автоматически дозирует моющие средства, обработка паром SteamCare смягчает ткани и уменьшает складки, а 21 программа стирки (включая QuickPowerWash и Eco 40–60) и поддержка управления через мобильное приложение Miele позволяют подобрать идеальный режим для любых тканей — от шёлка до спортивной обуви, при этом полная защита от протечек Waterproof, блокировка от детей и функция автовзвешивания делают использование максимально безопасным и удобным.</p>      <h2>Особенности</h2>  <ul class=\"list\">    <li><b>Инверторный двигатель ProfiEco</b><br/>  Мощный и энергоэффективный инверторный двигатель гарантирует тихую работу, долгий срок службы и оптимальное потребление энергии, обеспечивая надёжность и производительность на протяжении многих лет</li>    <li><b>Сотовый барабан InfinityCare</b><br/>  Уникальная структура поверхности барабана в виде сот бережно обращается с тканями, предотвращая их повреждение, и обеспечивает равномерное распределение белья во время стирки и отжима</li>    <li><b>Автоматическое дозирование TwinDos</b><br/>  Система TwinDos автоматически подаёт оптимальное количество моющих средств и кондиционера в зависимости от загрузки и типа ткани, экономя ресурсы и обеспечивая безупречный результат без лишних усилий</li>    <li><b>Обработка паром SteamCare</b><br/>  Функция обработки паром смягчает ткани, уменьшает количество складок и облегчает последующую глажку, а также освежает вещи без полноценной стирки, сохраняя их внешний вид и продлевая срок службы</li>    <li><b>21 программа для любых задач</b><br/>  Широкий выбор программ — от деликатной стирки шёлка и шерсти до интенсивной очистки верхней одежды и спортивной обуви, включая QuickPowerWash (быстрая стирка за 20 минут), Eco 40–60 (экономичный режим) и PowerFresh (освежение паром) — позволяет подобрать идеальный режим для каждого типа белья</li>    <li><b>Управление через приложение Miele</b><br/>  Управляйте стиральной машиной удалённо через мобильное приложение: запускайте программы, отслеживайте статус стирки, получайте уведомления об окончании цикла и используйте дополнительные настройки для максимального удобства</li>    <li><b>Функция CapDosing и комплект моющих средств</b><br/>  В комплект поставки входят 3 капсулы UltraPhase 1 и 2 и купон на 5 картриджей Miele UltraPhase — специальные капсулы обеспечивают точное дозирование и высокую эффективность стирки даже при низких температурах</li>    <li><b>Отложенный старт до 24 часов</b><br/>  Таймер отсрочки позволяет запланировать начало стирки в удобное время — например, запустить цикл ночью для экономии электроэнергии или к вашему возвращению домой</li>    <li><b>Полная защита Waterproof System</b><br/>  Многоуровневая система защиты от протечек автоматически перекрывает подачу воды при обнаружении утечки, гарантируя безопасность использования и защищая ваш дом от возможных повреждений</li>    <li><b>Защита от детей и блокировка PIN‑кодом</b><br/>  Блокировка панели управления и возможность установки PIN‑кода предотвращают случайное изменение настроек или отключение машины детьми, обеспечивая спокойствие и безопасность</li>    <li><b>Автовзвешивание и EcoFeedback</b><br/>  Автоматическое взвешивание белья оптимизирует расход воды и энергии, а функция EcoFeedback показывает, насколько эффективно вы используете ресурсы, помогая снизить затраты и экологический след</li>    <li><b>Дополнительные удобства</b><br/>  Подсветка барабана облегчает загрузку и выгрузку, моторизованный открыватель дверцы плавно открывает люк после завершения цикла, а функция лёгкой глажки уменьшает количество складок, экономя ваше время</li>    <li><b>Гибкость установки</b><br/>  Машина может быть установлена отдельно, в колонну, Side‑by‑Side или под столешницу, экономя пространство на кухне или в ванной комнате, а возможность подключения к горячей воде ускоряет процесс стирки и снижает энергопотребление</li>    <li><b>Стильный дизайн и надёжность</b><br/>  Классический белый корпус с чёрной дверцей люка и наклонной панелью управления MTouch Pro выглядит современно и гармонично вписывается в любой интерьер, а металлический корпус и бак из нержавеющей стали гарантируют долговечность и устойчивость к коррозии</li>      </ul>  ",
+    "descriptionType": "DEFAULT",
+    "descriptionBarcode": "4002516863090",
+    "descriptionBrand": "Miele",
+    "specifications": {
+      "short": [
+        {
+          "name": "Установка",
+          "value": "отдельностоящая",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Максимальная загрузка белья",
+          "value": "9 кг",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Максимальная скорость отжима",
+          "value": "до 1600 об/мин",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Количество программ",
+          "value": "25",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Глубина",
+          "value": "60 см",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "barcode": "4002516863090",
+      "country": "Германия",
+      "full": [
+        {
+          "name": "Основные характеристики",
+          "list": [
+            {
+              "name": "Установка",
+              "value": "отдельностоящая",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Конструкция стиральной машины",
+              "value": "полноразмерная",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество барабанов",
+              "value": "1",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип двигателя",
+              "value": "инверторный",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Основной барабан",
+          "list": [
+            {
+              "name": "Тип загрузки",
+              "value": "фронтальная",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Поверхность барабана",
+              "value": "InfinityCare",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная загрузка белья",
+              "value": "9 кг",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная скорость отжима",
+              "value": "до 1600 об/мин",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Класс отжима",
+              "value": "A",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Уровень шума при отжиме",
+              "value": "70 дБ",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Управление",
+          "list": [
+            {
+              "name": "Тип управления",
+              "value": "электронное",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Переключатели",
+              "value": "сенсорные",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Размещение панели управления",
+              "value": "под наклоном",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество программ",
+              "value": "25",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Программы",
+              "value": "хлопок, Эко 40-60, минимальное глажение, QuickPowerWash, SmartMatic, шерстяные изделия, рубашки/блузки, деликатные ткани, PowerFresh, тёмные изделия/деним, верхняя одежда, спортивная одежда, кроссовки, экспресс 20 мин, изделия с пуховым наполнителем/одеяла, постельное бельё, шторы, шёлковые ткани, первая стирка, проверочная программа, только предварительное глажение, отдельное полоскание, только отжим, очистка TwinDos, очистка стиральной машины",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Программа очистки барабана",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дополнительные программы",
+              "value": "короткая, предварительное глаженье, одиночная стирка, пятна, экономия энергии, дополнительное полоскание, особо тихо, гигиена плюс, предварительная стирка, замачивание, удержание при полоскании",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Занесение программ в память",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Функция пар",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество запоминаемых программ",
+              "value": "12",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Поддержка Wi-Fi",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Управление c мобильного устройства",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Поддержка мобильного приложения",
+              "value": "Miele@home",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Панель управления",
+              "value": "русская",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Температурные режимы",
+          "list": [
+            {
+              "name": "Регулировка температуры стирки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество температурных режимов",
+              "value": "7",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Минимальная температура воды",
+              "value": "20 °С",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная температура воды",
+              "value": "90 °С",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Дисплей",
+          "list": [
+            {
+              "name": "Цифровой дисплей",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип дисплея",
+              "value": "LCD",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Подсветка дисплея",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Таймер",
+          "list": [
+            {
+              "name": "Таймер отсрочки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальное время отсрочки стирки",
+              "value": "24 ч",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Звуковой таймер",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Индикация",
+          "list": [
+            {
+              "name": "Звуковой сигнал окончания стирки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация времени до конца программы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация температуры",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация скорости отжима",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация блокировки дверцы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация ошибок",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация включения/паузы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация выбора дополнительных функций",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация времени отложенного старта",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет индикации",
+              "value": "белый",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Расход воды",
+          "list": [
+            {
+              "name": "Расход воды за цикл",
+              "value": "70.6 л",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Контроль расхода воды",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автоматическая регулировка уровня воды",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Отжим",
+          "list": [
+            {
+              "name": "Регулировка скорости отжима",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество скоростей отжима",
+              "value": "6",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Отмена отжима",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Остаточная влажность",
+              "value": "44.9 %",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автоматический контроль загрузки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Технологии",
+          "list": [
+            {
+              "name": "Функция дозагрузки белья",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Защита и безопасность",
+          "list": [
+            {
+              "name": "Защита от детей",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Защита от перелива",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Защита от протечек",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Система защиты от протечек",
+              "value": "полная",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Технология защиты от протечки",
+              "value": "Waterproof",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Блокировка люка во время работы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Блокировка ПИН-кодом",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Контроль пенообразования",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Энергопотребление",
+          "list": [
+            {
+              "name": "Класс энергопотребления",
+              "value": "A",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Энергопотребление за цикл",
+              "value": "0.806 кВт/ч",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Режим энергосбережения",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Напряжение",
+              "value": "220-240 В",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Длина сетевого шнура",
+              "value": "2 м",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Особенности конструкции",
+          "list": [
+            {
+              "name": "Подсветка барабана",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Подсветка люка",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автоматический дозатор моющего средства",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Механизм мягкого открывания дверцы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Направление открывания люка",
+              "value": "вправо",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Угол открытия люка",
+              "value": "180 °",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автоматическое открытие двери",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Регулируемые ножки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Прорезиненные ножки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Длина заливного шланга",
+              "value": "1.6 м",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Длина сливного шланга",
+              "value": "1.5 м",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Самоочищающаяся кювета для моющего средства",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Дополнительные функции",
+          "list": [
+            {
+              "name": "Самодиагностика",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автобаланс",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автовзвешивание белья",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Возможность подключения к горячей воде",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дополнительная информация",
+              "value": "датчик движения MotionReact, технология стирки PowerWash, система ComfortOpen (моторизованный открыватель дверцы), функция TwinDos, автоматическое определение картриджа TwinDos, функция CapDosing, функция EcoFeedback, голосовое управление Alexa и Google, в комплект поставки входят 3 капсулы, UltraPhase 1 и 2 и купон на 5 картриджей Miele UltraPhase",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Серия",
+              "value": "W2 Nova Edition",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Цвет и материал",
+          "list": [
+            {
+              "name": "Цвет",
+              "value": "белый",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет дверцы люка",
+              "value": "чёрный",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал дверцы люка",
+              "value": "стекло",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал корпуса",
+              "value": "металл",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал барабана",
+              "value": "нержавеющая сталь",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал бака",
+              "value": "нержавеющая сталь",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Комплектация",
+          "list": [
+            {
+              "name": "Шланг подачи воды",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Сливной шланг",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Инструкция",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Размеры и вес",
+          "list": [
+            {
+              "name": "Высота",
+              "value": "84.6 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ширина",
+              "value": "59.6 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Глубина",
+              "value": "60 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вес",
+              "value": "95 кг",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        }
+      ],
+      "grossWeight": "70",
+      "netWeight": "59",
+      "height": "0.9",
+      "instructionUrl": "https://storage.yandexcloud.net/technopark.instructions/834642/instruction/instrukciya-stiralnaya-mashina-miele-wq-1000-wps-834642.pdf",
+      "length": "0.75",
+      "schemeUrl": "https://storage.yandexcloud.net/technopark.instructions/834642/schema/schema-vstraivaniya-stiralnaya-mashina-miele-wq-1000-wps-834642.jpg",
+      "warranty": "12",
+      "width": "0.75",
+      "__typename": "ProductV2Specifications"
+    },
+    "certificates": [
+      "https://www.technopark.ru/bipublic/Cert/IG0G15C4H4UTC4.pdf",
+      "https://www.technopark.ru/bipublic/Cert/IG0G15C4H97DF6.pdf",
+      "https://www.technopark.ru/bipublic/Cert/IG0G15CUS3M9JF.pdf"
+    ],
+    "isManufacturerCountry": false,
+    "isSellerWarranty": true,
+    "reviews": {
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "total": 0,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "rating": {
+      "average": 0,
+      "canRate": false,
+      "total": {
+        "all": 0,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 0,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "isLoading": false
+  },
+  "shots": [
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/834642/1_834642.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/834642/1_834642.jpg?timestamp=2026-06-23_15-48-41"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/834642/2_834642.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/834642/2_834642.jpg?timestamp=2026-06-23_15-48-41"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/834642/3_834642.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/834642/3_834642.jpg?timestamp=2026-06-23_15-48-41"
+    ]
+  ],
+  "photos": [
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/stiralnaya-mashina-miele-wq-1000-wps-834642-1.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/stiralnaya-mashina-miele-wq-1000-wps-834642-2.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/stiralnaya-mashina-miele-wq-1000-wps-834642-3.jpg"
+  ]
+}

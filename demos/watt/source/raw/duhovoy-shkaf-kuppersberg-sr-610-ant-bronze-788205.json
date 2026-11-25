@@ -1,0 +1,1719 @@
+{
+  "shelf": "duhovye-shkafy",
+  "slug": "duhovoy-shkaf-kuppersberg-sr-610-ant-bronze-788205",
+  "product": {
+    "id": "788205",
+    "article": "182504",
+    "slug": "duhovoy-shkaf-kuppersberg-sr-610-ant-bronze-788205",
+    "hasSmartInstallments": false,
+    "isActive": true,
+    "name": {
+      "default": "Kuppersberg SR 610 ANT Bronze",
+      "full": "Духовой шкаф Kuppersberg SR 610 ANT Bronze",
+      "pseudo": null,
+      "spare": null,
+      "fullWithoutSection": "Kuppersberg SR 610 ANT Bronze",
+      "section": "Духовой шкаф",
+      "__typename": "ProductName"
+    },
+    "price": {
+      "default": 55790,
+      "marketing": null,
+      "old": 65590,
+      "__typename": "ProductPrice"
+    },
+    "benefit": 9800,
+    "specifications": {
+      "short": [
+        {
+          "name": "Тип",
+          "value": "электрический",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Очистка",
+          "value": "гидролизная",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Материал камеры",
+          "value": "эмаль легкой очистки",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Объем духовки",
+          "value": "80 л",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Размеры (ширина)",
+          "value": "60 см",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "__typename": "ProductV2Specifications"
+    },
+    "labels": [
+      {
+        "name": "Бонусы Спасибо",
+        "type": "sberspasibo",
+        "items": [
+          {
+            "description": "",
+            "name": "Этот товар можно оплатить бонусами Спасибо от СберБанка",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Выгодное предложение",
+        "type": "special_offer",
+        "items": [
+          {
+            "description": "",
+            "name": "Техника и электроника",
+            "url": "/action/vygodnaya-tsena/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "5 000 бонусов за покупки",
+            "url": "/action/5-000-bonusov-za-pokupki/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Рассрочка",
+        "type": "deferred_payment",
+        "items": [
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-6",
+            "url": "/duhovoy-shkaf-kuppersberg-sr-610-ant-bronze-788205/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-12",
+            "url": "/duhovoy-shkaf-kuppersberg-sr-610-ant-bronze-788205/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-24",
+            "url": "/duhovoy-shkaf-kuppersberg-sr-610-ant-bronze-788205/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-18",
+            "url": "/duhovoy-shkaf-kuppersberg-sr-610-ant-bronze-788205/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      }
+    ],
+    "labelsV2": [
+      {
+        "id": "14",
+        "name": "-15% на технику",
+        "code": "15-na-tekhniku",
+        "mainColor": "#F54B4B",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#FFFFFF",
+        "altTextColor": "#F54B4B",
+        "borderAndTextColor": "#F54B4B",
+        "items": [
+          {
+            "id": "152935",
+            "text": "Выгода при покупке крупной бытовой техники",
+            "buttonText": "Подробнее",
+            "url": "/action/vygoda-pri-pokupke-krupnoy-bytovoy-tekhniki/",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      },
+      {
+        "id": "8",
+        "name": "Бонусы Спасибо",
+        "code": "sberspasibo",
+        "mainColor": "#0C9C0C",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#0C9C0C",
+        "altTextColor": "#FFFFFF",
+        "borderAndTextColor": "#0C9C0C",
+        "items": [
+          {
+            "id": "30153",
+            "text": "Этот товар можно оплатить бонусами Спасибо от СберБанка ",
+            "buttonText": "Подробнее",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      },
+      {
+        "id": "5",
+        "name": "Выгода",
+        "code": "vygoda",
+        "mainColor": "#fd9600",
+        "mainTextColor": "#ffffff",
+        "altColor": "#fd9600",
+        "altTextColor": "#ffffff",
+        "borderAndTextColor": "#fd9600",
+        "items": [
+          {
+            "id": "1407",
+            "text": "Выгодное предложение",
+            "buttonText": "Подробнее",
+            "url": "/action/vygodnaya-tsena/",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      }
+    ],
+    "status": {
+      "id": "IN_STOCK",
+      "name": "В наличии",
+      "type": "POSITIVE",
+      "__typename": "ProductStatus"
+    },
+    "brand": {
+      "code": "kuppersberg",
+      "id": "40260",
+      "name": "Kuppersberg",
+      "src": "https://cdn1.technopark.ru/technopark/photos_resized/section_brand_300_100/300_100/40260/1_40260.png",
+      "slug": "kuppersberg",
+      "sections": [
+        {
+          "name": "Варочные поверхности Kuppersberg",
+          "url": "/vstraivaemye-varochnye-poverhnosti/kuppersberg/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1712129849/technopark/photos_resized/product/120_120/71526/1_71526.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3675707158/technopark/photos_resized/product/120_120/71526/2_71526.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Холодильники Kuppersberg",
+          "url": "/holodilniki/kuppersberg/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3396139211/technopark/photos_resized/product/120_120/799581/1_799581.jpg?timestamp=2025-08-11_10-09-01",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2863362350/technopark/photos_resized/product/120_120/799581/2_799581.jpg?timestamp=2025-08-11_10-09-01",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Вытяжки встраиваемые Kuppersberg",
+          "url": "/vstraivaemye-vytyazhki/kuppersberg/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2260976956/technopark/photos_resized/product/120_120/787707/1_787707.jpg?timestamp=2025-04-29_15-17-46",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1758307344/technopark/photos_resized/product/120_120/787707/2_787707.jpg?timestamp=2025-04-29_15-17-46",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1991987528/technopark/photos_resized/product/120_120/787707/3_787707.jpg?timestamp=2025-04-29_15-17-47",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2175664421/technopark/photos_resized/product/120_120/787707/4_787707.jpg?timestamp=2025-04-29_15-17-45",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4056217002/technopark/photos_resized/product/120_120/787707/5_787707.jpg?timestamp=2025-04-29_15-17-46",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Кофемашины встраиваемые Kuppersberg",
+          "url": "/vstraivaemye-kofemashiny/kuppersberg/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/147446745/technopark/photos_resized/product/120_120/784424/1_784424.jpg?timestamp=2025-03-21_11-37-40",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2023960406/technopark/photos_resized/product/120_120/784424/2_784424.jpg?timestamp=2025-03-21_11-37-41",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2527940218/technopark/photos_resized/product/120_120/784424/3_784424.jpg?timestamp=2025-03-21_11-37-41",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/587411511/technopark/photos_resized/product/120_120/784424/4_784424.jpg?timestamp=2025-03-21_11-37-54",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3905477382/technopark/photos_resized/product/120_120/784424/5_784424.jpg?timestamp=2025-03-21_11-37-56",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3786047212/technopark/photos_resized/product/120_120/784424/6_784424.jpg?timestamp=2025-03-21_11-37-40",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3395327234/technopark/photos_resized/product/120_120/784424/7_784424.jpg?timestamp=2025-03-21_11-37-54",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2761633016/technopark/photos_resized/product/120_120/784424/8_784424.jpg?timestamp=2025-03-21_11-37-45",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3548095555/technopark/photos_resized/product/120_120/784424/9_784424.jpg?timestamp=2025-03-21_11-37-50",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Морозильные камеры встраиваемые Kuppersberg",
+          "url": "/vstraivaemye-morozilnye-kamery/kuppersberg/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/4191876752/technopark/photos_resized/product/120_120/791688/0_791688.jpg?timestamp=2025-06-04_13-13-10",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/280581029/technopark/photos_resized/product/120_120/791688/1_791688.jpg?timestamp=2025-06-04_13-13-11",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1041931933/technopark/photos_resized/product/120_120/791688/2_791688.jpg?timestamp=2025-06-04_13-13-17",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3952398616/technopark/photos_resized/product/120_120/791688/3_791688.jpg?timestamp=2025-06-04_13-13-22",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1922924706/technopark/photos_resized/product/120_120/791688/4_791688.jpg?timestamp=2025-06-04_13-13-22",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2765440991/technopark/photos_resized/product/120_120/791688/5_791688.jpg?timestamp=2025-06-04_13-13-24",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3553785673/technopark/photos_resized/product/120_120/791688/6_791688.jpg?timestamp=2025-06-04_13-13-24",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2139127912/technopark/photos_resized/product/120_120/791688/7_791688.jpg?timestamp=2025-06-04_13-13-28",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Винные шкафы Kuppersberg",
+          "url": "/vinnye-shkafy/kuppersberg/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/337435242/technopark/photos_resized/product/120_120/788597/1_788597.jpg?timestamp=2025-05-07_13-45-07",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1662774012/technopark/photos_resized/product/120_120/788597/2_788597.jpg?timestamp=2025-05-07_13-45-07",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/453326959/technopark/photos_resized/product/120_120/788597/3_788597.jpg?timestamp=2025-05-07_13-45-32",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2833469473/technopark/photos_resized/product/120_120/788597/4_788597.jpg?timestamp=2025-05-07_13-45-08",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1189949709/technopark/photos_resized/product/120_120/788597/5_788597.jpg?timestamp=2025-05-07_13-45-08",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/686895322/technopark/photos_resized/product/120_120/788597/6_788597.jpg?timestamp=2025-05-07_13-45-10",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1755923480/technopark/photos_resized/product/120_120/788597/7_788597.jpg?timestamp=2025-05-07_13-45-20",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2013542770/technopark/photos_resized/product/120_120/788597/8_788597.jpg?timestamp=2025-05-07_13-45-21",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/141479421/technopark/photos_resized/product/120_120/788597/9_788597.jpg?timestamp=2025-05-07_13-45-20",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/214270236/technopark/photos_resized/product/120_120/788597/10_788597.jpg?timestamp=2025-05-07_13-45-31",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1395223217/technopark/photos_resized/product/120_120/788597/11_788597.jpg?timestamp=2025-05-07_13-45-23",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/370686117/technopark/photos_resized/product/120_120/788597/12_788597.jpg?timestamp=2025-05-07_13-45-19",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3950881819/technopark/photos_resized/product/120_120/788597/13_788597.jpg?timestamp=2025-05-07_13-45-30",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Все аксессуары Kuppersberg",
+          "url": "/aksessuary-krupnaya-bytovaya-tehnika/kuppersberg/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/793152608/technopark/photos_resized/product/120_120/175050/1_175050.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Шкафы для подогрева Kuppersberg",
+          "url": "/shkafy-dlya-podogreva-posudy/kuppersberg/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3113997404/technopark/photos_resized/product/120_120/784443/1_784443.jpg?timestamp=2025-03-21_13-39-29",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/819478689/technopark/photos_resized/product/120_120/784443/2_784443.jpg?timestamp=2025-03-21_13-39-39",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3225906424/technopark/photos_resized/product/120_120/784443/3_784443.jpg?timestamp=2025-03-21_13-39-30",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1467092317/technopark/photos_resized/product/120_120/784443/4_784443.jpg?timestamp=2025-03-21_13-39-34",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3074448494/technopark/photos_resized/product/120_120/784443/5_784443.jpg?timestamp=2025-03-21_13-39-30",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1358459241/technopark/photos_resized/product/120_120/784443/6_784443.jpg?timestamp=2025-03-21_13-39-30",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1846638870/technopark/photos_resized/product/120_120/784443/7_784443.jpg?timestamp=2025-03-21_13-39-45",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2657742178/technopark/photos_resized/product/120_120/784443/8_784443.jpg?timestamp=2025-03-21_13-39-41",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Стиральные машины с сушкой Kuppersberg",
+          "url": "/stiralno-sushilnye-mashiny/kuppersberg/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1992023429/technopark/photos_resized/product/120_120/788618/1_788618.jpg?timestamp=2025-05-07_15-09-27",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2738196992/technopark/photos_resized/product/120_120/788618/2_788618.jpg?timestamp=2025-05-07_15-09-31",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3442054103/technopark/photos_resized/product/120_120/788618/3_788618.jpg?timestamp=2025-05-07_15-09-29",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1411433069/technopark/photos_resized/product/120_120/788618/4_788618.jpg?timestamp=2025-05-07_15-09-28",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3175311192/technopark/photos_resized/product/120_120/788618/5_788618.jpg?timestamp=2025-05-07_15-09-28",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        }
+      ],
+      "__typename": "Brand"
+    },
+    "section": {
+      "slug": "vstraivaemye-duhovye-shkafy",
+      "id": "914",
+      "name": "Духовые шкафы",
+      "parents": [
+        {
+          "id": "877",
+          "name": "Крупная бытовая",
+          "depth": 1,
+          "__typename": "SectionTreeItem"
+        },
+        {
+          "id": "914",
+          "name": "Духовые шкафы",
+          "depth": 2,
+          "__typename": "SectionTreeItem"
+        }
+      ],
+      "__typename": "Section"
+    },
+    "media": {
+      "gallery": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/788205/1_788205.jpg?timestamp=2025-05-05_10-14-03",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/788205/2_788205.jpg?timestamp=2025-05-05_10-14-03",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/788205/3_788205.jpg?timestamp=2025-05-05_10-14-03",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/788205/4_788205.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "interior": [],
+      "video": [],
+      "vkVideo": {
+        "path": "https://vkvideo.ru/video_ext.php?oid=-72424652&id=456240280&hd=4&hash=900b66b81b13d9a4",
+        "height": 900,
+        "width": 1600,
+        "__typename": "Video"
+      },
+      "view3d": [],
+      "listing": {
+        "default": [
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/788205/1_788205.jpg?timestamp=2025-05-05_10-14-06",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/788205/2_788205.jpg?timestamp=2025-05-05_10-14-07",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/788205/3_788205.jpg?timestamp=2025-05-05_10-14-07",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/788205/4_788205.jpg?timestamp=2025-05-05_10-14-06",
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "ProductListing"
+      },
+      "__typename": "ProductV2Media"
+    },
+    "modifications": {
+      "bigBrother": null,
+      "groups": [
+        {
+          "name": "Цвет",
+          "items": [
+            {
+              "value": "антрацит",
+              "product": {
+                "slug": "duhovoy-shkaf-kuppersberg-sr-610-ant-bronze-788205",
+                "article": "182504",
+                "name": {
+                  "default": "Kuppersberg SR 610 ANT Bronze",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "IN_STOCK",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/788205/1_788205.jpg?timestamp=2025-05-05_10-14-06",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/788205/2_788205.jpg?timestamp=2025-05-05_10-14-07",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/788205/3_788205.jpg?timestamp=2025-05-05_10-14-07",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/788205/4_788205.jpg?timestamp=2025-05-05_10-14-06",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            },
+            {
+              "value": "бежевый",
+              "product": {
+                "slug": "duhovoy-shkaf-kuppersberg-sr-610-c-bronze-787888",
+                "article": "182411",
+                "name": {
+                  "default": "Kuppersberg SR 610 C Bronze",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "NOT_AVAILABLE",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/787888/1_787888.jpg?timestamp=2025-04-30_18-16-23",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/787888/2_787888.jpg?timestamp=2025-04-30_18-16-23",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/787888/3_787888.jpg?timestamp=2025-04-30_18-16-21",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/787888/4_787888.jpg?timestamp=2025-04-30_18-16-23",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            },
+            {
+              "value": "белый",
+              "product": {
+                "slug": "duhovoy-shkaf-kuppersberg-sr-610-w-bronze-787892",
+                "article": "182678",
+                "name": {
+                  "default": "Kuppersberg SR 610 W Bronze",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "IN_STOCK",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/787892/1_787892.jpg?timestamp=2025-04-30_18-35-02",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/787892/2_787892.jpg?timestamp=2025-04-30_18-35-01",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/787892/3_787892.jpg?timestamp=2025-04-30_18-35-01",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/787892/4_787892.jpg?timestamp=2025-04-30_18-34-59",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/787892/5_787892.jpg?timestamp=2025-04-30_18-35-00",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            }
+          ],
+          "__typename": "ProductV2ModificationGroup"
+        },
+        {
+          "name": "Цвет ручки",
+          "items": [
+            {
+              "value": "бронза",
+              "product": {
+                "slug": "duhovoy-shkaf-kuppersberg-sr-610-ant-bronze-788205",
+                "article": "182504",
+                "name": {
+                  "default": "Kuppersberg SR 610 ANT Bronze",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "IN_STOCK",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/788205/1_788205.jpg?timestamp=2025-05-05_10-14-06",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/788205/2_788205.jpg?timestamp=2025-05-05_10-14-07",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/788205/3_788205.jpg?timestamp=2025-05-05_10-14-07",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/788205/4_788205.jpg?timestamp=2025-05-05_10-14-06",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            },
+            {
+              "value": "серебристый",
+              "product": {
+                "slug": "duhovoy-shkaf-kuppersberg-sr-610-ant-silver-787860",
+                "article": "182410",
+                "name": {
+                  "default": "Kuppersberg SR 610 ANT Silver",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "NOT_AVAILABLE",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/787860/1_787860.jpg?timestamp=2025-04-30_17-19-00",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/787860/2_787860.jpg?timestamp=2025-04-30_17-19-03",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/787860/3_787860.jpg?timestamp=2025-04-30_17-19-03",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/787860/4_787860.jpg?timestamp=2025-04-30_17-19-00",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            }
+          ],
+          "__typename": "ProductV2ModificationGroup"
+        }
+      ],
+      "__typename": "ProductModifications"
+    },
+    "description": {
+      "hasDescription": true,
+      "type": "DEFAULT",
+      "__typename": "ProductDescription"
+    },
+    "collection": {
+      "id": "788205",
+      "products": {
+        "pagination": {
+          "total": 0,
+          "__typename": "Pagination"
+        },
+        "__typename": "ProductV2Pagination"
+      },
+      "__typename": "ProductCollection"
+    },
+    "similar": {
+      "pagination": {
+        "total": 20,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "related": {
+      "pagination": {
+        "total": 20,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "accessories": [
+      {
+        "products": {
+          "pagination": {
+            "total": 1,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 18,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 9,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 4,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      }
+    ],
+    "rating": {
+      "average": 0,
+      "canRate": false,
+      "total": {
+        "all": 0,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 0,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "reviews": {
+      "total": 0,
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "bestCredit": {
+      "monthPayment": 2325,
+      "type": "DEFERRED_PAYMENT",
+      "__typename": "ProductBestCredit"
+    },
+    "isSpare": false,
+    "isService": false,
+    "isVipService": false,
+    "isGiftBonusCard": false,
+    "canBuy": true,
+    "canPayOnline": true,
+    "canRequestPrice": false,
+    "canShowPrice": true,
+    "canSubscribe": false,
+    "needPrepaymentForDelivery": false,
+    "needPrepaymentForPreorder": false,
+    "isSberSpasiboPayAvailable": true,
+    "isYandexPayAllowed": false,
+    "yandexSplit": {
+      "payments": [
+        {
+          "amount": 0,
+          "date": "2026-08-17T09:01:26+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4651,
+          "date": "2026-08-31T09:01:26+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4649,
+          "date": "2026-09-14T09:01:26+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4649,
+          "date": "2026-09-28T09:01:26+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4649,
+          "date": "2026-10-12T09:01:26+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4649,
+          "date": "2026-10-26T09:01:26+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4649,
+          "date": "2026-11-09T09:01:26+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4649,
+          "date": "2026-11-23T09:01:26+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4649,
+          "date": "2026-12-07T09:01:26+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4649,
+          "date": "2026-12-21T09:01:26+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4649,
+          "date": "2027-01-04T09:01:26+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4649,
+          "date": "2027-01-18T09:01:26+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 4649,
+          "date": "2027-02-01T09:01:26+0300",
+          "__typename": "YandexSplitPayment"
+        }
+      ],
+      "firstPayment": 0,
+      "restPayment": 55790,
+      "description": "https://yandex.ru/support/split/",
+      "maxAmount": 295000,
+      "__typename": "YandexSplit"
+    },
+    "seo": {
+      "description": "Духовой шкаф Kuppersberg SR 610 ANT Bronze: купить в интернет-магазине Технопарк с расширенной гарантией и бесплатной доставкой по РФ. Подробные характеристики товара с отзывами реальных покупателей.",
+      "text": "Вы можете купить духовой шкаф Kuppersberg SR 610 ANT Bronze с доставкой по Москве по низкой цене. В интернет-магазине Technopark.ru осуществляется продажа духового шкафа Kuppersberg SR 610 ANT Bronze на выгодных условиях.",
+      "textHidden": "",
+      "title": "Духовой шкаф Kuppersberg SR 610 ANT Bronze - купить в Москве в интернет-магазине Технопарк",
+      "__typename": "SeoData"
+    },
+    "breadcrumbs": [
+      {
+        "name": "Главная",
+        "url": "/",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Крупная бытовая техника",
+        "url": "/krupnaya-bytovaya-tehnika/",
+        "options": [
+          {
+            "name": "Центр инноваций",
+            "url": "/tovary-iz-budushchego/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Смартфоны и гаджеты",
+            "url": "/smartfony-i-gadzhety/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Компьютеры и ноутбуки",
+            "url": "/kompyutery-i-noutbuki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Климатическая техника",
+            "url": "/klimaticheskaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Техника для кухни",
+            "url": "/dlya-kuhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Бытовая техника для дома",
+            "url": "/dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для красоты и здоровья",
+            "url": "/krasota-i-zdorovye/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Спортивные товары",
+            "url": "/trenazhery-dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Телевизоры Аудио Hi-Fi",
+            "url": "/audio-video-foto/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для сада, дома и ремонта",
+            "url": "/dlya-sada-doma-i-remonta/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посуда",
+            "url": "/posuda/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Детские товары",
+            "url": "/detskie-tovary/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для гейминга",
+            "url": "/gaming/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Плоттеры и услуги розницы",
+            "url": "//",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Запасные части",
+            "url": "/zapasnie-chasti/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Встраиваемые духовые шкафы",
+        "url": "/vstraivaemye-duhovye-shkafy/",
+        "options": [
+          {
+            "name": "Стиральные машины",
+            "url": "/stiralnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые варочные панели",
+            "url": "/vstraivaemye-varochnye-poverhnosti/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные плиты",
+            "url": "/plity/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Холодильники",
+            "url": "/holodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вытяжки для кухни",
+            "url": "/vytyazhki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посудомоечные машины",
+            "url": "/posudomoechnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые холодильники",
+            "url": "/vstraivaemye-holodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые винные шкафы",
+            "url": "/vstraivaemye-vinnye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые вытяжки для кухни",
+            "url": "/vstraivaemye-vytyazhki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые кофемашины",
+            "url": "/vstraivaemye-kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые морозильные камеры",
+            "url": "/vstraivaemye-morozilnye-kamery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые пароварки",
+            "url": "/vstraivaemye-parovarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые посудомоечные машины",
+            "url": "/vstraivaemye-posudomoechnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые стиральные машины",
+            "url": "/vstraivaemye-stiralnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Сушильные машины для белья",
+            "url": "/sushilnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые микроволновые печи",
+            "url": "/vstraivaemye-mikrovolnovye-pechi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Морозильные камеры",
+            "url": "/morozilnye-kamery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Винные шкафы",
+            "url": "/vinnye-shkafy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые шкафы для подогрева",
+            "url": "/shkafy-dlya-podogreva-posudy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Стиральные машины с функцией сушки (2 в 1)",
+            "url": "/stiralno-sushilnye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Встраиваемые вакууматоры",
+            "url": "/vakuumatory/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Измельчители пищевых отходов",
+            "url": "/vstraivaemye-izmelchiteli-pischevyh-othodov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Автохолодильники",
+            "url": "/avtoholodilniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для крупной бытовой техники",
+            "url": "/aksessuary-krupnaya-bytovaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для холодильников",
+            "url": "/aksessuary-krupnaya-bytovaya-tehnika/filt_naznachenie-k_holodilnikam/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для автохолодильников",
+            "url": "/aksessuary-dlya-avtokholodilnikov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Хьюмидоры",
+            "url": "/khyumidory/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Встраиваемые духовые шкафы Kuppersberg",
+        "url": "/vstraivaemye-duhovye-shkafy/kuppersberg/",
+        "options": [
+          {
+            "name": "Kuppersbusch",
+            "url": "/vstraivaemye-duhovye-shkafy/kuppersbusch/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Maunfeld",
+            "url": "/vstraivaemye-duhovye-shkafy/maunfeld/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Korting",
+            "url": "/vstraivaemye-duhovye-shkafy/korting/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Smeg",
+            "url": "/vstraivaemye-duhovye-shkafy/smeg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Bosch",
+            "url": "/vstraivaemye-duhovye-shkafy/bosch/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Electrolux",
+            "url": "/vstraivaemye-duhovye-shkafy/electrolux/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Asko",
+            "url": "/vstraivaemye-duhovye-shkafy/asko/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Bertazzoni",
+            "url": "/vstraivaemye-duhovye-shkafy/bertazzoni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Gorenje",
+            "url": "/vstraivaemye-duhovye-shkafy/gorenje/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Midea",
+            "url": "/vstraivaemye-duhovye-shkafy/midea/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "AEG",
+            "url": "/vstraivaemye-duhovye-shkafy/aeg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Hotpoint",
+            "url": "/vstraivaemye-duhovye-shkafy/hotpoint/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "VARD",
+            "url": "/vstraivaemye-duhovye-shkafy/vard/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "De Dietrich",
+            "url": "/vstraivaemye-duhovye-shkafy/de_dietrich/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Haier",
+            "url": "/vstraivaemye-duhovye-shkafy/haier/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Siemens",
+            "url": "/vstraivaemye-duhovye-shkafy/siemens/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Miele",
+            "url": "/vstraivaemye-duhovye-shkafy/miele/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Beko",
+            "url": "/vstraivaemye-duhovye-shkafy/beko/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Whirlpool",
+            "url": "/vstraivaemye-duhovye-shkafy/whirlpool/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "V-ZUG",
+            "url": "/vstraivaemye-duhovye-shkafy/v_zug/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Indesit",
+            "url": "/vstraivaemye-duhovye-shkafy/indesit/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Elica",
+            "url": "/vstraivaemye-duhovye-shkafy/elica/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Brandt",
+            "url": "/vstraivaemye-duhovye-shkafy/brandt/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Casarte",
+            "url": "/vstraivaemye-duhovye-shkafy/casarte/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Kuppersberg SR 610 ANT Bronze",
+        "url": "duhovoy-shkaf-kuppersberg-sr-610-ant-bronze-788205",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      }
+    ],
+    "isArchive": false,
+    "__typename": "ProductV2",
+    "isSberPayOneClickAllowed": false,
+    "isTinkoffPayOneClickAllowed": false,
+    "bonus": null
+  },
+  "details": {
+    "description": "<style> *{box-sizing:border-box;outline:0}body{font-family:'DINPro Technopark',Arial;font-size:14px;font-weight:400;font-display:swap;margin:0;overflow-x:hidden;position:relative;min-height:95vh;-webkit-tap-highlight-color:transparent}body.lock-scroll{overflow:hidden;position:fixed;right:0;left:0;bottom:0}@media (min-width:1192px){body.lock-scroll{position:relative}}@media screen and (max-device-width:480px){body{-webkit-text-size-adjust:none}}.label-for-seo{width:100%}.label-for-seo__span{display:none}a{color:#0093c4;text-decoration:none}.is-visible{display:block!important}.is-hidden{display:none!important}.is-visually-hidden{opacity:0!important;visibility:hidden!important;pointer-events:none!important}.is-link{color:#0093c4}.no-wrap{white-space:nowrap}.container{margin:auto;width:100%}@media (min-width:960px){.container{width:calc(100% - 48px)}}@media (min-width:1482px){.container{max-width:1397px}}.is-overflow-hidden{overflow:hidden}.is-mobile-not{display:none!important}@media (min-width:960px){.is-mobile-not{display:block!important}}@media (min-width:960px){.is-mobile-only{display:none!important}}@media (max-width:959px){.hide-phone{display:none}}@media (min-width:960px) and (max-width:1481px){.hide-tablet{display:none}}.is-hidden{display:none!important}.nowrap-text{white-space:nowrap}.textcenter{text-align:center}ul.list{margin:0;padding:6px 0 18px}@media (min-width:960px){ul.list{padding:6px 0 24px}}ul.list li{font-family:'DINPro Technopark',Arial;font-size:15px;font-weight:400;font-display:swap;color:#fff;line-height:20px;list-style:none;margin:0;padding-left:9px;position:relative}@media (min-width:960px){ul.list li{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:400;font-display:swap;line-height:21px;padding-left:26px}}ul.list>li:before{background-color:#fff;border-radius:50%;content:\"\";display:block;height:3px;left:0;position:absolute;top:10px;width:3px}@media (min-width:960px){ul.list>li:before{border-radius:0;height:1px;width:13px}}ul.list>li>ul{padding:6px 0 6px 15px}@media (min-width:960px){ul.list>li>ul{padding:3px 0 3px 4px}}ul.list>li>ul>li:before{background-color:rgba(255,255,255,.5)}ul.list>li>ul>li>ul{padding:6px 0 0 15px}@media (min-width:960px){ul.list>li>ul>li>ul{padding:3px 0 0 4px}}ul.list>li>ul>li>ul>li:before{background-color:rgba(255,255,255,.2)}ol.list{margin:0;padding:6px 0 18px;counter-reset:list1}@media (min-width:960px){ol.list{padding:6px 0 24px}}ol.list li{font-family:'DINPro Technopark',Arial;font-size:15px;font-weight:400;font-display:swap;color:#fff;line-height:20px;list-style:none;margin:0;padding-left:9px;position:relative}@media (min-width:960px){ol.list li{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:400;font-display:swap;line-height:21px;padding-left:26px}}ol.list>li{padding-left:24px}ol.list>li:before{counter-increment:list1;content:counter(list1) \". \";left:0;position:absolute}ol.list>li>ol{counter-reset:list2;padding:6px 0}@media (min-width:960px){ol.list>li>ol{padding:3px 0}}ol.list>li>ol>li{padding-left:42px}ol.list>li>ol>li:before{counter-increment:list2;content:counter(list1) \".\" counter(list2) \". \"}ol.list>li>ol>li>ol{counter-reset:list3}ol.list>li>ol>li>ol>li:before{counter-increment:list3;content:counter(list1) \".\" counter(list2) \".\" counter(list3) \". \"}ol.list--compact{padding:0}.list--line-interval li:not(:last-child){margin-bottom:1em}input::-ms-clear{display:none}input::-webkit-clear-button{display:none}@media (max-width:767px){.footer{padding-bottom:66px}}.page-container{margin:auto;padding:0 18px;width:100%}@media (min-width:960px){.page-container{padding:0 24px;width:100%}}@media (min-width:1482px){.page-container{width:1481px}}@media (min-width:960px){.page-container--extra-padding{padding:0 42px}}.default-container{width:100%;max-width:1481px;margin:auto;padding:0 12px}@media (min-width:960px){.default-container{padding:0 24px}}button,input,select,textarea{font-family:inherit;font-size:100%;margin:0}textarea{resize:none;overflow:auto}form{margin:0}button{color:inherit}dd,dl,dt{margin:0;padding:0}input[type=search]{-webkit-appearance:none}input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration,input[type=search]::-webkit-search-results-button,input[type=search]::-webkit-search-results-decoration{display:none}input:invalid{box-shadow:none}textarea:invalid{box-shadow:none}svg *{pointer-events:none}.product__desc{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:300;font-display:swap;color:#878787;display:none}.product__desc b{font-family:'DINPro Technopark',Arial;font-size:20px;font-weight:400;font-display:swap;color:#fff}.dyson-v10-picking,.dyson-v10-properties,.dyson-v10-wrapper,.dyson-v10-wrapper .dyson-v10__list span{color:#fff;padding:0 12px}@media (max-width:1154px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:170px}}@media (max-width:1100px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:270px}}@media (max-width:960px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:27px}}.dyson-v10-first-row li.dyson-v10-item{max-width:calc(100% / 3 - 10);padding-right:5px}@media (max-width:959px){.dyson-v10-first-row{flex-direction:column;align-items:flex-start}.dyson-v10-first-row li.dyson-v10-item{max-width:none}}@media (min-width:960px) and (max-width:1303px){.dyson-v10-first-row{flex-direction:column;align-items:flex-start}.dyson-v10-first-row li.dyson-v10-item{max-width:none}}.dyson-v10-chapter{text-align:center!important}.dyson-v10__list li.dyson-v10__list-item{background-size:contain;background-position:left} </style> <p>Духовой шкаф Kuppersberg SR 610 - это современное решение для любителей кулинарии, ценящих качество, функциональность и стиль. Этот шкаф отличается элегантным дизайном, который придаст вашей кухне особый шик и благородство. Фурнитура в бронзовых тонах добавляет изысканности и гармонично сочетается с общим стилем устройства. Особенностью данной модели является объём в 80 литров, что позволяет приготовить большое количество пищи одновременно.  </p>  <h2>Особенности</h2>  <ul class=\"list\">  \t<li><b>Компактность и удобство в эксплуатации</b><br>  \t Благодаря компактным габаритам, шкаф идеально впишется в любой интерьер и не займёт много места на вашей кухне. Духовой шкаф оснащён механическим управлением и поворотными переключателями, что делает его использование максимально удобным и простым. Встроенный механический таймер поможет контролировать время приготовления пищи и избежать её пережаривания или недоваривания </li>    \t<li><b>Многообразие режимов и лёгкость ухода</b><br>  \t С этим прибором вы получаете целых 9 режимов работы, включая традиционный нагрев, макси-гриль, турборежим, разморозку и многие другие. Это позволяет вам экспериментировать с рецептами и выбирать наиболее подходящий режим для каждого блюда. Также стоит отметить, что в этой модели предусмотрена система гидролизной очистки и эмаль лёгкой очистки, что значительно облегчает уход за духовкой и позволяет сохранять её в идеальной чистоте без особых усилий. Духовой шкаф дополнительно оснащён хромированными телескопическими направляющими, съёмной дверцей и внутренним стеклом, упрощающими процесс очистки, а освещение помогает контролировать процесс приготовления пищи </li>  </ul>",
+    "descriptionType": "DEFAULT",
+    "descriptionBarcode": "4260697458560",
+    "descriptionBrand": "Kuppersberg",
+    "specifications": {
+      "short": [
+        {
+          "name": "Тип",
+          "value": "электрический",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Очистка",
+          "value": "гидролизная",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Материал камеры",
+          "value": "эмаль легкой очистки",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Объем духовки",
+          "value": "80 л",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Размеры (ширина)",
+          "value": "60 см",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "barcode": "4260697458560",
+      "country": "Турция",
+      "full": [
+        {
+          "name": "Общие характеристики",
+          "list": [
+            {
+              "name": "Тип",
+              "value": "электрический",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип подключения",
+              "value": "независимая",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Очистка",
+              "value": "гидролизная",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал камеры",
+              "value": "эмаль легкой очистки",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Объем духовки",
+              "value": "80 л",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет",
+              "value": "антрацит",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет фурнитуры",
+              "value": "бронзовый",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет ручки",
+              "value": "бронза",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Управление",
+          "list": [
+            {
+              "name": "Тип управления",
+              "value": "механическое",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Переключатели",
+              "value": "поворотные",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Расположение переключателя",
+              "value": "на поверхности духового шкафа",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Таймер",
+              "value": "механический, таймер с акустическим сигналом",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Звуковой таймер",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Индикация",
+          "list": [
+            {
+              "name": "Индикаторная лампочка",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Режимы работы",
+          "list": [
+            {
+              "name": "Количество режимов работы",
+              "value": "9",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Режимы работы",
+              "value": "нижний и верхний нагрев с конвекцией, нижний и верхний нагрев, большой гриль с конвекцией, большой гриль, верхний нагрев с конвекцией, турбо вентилятор, турбо вентилятор и нижний нагрев, нижний нагрев, размораживание",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип гриля",
+              "value": "тэн",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Программа размораживания",
+              "value": "по времени",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная температура духового шкафа",
+              "value": "255 °С",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Безопасность",
+          "list": [
+            {
+              "name": "Автоматическое отключение при открытой дверце",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Мощность и энергопотребление",
+          "list": [
+            {
+              "name": "Класс энергопотребления",
+              "value": "A",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Мощность гриля",
+              "value": "2450 Вт",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Дополнительная информация",
+          "list": [
+            {
+              "name": "Дополнительные возможности духового шкафа",
+              "value": "вентилятор охлаждения",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Особенности конструкции духового шкафа",
+              "value": "съемное внутреннее стекло, съемная дверца",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дверца духовки",
+              "value": "откидная",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество стекол дверцы",
+              "value": "3",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Часы",
+              "value": "аналоговые",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество ламп освещения",
+              "value": "1",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Мощность одной лампы",
+              "value": "25 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество уровней направляющих",
+              "value": "5",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Полозья для противней",
+              "value": "хромированные, съемные, телескопические",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Телескопические направляющие",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Размещение телескопических направляющих",
+              "value": "одноуровневые",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Артикул производителя",
+              "value": "8599",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Комплектация",
+          "list": [
+            {
+              "name": "Комплект поставки",
+              "value": "стандартный противень, глубокий противень, решётка",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Сетевой кабель",
+              "value": "1.2 м",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Инструкция",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Размеры и вес",
+          "list": [
+            {
+              "name": "Высота",
+              "value": "59.5 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ширина",
+              "value": "59.5 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Глубина",
+              "value": "56.7 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Высота встраивания",
+              "value": "60 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ширина встраивания",
+              "value": "56 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Глубина встраивания",
+              "value": "55 см",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        }
+      ],
+      "grossWeight": "20",
+      "netWeight": "20",
+      "height": "0.5",
+      "instructionUrl": "https://storage.yandexcloud.net/technopark.instructions/788205/instruction/instrukciya-duhovoy-shkaf-kuppersberg-sr-610-ant-bronze-788205.pdf",
+      "length": "0.5",
+      "schemeUrl": "https://storage.yandexcloud.net/technopark.instructions/788205/schema/schema-vstraivaniya-duhovoy-shkaf-kuppersberg-sr-610-ant-bronze-788205.jpg",
+      "warranty": "24",
+      "width": "0.5",
+      "__typename": "ProductV2Specifications"
+    },
+    "certificates": ["https://www.technopark.ru/bipublic/Cert/IG0G146L4U3NAO.pdf"],
+    "isManufacturerCountry": false,
+    "isSellerWarranty": false,
+    "reviews": {
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "total": 0,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "rating": {
+      "average": 0,
+      "canRate": false,
+      "total": {
+        "all": 0,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 0,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "isLoading": false
+  },
+  "shots": [
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/788205/1_788205.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/788205/1_788205.jpg?timestamp=2025-05-05_10-14-03"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/788205/2_788205.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/788205/2_788205.jpg?timestamp=2025-05-05_10-14-03"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/788205/3_788205.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/788205/3_788205.jpg?timestamp=2025-05-05_10-14-03"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/788205/4_788205.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/788205/4_788205.jpg"
+    ]
+  ],
+  "photos": [
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/duhovoy-shkaf-kuppersberg-sr-610-ant-bronze-788205-1.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/duhovoy-shkaf-kuppersberg-sr-610-ant-bronze-788205-2.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/duhovoy-shkaf-kuppersberg-sr-610-ant-bronze-788205-3.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/duhovoy-shkaf-kuppersberg-sr-610-ant-bronze-788205-4.jpg"
+  ]
+}

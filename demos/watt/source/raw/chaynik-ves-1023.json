@@ -1,0 +1,1397 @@
+{
+  "shelf": "chayniki",
+  "slug": "chaynik-ves-1023",
+  "product": {
+    "id": "180023",
+    "article": "97833",
+    "slug": "chaynik-ves-1023",
+    "hasSmartInstallments": false,
+    "isActive": true,
+    "name": {
+      "default": "VES 1023",
+      "full": "Чайник VES 1023",
+      "pseudo": null,
+      "spare": null,
+      "fullWithoutSection": "VES 1023",
+      "section": "Чайник",
+      "__typename": "ProductName"
+    },
+    "price": {
+      "default": 1790,
+      "marketing": null,
+      "old": 2390,
+      "__typename": "ProductPrice"
+    },
+    "benefit": 600,
+    "specifications": {
+      "short": [
+        {
+          "name": "Мощность",
+          "value": "2200 Вт",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Объем",
+          "value": "1.7 л",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Материал корпуса",
+          "value": "нержавеющая сталь",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "__typename": "ProductV2Specifications"
+    },
+    "labels": [
+      {
+        "name": "Бонусы Спасибо",
+        "type": "sberspasibo",
+        "items": [
+          {
+            "description": "",
+            "name": "Этот товар можно оплатить бонусами Спасибо от СберБанка",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Выгодное предложение",
+        "type": "special_offer",
+        "items": [
+          {
+            "description": "",
+            "name": "Техника и электроника",
+            "url": "/action/vygodnaya-tsena/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Рассрочка",
+        "type": "deferred_payment",
+        "items": [
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-6",
+            "url": "/chaynik-ves-1023/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-12",
+            "url": "/chaynik-ves-1023/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      }
+    ],
+    "labelsV2": [
+      {
+        "id": "8",
+        "name": "Бонусы Спасибо",
+        "code": "sberspasibo",
+        "mainColor": "#0C9C0C",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#0C9C0C",
+        "altTextColor": "#FFFFFF",
+        "borderAndTextColor": "#0C9C0C",
+        "items": [
+          {
+            "id": "25759",
+            "text": "Этот товар можно оплатить бонусами Спасибо от СберБанка ",
+            "buttonText": "Подробнее",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      },
+      {
+        "id": "5",
+        "name": "Выгода",
+        "code": "vygoda",
+        "mainColor": "#fd9600",
+        "mainTextColor": "#ffffff",
+        "altColor": "#fd9600",
+        "altTextColor": "#ffffff",
+        "borderAndTextColor": "#fd9600",
+        "items": [
+          {
+            "id": "395",
+            "text": "Выгодное предложение",
+            "buttonText": "Подробнее",
+            "url": "/action/vygodnaya-tsena/",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      }
+    ],
+    "status": {
+      "id": "IN_STOCK",
+      "name": "В наличии",
+      "type": "POSITIVE",
+      "__typename": "ProductStatus"
+    },
+    "brand": {
+      "code": "ves",
+      "id": "40375",
+      "name": "VES",
+      "src": "https://cdn1.technopark.ru/technopark/photos_resized/section_brand_300_100/300_100/40375/1_40375.png",
+      "slug": "ves",
+      "sections": [
+        {
+          "name": "Кофеварки VES",
+          "url": "/kofevarki-i-kofemashiny/ves/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/434797710/technopark/photos_resized/product/120_120/131991/1_131991.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4158922146/technopark/photos_resized/product/120_120/131991/2_131991.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3524445779/technopark/photos_resized/product/120_120/131991/3_131991.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1861045272/technopark/photos_resized/product/120_120/131991/4_131991.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2162371892/technopark/photos_resized/product/120_120/131991/5_131991.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2769680069/technopark/photos_resized/product/120_120/131991/6_131991.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Дегидраторы VES",
+          "url": "/sushki-dlya-ovoschey/ves/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3388880832/technopark/photos_resized/product/120_120/104684/1_104684.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Мультипекари VES",
+          "url": "/sendvichnitsi/ves/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1436924778/technopark/photos_resized/product/120_120/776961/1_776961.jpg?timestamp=2025-01-22_08-54-40",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2321231932/technopark/photos_resized/product/120_120/776961/2_776961.jpg?timestamp=2025-01-22_08-55-37",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4250665130/technopark/photos_resized/product/120_120/776961/3_776961.jpg?timestamp=2025-01-22_08-54-42",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3508311920/technopark/photos_resized/product/120_120/776961/4_776961.jpg?timestamp=2025-01-22_08-54-49",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/339715487/technopark/photos_resized/product/120_120/776961/5_776961.jpg?timestamp=2025-01-22_08-54-40",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3597751145/technopark/photos_resized/product/120_120/776961/6_776961.jpg?timestamp=2025-01-22_08-54-50",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3482180101/technopark/photos_resized/product/120_120/776961/7_776961.jpg?timestamp=2025-01-22_08-54-52",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Детские весы VES",
+          "url": "/detskie-vesy/ves/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2796677363/technopark/photos_resized/product/120_120/307580/1_307580.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1339182534/technopark/photos_resized/product/120_120/307580/2_307580.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Ирригаторы VES",
+          "url": "/irrigatory/ves/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3723082141/technopark/photos_resized/product/120_120/100825/1_100825.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        }
+      ],
+      "__typename": "Brand"
+    },
+    "section": {
+      "slug": "chayniki",
+      "id": "912",
+      "name": "Чайники электрические",
+      "parents": [
+        {
+          "id": "900",
+          "name": "Для кухни",
+          "depth": 1,
+          "__typename": "SectionTreeItem"
+        },
+        {
+          "id": "912",
+          "name": "Чайники электрические",
+          "depth": 2,
+          "__typename": "SectionTreeItem"
+        }
+      ],
+      "__typename": "Section"
+    },
+    "media": {
+      "gallery": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/180023/1_180023.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/180023/2_180023.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/180023/3_180023.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/180023/4_180023.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/180023/5_180023.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/180023/6_180023.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/180023/7_180023.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "interior": [],
+      "video": [],
+      "vkVideo": null,
+      "view3d": [],
+      "listing": {
+        "default": [
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/180023/1_180023.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/180023/2_180023.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/180023/3_180023.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/180023/4_180023.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/180023/5_180023.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/180023/6_180023.jpg",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/180023/7_180023.jpg",
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "ProductListing"
+      },
+      "__typename": "ProductV2Media"
+    },
+    "modifications": {
+      "bigBrother": null,
+      "groups": [],
+      "__typename": "ProductModifications"
+    },
+    "description": {
+      "hasDescription": false,
+      "type": "DEFAULT",
+      "__typename": "ProductDescription"
+    },
+    "collection": {
+      "id": "180023",
+      "products": {
+        "pagination": {
+          "total": 0,
+          "__typename": "Pagination"
+        },
+        "__typename": "ProductV2Pagination"
+      },
+      "__typename": "ProductCollection"
+    },
+    "similar": {
+      "pagination": {
+        "total": 36,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "related": {
+      "pagination": {
+        "total": 20,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "accessories": [
+      {
+        "products": {
+          "pagination": {
+            "total": 3,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 1,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 5,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 20,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 11,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 13,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 2,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 17,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 13,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 4,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 2,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 1,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 14,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      }
+    ],
+    "rating": {
+      "average": 5,
+      "canRate": false,
+      "total": {
+        "all": 1,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 1,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "reviews": {
+      "total": 1,
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "totalRecommendations": 1,
+      "__typename": "ProductReviews"
+    },
+    "bestCredit": {
+      "monthPayment": 150,
+      "type": "DEFERRED_PAYMENT",
+      "__typename": "ProductBestCredit"
+    },
+    "isSpare": false,
+    "isService": false,
+    "isVipService": false,
+    "isGiftBonusCard": false,
+    "canBuy": true,
+    "canPayOnline": true,
+    "canRequestPrice": false,
+    "canShowPrice": true,
+    "canSubscribe": false,
+    "needPrepaymentForDelivery": false,
+    "needPrepaymentForPreorder": false,
+    "isSberSpasiboPayAvailable": true,
+    "isYandexPayAllowed": false,
+    "yandexSplit": {
+      "payments": [
+        {
+          "amount": 0,
+          "date": "2026-08-17T09:04:32+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 151,
+          "date": "2026-08-31T09:04:32+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 149,
+          "date": "2026-09-14T09:04:32+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 149,
+          "date": "2026-09-28T09:04:32+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 149,
+          "date": "2026-10-12T09:04:32+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 149,
+          "date": "2026-10-26T09:04:32+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 149,
+          "date": "2026-11-09T09:04:32+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 149,
+          "date": "2026-11-23T09:04:32+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 149,
+          "date": "2026-12-07T09:04:32+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 149,
+          "date": "2026-12-21T09:04:32+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 149,
+          "date": "2027-01-04T09:04:32+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 149,
+          "date": "2027-01-18T09:04:32+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 149,
+          "date": "2027-02-01T09:04:32+0300",
+          "__typename": "YandexSplitPayment"
+        }
+      ],
+      "firstPayment": 0,
+      "restPayment": 1790,
+      "description": "https://yandex.ru/support/split/",
+      "maxAmount": 295000,
+      "__typename": "YandexSplit"
+    },
+    "seo": {
+      "description": "Чайник VES 1023: купить в интернет-магазине Технопарк с расширенной гарантией и бесплатной доставкой по РФ. Подробные характеристики товара с отзывами реальных покупателей.",
+      "text": "Вы можете купить чайник VES 1023 с доставкой по Москве по низкой цене. В интернет-магазине Technopark.ru осуществляется продажа чайника VES 1023 на выгодных условиях.",
+      "textHidden": "",
+      "title": "Чайник VES 1023 - купить в Москве в интернет-магазине Технопарк",
+      "__typename": "SeoData"
+    },
+    "breadcrumbs": [
+      {
+        "name": "Главная",
+        "url": "/",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Техника для кухни",
+        "url": "/dlya-kuhni/",
+        "options": [
+          {
+            "name": "Центр инноваций",
+            "url": "/tovary-iz-budushchego/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Смартфоны и гаджеты",
+            "url": "/smartfony-i-gadzhety/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Компьютеры и ноутбуки",
+            "url": "/kompyutery-i-noutbuki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Климатическая техника",
+            "url": "/klimaticheskaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Крупная бытовая техника",
+            "url": "/krupnaya-bytovaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Бытовая техника для дома",
+            "url": "/dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для красоты и здоровья",
+            "url": "/krasota-i-zdorovye/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Спортивные товары",
+            "url": "/trenazhery-dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Телевизоры Аудио Hi-Fi",
+            "url": "/audio-video-foto/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для сада, дома и ремонта",
+            "url": "/dlya-sada-doma-i-remonta/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посуда",
+            "url": "/posuda/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Детские товары",
+            "url": "/detskie-tovary/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для гейминга",
+            "url": "/gaming/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Плоттеры и услуги розницы",
+            "url": "//",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Запасные части",
+            "url": "/zapasnie-chasti/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Электрические чайники",
+        "url": "/chayniki/",
+        "options": [
+          {
+            "name": "Аэрогрили",
+            "url": "/aerogrili/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Микроволновые печи",
+            "url": "/mikrovolnovye-pechi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мультиварки",
+            "url": "/multivarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мини-печи",
+            "url": "/mini-pechi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мультишефы BORK",
+            "url": "/multishefy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Миксеры и кухонные машины",
+            "url": "/miksery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрогрили",
+            "url": "/grili/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Уличные грили барбекю",
+            "url": "/ulichnye-grili-barbeku/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Фритюрницы",
+            "url": "/frityurnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Хлебопечки",
+            "url": "/hlebopechki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Пароварки",
+            "url": "/parovarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Настольные плиты",
+            "url": "/induktsionnye-paneli/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мороженицы",
+            "url": "/morozhenitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вакуумные упаковщики (вакууматоры)",
+            "url": "/vakuumnaya-upakovka/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Су виды",
+            "url": "/su-vidy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрические сковороды и воки",
+            "url": "/elektricheskie-skovorody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Автоматические кофемашины",
+            "url": "/kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кофеварки",
+            "url": "/kofevarki-i-kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кофейные станции",
+            "url": "/kofeynye-stantsii/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Капсульные кофемашины",
+            "url": "/kapsulnye-kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Гейзерные кофеварки для дома",
+            "url": "/gejzernye-kofevarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кофемолки",
+            "url": "/kofemolki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вспениватели молока",
+            "url": "/vspenivateli-moloka/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для приготовления кофе",
+            "url": "/prigotovlenie-kofe/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Соковыжималки",
+            "url": "/sokovyzhimalki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Термопоты",
+            "url": "/termopoty/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Декантеры",
+            "url": "/dekantery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кулеры для воды",
+            "url": "/kulery-dlya-vody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Льдогенераторы",
+            "url": "/ledogeneratory/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Системы газации напитков",
+            "url": "/sistema-gazatsii-napitkov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мясорубки",
+            "url": "/myasorubki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Блендеры",
+            "url": "/blendery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные комбайны",
+            "url": "/kuhonnye-kombayny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные измельчители (чопперы)",
+            "url": "/kukhonnye-izmelchiteli/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Ломтерезки",
+            "url": "/lomterezki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Овощерезки",
+            "url": "/elektroterka/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Тостеры",
+            "url": "/tostery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вафельницы",
+            "url": "/vafelnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мультипекари",
+            "url": "/sendvichnitsi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Яйцеварки",
+            "url": "/yaycevarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Блинницы",
+            "url": "/blinnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Йогуртницы",
+            "url": "/yogurtnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Фильтры для воды под мойку",
+            "url": "/filtry-kuvshiny-dlya-ochistki-vody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Фильтры-кувшины для воды",
+            "url": "/filtry-kuvshiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для очистки воды",
+            "url": "/dlya-ochistki-vody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные весы",
+            "url": "/kuhonnye-vesy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Дегидраторы",
+            "url": "/sushki-dlya-ovoschey/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для кухни",
+            "url": "/aksessuary-dlya-kuhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мойки для кухни",
+            "url": "/moyki-dlya-kukhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрошашлычницы",
+            "url": "/shashlychnitsa/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Электрические чайники VES",
+        "url": "/chayniki/ves/",
+        "options": [
+          {
+            "name": "BORK",
+            "url": "/chayniki/bork/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "QYRON",
+            "url": "/chayniki/qyron/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Smeg",
+            "url": "/chayniki/smeg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Maunfeld",
+            "url": "/chayniki/maunfeld/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "KitchenAid",
+            "url": "/chayniki/kitchenaid/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Polaris",
+            "url": "/chayniki/polaris/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Brayer",
+            "url": "/chayniki/brayer/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Endever",
+            "url": "/chayniki/endever/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Tefal",
+            "url": "/chayniki/tefal/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Korting",
+            "url": "/chayniki/korting/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Braun",
+            "url": "/chayniki/braun/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Midea",
+            "url": "/chayniki/midea/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Bosch",
+            "url": "/chayniki/bosch/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "WMF",
+            "url": "/chayniki/wmf/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Zigmund Shtain",
+            "url": "/chayniki/zigmund_shtain/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Kitfort",
+            "url": "/chayniki/kitfort/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Libhof",
+            "url": "/chayniki/libhof/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Delonghi",
+            "url": "/chayniki/delonghi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Electrolux",
+            "url": "/chayniki/electrolux/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Kenwell",
+            "url": "/chayniki/kenwell/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Zwilling",
+            "url": "/chayniki/zwilling/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Atvel",
+            "url": "/chayniki/atvel/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Toshiba",
+            "url": "/chayniki/toshiba/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Moulinex",
+            "url": "/chayniki/moulinex/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Gorenje",
+            "url": "/chayniki/gorenje/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "VES 1023",
+        "url": "chaynik-ves-1023",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      }
+    ],
+    "isArchive": false,
+    "__typename": "ProductV2",
+    "isSberPayOneClickAllowed": false,
+    "isTinkoffPayOneClickAllowed": false,
+    "bonus": null
+  },
+  "details": {
+    "description": "",
+    "descriptionType": "DEFAULT",
+    "descriptionBarcode": "8429723302529",
+    "descriptionBrand": "VES",
+    "specifications": {
+      "short": [
+        {
+          "name": "Мощность",
+          "value": "2200 Вт",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Объем",
+          "value": "1.7 л",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Материал корпуса",
+          "value": "нержавеющая сталь",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "barcode": "8429723302529",
+      "country": "Китай",
+      "full": [
+        {
+          "name": "Основные характеристики",
+          "list": [
+            {
+              "name": "Мощность",
+              "value": "2200 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Объем",
+              "value": "1.7 л",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал корпуса",
+              "value": "нержавеющая сталь",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Нагревательный элемент",
+              "value": "закрытого типа",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет",
+              "value": "нержавеющая сталь",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Управление",
+          "list": [
+            {
+              "name": "Управление",
+              "value": "механическое",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Функции",
+          "list": [
+            {
+              "name": "Количество режимов нагрева",
+              "value": "1",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Фильтрация",
+          "list": [
+            {
+              "name": "Фильтр от накипи",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Защита и безопасность",
+          "list": [
+            {
+              "name": "Блокировка крышки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автоотключение при снятии с подставки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автоотключение при отсутствии воды",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автоотключение при закипании",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Дополнительные характеристики",
+          "list": [
+            {
+              "name": "Теплоизолированная ручка",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Подсветка воды",
+              "value": "есть",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Шкала уровня воды",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикатор включения",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вращение на подставке на 360 градусов",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Открывание крышки",
+              "value": "кнопка на ручке",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Комплектация",
+          "list": [
+            {
+              "name": "Инструкция",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Питание",
+          "list": [
+            {
+              "name": "Источник питания",
+              "value": "сеть",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        }
+      ],
+      "grossWeight": "1.06",
+      "netWeight": "0.92",
+      "height": "0.22",
+      "instructionUrl": null,
+      "length": "0.2",
+      "schemeUrl": null,
+      "warranty": "12",
+      "width": "0.16",
+      "__typename": "ProductV2Specifications"
+    },
+    "certificates": ["https://www.technopark.ru/bipublic/Cert/IG0G14MKAONIPF.pdf"],
+    "isManufacturerCountry": false,
+    "isSellerWarranty": false,
+    "reviews": {
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "total": 1,
+      "totalRecommendations": 1,
+      "__typename": "ProductReviews"
+    },
+    "rating": {
+      "average": 5,
+      "canRate": false,
+      "total": {
+        "all": 1,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 1,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "isLoading": false
+  },
+  "shots": [
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/180023/1_180023.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/180023/1_180023.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/180023/2_180023.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/180023/2_180023.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/180023/3_180023.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/180023/3_180023.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/180023/4_180023.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/180023/4_180023.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/180023/5_180023.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/180023/5_180023.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/180023/6_180023.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/180023/6_180023.jpg"
+    ]
+  ],
+  "photos": [
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/chaynik-ves-1023-1.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/chaynik-ves-1023-2.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/chaynik-ves-1023-3.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/chaynik-ves-1023-4.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/chaynik-ves-1023-5.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/chaynik-ves-1023-6.jpg"
+  ]
+}

@@ -1,0 +1,1787 @@
+{
+  "shelf": "chayniki",
+  "slug": "chaynik-qyron-ks604-784178",
+  "product": {
+    "id": "784178",
+    "article": "171735",
+    "slug": "chaynik-qyron-ks604-784178",
+    "hasSmartInstallments": false,
+    "isActive": true,
+    "name": {
+      "default": "QYRON KS604",
+      "full": "Чайник QYRON KS604",
+      "pseudo": null,
+      "spare": null,
+      "fullWithoutSection": "QYRON KS604",
+      "section": "Чайник",
+      "__typename": "ProductName"
+    },
+    "price": {
+      "default": 5880,
+      "marketing": null,
+      "old": 8900,
+      "__typename": "ProductPrice"
+    },
+    "benefit": 3020,
+    "specifications": {
+      "short": [
+        {
+          "name": "Мощность",
+          "value": "2400 Вт",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Объем",
+          "value": "1.7 л",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Материал корпуса",
+          "value": "нержавеющая сталь",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "__typename": "ProductV2Specifications"
+    },
+    "labels": [
+      {
+        "name": "Бонусы Спасибо",
+        "type": "sberspasibo",
+        "items": [
+          {
+            "description": "",
+            "name": "Этот товар можно оплатить бонусами Спасибо от СберБанка",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Выгодное предложение",
+        "type": "special_offer",
+        "items": [
+          {
+            "description": "",
+            "name": "Техника и электроника",
+            "url": "/action/vygodnaya-tsena/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Рассрочка",
+        "type": "deferred_payment",
+        "items": [
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-6",
+            "url": "/chaynik-qyron-ks604-784178/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-12",
+            "url": "/chaynik-qyron-ks604-784178/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-24",
+            "url": "/chaynik-qyron-ks604-784178/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-18",
+            "url": "/chaynik-qyron-ks604-784178/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Доставка",
+        "type": "delivery",
+        "items": [
+          {
+            "description": "",
+            "name": "Бесплатная доставка по России!",
+            "url": "/free-shipping-russia/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      }
+    ],
+    "labelsV2": [
+      {
+        "id": "8",
+        "name": "Бонусы Спасибо",
+        "code": "sberspasibo",
+        "mainColor": "#0C9C0C",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#0C9C0C",
+        "altTextColor": "#FFFFFF",
+        "borderAndTextColor": "#0C9C0C",
+        "items": [
+          {
+            "id": "26209",
+            "text": "Этот товар можно оплатить бонусами Спасибо от СберБанка ",
+            "buttonText": "Подробнее",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      },
+      {
+        "id": "5",
+        "name": "Выгода",
+        "code": "vygoda",
+        "mainColor": "#fd9600",
+        "mainTextColor": "#ffffff",
+        "altColor": "#fd9600",
+        "altTextColor": "#ffffff",
+        "borderAndTextColor": "#fd9600",
+        "items": [
+          {
+            "id": "1264",
+            "text": "Выгодное предложение",
+            "buttonText": "Подробнее",
+            "url": "/action/vygodnaya-tsena/",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      }
+    ],
+    "status": {
+      "id": "IN_STOCK",
+      "name": "В наличии",
+      "type": "POSITIVE",
+      "__typename": "ProductStatus"
+    },
+    "brand": {
+      "code": "qyron",
+      "id": "702360",
+      "name": "QYRON",
+      "src": "https://cdn1.technopark.ru/technopark/photos_resized/section_brand_300_100/300_100/702360/1_702360.png",
+      "slug": "qyron",
+      "sections": [
+        {
+          "name": "Очистители воздуха QYRON",
+          "url": "/ochistiteli-vozduha/qyron/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2075576853/technopark/photos_resized/product/120_120/778943/1_778943.jpg?timestamp=2025-02-04_10-16-46",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3256903304/technopark/photos_resized/product/120_120/778943/2_778943.jpg?timestamp=2025-02-04_10-16-31",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3678099401/technopark/photos_resized/product/120_120/778943/3_778943.jpg?timestamp=2025-02-04_10-16-28",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2618222354/technopark/photos_resized/product/120_120/778943/4_778943.jpg?timestamp=2025-02-04_10-16-46",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/892679909/technopark/photos_resized/product/120_120/778943/5_778943.jpg?timestamp=2025-02-04_10-16-29",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2777295732/technopark/photos_resized/product/120_120/778943/6_778943.jpg?timestamp=2025-02-04_10-16-29",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3415616163/technopark/photos_resized/product/120_120/778943/7_778943.jpg?timestamp=2025-02-04_10-16-32",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3855769526/technopark/photos_resized/product/120_120/778943/8_778943.jpg?timestamp=2025-02-04_10-16-43",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2511907641/technopark/photos_resized/product/120_120/778943/9_778943.jpg?timestamp=2025-02-04_10-16-45",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Аэрогрили QYRON",
+          "url": "/aerogrili/qyron/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1085549252/technopark/photos_resized/product/120_120/814742/1_814742.jpg?timestamp=2026-01-15_11-40-51",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2849476593/technopark/photos_resized/product/120_120/814742/2_814742.jpg?timestamp=2026-01-15_11-40-51",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1273523705/technopark/photos_resized/product/120_120/814742/3_814742.jpg?timestamp=2026-01-15_11-41-08",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/163424768/technopark/photos_resized/product/120_120/814742/4_814742.jpg?timestamp=2026-01-15_11-40-50",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3184639610/technopark/photos_resized/product/120_120/814742/5_814742.jpg?timestamp=2026-01-15_11-40-58",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1885881168/technopark/photos_resized/product/120_120/814742/6_814742.jpg?timestamp=2026-01-15_11-41-12",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/700837642/technopark/photos_resized/product/120_120/814742/7_814742.jpg?timestamp=2026-01-15_11-40-52",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/880120490/technopark/photos_resized/product/120_120/814742/8_814742.jpg?timestamp=2026-01-15_11-41-00",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3653073790/technopark/photos_resized/product/120_120/814742/9_814742.jpg?timestamp=2026-01-15_11-40-51",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1302931982/technopark/photos_resized/product/120_120/814742/10_814742.jpg?timestamp=2026-01-15_11-40-59",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1254419991/technopark/photos_resized/product/120_120/814742/11_814742.jpg?timestamp=2026-01-15_11-41-00",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2138632353/technopark/photos_resized/product/120_120/814742/12_814742.jpg?timestamp=2026-01-15_11-41-06",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/293816667/technopark/photos_resized/product/120_120/814742/13_814742.jpg?timestamp=2026-01-15_11-41-01",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/895029572/technopark/photos_resized/product/120_120/814742/14_814742.jpg?timestamp=2026-01-15_11-41-09",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Мясорубки QYRON",
+          "url": "/myasorubki/qyron/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/4073407367/technopark/photos_resized/product/120_120/798527/1_798527.jpg?timestamp=2025-08-01_16-41-08",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/68975069/technopark/photos_resized/product/120_120/798527/2_798527.jpg?timestamp=2025-08-01_16-40-41",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2938325733/technopark/photos_resized/product/120_120/798527/3_798527.jpg?timestamp=2025-08-01_16-40-35",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3516020312/technopark/photos_resized/product/120_120/798527/4_798527.jpg?timestamp=2025-08-01_16-40-36",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2204359999/technopark/photos_resized/product/120_120/798527/5_798527.jpg?timestamp=2025-08-01_16-40-36",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3454017999/technopark/photos_resized/product/120_120/798527/6_798527.jpg?timestamp=2025-08-01_16-41-20",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3923021833/technopark/photos_resized/product/120_120/798527/7_798527.jpg?timestamp=2025-08-01_16-40-51",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2299730412/technopark/photos_resized/product/120_120/798527/8_798527.jpg?timestamp=2025-08-01_16-40-53",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1778415626/technopark/photos_resized/product/120_120/798527/9_798527.jpg?timestamp=2025-08-01_16-40-38",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2540039348/technopark/photos_resized/product/120_120/798527/10_798527.jpg?timestamp=2025-08-01_16-40-50",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2278068702/technopark/photos_resized/product/120_120/798527/11_798527.jpg?timestamp=2025-08-01_16-40-54",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2191636232/technopark/photos_resized/product/120_120/798527/12_798527.jpg?timestamp=2025-08-01_16-41-06",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3766838287/technopark/photos_resized/product/120_120/798527/13_798527.jpg?timestamp=2025-08-01_16-40-56",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1974789989/technopark/photos_resized/product/120_120/798527/14_798527.jpg?timestamp=2025-08-01_16-41-10",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2244768529/technopark/photos_resized/product/120_120/798527/15_798527.jpg?timestamp=2025-08-01_16-41-08",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/814069105/technopark/photos_resized/product/120_120/798527/16_798527.jpg?timestamp=2025-08-01_16-41-05",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Увлажнители воздуха QYRON",
+          "url": "/uvlazhniteli-vozduha/qyron/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2981430985/technopark/photos_resized/product/120_120/822532/1_822532.jpg?timestamp=2026-03-11_16-52-51",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1606117349/technopark/photos_resized/product/120_120/822532/2_822532.jpg?timestamp=2026-03-11_16-52-51",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/683431795/technopark/photos_resized/product/120_120/822532/3_822532.jpg?timestamp=2026-03-11_16-52-51",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3121063981/technopark/photos_resized/product/120_120/822532/4_822532.jpg?timestamp=2026-03-11_16-53-00",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3333568095/technopark/photos_resized/product/120_120/822532/5_822532.jpg?timestamp=2026-03-11_16-52-51",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2489707883/technopark/photos_resized/product/120_120/822532/6_822532.jpg?timestamp=2026-03-11_16-53-16",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/588183959/technopark/photos_resized/product/120_120/822532/7_822532.jpg?timestamp=2026-03-11_16-53-00",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1409927425/technopark/photos_resized/product/120_120/822532/8_822532.jpg?timestamp=2026-03-11_16-53-00",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3513945900/technopark/photos_resized/product/120_120/822532/9_822532.jpg?timestamp=2026-03-11_16-52-51",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3396164770/technopark/photos_resized/product/120_120/822532/10_822532.jpg?timestamp=2026-03-11_16-53-01",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3071977703/technopark/photos_resized/product/120_120/822532/11_822532.jpg?timestamp=2026-03-11_16-53-08",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2521251831/technopark/photos_resized/product/120_120/822532/12_822532.jpg?timestamp=2026-03-11_16-52-59",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3223165041/technopark/photos_resized/product/120_120/822532/13_822532.jpg?timestamp=2026-03-11_16-53-08",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1584991698/technopark/photos_resized/product/120_120/822532/14_822532.jpg?timestamp=2026-03-11_16-53-08",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1074788490/technopark/photos_resized/product/120_120/822532/15_822532.jpg?timestamp=2026-03-11_16-53-08",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2813842829/technopark/photos_resized/product/120_120/822532/16_822532.jpg?timestamp=2026-03-11_16-53-08",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Аксессуары для пылесосов QYRON",
+          "url": "/aksessuary-k-pylesosam/qyron/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2387124820/technopark/photos_resized/product/120_120/794210/1_794210.jpg?timestamp=2025-06-27_13-19-57",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4263663323/technopark/photos_resized/product/120_120/794210/2_794210.jpg?timestamp=2025-06-27_13-19-58",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2036199993/technopark/photos_resized/product/120_120/794210/3_794210.jpg?timestamp=2025-06-27_13-20-00",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Аксессуары для очистителей воздуха QYRON",
+          "url": "/aksessuary-dlya-ochistiteley-vozduha/qyron/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/248110303/technopark/photos_resized/product/120_120/778992/1_778992.jpg?timestamp=2025-02-05_10-43-40",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3994826177/technopark/photos_resized/product/120_120/778992/2_778992.jpg?timestamp=2025-02-05_10-43-43",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Мельницы для специй QYRON",
+          "url": "/melnitsy-dlya-spetsiy/qyron/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2302268599/technopark/photos_resized/product/120_120/747677/1_747677.jpg?timestamp=2024-12-24_10-47-50",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/391987476/technopark/photos_resized/product/120_120/747677/2_747677.jpg?timestamp=2024-12-24_10-47-50",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4169114582/technopark/photos_resized/product/120_120/747677/3_747677.jpg?timestamp=2024-12-24_10-48-07",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4265534497/technopark/photos_resized/product/120_120/747677/4_747677.jpg?timestamp=2024-12-24_10-47-50",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1616540034/technopark/photos_resized/product/120_120/747677/5_747677.jpg?timestamp=2024-12-24_10-47-50",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/271615245/technopark/photos_resized/product/120_120/747677/6_747677.jpg?timestamp=2024-12-24_10-47-50",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1029476665/technopark/photos_resized/product/120_120/747677/7_747677.jpg?timestamp=2024-12-24_10-48-04",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3545427989/technopark/photos_resized/product/120_120/747677/8_747677.jpg?timestamp=2024-12-24_10-48-04",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4279396303/technopark/photos_resized/product/120_120/747677/9_747677.jpg?timestamp=2024-12-24_10-48-06",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Термокружки QYRON",
+          "url": "/termokruzhka/qyron/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/888437542/technopark/photos_resized/product/120_120/772802/1_772802.jpg?timestamp=2024-12-27_11-08-33",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4279026171/technopark/photos_resized/product/120_120/772802/2_772802.jpg?timestamp=2024-12-27_11-08-34",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/376399054/technopark/photos_resized/product/120_120/772802/3_772802.jpg?timestamp=2024-12-27_11-08-35",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/285384919/technopark/photos_resized/product/120_120/772802/4_772802.jpg?timestamp=2024-12-27_11-08-34",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2297186624/technopark/photos_resized/product/120_120/772802/5_772802.jpg?timestamp=2024-12-27_11-08-45",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3544995361/technopark/photos_resized/product/120_120/772802/6_772802.jpg?timestamp=2024-12-27_11-08-33",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Массажные кресла QYRON",
+          "url": "/massazhnye-kresla/qyron/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1176961823/technopark/photos_resized/product/120_120/781441/1_781441.jpg?timestamp=2025-02-24_14-50-49",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/824193929/technopark/photos_resized/product/120_120/781441/2_781441.jpg?timestamp=2025-02-24_14-50-49",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3744354981/technopark/photos_resized/product/120_120/781441/3_781441.jpg?timestamp=2025-02-24_14-50-49",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1674696942/technopark/photos_resized/product/120_120/781441/4_781441.jpg?timestamp=2025-02-24_14-50-49",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/349628536/technopark/photos_resized/product/120_120/781441/5_781441.jpg?timestamp=2025-02-24_14-50-49",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        }
+      ],
+      "__typename": "Brand"
+    },
+    "section": {
+      "slug": "chayniki",
+      "id": "912",
+      "name": "Чайники электрические",
+      "parents": [
+        {
+          "id": "900",
+          "name": "Для кухни",
+          "depth": 1,
+          "__typename": "SectionTreeItem"
+        },
+        {
+          "id": "912",
+          "name": "Чайники электрические",
+          "depth": 2,
+          "__typename": "SectionTreeItem"
+        }
+      ],
+      "__typename": "Section"
+    },
+    "media": {
+      "gallery": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/784178/1_784178.jpg?timestamp=2025-03-31_12-15-34",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/784178/1_784178.jpg?timestamp=2025-03-31_12-16-04",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/784178/2_784178.jpg?timestamp=2025-03-31_12-15-50",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/784178/2_784178.jpg",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/784178/3_784178.jpg?timestamp=2025-03-31_12-15-51",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/784178/3_784178.jpg?timestamp=2025-03-31_12-16-15",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/784178/4_784178.jpg?timestamp=2025-03-31_12-15-33",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/784178/4_784178.jpg?timestamp=2025-03-31_12-16-23",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/784178/5_784178.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/784178/5_784178.jpg?timestamp=2025-03-31_12-16-23",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/784178/6_784178.jpg?timestamp=2025-03-31_12-15-34",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/784178/6_784178.jpg?timestamp=2025-03-31_12-16-11",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/784178/7_784178.jpg?timestamp=2025-03-31_12-15-33",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/784178/7_784178.jpg?timestamp=2025-03-31_12-16-12",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/784178/8_784178.jpg?timestamp=2025-03-31_12-15-48",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/784178/8_784178.jpg?timestamp=2025-03-31_12-16-14",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/784178/9_784178.jpg?timestamp=2025-03-31_12-15-49",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/784178/9_784178.jpg?timestamp=2025-03-31_12-16-10",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "interior": [],
+      "video": [],
+      "vkVideo": {
+        "path": "https://vkvideo.ru/video_ext.php?oid=-72424652&id=456240684&hd=4&hash=1e031f4329c5a484",
+        "height": 900,
+        "width": 1600,
+        "__typename": "Video"
+      },
+      "view3d": [],
+      "listing": {
+        "default": [
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/784178/1_784178.jpg?timestamp=2025-03-31_12-15-39",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/784178/2_784178.jpg?timestamp=2025-03-31_12-15-55",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/784178/3_784178.jpg?timestamp=2025-03-31_12-15-55",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/784178/4_784178.jpg?timestamp=2025-03-31_12-15-38",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/784178/5_784178.jpg?timestamp=2025-03-31_12-15-39",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/784178/6_784178.jpg?timestamp=2025-03-31_12-15-39",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/784178/7_784178.jpg?timestamp=2025-03-31_12-15-38",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/784178/8_784178.jpg?timestamp=2025-03-31_12-15-54",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/784178/9_784178.jpg?timestamp=2025-03-31_12-15-54",
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "ProductListing"
+      },
+      "__typename": "ProductV2Media"
+    },
+    "modifications": {
+      "bigBrother": null,
+      "groups": [],
+      "__typename": "ProductModifications"
+    },
+    "description": {
+      "hasDescription": true,
+      "type": "DEFAULT",
+      "__typename": "ProductDescription"
+    },
+    "collection": {
+      "id": "784178",
+      "products": {
+        "pagination": {
+          "total": 2,
+          "__typename": "Pagination"
+        },
+        "__typename": "ProductV2Pagination"
+      },
+      "__typename": "ProductCollection"
+    },
+    "similar": {
+      "pagination": {
+        "total": 34,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "related": {
+      "pagination": {
+        "total": 19,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "accessories": [
+      {
+        "products": {
+          "pagination": {
+            "total": 3,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 1,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 5,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 20,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 11,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 13,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 2,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 17,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 13,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 4,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 2,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 1,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 14,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      }
+    ],
+    "rating": {
+      "average": 5,
+      "canRate": false,
+      "total": {
+        "all": 1,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 1,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "reviews": {
+      "total": 1,
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "bestCredit": {
+      "monthPayment": 245,
+      "type": "DEFERRED_PAYMENT",
+      "__typename": "ProductBestCredit"
+    },
+    "isSpare": false,
+    "isService": false,
+    "isVipService": false,
+    "isGiftBonusCard": false,
+    "canBuy": true,
+    "canPayOnline": true,
+    "canRequestPrice": false,
+    "canShowPrice": true,
+    "canSubscribe": false,
+    "needPrepaymentForDelivery": false,
+    "needPrepaymentForPreorder": false,
+    "isSberSpasiboPayAvailable": true,
+    "isYandexPayAllowed": false,
+    "yandexSplit": {
+      "payments": [
+        {
+          "amount": 0,
+          "date": "2026-08-17T09:04:19+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 490,
+          "date": "2026-08-31T09:04:19+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 490,
+          "date": "2026-09-14T09:04:19+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 490,
+          "date": "2026-09-28T09:04:19+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 490,
+          "date": "2026-10-12T09:04:19+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 490,
+          "date": "2026-10-26T09:04:19+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 490,
+          "date": "2026-11-09T09:04:19+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 490,
+          "date": "2026-11-23T09:04:19+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 490,
+          "date": "2026-12-07T09:04:19+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 490,
+          "date": "2026-12-21T09:04:19+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 490,
+          "date": "2027-01-04T09:04:19+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 490,
+          "date": "2027-01-18T09:04:19+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 490,
+          "date": "2027-02-01T09:04:19+0300",
+          "__typename": "YandexSplitPayment"
+        }
+      ],
+      "firstPayment": 0,
+      "restPayment": 5880,
+      "description": "https://yandex.ru/support/split/",
+      "maxAmount": 295000,
+      "__typename": "YandexSplit"
+    },
+    "seo": {
+      "description": "Чайник QYRON KS604: купить в интернет-магазине Технопарк с расширенной гарантией и бесплатной доставкой по РФ. Подробные характеристики товара с отзывами реальных покупателей.",
+      "text": "Вы можете купить чайник QYRON KS604 с доставкой по Москве по низкой цене. В интернет-магазине Technopark.ru осуществляется продажа чайника QYRON KS604 на выгодных условиях.",
+      "textHidden": "",
+      "title": "Чайник QYRON KS604 - купить в Москве в интернет-магазине Технопарк",
+      "__typename": "SeoData"
+    },
+    "breadcrumbs": [
+      {
+        "name": "Главная",
+        "url": "/",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Техника для кухни",
+        "url": "/dlya-kuhni/",
+        "options": [
+          {
+            "name": "Центр инноваций",
+            "url": "/tovary-iz-budushchego/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Смартфоны и гаджеты",
+            "url": "/smartfony-i-gadzhety/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Компьютеры и ноутбуки",
+            "url": "/kompyutery-i-noutbuki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Климатическая техника",
+            "url": "/klimaticheskaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Крупная бытовая техника",
+            "url": "/krupnaya-bytovaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Бытовая техника для дома",
+            "url": "/dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для красоты и здоровья",
+            "url": "/krasota-i-zdorovye/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Спортивные товары",
+            "url": "/trenazhery-dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Телевизоры Аудио Hi-Fi",
+            "url": "/audio-video-foto/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для сада, дома и ремонта",
+            "url": "/dlya-sada-doma-i-remonta/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посуда",
+            "url": "/posuda/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Детские товары",
+            "url": "/detskie-tovary/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для гейминга",
+            "url": "/gaming/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Плоттеры и услуги розницы",
+            "url": "//",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Запасные части",
+            "url": "/zapasnie-chasti/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Электрические чайники",
+        "url": "/chayniki/",
+        "options": [
+          {
+            "name": "Аэрогрили",
+            "url": "/aerogrili/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Микроволновые печи",
+            "url": "/mikrovolnovye-pechi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мультиварки",
+            "url": "/multivarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мини-печи",
+            "url": "/mini-pechi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мультишефы BORK",
+            "url": "/multishefy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Миксеры и кухонные машины",
+            "url": "/miksery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрогрили",
+            "url": "/grili/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Уличные грили барбекю",
+            "url": "/ulichnye-grili-barbeku/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Фритюрницы",
+            "url": "/frityurnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Хлебопечки",
+            "url": "/hlebopechki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Пароварки",
+            "url": "/parovarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Настольные плиты",
+            "url": "/induktsionnye-paneli/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мороженицы",
+            "url": "/morozhenitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вакуумные упаковщики (вакууматоры)",
+            "url": "/vakuumnaya-upakovka/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Су виды",
+            "url": "/su-vidy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрические сковороды и воки",
+            "url": "/elektricheskie-skovorody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Автоматические кофемашины",
+            "url": "/kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кофеварки",
+            "url": "/kofevarki-i-kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кофейные станции",
+            "url": "/kofeynye-stantsii/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Капсульные кофемашины",
+            "url": "/kapsulnye-kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Гейзерные кофеварки для дома",
+            "url": "/gejzernye-kofevarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кофемолки",
+            "url": "/kofemolki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вспениватели молока",
+            "url": "/vspenivateli-moloka/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для приготовления кофе",
+            "url": "/prigotovlenie-kofe/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Соковыжималки",
+            "url": "/sokovyzhimalki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Термопоты",
+            "url": "/termopoty/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Декантеры",
+            "url": "/dekantery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кулеры для воды",
+            "url": "/kulery-dlya-vody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Льдогенераторы",
+            "url": "/ledogeneratory/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Системы газации напитков",
+            "url": "/sistema-gazatsii-napitkov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мясорубки",
+            "url": "/myasorubki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Блендеры",
+            "url": "/blendery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные комбайны",
+            "url": "/kuhonnye-kombayny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные измельчители (чопперы)",
+            "url": "/kukhonnye-izmelchiteli/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Ломтерезки",
+            "url": "/lomterezki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Овощерезки",
+            "url": "/elektroterka/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Тостеры",
+            "url": "/tostery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вафельницы",
+            "url": "/vafelnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мультипекари",
+            "url": "/sendvichnitsi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Яйцеварки",
+            "url": "/yaycevarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Блинницы",
+            "url": "/blinnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Йогуртницы",
+            "url": "/yogurtnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Фильтры для воды под мойку",
+            "url": "/filtry-kuvshiny-dlya-ochistki-vody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Фильтры-кувшины для воды",
+            "url": "/filtry-kuvshiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для очистки воды",
+            "url": "/dlya-ochistki-vody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные весы",
+            "url": "/kuhonnye-vesy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Дегидраторы",
+            "url": "/sushki-dlya-ovoschey/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для кухни",
+            "url": "/aksessuary-dlya-kuhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мойки для кухни",
+            "url": "/moyki-dlya-kukhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрошашлычницы",
+            "url": "/shashlychnitsa/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Электрические чайники QYRON",
+        "url": "/chayniki/qyron/",
+        "options": [
+          {
+            "name": "BORK",
+            "url": "/chayniki/bork/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Smeg",
+            "url": "/chayniki/smeg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Maunfeld",
+            "url": "/chayniki/maunfeld/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "KitchenAid",
+            "url": "/chayniki/kitchenaid/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Polaris",
+            "url": "/chayniki/polaris/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Brayer",
+            "url": "/chayniki/brayer/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Endever",
+            "url": "/chayniki/endever/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Tefal",
+            "url": "/chayniki/tefal/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Korting",
+            "url": "/chayniki/korting/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Braun",
+            "url": "/chayniki/braun/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Midea",
+            "url": "/chayniki/midea/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Bosch",
+            "url": "/chayniki/bosch/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "WMF",
+            "url": "/chayniki/wmf/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Zigmund Shtain",
+            "url": "/chayniki/zigmund_shtain/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Kitfort",
+            "url": "/chayniki/kitfort/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Libhof",
+            "url": "/chayniki/libhof/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Delonghi",
+            "url": "/chayniki/delonghi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Electrolux",
+            "url": "/chayniki/electrolux/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "VES",
+            "url": "/chayniki/ves/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Kenwell",
+            "url": "/chayniki/kenwell/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Zwilling",
+            "url": "/chayniki/zwilling/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Atvel",
+            "url": "/chayniki/atvel/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Toshiba",
+            "url": "/chayniki/toshiba/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Moulinex",
+            "url": "/chayniki/moulinex/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Gorenje",
+            "url": "/chayniki/gorenje/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "QYRON KS604",
+        "url": "chaynik-qyron-ks604-784178",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      }
+    ],
+    "isArchive": false,
+    "__typename": "ProductV2",
+    "isSberPayOneClickAllowed": false,
+    "isTinkoffPayOneClickAllowed": false,
+    "bonus": null
+  },
+  "details": {
+    "description": "<style> *{box-sizing:border-box;outline:0}body{font-family:'DINPro Technopark',Arial;font-size:14px;font-weight:400;font-display:swap;margin:0;overflow-x:hidden;position:relative;min-height:95vh;-webkit-tap-highlight-color:transparent}body.lock-scroll{overflow:hidden;position:fixed;right:0;left:0;bottom:0}@media (min-width:1192px){body.lock-scroll{position:relative}}@media screen and (max-device-width:480px){body{-webkit-text-size-adjust:none}}.label-for-seo{width:100%}.label-for-seo__span{display:none}a{color:#0093c4;text-decoration:none}.is-visible{display:block!important}.is-hidden{display:none!important}.is-visually-hidden{opacity:0!important;visibility:hidden!important;pointer-events:none!important}.is-link{color:#0093c4}.no-wrap{white-space:nowrap}.container{margin:auto;width:100%}@media (min-width:960px){.container{width:calc(100% - 48px)}}@media (min-width:1482px){.container{max-width:1397px}}.is-overflow-hidden{overflow:hidden}.is-mobile-not{display:none!important}@media (min-width:960px){.is-mobile-not{display:block!important}}@media (min-width:960px){.is-mobile-only{display:none!important}}@media (max-width:959px){.hide-phone{display:none}}@media (min-width:960px) and (max-width:1481px){.hide-tablet{display:none}}.is-hidden{display:none!important}.nowrap-text{white-space:nowrap}.textcenter{text-align:center}ul.list{margin:0;padding:6px 0 18px}@media (min-width:960px){ul.list{padding:6px 0 24px}}ul.list li{font-family:'DINPro Technopark',Arial;font-size:15px;font-weight:400;font-display:swap;color:#fff;line-height:20px;list-style:none;margin:0;padding-left:9px;position:relative}@media (min-width:960px){ul.list li{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:400;font-display:swap;line-height:21px;padding-left:26px}}ul.list>li:before{background-color:#fff;border-radius:50%;content:\"\";display:block;height:3px;left:0;position:absolute;top:10px;width:3px}@media (min-width:960px){ul.list>li:before{border-radius:0;height:1px;width:13px}}ul.list>li>ul{padding:6px 0 6px 15px}@media (min-width:960px){ul.list>li>ul{padding:3px 0 3px 4px}}ul.list>li>ul>li:before{background-color:rgba(255,255,255,.5)}ul.list>li>ul>li>ul{padding:6px 0 0 15px}@media (min-width:960px){ul.list>li>ul>li>ul{padding:3px 0 0 4px}}ul.list>li>ul>li>ul>li:before{background-color:rgba(255,255,255,.2)}ol.list{margin:0;padding:6px 0 18px;counter-reset:list1}@media (min-width:960px){ol.list{padding:6px 0 24px}}ol.list li{font-family:'DINPro Technopark',Arial;font-size:15px;font-weight:400;font-display:swap;color:#fff;line-height:20px;list-style:none;margin:0;padding-left:9px;position:relative}@media (min-width:960px){ol.list li{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:400;font-display:swap;line-height:21px;padding-left:26px}}ol.list>li{padding-left:24px}ol.list>li:before{counter-increment:list1;content:counter(list1) \". \";left:0;position:absolute}ol.list>li>ol{counter-reset:list2;padding:6px 0}@media (min-width:960px){ol.list>li>ol{padding:3px 0}}ol.list>li>ol>li{padding-left:42px}ol.list>li>ol>li:before{counter-increment:list2;content:counter(list1) \".\" counter(list2) \". \"}ol.list>li>ol>li>ol{counter-reset:list3}ol.list>li>ol>li>ol>li:before{counter-increment:list3;content:counter(list1) \".\" counter(list2) \".\" counter(list3) \". \"}ol.list--compact{padding:0}.list--line-interval li:not(:last-child){margin-bottom:1em}input::-ms-clear{display:none}input::-webkit-clear-button{display:none}@media (max-width:767px){.footer{padding-bottom:66px}}.page-container{margin:auto;padding:0 18px;width:100%}@media (min-width:960px){.page-container{padding:0 24px;width:100%}}@media (min-width:1482px){.page-container{width:1481px}}@media (min-width:960px){.page-container--extra-padding{padding:0 42px}}.default-container{width:100%;max-width:1481px;margin:auto;padding:0 12px}@media (min-width:960px){.default-container{padding:0 24px}}button,input,select,textarea{font-family:inherit;font-size:100%;margin:0}textarea{resize:none;overflow:auto}form{margin:0}button{color:inherit}dd,dl,dt{margin:0;padding:0}input[type=search]{-webkit-appearance:none}input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration,input[type=search]::-webkit-search-results-button,input[type=search]::-webkit-search-results-decoration{display:none}input:invalid{box-shadow:none}textarea:invalid{box-shadow:none}svg *{pointer-events:none}.product__desc{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:300;font-display:swap;color:#878787;display:none}.product__desc b{font-family:'DINPro Technopark',Arial;font-size:20px;font-weight:400;font-display:swap;color:#fff}.dyson-v10-picking,.dyson-v10-properties,.dyson-v10-wrapper,.dyson-v10-wrapper .dyson-v10__list span{color:#fff;padding:0 12px}@media (max-width:1154px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:170px}}@media (max-width:1100px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:270px}}@media (max-width:960px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:27px}}.dyson-v10-first-row li.dyson-v10-item{max-width:calc(100% / 3 - 10);padding-right:5px}@media (max-width:959px){.dyson-v10-first-row{flex-direction:column;align-items:flex-start}.dyson-v10-first-row li.dyson-v10-item{max-width:none}}@media (min-width:960px) and (max-width:1303px){.dyson-v10-first-row{flex-direction:column;align-items:flex-start}.dyson-v10-first-row li.dyson-v10-item{max-width:none}}.dyson-v10-chapter{text-align:center!important}.dyson-v10__list li.dyson-v10__list-item{background-size:contain;background-position:left} </style> <p>Чайник QYRON KS604 — практичное решение для ежедневного использования, сочетающее надёжность, безопасность и продуманный дизайн. Корпус из нержавеющей стали обеспечивает долговечность и устойчивость к износу, а скрытый нагревательный элемент способствует быстрому и равномерному кипячению воды. Система автоматического отключения при закипании и отсутствии воды повышает уровень безопасности, а узкий носик помогает точно контролировать поток без лишних проливов. Съёмный фильтр упрощает уход за устройством и поддерживает чистоту воды, делая использование максимально комфортным. </p>    <h2>Особенности</h2>  <ul class=\"list\">  <li><b>Стильный дизайн</b><br/>  За счёт элегантного дизайна и универсальной расцветки устройство станет украшением кухни</li>    <li><b>Надёжный корпус</b><br/>  Чайник сделан из качественной нержавеющей стали, что позволяет ему оставаться в идеальном состоянии долгие годы</li>    <li><b>Удобство и безопасность</b><br/>  Автоматическое отключение при отсутствии воды или ее закипании, а также защита от выплескивания капель кипятка делают ежедневное использование прибора максимально безопасным</li>    <li><b>Быстрое закипание</b><br/>  Благодаря скрытому нагревательному элементу тепло равномерно распределяется по всему объему воды, что способствует эффективному закипанию</li>    <li><b>Продуманная конструкция</b><br/>  Прибор имеет узкий носик, который облегчает контроль за потоком воды и снижает риск пролития жидкости</li>    <li><b>Съёмный фильтр</b><br/>  Съёмный фильтр из экологичных BPA-free материалов облегчает очистку чайника, способствуя поддержанию качества воды и предотвращает образование накипи</li>  </ul>  ",
+    "descriptionType": "DEFAULT",
+    "descriptionBarcode": "2401100068873",
+    "descriptionBrand": "QYRON",
+    "specifications": {
+      "short": [
+        {
+          "name": "Мощность",
+          "value": "2400 Вт",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Объем",
+          "value": "1.7 л",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Материал корпуса",
+          "value": "нержавеющая сталь",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "barcode": "2401100068873",
+      "country": "Китай",
+      "full": [
+        {
+          "name": "Основные характеристики",
+          "list": [
+            {
+              "name": "Мощность",
+              "value": "2400 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Объем",
+              "value": "1.7 л",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал корпуса",
+              "value": "нержавеющая сталь",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дополнительный материал",
+              "value": "пластик",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Нагревательный элемент",
+              "value": "закрытого типа",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет",
+              "value": "белый",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Управление",
+          "list": [
+            {
+              "name": "Подставка с электронным управлением",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Управление",
+              "value": "кнопочное, механическое",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Фильтрация",
+          "list": [
+            {
+              "name": "Фильтр от накипи",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал фильтра",
+              "value": "металл",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Защита и безопасность",
+          "list": [
+            {
+              "name": "Автоотключение при снятии с подставки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автоотключение при отсутствии воды",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автоотключение при закипании",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Дополнительные характеристики",
+          "list": [
+            {
+              "name": "Теплоизолированная ручка",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикатор включения",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вращение на подставке на 360 градусов",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Открывание крышки",
+              "value": "ручка",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Комплектация",
+          "list": [
+            {
+              "name": "Подставка с отсеком для хранения шнура",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Инструкция",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Питание",
+          "list": [
+            {
+              "name": "Источник питания",
+              "value": "сеть",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Размеры и вес",
+          "list": [
+            {
+              "name": "Высота",
+              "value": "26.2 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ширина",
+              "value": "22 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Глубина",
+              "value": "22 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вес",
+              "value": "1.1 кг",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        }
+      ],
+      "grossWeight": "1.7",
+      "netWeight": "1.1",
+      "height": "0.3",
+      "instructionUrl": "https://storage.yandexcloud.net/technopark.instructions/784178/instruction/instrukciya-chaynik-qyron-ks604-784178.pdf",
+      "length": "0.22",
+      "schemeUrl": null,
+      "warranty": "12",
+      "width": "0.22",
+      "__typename": "ProductV2Specifications"
+    },
+    "certificates": [
+      "https://www.technopark.ru/bipublic/Cert/IG0G14JCR06D4V.pdf",
+      "https://www.technopark.ru/bipublic/Cert/IG0G14JCR652TM.pdf"
+    ],
+    "isManufacturerCountry": false,
+    "isSellerWarranty": false,
+    "reviews": {
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "total": 1,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "rating": {
+      "average": 5,
+      "canRate": false,
+      "total": {
+        "all": 1,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 1,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "isLoading": false
+  },
+  "shots": [
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/784178/1_784178.jpg?timestamp=2025-03-31_12-16-04",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/784178/1_784178.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/784178/1_784178.jpg?timestamp=2025-03-31_12-15-34"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/784178/2_784178.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/784178/2_784178.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/784178/2_784178.jpg?timestamp=2025-03-31_12-15-50"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/784178/3_784178.jpg?timestamp=2025-03-31_12-16-15",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/784178/3_784178.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/784178/3_784178.jpg?timestamp=2025-03-31_12-15-51"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/784178/4_784178.jpg?timestamp=2025-03-31_12-16-23",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/784178/4_784178.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/784178/4_784178.jpg?timestamp=2025-03-31_12-15-33"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/784178/5_784178.jpg?timestamp=2025-03-31_12-16-23",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/784178/5_784178.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/784178/5_784178.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/784178/6_784178.jpg?timestamp=2025-03-31_12-16-11",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/784178/6_784178.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/784178/6_784178.jpg?timestamp=2025-03-31_12-15-34"
+    ]
+  ],
+  "photos": [
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/chaynik-qyron-ks604-784178-1.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/chaynik-qyron-ks604-784178-2.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/chaynik-qyron-ks604-784178-3.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/chaynik-qyron-ks604-784178-4.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/chaynik-qyron-ks604-784178-5.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/chaynik-qyron-ks604-784178-6.jpg"
+  ]
+}

@@ -1,0 +1,2521 @@
+{
+  "people": [
+    {
+      "key": "h1",
+      "name": "Абдулла Мамасадыков",
+      "phone": "+996 729 262 902"
+    },
+    {
+      "key": "h2",
+      "name": "Зарина Юсупова",
+      "phone": "+996 730 876 495"
+    },
+    {
+      "key": "h3",
+      "name": "Рахим Хайдаров",
+      "phone": "+996 724 603 740"
+    },
+    {
+      "key": "h4",
+      "name": "Мадина Ахмедова",
+      "phone": "+996 746 661 571"
+    },
+    {
+      "key": "h5",
+      "name": "Ибрагим Насыров",
+      "phone": "+996 787 298 171"
+    },
+    {
+      "key": "h6",
+      "name": "Фатима Каримова",
+      "phone": "+996 786 769 231"
+    },
+    {
+      "key": "h7",
+      "name": "Шамиль Алиев",
+      "phone": "+996 790 745 100"
+    }
+  ],
+  "sales": [
+    {
+      "days": 180,
+      "at": [
+        14,
+        30
+      ],
+      "person": "h3",
+      "lines": [
+        {
+          "item": "paprika",
+          "pick": 1,
+          "qty": 0.2,
+          "price": 700.0
+        },
+        {
+          "item": "lyulya-kebab",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 760.0
+        },
+        {
+          "item": "varene-malina",
+          "pick": 1,
+          "qty": 1,
+          "price": 380.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 179,
+      "at": [
+        10,
+        0
+      ],
+      "person": "h5",
+      "lines": [
+        {
+          "item": "finiki-medjool",
+          "pick": 1,
+          "qty": 1,
+          "price": 1450.0
+        },
+        {
+          "item": "file-bedra-kurinogo",
+          "pick": 1,
+          "qty": 1,
+          "price": 355.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 178,
+      "at": [
+        18,
+        0
+      ],
+      "person": "h2",
+      "lines": [
+        {
+          "item": "govyadina-gulyash",
+          "pick": 1,
+          "qty": 1,
+          "price": 665.0
+        },
+        {
+          "item": "farsh-govyazhij",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 610.0
+        },
+        {
+          "item": "med-esparcet",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 1400.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 174,
+      "at": [
+        15,
+        30
+      ],
+      "person": "h1",
+      "lines": [
+        {
+          "item": "sazan",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 420.0
+        },
+        {
+          "item": "finiki-medjool",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 1450.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 170,
+      "at": [
+        17,
+        0
+      ],
+      "person": "h7",
+      "lines": [
+        {
+          "item": "utka",
+          "pick": 1,
+          "qty": 1,
+          "price": 755.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 169,
+      "at": [
+        11,
+        30
+      ],
+      "person": "h6",
+      "lines": [
+        {
+          "item": "ris-devzira",
+          "pick": 1,
+          "qty": 1,
+          "price": 350.0
+        },
+        {
+          "item": "grechka",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 160.0
+        },
+        {
+          "item": "utka",
+          "pick": 1,
+          "qty": 3,
+          "price": 755.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 167,
+      "at": [
+        13,
+        10
+      ],
+      "person": "h4",
+      "lines": [
+        {
+          "item": "shashlyk-govyadina",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 840.0
+        },
+        {
+          "item": "varene-oblepiha",
+          "pick": 1,
+          "qty": 2,
+          "price": 420.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 166,
+      "at": [
+        12,
+        0
+      ],
+      "person": "h7",
+      "lines": [
+        {
+          "item": "kurut",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 620.0
+        },
+        {
+          "item": "shashlyk-kurinoe-bedro",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 470.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 164,
+      "at": [
+        19,
+        10
+      ],
+      "person": "h5",
+      "lines": [
+        {
+          "item": "govyadina-ribaj",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 1230.0
+        },
+        {
+          "item": "ris-devzira",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 350.0
+        },
+        {
+          "item": "kurica-celikom",
+          "pick": 1,
+          "qty": 1,
+          "price": 390.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 163,
+      "at": [
+        14,
+        20
+      ],
+      "person": "h2",
+      "lines": [
+        {
+          "item": "kaymak",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 780.0
+        },
+        {
+          "item": "ovsyanka",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 130.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 162,
+      "at": [
+        12,
+        50
+      ],
+      "person": "h6",
+      "lines": [
+        {
+          "item": "forel",
+          "pick": 1,
+          "qty": 1,
+          "price": 780.0
+        },
+        {
+          "item": "file-kurinoe",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 410.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 161,
+      "at": [
+        18,
+        0
+      ],
+      "person": "h6",
+      "lines": [
+        {
+          "item": "varene-uryuk",
+          "pick": 1,
+          "qty": 2,
+          "price": 320.0
+        },
+        {
+          "item": "zira",
+          "pick": 1,
+          "qty": 0.3,
+          "price": 1200.0
+        },
+        {
+          "item": "med-gornyj",
+          "pick": 1,
+          "qty": 1,
+          "price": 1250.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 160,
+      "at": [
+        19,
+        10
+      ],
+      "person": "h7",
+      "lines": [
+        {
+          "item": "skumbriya",
+          "pick": 1,
+          "qty": 1,
+          "price": 390.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 159,
+      "at": [
+        16,
+        0
+      ],
+      "person": "h1",
+      "lines": [
+        {
+          "item": "osman",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 950.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 158,
+      "at": [
+        15,
+        10
+      ],
+      "person": "h5",
+      "lines": [
+        {
+          "item": "finiki-medjool",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 1450.0
+        },
+        {
+          "item": "baranina-ryobra",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 755.0
+        },
+        {
+          "item": "smes-dlya-plova",
+          "pick": 1,
+          "qty": 0.1,
+          "price": 850.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 155,
+      "at": [
+        12,
+        0
+      ],
+      "person": "h2",
+      "lines": [
+        {
+          "item": "tvorog",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 380.0
+        },
+        {
+          "item": "govyadina-gulyash",
+          "pick": 1,
+          "qty": 1,
+          "price": 665.0
+        },
+        {
+          "item": "farsh-govyazhij",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 610.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 154,
+      "at": [
+        14,
+        40
+      ],
+      "person": "h7",
+      "lines": [
+        {
+          "item": "varene-malina",
+          "pick": 1,
+          "qty": 1,
+          "price": 380.0
+        },
+        {
+          "item": "kaymak",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 780.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 153,
+      "at": [
+        12,
+        0
+      ],
+      "person": "h5",
+      "lines": [
+        {
+          "item": "sazan",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 420.0
+        },
+        {
+          "item": "smes-dlya-plova",
+          "pick": 1,
+          "qty": 0.1,
+          "price": 850.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 151,
+      "at": [
+        17,
+        50
+      ],
+      "person": "h7",
+      "lines": [
+        {
+          "item": "varene-orehovoe",
+          "pick": 1,
+          "qty": 2,
+          "price": 650.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 150,
+      "at": [
+        12,
+        10
+      ],
+      "person": "h7",
+      "lines": [
+        {
+          "item": "govyadina-vyrezka",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 1095.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 147,
+      "at": [
+        14,
+        20
+      ],
+      "person": "h7",
+      "lines": [
+        {
+          "item": "finiki-sukkari",
+          "pick": 1,
+          "qty": 1,
+          "price": 890.0
+        },
+        {
+          "item": "byodra-kurinye",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 300.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 146,
+      "at": [
+        13,
+        40
+      ],
+      "person": "h1",
+      "lines": [
+        {
+          "item": "finiki-medjool",
+          "pick": 1,
+          "qty": 1,
+          "price": 1450.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 145,
+      "at": [
+        13,
+        50
+      ],
+      "person": "h6",
+      "lines": [
+        {
+          "item": "govyadina-vyrezka",
+          "pick": 1,
+          "qty": 1,
+          "price": 1095.0
+        },
+        {
+          "item": "finiki-medjool",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 1450.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 144,
+      "at": [
+        14,
+        20
+      ],
+      "person": "h6",
+      "lines": [
+        {
+          "item": "golen-kurinaya",
+          "pick": 1,
+          "qty": 1,
+          "price": 270.0
+        },
+        {
+          "item": "forel",
+          "pick": 1,
+          "qty": 1,
+          "price": 780.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 142,
+      "at": [
+        19,
+        0
+      ],
+      "person": "h7",
+      "lines": [
+        {
+          "item": "osman",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 950.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 141,
+      "at": [
+        9,
+        30
+      ],
+      "person": "h3",
+      "lines": [
+        {
+          "item": "kurica-celikom",
+          "pick": 1,
+          "qty": 3,
+          "price": 390.0
+        },
+        {
+          "item": "kaymak",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 780.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 137,
+      "at": [
+        9,
+        0
+      ],
+      "person": "h7",
+      "lines": [
+        {
+          "item": "varene-uryuk",
+          "pick": 1,
+          "qty": 3,
+          "price": 320.0
+        },
+        {
+          "item": "finiki-sukkari",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 890.0
+        },
+        {
+          "item": "finiki-ajwa",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 2160.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 135,
+      "at": [
+        14,
+        50
+      ],
+      "person": "h2",
+      "lines": [
+        {
+          "item": "barbaris",
+          "pick": 1,
+          "qty": 0.1,
+          "price": 900.0
+        },
+        {
+          "item": "forel",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 780.0
+        },
+        {
+          "item": "baranina-ryobra",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 755.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 134,
+      "at": [
+        18,
+        40
+      ],
+      "person": "h7",
+      "lines": [
+        {
+          "item": "varene-uryuk",
+          "pick": 1,
+          "qty": 1,
+          "price": 320.0
+        },
+        {
+          "item": "file-kurinoe",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 410.0
+        },
+        {
+          "item": "farsh-govyazhij",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 610.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 132,
+      "at": [
+        17,
+        20
+      ],
+      "person": "h1",
+      "lines": [
+        {
+          "item": "smes-dlya-plova",
+          "pick": 1,
+          "qty": 0.3,
+          "price": 850.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 131,
+      "at": [
+        18,
+        50
+      ],
+      "person": "h5",
+      "lines": [
+        {
+          "item": "byodra-kurinye",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 300.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 129,
+      "at": [
+        14,
+        40
+      ],
+      "person": "h3",
+      "lines": [
+        {
+          "item": "shashlyk-kurinoe-bedro",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 470.0
+        },
+        {
+          "item": "govyadina-gulyash",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 665.0
+        },
+        {
+          "item": "govyadina-ribaj",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 1230.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 128,
+      "at": [
+        17,
+        50
+      ],
+      "person": "h6",
+      "lines": [
+        {
+          "item": "lyulya-kebab",
+          "pick": 1,
+          "qty": 1,
+          "price": 760.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 125,
+      "at": [
+        19,
+        20
+      ],
+      "person": "h7",
+      "lines": [
+        {
+          "item": "forel",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 780.0
+        },
+        {
+          "item": "perec-chernyj",
+          "pick": 1,
+          "qty": 0.3,
+          "price": 1400.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 122,
+      "at": [
+        16,
+        40
+      ],
+      "person": "h1",
+      "lines": [
+        {
+          "item": "varene-uryuk",
+          "pick": 1,
+          "qty": 2,
+          "price": 320.0
+        },
+        {
+          "item": "byodra-kurinye",
+          "pick": 1,
+          "qty": 1,
+          "price": 300.0
+        },
+        {
+          "item": "file-kurinoe",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 410.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 121,
+      "at": [
+        13,
+        20
+      ],
+      "person": "h4",
+      "lines": [
+        {
+          "item": "file-bedra-kurinogo",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 355.0
+        },
+        {
+          "item": "osman",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 950.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 120,
+      "at": [
+        11,
+        10
+      ],
+      "person": "h5",
+      "lines": [
+        {
+          "item": "paprika",
+          "pick": 1,
+          "qty": 0.2,
+          "price": 700.0
+        },
+        {
+          "item": "file-kurinoe",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 410.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 114,
+      "at": [
+        11,
+        50
+      ],
+      "person": "h1",
+      "lines": [
+        {
+          "item": "talkan",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 230.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 112,
+      "at": [
+        10,
+        50
+      ],
+      "person": "h4",
+      "lines": [
+        {
+          "item": "talkan",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 230.0
+        },
+        {
+          "item": "perec-chernyj",
+          "pick": 1,
+          "qty": 0.2,
+          "price": 1400.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 109,
+      "at": [
+        10,
+        40
+      ],
+      "person": "h2",
+      "lines": [
+        {
+          "item": "grechka",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 160.0
+        },
+        {
+          "item": "ris-devzira",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 350.0
+        },
+        {
+          "item": "file-indejki",
+          "pick": 1,
+          "qty": 1,
+          "price": 585.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 106,
+      "at": [
+        11,
+        0
+      ],
+      "person": "h3",
+      "lines": [
+        {
+          "item": "govyadina-vyrezka",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 1095.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 105,
+      "at": [
+        19,
+        20
+      ],
+      "person": "h3",
+      "lines": [
+        {
+          "item": "grechka",
+          "pick": 1,
+          "qty": 1,
+          "price": 160.0
+        },
+        {
+          "item": "paprika",
+          "pick": 1,
+          "qty": 0.1,
+          "price": 700.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 104,
+      "at": [
+        11,
+        40
+      ],
+      "person": "h6",
+      "lines": [
+        {
+          "item": "smes-dlya-plova",
+          "pick": 1,
+          "qty": 0.2,
+          "price": 850.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 103,
+      "at": [
+        18,
+        10
+      ],
+      "person": "h5",
+      "lines": [
+        {
+          "item": "zira",
+          "pick": 1,
+          "qty": 0.2,
+          "price": 1200.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 102,
+      "at": [
+        16,
+        20
+      ],
+      "person": "h7",
+      "lines": [
+        {
+          "item": "kurica-celikom",
+          "pick": 1,
+          "qty": 2,
+          "price": 390.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 101,
+      "at": [
+        16,
+        10
+      ],
+      "person": "h5",
+      "lines": [
+        {
+          "item": "govyadina-gulyash",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 665.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 99,
+      "at": [
+        9,
+        20
+      ],
+      "person": "h2",
+      "lines": [
+        {
+          "item": "grechka",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 160.0
+        },
+        {
+          "item": "barbaris",
+          "pick": 1,
+          "qty": 0.3,
+          "price": 900.0
+        },
+        {
+          "item": "varene-oblepiha",
+          "pick": 1,
+          "qty": 2,
+          "price": 420.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 98,
+      "at": [
+        12,
+        10
+      ],
+      "person": "h5",
+      "lines": [
+        {
+          "item": "med-gornyj",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 1250.0
+        },
+        {
+          "item": "smetana",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 420.0
+        },
+        {
+          "item": "varene-malina",
+          "pick": 1,
+          "qty": 1,
+          "price": 380.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 97,
+      "at": [
+        17,
+        40
+      ],
+      "person": "h4",
+      "lines": [
+        {
+          "item": "finiki-medjool",
+          "pick": 1,
+          "qty": 1,
+          "price": 1450.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 96,
+      "at": [
+        16,
+        30
+      ],
+      "person": "h3",
+      "lines": [
+        {
+          "item": "finiki-ajwa",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 2160.0
+        },
+        {
+          "item": "finiki-sukkari",
+          "pick": 1,
+          "qty": 1,
+          "price": 890.0
+        },
+        {
+          "item": "farsh-govyazhij",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 610.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 95,
+      "at": [
+        14,
+        30
+      ],
+      "person": "h1",
+      "lines": [
+        {
+          "item": "govyadina-vyrezka",
+          "pick": 1,
+          "qty": 1,
+          "price": 1095.0
+        },
+        {
+          "item": "utka",
+          "pick": 1,
+          "qty": 3,
+          "price": 755.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 94,
+      "at": [
+        17,
+        40
+      ],
+      "person": "h4",
+      "lines": [
+        {
+          "item": "file-indejki",
+          "pick": 1,
+          "qty": 1,
+          "price": 585.0
+        },
+        {
+          "item": "lyulya-kebab",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 760.0
+        },
+        {
+          "item": "ovsyanka",
+          "pick": 1,
+          "qty": 1,
+          "price": 130.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 93,
+      "at": [
+        15,
+        20
+      ],
+      "person": "h3",
+      "lines": [
+        {
+          "item": "shashlyk-govyadina",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 840.0
+        },
+        {
+          "item": "varene-malina",
+          "pick": 1,
+          "qty": 3,
+          "price": 380.0
+        },
+        {
+          "item": "barbaris",
+          "pick": 1,
+          "qty": 0.1,
+          "price": 900.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 91,
+      "at": [
+        11,
+        40
+      ],
+      "person": "h1",
+      "lines": [
+        {
+          "item": "ovsyanka",
+          "pick": 1,
+          "qty": 1,
+          "price": 130.0
+        },
+        {
+          "item": "med-gornyj",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 1250.0
+        },
+        {
+          "item": "finiki-sukkari",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 890.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 90,
+      "at": [
+        11,
+        30
+      ],
+      "person": "h6",
+      "lines": [
+        {
+          "item": "barbaris",
+          "pick": 1,
+          "qty": 0.1,
+          "price": 900.0
+        },
+        {
+          "item": "lyulya-kebab",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 760.0
+        },
+        {
+          "item": "govyadina-vyrezka",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 1095.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 89,
+      "at": [
+        9,
+        50
+      ],
+      "person": "h2",
+      "lines": [
+        {
+          "item": "smetana",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 420.0
+        },
+        {
+          "item": "paprika",
+          "pick": 1,
+          "qty": 0.1,
+          "price": 700.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 84,
+      "at": [
+        12,
+        50
+      ],
+      "person": "h7",
+      "lines": [
+        {
+          "item": "paprika",
+          "pick": 1,
+          "qty": 0.1,
+          "price": 700.0
+        },
+        {
+          "item": "ovsyanka",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 130.0
+        },
+        {
+          "item": "varene-orehovoe",
+          "pick": 1,
+          "qty": 1,
+          "price": 650.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 83,
+      "at": [
+        15,
+        10
+      ],
+      "person": "h7",
+      "lines": [
+        {
+          "item": "sazan",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 420.0
+        },
+        {
+          "item": "perec-chernyj",
+          "pick": 1,
+          "qty": 0.1,
+          "price": 1400.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 82,
+      "at": [
+        9,
+        30
+      ],
+      "person": "h5",
+      "lines": [
+        {
+          "item": "skumbriya",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 390.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 81,
+      "at": [
+        15,
+        30
+      ],
+      "person": "h3",
+      "lines": [
+        {
+          "item": "varene-malina",
+          "pick": 1,
+          "qty": 1,
+          "price": 380.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 80,
+      "at": [
+        12,
+        40
+      ],
+      "person": "h1",
+      "lines": [
+        {
+          "item": "zira",
+          "pick": 1,
+          "qty": 0.1,
+          "price": 1200.0
+        },
+        {
+          "item": "paprika",
+          "pick": 1,
+          "qty": 0.1,
+          "price": 700.0
+        },
+        {
+          "item": "govyadina-ribaj",
+          "pick": 1,
+          "qty": 1,
+          "price": 1230.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 78,
+      "at": [
+        15,
+        50
+      ],
+      "person": "h1",
+      "lines": [
+        {
+          "item": "sazan",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 420.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 75,
+      "at": [
+        15,
+        30
+      ],
+      "person": "h4",
+      "lines": [
+        {
+          "item": "utka",
+          "pick": 1,
+          "qty": 2,
+          "price": 755.0
+        },
+        {
+          "item": "shashlyk-baranina",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 890.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 74,
+      "at": [
+        11,
+        10
+      ],
+      "person": "h1",
+      "lines": [
+        {
+          "item": "osman",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 950.0
+        },
+        {
+          "item": "baranina-lopatka",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 695.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 73,
+      "at": [
+        17,
+        50
+      ],
+      "person": "h7",
+      "lines": [
+        {
+          "item": "med-esparcet",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 1400.0
+        },
+        {
+          "item": "baranina-ryobra",
+          "pick": 1,
+          "qty": 1,
+          "price": 755.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 71,
+      "at": [
+        14,
+        10
+      ],
+      "person": "h6",
+      "lines": [
+        {
+          "item": "smetana",
+          "pick": 1,
+          "qty": 1,
+          "price": 420.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 68,
+      "at": [
+        10,
+        30
+      ],
+      "person": "h1",
+      "lines": [
+        {
+          "item": "sazan",
+          "pick": 1,
+          "qty": 1,
+          "price": 420.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 64,
+      "at": [
+        17,
+        40
+      ],
+      "person": "h7",
+      "lines": [
+        {
+          "item": "perepyolka",
+          "pick": 1,
+          "qty": 1,
+          "price": 180.0
+        },
+        {
+          "item": "kaymak",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 780.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 63,
+      "at": [
+        15,
+        0
+      ],
+      "person": "h6",
+      "lines": [
+        {
+          "item": "finiki-medjool",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 1450.0
+        },
+        {
+          "item": "shashlyk-kurinoe-bedro",
+          "pick": 1,
+          "qty": 1,
+          "price": 470.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 61,
+      "at": [
+        17,
+        30
+      ],
+      "person": "h2",
+      "lines": [
+        {
+          "item": "varene-oblepiha",
+          "pick": 1,
+          "qty": 2,
+          "price": 420.0
+        },
+        {
+          "item": "paprika",
+          "pick": 1,
+          "qty": 0.2,
+          "price": 700.0
+        },
+        {
+          "item": "sazan",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 420.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 60,
+      "at": [
+        15,
+        30
+      ],
+      "person": "h3",
+      "lines": [
+        {
+          "item": "golen-kurinaya",
+          "pick": 1,
+          "qty": 1,
+          "price": 270.0
+        },
+        {
+          "item": "file-indejki",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 585.0
+        },
+        {
+          "item": "paprika",
+          "pick": 1,
+          "qty": 0.1,
+          "price": 700.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 58,
+      "at": [
+        17,
+        20
+      ],
+      "person": "h1",
+      "lines": [
+        {
+          "item": "skumbriya",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 390.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 57,
+      "at": [
+        18,
+        40
+      ],
+      "person": "h4",
+      "lines": [
+        {
+          "item": "med-esparcet",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 1400.0
+        },
+        {
+          "item": "byodra-kurinye",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 300.0
+        },
+        {
+          "item": "smetana",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 420.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 56,
+      "at": [
+        10,
+        40
+      ],
+      "person": "h5",
+      "lines": [
+        {
+          "item": "shashlyk-kurinoe-bedro",
+          "pick": 1,
+          "qty": 1,
+          "price": 470.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 55,
+      "at": [
+        11,
+        20
+      ],
+      "person": "h2",
+      "lines": [
+        {
+          "item": "med-esparcet",
+          "pick": 1,
+          "qty": 1,
+          "price": 1400.0
+        },
+        {
+          "item": "forel",
+          "pick": 1,
+          "qty": 1,
+          "price": 780.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 52,
+      "at": [
+        11,
+        30
+      ],
+      "person": "h1",
+      "lines": [
+        {
+          "item": "paprika",
+          "pick": 1,
+          "qty": 0.1,
+          "price": 700.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 51,
+      "at": [
+        18,
+        50
+      ],
+      "person": "h1",
+      "lines": [
+        {
+          "item": "talkan",
+          "pick": 1,
+          "qty": 1,
+          "price": 230.0
+        },
+        {
+          "item": "golen-kurinaya",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 270.0
+        },
+        {
+          "item": "sazan",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 420.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 50,
+      "at": [
+        15,
+        40
+      ],
+      "person": "h7",
+      "lines": [
+        {
+          "item": "sazan",
+          "pick": 1,
+          "qty": 1,
+          "price": 420.0
+        },
+        {
+          "item": "smetana",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 420.0
+        },
+        {
+          "item": "shashlyk-kurinoe-bedro",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 470.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 48,
+      "at": [
+        11,
+        0
+      ],
+      "person": "h6",
+      "lines": [
+        {
+          "item": "byodra-kurinye",
+          "pick": 1,
+          "qty": 1,
+          "price": 300.0
+        },
+        {
+          "item": "shashlyk-kurinoe-bedro",
+          "pick": 1,
+          "qty": 1,
+          "price": 470.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 46,
+      "at": [
+        17,
+        20
+      ],
+      "person": "h4",
+      "lines": [
+        {
+          "item": "shashlyk-govyadina",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 840.0
+        },
+        {
+          "item": "grechka",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 160.0
+        },
+        {
+          "item": "tvorog",
+          "pick": 1,
+          "qty": 1,
+          "price": 380.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 45,
+      "at": [
+        15,
+        10
+      ],
+      "person": "h3",
+      "lines": [
+        {
+          "item": "kurut",
+          "pick": 1,
+          "qty": 1,
+          "price": 620.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 41,
+      "at": [
+        13,
+        20
+      ],
+      "person": "h6",
+      "lines": [
+        {
+          "item": "barbaris",
+          "pick": 1,
+          "qty": 0.1,
+          "price": 900.0
+        },
+        {
+          "item": "varene-malina",
+          "pick": 1,
+          "qty": 1,
+          "price": 380.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 40,
+      "at": [
+        14,
+        40
+      ],
+      "person": "h2",
+      "lines": [
+        {
+          "item": "med-gornyj",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 1250.0
+        },
+        {
+          "item": "lyulya-kebab",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 760.0
+        },
+        {
+          "item": "forel",
+          "pick": 1,
+          "qty": 1,
+          "price": 780.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 39,
+      "at": [
+        17,
+        0
+      ],
+      "person": "h1",
+      "lines": [
+        {
+          "item": "ris-devzira",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 350.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 38,
+      "at": [
+        13,
+        20
+      ],
+      "person": "h2",
+      "lines": [
+        {
+          "item": "zira",
+          "pick": 1,
+          "qty": 0.1,
+          "price": 1200.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 37,
+      "at": [
+        13,
+        20
+      ],
+      "person": "h1",
+      "lines": [
+        {
+          "item": "med-gornyj",
+          "pick": 1,
+          "qty": 1,
+          "price": 1250.0
+        },
+        {
+          "item": "finiki-ajwa",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 2160.0
+        },
+        {
+          "item": "farsh-govyazhij",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 610.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 36,
+      "at": [
+        15,
+        50
+      ],
+      "person": "h4",
+      "lines": [
+        {
+          "item": "zira",
+          "pick": 1,
+          "qty": 0.2,
+          "price": 1200.0
+        },
+        {
+          "item": "farsh-govyazhij",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 610.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 35,
+      "at": [
+        9,
+        40
+      ],
+      "person": "h3",
+      "lines": [
+        {
+          "item": "barbaris",
+          "pick": 1,
+          "qty": 0.1,
+          "price": 900.0
+        },
+        {
+          "item": "perepyolka",
+          "pick": 1,
+          "qty": 1,
+          "price": 180.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 30,
+      "at": [
+        17,
+        30
+      ],
+      "person": "h3",
+      "lines": [
+        {
+          "item": "paprika",
+          "pick": 1,
+          "qty": 0.3,
+          "price": 700.0
+        },
+        {
+          "item": "file-indejki",
+          "pick": 1,
+          "qty": 1,
+          "price": 585.0
+        },
+        {
+          "item": "kurut",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 620.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 29,
+      "at": [
+        15,
+        20
+      ],
+      "person": "h4",
+      "lines": [
+        {
+          "item": "baranina-lopatka",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 695.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 27,
+      "at": [
+        19,
+        0
+      ],
+      "person": "h6",
+      "lines": [
+        {
+          "item": "ris-devzira",
+          "pick": 1,
+          "qty": 1,
+          "price": 350.0
+        },
+        {
+          "item": "finiki-ajwa",
+          "pick": 1,
+          "qty": 1,
+          "price": 2160.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 25,
+      "at": [
+        14,
+        10
+      ],
+      "person": "h3",
+      "lines": [
+        {
+          "item": "kurut",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 620.0
+        },
+        {
+          "item": "govyadina-ribaj",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 1230.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 23,
+      "at": [
+        13,
+        40
+      ],
+      "person": "h6",
+      "lines": [
+        {
+          "item": "varene-malina",
+          "pick": 1,
+          "qty": 1,
+          "price": 380.0
+        },
+        {
+          "item": "finiki-ajwa",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 2160.0
+        },
+        {
+          "item": "lyulya-kebab",
+          "pick": 1,
+          "qty": 1,
+          "price": 760.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 22,
+      "at": [
+        9,
+        40
+      ],
+      "person": "h1",
+      "lines": [
+        {
+          "item": "perec-chernyj",
+          "pick": 1,
+          "qty": 0.1,
+          "price": 1400.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 21,
+      "at": [
+        15,
+        20
+      ],
+      "person": "h6",
+      "lines": [
+        {
+          "item": "shashlyk-govyadina",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 840.0
+        },
+        {
+          "item": "finiki-ajwa",
+          "pick": 1,
+          "qty": 1,
+          "price": 2160.0
+        },
+        {
+          "item": "forel",
+          "pick": 1,
+          "qty": 1,
+          "price": 780.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 20,
+      "at": [
+        11,
+        0
+      ],
+      "person": "h2",
+      "lines": [
+        {
+          "item": "tvorog",
+          "pick": 1,
+          "qty": 1,
+          "price": 380.0
+        },
+        {
+          "item": "govyadina-ribaj",
+          "pick": 1,
+          "qty": 1,
+          "price": 1230.0
+        },
+        {
+          "item": "sazan",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 420.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 19,
+      "at": [
+        11,
+        40
+      ],
+      "person": "h5",
+      "lines": [
+        {
+          "item": "govyadina-ribaj",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 1230.0
+        },
+        {
+          "item": "finiki-sukkari",
+          "pick": 1,
+          "qty": 1,
+          "price": 890.0
+        },
+        {
+          "item": "grechka",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 160.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 16,
+      "at": [
+        12,
+        10
+      ],
+      "person": "h7",
+      "lines": [
+        {
+          "item": "perepyolka",
+          "pick": 1,
+          "qty": 2,
+          "price": 180.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 14,
+      "at": [
+        16,
+        30
+      ],
+      "person": "h5",
+      "lines": [
+        {
+          "item": "sazan",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 420.0
+        },
+        {
+          "item": "paprika",
+          "pick": 1,
+          "qty": 0.2,
+          "price": 700.0
+        },
+        {
+          "item": "shashlyk-kurinoe-bedro",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 470.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 13,
+      "at": [
+        16,
+        20
+      ],
+      "person": "h4",
+      "lines": [
+        {
+          "item": "sazan",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 420.0
+        },
+        {
+          "item": "utka",
+          "pick": 1,
+          "qty": 2,
+          "price": 755.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 12,
+      "at": [
+        12,
+        50
+      ],
+      "person": "h4",
+      "lines": [
+        {
+          "item": "smes-dlya-plova",
+          "pick": 1,
+          "qty": 0.3,
+          "price": 850.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 11,
+      "at": [
+        9,
+        0
+      ],
+      "person": "h7",
+      "lines": [
+        {
+          "item": "baranina-ryobra",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 755.0
+        },
+        {
+          "item": "finiki-sukkari",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 890.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 8,
+      "at": [
+        14,
+        50
+      ],
+      "person": "h7",
+      "lines": [
+        {
+          "item": "yajco-perepelinoe",
+          "pick": 1,
+          "qty": 2,
+          "price": 160.0
+        },
+        {
+          "item": "finiki-medjool",
+          "pick": 1,
+          "qty": 1,
+          "price": 1450.0
+        },
+        {
+          "item": "perepyolka",
+          "pick": 1,
+          "qty": 1,
+          "price": 180.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 6,
+      "at": [
+        9,
+        40
+      ],
+      "person": "h4",
+      "lines": [
+        {
+          "item": "finiki-sukkari",
+          "pick": 1,
+          "qty": 1,
+          "price": 890.0
+        },
+        {
+          "item": "smes-dlya-plova",
+          "pick": 1,
+          "qty": 0.3,
+          "price": 850.0
+        },
+        {
+          "item": "ris-devzira",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 350.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 5,
+      "at": [
+        11,
+        10
+      ],
+      "person": "h4",
+      "lines": [
+        {
+          "item": "perec-chernyj",
+          "pick": 1,
+          "qty": 0.2,
+          "price": 1400.0
+        },
+        {
+          "item": "kurica-celikom",
+          "pick": 1,
+          "qty": 3,
+          "price": 390.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 3,
+      "at": [
+        10,
+        20
+      ],
+      "person": "h4",
+      "lines": [
+        {
+          "item": "paprika",
+          "pick": 1,
+          "qty": 0.1,
+          "price": 700.0
+        },
+        {
+          "item": "ovsyanka",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 130.0
+        },
+        {
+          "item": "file-indejki",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 585.0
+        }
+      ],
+      "paid": "transfer"
+    }
+  ]
+}

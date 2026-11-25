@@ -1,0 +1,77 @@
+{
+  "cpu_series": [
+    {
+      "manufacturer": 2,
+      "name": "M4",
+      "full_name": "M4 Series"
+    },
+    {
+      "manufacturer": 0,
+      "name": "Core i9",
+      "full_name": "Core i9 (14th Gen)"
+    },
+    {
+      "manufacturer": 0,
+      "name": "Core Ultra 9",
+      "full_name": "Core Ultra 9 (Series 2)"
+    },
+    {
+      "manufacturer": 0,
+      "name": "Core Ultra 7",
+      "full_name": "Core Ultra 7 (Series 1)"
+    },
+    {
+      "manufacturer": 0,
+      "name": "Core i7",
+      "full_name": "Core i7 (13th Gen)"
+    },
+    {
+      "manufacturer": 0,
+      "name": "Core i7",
+      "full_name": "Core i7 (14th Gen)"
+    },
+    {
+      "manufacturer": 0,
+      "name": "Core i5",
+      "full_name": "Core i5 (13th Gen)"
+    },
+    {
+      "manufacturer": 0,
+      "name": "Core Ultra 9",
+      "full_name": "Core Ultra 9 (Series 1)"
+    },
+    {
+      "manufacturer": 1,
+      "name": "Ryzen AI 9",
+      "full_name": "Ryzen AI 9 (300 Series)"
+    },
+    {
+      "manufacturer": 1,
+      "name": "Ryzen 7",
+      "full_name": "Ryzen 7 (7000 Series)"
+    },
+    {
+      "manufacturer": 1,
+      "name": "Ryzen 5",
+      "full_name": "Ryzen 5 (7000 Series)"
+    }
+  ],
+  "cpu_npu": [
+    {
+      "name": "Apple Neural Engine",
+      "performance": 38
+    },
+    {
+      "name": "Intel AI Boost",
+      "performance": 13
+    },
+    {
+      "name": "Intel AI Boost",
+      "performance": 11
+    },
+    {
+      "name": "AMD Ryzen AI",
+      "performance": 50
+    }
+  ]
+}

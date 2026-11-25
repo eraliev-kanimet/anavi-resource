@@ -1,0 +1,388 @@
+{
+  "since": 182,
+  "directions": [
+    "Розница",
+    "Опт"
+  ],
+  "bank": "Бакай Банк, расчётный счёт",
+  "capital": 25000000,
+  "founder": "Учредитель Vega",
+  "float": 30000,
+  "supplier": {
+    "name": "Gulf Digital Trading LLC",
+    "address": "Дубай, Deira, Al Maktoum Rd",
+    "note": "Ноутбуки и телефоны, оплата переводом до отгрузки",
+    "currency": "USD"
+  },
+  "cost": 0.76,
+  "direction": "Розница",
+  "rates": [
+    {
+      "currency": "USD",
+      "rate": 87.45
+    },
+    {
+      "currency": "USD",
+      "rate": 87.79,
+      "days": 175
+    },
+    {
+      "currency": "USD",
+      "rate": 87.97,
+      "days": 168
+    },
+    {
+      "currency": "USD",
+      "rate": 87.96,
+      "days": 161
+    },
+    {
+      "currency": "USD",
+      "rate": 87.84,
+      "days": 154
+    },
+    {
+      "currency": "USD",
+      "rate": 87.75,
+      "days": 147
+    },
+    {
+      "currency": "USD",
+      "rate": 87.79,
+      "days": 140
+    },
+    {
+      "currency": "USD",
+      "rate": 87.95,
+      "days": 133
+    },
+    {
+      "currency": "USD",
+      "rate": 88.09,
+      "days": 126
+    },
+    {
+      "currency": "USD",
+      "rate": 88.07,
+      "days": 119
+    },
+    {
+      "currency": "USD",
+      "rate": 87.85,
+      "days": 112
+    },
+    {
+      "currency": "USD",
+      "rate": 87.5,
+      "days": 105
+    },
+    {
+      "currency": "USD",
+      "rate": 87.19,
+      "days": 98
+    },
+    {
+      "currency": "USD",
+      "rate": 87.06,
+      "days": 91
+    },
+    {
+      "currency": "USD",
+      "rate": 87.09,
+      "days": 84
+    },
+    {
+      "currency": "USD",
+      "rate": 87.19,
+      "days": 77
+    },
+    {
+      "currency": "USD",
+      "rate": 87.21,
+      "days": 70
+    },
+    {
+      "currency": "USD",
+      "rate": 87.07,
+      "days": 63
+    },
+    {
+      "currency": "USD",
+      "rate": 86.86,
+      "days": 56
+    },
+    {
+      "currency": "USD",
+      "rate": 86.71,
+      "days": 49
+    },
+    {
+      "currency": "USD",
+      "rate": 86.76,
+      "days": 42
+    },
+    {
+      "currency": "USD",
+      "rate": 87.02,
+      "days": 35
+    },
+    {
+      "currency": "USD",
+      "rate": 87.35,
+      "days": 28
+    },
+    {
+      "currency": "USD",
+      "rate": 87.61,
+      "days": 21
+    },
+    {
+      "currency": "USD",
+      "rate": 87.69,
+      "days": 14
+    },
+    {
+      "currency": "USD",
+      "rate": 87.63,
+      "days": 7
+    }
+  ],
+  "places": [
+    {
+      "kind": "bank",
+      "name": "Бакай Банк, долларовый счёт",
+      "currency": "USD"
+    }
+  ],
+  "takings": "Наличная выручка шоурума в банк",
+  "people": [
+    {
+      "login": "vega-timur",
+      "name": "Тимур Асанов",
+      "title": {
+        "ru": "Продавец шоурума",
+        "en": "Showroom seller"
+      },
+      "role": "seller",
+      "salary": 35000,
+      "percent": 1
+    },
+    {
+      "login": "vega-aziz",
+      "name": "Азиз Каримов",
+      "title": {
+        "ru": "Менеджер по оптовым клиентам",
+        "en": "Wholesale manager"
+      },
+      "role": "seller",
+      "salary": 40000,
+      "percent": 0.5
+    }
+  ],
+  "monthly": [
+    {
+      "party": {
+        "name": "ОсОО «Вефа Центр»",
+        "address": "Бишкек, ул. Горького, 1/2",
+        "note": "Шоурум, бутик 2-14"
+      },
+      "account": {
+        "key": "rent"
+      },
+      "amount": 110000,
+      "day": 1,
+      "pay": 5,
+      "note": "Аренда шоурума"
+    },
+    {
+      "party": {
+        "name": "ОАО «Северэлектро»"
+      },
+      "account": {
+        "name": "Электроэнергия"
+      },
+      "amount": 6000,
+      "swing": 0.15,
+      "day": 25,
+      "pay": 28,
+      "note": "Свет в шоуруме"
+    }
+  ],
+  "recurring": [
+    {
+      "name": "Охрана шоурума",
+      "day": 3,
+      "account": {
+        "name": "Охрана"
+      },
+      "party": {
+        "name": "ОсОО «Кайрат Секьюрити»"
+      },
+      "amount": 4000
+    },
+    {
+      "name": "Интернет и телефон",
+      "day": 10,
+      "account": {
+        "name": "Связь и интернет"
+      },
+      "party": {
+        "name": "ОсОО «Сайма Телеком»"
+      },
+      "amount": 1500
+    },
+    {
+      "name": "Бухгалтерское сопровождение",
+      "day": 15,
+      "account": {
+        "name": "Бухгалтерия"
+      },
+      "party": {
+        "name": "ОсОО «Аудит Плюс»"
+      },
+      "amount": 12000
+    }
+  ],
+  "budget": [
+    {
+      "account": {
+        "key": "sales"
+      },
+      "direction": "Розница",
+      "amount": 1500000
+    },
+    {
+      "account": {
+        "key": "sales"
+      },
+      "direction": "Опт",
+      "amount": 600000
+    },
+    {
+      "account": {
+        "key": "cogs"
+      },
+      "direction": "Розница",
+      "amount": 1000000
+    },
+    {
+      "account": {
+        "key": "cogs"
+      },
+      "direction": "Опт",
+      "amount": 480000
+    },
+    {
+      "account": {
+        "key": "rent"
+      },
+      "amount": 110000
+    },
+    {
+      "account": {
+        "key": "salary"
+      },
+      "amount": 90000
+    },
+    {
+      "account": {
+        "key": "tax"
+      },
+      "amount": 85000
+    },
+    {
+      "account": {
+        "name": "Электроэнергия"
+      },
+      "amount": 6000
+    },
+    {
+      "account": {
+        "name": "Охрана"
+      },
+      "amount": 4000
+    },
+    {
+      "account": {
+        "name": "Связь и интернет"
+      },
+      "amount": 1500
+    },
+    {
+      "account": {
+        "name": "Бухгалтерия"
+      },
+      "amount": 12000
+    },
+    {
+      "account": {
+        "key": "fees"
+      },
+      "amount": 1000
+    }
+  ],
+  "rules": [
+    {
+      "contains": "Комиссия за ведение счета",
+      "direction": "out",
+      "account": {
+        "key": "fees"
+      }
+    },
+    {
+      "contains": "SMS-информирование",
+      "direction": "out",
+      "account": {
+        "key": "fees"
+      }
+    }
+  ],
+  "statement": [
+    {
+      "day": 28,
+      "amount": -500,
+      "text": "Комиссия за ведение счета за месяц",
+      "counterparty": "Бакай Банк"
+    },
+    {
+      "day": 28,
+      "amount": -150,
+      "text": "SMS-информирование по счету",
+      "counterparty": "Бакай Банк"
+    },
+    {
+      "day": 19,
+      "amount": 15000,
+      "text": "Перевод с карты, Асанов Б.",
+      "counterparty": "Асанов Бакыт"
+    }
+  ],
+  "taxes": [
+    {
+      "kind": "turnover",
+      "name": "Единый налог",
+      "rate": 4,
+      "basis": "accrual",
+      "dueDay": 20
+    },
+    {
+      "kind": "social",
+      "name": "Соцфонд — работодатель",
+      "rate": 17.25,
+      "dueDay": 20
+    },
+    {
+      "kind": "withheld",
+      "name": "Соцфонд — работник",
+      "rate": 10,
+      "dueDay": 20
+    },
+    {
+      "kind": "income",
+      "name": "Подоходный налог",
+      "rate": 10,
+      "dueDay": 20
+    }
+  ],
+  "payday": 5
+}

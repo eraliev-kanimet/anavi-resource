@@ -1,0 +1,4281 @@
+{
+  "people": [
+    {
+      "key": "h1",
+      "name": "Гульмира Абдраимова",
+      "phone": "+996 798 136 252"
+    },
+    {
+      "key": "h2",
+      "name": "Чолпон Эшимова",
+      "phone": "+996 721 275 197"
+    },
+    {
+      "key": "h3",
+      "name": "Айбек Сооронбаев",
+      "phone": "+996 722 919 368"
+    },
+    {
+      "key": "h4",
+      "name": "Венера Касымалиева",
+      "phone": "+996 733 194 465"
+    },
+    {
+      "key": "h5",
+      "name": "Таалай Мырзабеков",
+      "phone": "+996 755 968 458"
+    },
+    {
+      "key": "h6",
+      "name": "Асель Жунусова",
+      "phone": "+996 727 533 539"
+    },
+    {
+      "key": "h7",
+      "name": "Жамиля Турдуматова",
+      "phone": "+996 731 213 341"
+    },
+    {
+      "key": "h8",
+      "name": "Элнура Кадырова",
+      "phone": "+996 714 258 211"
+    },
+    {
+      "key": "h9",
+      "name": "Бактыгуль Осмонова",
+      "phone": "+996 721 141 852"
+    }
+  ],
+  "sales": [
+    {
+      "days": 180,
+      "at": [
+        10,
+        20
+      ],
+      "person": "h6",
+      "lines": [
+        {
+          "item": "ketchup-tomatnyj",
+          "pick": 1,
+          "qty": 1,
+          "price": 110.0
+        },
+        {
+          "item": "stejk-lososya",
+          "pick": 1,
+          "qty": 3,
+          "price": 1090.0
+        },
+        {
+          "item": "bulochka-s-koricej",
+          "pick": 1,
+          "qty": 1,
+          "price": 55.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 179,
+      "at": [
+        15,
+        30
+      ],
+      "person": "h4",
+      "lines": [
+        {
+          "item": "moloko-3-2",
+          "pick": 1,
+          "qty": 1,
+          "price": 96.0
+        },
+        {
+          "item": "pakety-dlya-musora",
+          "pick": 1,
+          "qty": 1,
+          "price": 95.0
+        },
+        {
+          "item": "smetana-20",
+          "pick": 1,
+          "qty": 3,
+          "price": 145.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 178,
+      "at": [
+        16,
+        40
+      ],
+      "person": "h4",
+      "lines": [
+        {
+          "item": "salyami",
+          "pick": 1,
+          "qty": 1,
+          "price": 480.0
+        },
+        {
+          "item": "pechenye-shokoladnoe",
+          "pick": 1,
+          "qty": 1,
+          "price": 145.0
+        },
+        {
+          "item": "smetana-20",
+          "pick": 1,
+          "qty": 1,
+          "price": 145.0
+        },
+        {
+          "item": "sahar-pesok",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 95.0
+        },
+        {
+          "item": "kvas-hlebnyj",
+          "pick": 1,
+          "qty": 3,
+          "price": 95.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 176,
+      "at": [
+        12,
+        20
+      ],
+      "person": "h8",
+      "lines": [
+        {
+          "item": "hinkali",
+          "pick": 1,
+          "qty": 3,
+          "price": 320.0
+        },
+        {
+          "item": "konfety-korovka",
+          "pick": 1,
+          "qty": 1,
+          "price": 260.0
+        },
+        {
+          "item": "morkov",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 40.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 174,
+      "at": [
+        10,
+        30
+      ],
+      "person": "h1",
+      "lines": [
+        {
+          "item": "lepyoshka-tandyrnaya",
+          "pick": 1,
+          "qty": 1,
+          "price": 35.0
+        },
+        {
+          "item": "mandariny",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 165.0
+        },
+        {
+          "item": "sredstvo-dlya-posudy",
+          "pick": 1,
+          "qty": 2,
+          "price": 145.0
+        },
+        {
+          "item": "ukrop",
+          "pick": 1,
+          "qty": 1,
+          "price": 20.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 173,
+      "at": [
+        19,
+        50
+      ],
+      "person": "h5",
+      "lines": [
+        {
+          "item": "kukuruza-konservirovannaya",
+          "pick": 1,
+          "qty": 2,
+          "price": 95.0
+        },
+        {
+          "item": "ketchup-tomatnyj",
+          "pick": 1,
+          "qty": 1,
+          "price": 110.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 172,
+      "at": [
+        17,
+        0
+      ],
+      "person": "h9",
+      "lines": [
+        {
+          "item": "brynza",
+          "pick": 1,
+          "qty": 1,
+          "price": 320.0
+        },
+        {
+          "item": "limonad-tarhun",
+          "pick": 1,
+          "qty": 2,
+          "price": 85.0
+        },
+        {
+          "item": "sredstvo-dlya-styokol",
+          "pick": 1,
+          "qty": 1,
+          "price": 165.0
+        },
+        {
+          "item": "shokolad-molochnyj",
+          "pick": 1,
+          "qty": 1,
+          "price": 110.0
+        },
+        {
+          "item": "kivi",
+          "pick": 1,
+          "qty": 2,
+          "price": 175.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 170,
+      "at": [
+        14,
+        0
+      ],
+      "person": "h1",
+      "lines": [
+        {
+          "item": "pripava-dlya-plova",
+          "pick": 1,
+          "qty": 3,
+          "price": 75.0
+        },
+        {
+          "item": "vinograd-belyj",
+          "pick": 1,
+          "qty": 1,
+          "price": 195.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 169,
+      "at": [
+        15,
+        20
+      ],
+      "person": "h7",
+      "lines": [
+        {
+          "item": "kvas-hlebnyj",
+          "pick": 1,
+          "qty": 1,
+          "price": 95.0
+        },
+        {
+          "item": "konfety-shokoladnye",
+          "pick": 1,
+          "qty": 2,
+          "price": 380.0
+        },
+        {
+          "item": "imbir",
+          "pick": 1,
+          "qty": 1,
+          "price": 95.0
+        },
+        {
+          "item": "kakao-poroshok",
+          "pick": 1,
+          "qty": 1,
+          "price": 195.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 168,
+      "at": [
+        9,
+        0
+      ],
+      "person": "h5",
+      "lines": [
+        {
+          "item": "kukuruza-konservirovannaya",
+          "pick": 1,
+          "qty": 1,
+          "price": 95.0
+        },
+        {
+          "item": "suluguni",
+          "pick": 1,
+          "qty": 1,
+          "price": 460.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 167,
+      "at": [
+        12,
+        50
+      ],
+      "person": "h8",
+      "lines": [
+        {
+          "item": "limonad-dyushes",
+          "pick": 1,
+          "qty": 3,
+          "price": 85.0
+        },
+        {
+          "item": "suluguni",
+          "pick": 1,
+          "qty": 1,
+          "price": 460.0
+        },
+        {
+          "item": "brokkoli",
+          "pick": 1,
+          "qty": 2,
+          "price": 210.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 166,
+      "at": [
+        10,
+        30
+      ],
+      "person": "h2",
+      "lines": [
+        {
+          "item": "ovsyanye-hlopya",
+          "pick": 1,
+          "qty": 1,
+          "price": 85.0
+        },
+        {
+          "item": "shpinat",
+          "pick": 1,
+          "qty": 1,
+          "price": 45.0
+        },
+        {
+          "item": "morozhenoe-fruktovyj-lyod",
+          "pick": 1,
+          "qty": 1,
+          "price": 45.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 165,
+      "at": [
+        15,
+        20
+      ],
+      "person": "h1",
+      "lines": [
+        {
+          "item": "morkov",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 40.0
+        },
+        {
+          "item": "sahar-pesok",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 95.0
+        },
+        {
+          "item": "pasta-zubnaya",
+          "pick": 1,
+          "qty": 3,
+          "price": 165.0
+        },
+        {
+          "item": "sredstvo-dlya-posudy",
+          "pick": 1,
+          "qty": 1,
+          "price": 145.0
+        },
+        {
+          "item": "yabloki-krasnye",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 120.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 164,
+      "at": [
+        10,
+        30
+      ],
+      "person": "h5",
+      "lines": [
+        {
+          "item": "sous-soevyj",
+          "pick": 1,
+          "qty": 2,
+          "price": 165.0
+        },
+        {
+          "item": "pomidory-rozovye",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 165.0
+        },
+        {
+          "item": "pasta-zubnaya",
+          "pick": 1,
+          "qty": 1,
+          "price": 165.0
+        },
+        {
+          "item": "luk-repchatyj",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 30.0
+        },
+        {
+          "item": "brokkoli",
+          "pick": 1,
+          "qty": 2,
+          "price": 210.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 162,
+      "at": [
+        17,
+        20
+      ],
+      "person": "h2",
+      "lines": [
+        {
+          "item": "banany",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 130.0
+        },
+        {
+          "item": "losos-ohlazhdyonnyj",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 1950.0
+        },
+        {
+          "item": "lecho",
+          "pick": 1,
+          "qty": 1,
+          "price": 175.0
+        },
+        {
+          "item": "ketchup-tomatnyj",
+          "pick": 1,
+          "qty": 1,
+          "price": 110.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 160,
+      "at": [
+        14,
+        10
+      ],
+      "person": "h9",
+      "lines": [
+        {
+          "item": "testo-drozhzhevoe",
+          "pick": 1,
+          "qty": 2,
+          "price": 95.0
+        },
+        {
+          "item": "losos-ohlazhdyonnyj",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 1950.0
+        },
+        {
+          "item": "imbir",
+          "pick": 1,
+          "qty": 1,
+          "price": 95.0
+        },
+        {
+          "item": "svyokla",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 35.0
+        },
+        {
+          "item": "sardiny-v-masle",
+          "pick": 1,
+          "qty": 3,
+          "price": 130.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 158,
+      "at": [
+        16,
+        0
+      ],
+      "person": "h4",
+      "lines": [
+        {
+          "item": "chiabatta",
+          "pick": 1,
+          "qty": 1,
+          "price": 90.0
+        },
+        {
+          "item": "pripava-dlya-plova",
+          "pick": 1,
+          "qty": 1,
+          "price": 75.0
+        },
+        {
+          "item": "lecho",
+          "pick": 1,
+          "qty": 1,
+          "price": 175.0
+        },
+        {
+          "item": "bulochka-s-makom",
+          "pick": 1,
+          "qty": 1,
+          "price": 48.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 157,
+      "at": [
+        11,
+        20
+      ],
+      "person": "h6",
+      "lines": [
+        {
+          "item": "konfety-shokoladnye",
+          "pick": 1,
+          "qty": 3,
+          "price": 380.0
+        },
+        {
+          "item": "sredstvo-dlya-styokol",
+          "pick": 1,
+          "qty": 3,
+          "price": 165.0
+        },
+        {
+          "item": "stejk-lososya",
+          "pick": 1,
+          "qty": 1,
+          "price": 1090.0
+        },
+        {
+          "item": "vafli-shokoladnye",
+          "pick": 1,
+          "qty": 1,
+          "price": 120.0
+        },
+        {
+          "item": "limonad-dyushes",
+          "pick": 1,
+          "qty": 2,
+          "price": 85.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 156,
+      "at": [
+        15,
+        10
+      ],
+      "person": "h6",
+      "lines": [
+        {
+          "item": "lecho",
+          "pick": 1,
+          "qty": 1,
+          "price": 175.0
+        },
+        {
+          "item": "kuraga",
+          "pick": 1,
+          "qty": 2,
+          "price": 380.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 155,
+      "at": [
+        12,
+        50
+      ],
+      "person": "h3",
+      "lines": [
+        {
+          "item": "pechenye-yubilejnoe",
+          "pick": 1,
+          "qty": 1,
+          "price": 95.0
+        },
+        {
+          "item": "bumaga-tualetnaya",
+          "pick": 1,
+          "qty": 2,
+          "price": 220.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 154,
+      "at": [
+        14,
+        20
+      ],
+      "person": "h7",
+      "lines": [
+        {
+          "item": "kompot-iz-suhofruktov",
+          "pick": 1,
+          "qty": 3,
+          "price": 110.0
+        },
+        {
+          "item": "hleb-pshenichnyj",
+          "pick": 1,
+          "qty": 1,
+          "price": 38.0
+        },
+        {
+          "item": "morkov",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 40.0
+        },
+        {
+          "item": "sredstvo-dlya-posudy",
+          "pick": 1,
+          "qty": 1,
+          "price": 145.0
+        },
+        {
+          "item": "shokolad-tyomnyj",
+          "pick": 1,
+          "qty": 1,
+          "price": 120.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 153,
+      "at": [
+        11,
+        50
+      ],
+      "person": "h3",
+      "lines": [
+        {
+          "item": "hleb-borodinskij",
+          "pick": 1,
+          "qty": 1,
+          "price": 68.0
+        },
+        {
+          "item": "jogurt-grecheskij",
+          "pick": 1,
+          "qty": 3,
+          "price": 110.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 152,
+      "at": [
+        9,
+        40
+      ],
+      "person": "h8",
+      "lines": [
+        {
+          "item": "myod-gornyj",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 1240.0
+        },
+        {
+          "item": "greckij-oreh",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 960.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 151,
+      "at": [
+        9,
+        50
+      ],
+      "person": "h8",
+      "lines": [
+        {
+          "item": "mandariny",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 165.0
+        },
+        {
+          "item": "myod-gornyj",
+          "pick": 1,
+          "qty": 1,
+          "price": 1240.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 150,
+      "at": [
+        15,
+        10
+      ],
+      "person": "h9",
+      "lines": [
+        {
+          "item": "apelsiny",
+          "pick": 1,
+          "qty": 1,
+          "price": 155.0
+        },
+        {
+          "item": "kakao-poroshok",
+          "pick": 1,
+          "qty": 1,
+          "price": 195.0
+        },
+        {
+          "item": "yajca-kurinye",
+          "pick": 1,
+          "qty": 12,
+          "price": 13.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 149,
+      "at": [
+        16,
+        10
+      ],
+      "person": "h4",
+      "lines": [
+        {
+          "item": "salyami",
+          "pick": 1,
+          "qty": 3,
+          "price": 480.0
+        },
+        {
+          "item": "hinkali",
+          "pick": 1,
+          "qty": 2,
+          "price": 320.0
+        },
+        {
+          "item": "korica-molotaya",
+          "pick": 1,
+          "qty": 1,
+          "price": 55.0
+        },
+        {
+          "item": "smes-ovoshchnaya",
+          "pick": 1,
+          "qty": 2,
+          "price": 145.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 146,
+      "at": [
+        17,
+        20
+      ],
+      "person": "h3",
+      "lines": [
+        {
+          "item": "testo-drozhzhevoe",
+          "pick": 1,
+          "qty": 3,
+          "price": 95.0
+        },
+        {
+          "item": "hleb-bezdrozhzhevoj",
+          "pick": 1,
+          "qty": 1,
+          "price": 95.0
+        },
+        {
+          "item": "sprajt",
+          "pick": 1,
+          "qty": 1,
+          "price": 100.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 145,
+      "at": [
+        15,
+        50
+      ],
+      "person": "h7",
+      "lines": [
+        {
+          "item": "vetchina",
+          "pick": 1,
+          "qty": 1,
+          "price": 340.0
+        },
+        {
+          "item": "perec-krasnyj-molotyj",
+          "pick": 1,
+          "qty": 1,
+          "price": 55.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 144,
+      "at": [
+        18,
+        40
+      ],
+      "person": "h6",
+      "lines": [
+        {
+          "item": "kuraga",
+          "pick": 1,
+          "qty": 1,
+          "price": 380.0
+        },
+        {
+          "item": "krevetki",
+          "pick": 1,
+          "qty": 1,
+          "price": 690.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 142,
+      "at": [
+        17,
+        30
+      ],
+      "person": "h8",
+      "lines": [
+        {
+          "item": "hinkali",
+          "pick": 1,
+          "qty": 3,
+          "price": 320.0
+        },
+        {
+          "item": "limonad-tarhun",
+          "pick": 1,
+          "qty": 2,
+          "price": 85.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 139,
+      "at": [
+        12,
+        0
+      ],
+      "person": "h3",
+      "lines": [
+        {
+          "item": "gorchica-russkaya",
+          "pick": 1,
+          "qty": 1,
+          "price": 65.0
+        },
+        {
+          "item": "kola",
+          "pick": 1,
+          "qty": 3,
+          "price": 90.0
+        },
+        {
+          "item": "kapusta-belokochannaya",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 32.0
+        },
+        {
+          "item": "salat-listovoj",
+          "pick": 1,
+          "qty": 3,
+          "price": 55.0
+        },
+        {
+          "item": "losos-ohlazhdyonnyj",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 1950.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 138,
+      "at": [
+        17,
+        0
+      ],
+      "person": "h7",
+      "lines": [
+        {
+          "item": "parmezan",
+          "pick": 1,
+          "qty": 1,
+          "price": 690.0
+        },
+        {
+          "item": "pechenye-shokoladnoe",
+          "pick": 1,
+          "qty": 3,
+          "price": 145.0
+        },
+        {
+          "item": "vinograd-belyj",
+          "pick": 1,
+          "qty": 2,
+          "price": 195.0
+        },
+        {
+          "item": "kvas-hlebnyj",
+          "pick": 1,
+          "qty": 1,
+          "price": 95.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 136,
+      "at": [
+        14,
+        0
+      ],
+      "person": "h7",
+      "lines": [
+        {
+          "item": "lavash-armyanskij",
+          "pick": 1,
+          "qty": 3,
+          "price": 45.0
+        },
+        {
+          "item": "petrushka",
+          "pick": 1,
+          "qty": 1,
+          "price": 20.0
+        },
+        {
+          "item": "sosiski-molochnye",
+          "pick": 1,
+          "qty": 2,
+          "price": 420.0
+        },
+        {
+          "item": "poroshok-stiralnyj",
+          "pick": 1,
+          "qty": 1,
+          "price": 620.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 134,
+      "at": [
+        17,
+        0
+      ],
+      "person": "h5",
+      "lines": [
+        {
+          "item": "morozhenoe-plombir",
+          "pick": 1,
+          "qty": 1,
+          "price": 75.0
+        },
+        {
+          "item": "ryazhenka",
+          "pick": 1,
+          "qty": 1,
+          "price": 78.0
+        },
+        {
+          "item": "hurma",
+          "pick": 1,
+          "qty": 3,
+          "price": 185.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 132,
+      "at": [
+        11,
+        30
+      ],
+      "person": "h7",
+      "lines": [
+        {
+          "item": "kivi",
+          "pick": 1,
+          "qty": 1,
+          "price": 175.0
+        },
+        {
+          "item": "imbir",
+          "pick": 1,
+          "qty": 1,
+          "price": 95.0
+        },
+        {
+          "item": "morozhenoe-fruktovyj-lyod",
+          "pick": 1,
+          "qty": 3,
+          "price": 45.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 131,
+      "at": [
+        18,
+        10
+      ],
+      "person": "h4",
+      "lines": [
+        {
+          "item": "ananas",
+          "pick": 1,
+          "qty": 2,
+          "price": 420.0
+        },
+        {
+          "item": "kola",
+          "pick": 1,
+          "qty": 1,
+          "price": 90.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 130,
+      "at": [
+        10,
+        10
+      ],
+      "person": "h7",
+      "lines": [
+        {
+          "item": "konfety-shokoladnye",
+          "pick": 1,
+          "qty": 1,
+          "price": 380.0
+        },
+        {
+          "item": "vermishel",
+          "pick": 1,
+          "qty": 1,
+          "price": 68.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 128,
+      "at": [
+        14,
+        50
+      ],
+      "person": "h6",
+      "lines": [
+        {
+          "item": "kefir-3-2",
+          "pick": 1,
+          "qty": 3,
+          "price": 95.0
+        },
+        {
+          "item": "luk-repchatyj",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 30.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 126,
+      "at": [
+        13,
+        10
+      ],
+      "person": "h9",
+      "lines": [
+        {
+          "item": "sok-beryozovyj",
+          "pick": 1,
+          "qty": 1,
+          "price": 120.0
+        },
+        {
+          "item": "baget",
+          "pick": 1,
+          "qty": 1,
+          "price": 65.0
+        },
+        {
+          "item": "arbuz",
+          "pick": 1,
+          "qty": 2,
+          "price": 45.0
+        },
+        {
+          "item": "kartofel",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 34.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 125,
+      "at": [
+        11,
+        30
+      ],
+      "person": "h3",
+      "lines": [
+        {
+          "item": "bumaga-tualetnaya",
+          "pick": 1,
+          "qty": 2,
+          "price": 220.0
+        },
+        {
+          "item": "sol-povarennaya",
+          "pick": 1,
+          "qty": 1,
+          "price": 25.0
+        },
+        {
+          "item": "bulochka-s-makom",
+          "pick": 1,
+          "qty": 2,
+          "price": 48.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 124,
+      "at": [
+        16,
+        40
+      ],
+      "person": "h8",
+      "lines": [
+        {
+          "item": "morozhenoe-fruktovyj-lyod",
+          "pick": 1,
+          "qty": 1,
+          "price": 45.0
+        },
+        {
+          "item": "pomidory-rozovye",
+          "pick": 1,
+          "qty": 1,
+          "price": 165.0
+        },
+        {
+          "item": "lavash-tonkij",
+          "pick": 1,
+          "qty": 2,
+          "price": 30.0
+        },
+        {
+          "item": "sok-apelsinovyj",
+          "pick": 1,
+          "qty": 2,
+          "price": 155.0
+        },
+        {
+          "item": "maslo-slivochnoe-82",
+          "pick": 1,
+          "qty": 2,
+          "price": 240.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 123,
+      "at": [
+        14,
+        30
+      ],
+      "person": "h4",
+      "lines": [
+        {
+          "item": "ovsyanye-hlopya",
+          "pick": 1,
+          "qty": 1,
+          "price": 85.0
+        },
+        {
+          "item": "chesnok",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 260.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 119,
+      "at": [
+        10,
+        50
+      ],
+      "person": "h1",
+      "lines": [
+        {
+          "item": "hleb-bezdrozhzhevoj",
+          "pick": 1,
+          "qty": 2,
+          "price": 95.0
+        },
+        {
+          "item": "tykva",
+          "pick": 1,
+          "qty": 1,
+          "price": 45.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 118,
+      "at": [
+        13,
+        30
+      ],
+      "person": "h9",
+      "lines": [
+        {
+          "item": "shokolad-molochnyj",
+          "pick": 1,
+          "qty": 1,
+          "price": 110.0
+        },
+        {
+          "item": "imbir",
+          "pick": 1,
+          "qty": 3,
+          "price": 95.0
+        },
+        {
+          "item": "lavash-armyanskij",
+          "pick": 1,
+          "qty": 2,
+          "price": 45.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 116,
+      "at": [
+        13,
+        50
+      ],
+      "person": "h1",
+      "lines": [
+        {
+          "item": "morkov",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 40.0
+        },
+        {
+          "item": "ogurcy-dlinnoplodnye",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 120.0
+        },
+        {
+          "item": "nektar-persikovyj",
+          "pick": 1,
+          "qty": 1,
+          "price": 140.0
+        },
+        {
+          "item": "kukuruza-konservirovannaya",
+          "pick": 1,
+          "qty": 1,
+          "price": 95.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 115,
+      "at": [
+        18,
+        40
+      ],
+      "person": "h8",
+      "lines": [
+        {
+          "item": "losos-ohlazhdyonnyj",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 1950.0
+        },
+        {
+          "item": "balyk-govyazhij",
+          "pick": 1,
+          "qty": 3,
+          "price": 890.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 114,
+      "at": [
+        18,
+        0
+      ],
+      "person": "h6",
+      "lines": [
+        {
+          "item": "mors-klyukvennyj",
+          "pick": 1,
+          "qty": 1,
+          "price": 130.0
+        },
+        {
+          "item": "lavrovyj-list",
+          "pick": 1,
+          "qty": 3,
+          "price": 35.0
+        },
+        {
+          "item": "ananas",
+          "pick": 1,
+          "qty": 3,
+          "price": 420.0
+        },
+        {
+          "item": "limonad-dyushes",
+          "pick": 1,
+          "qty": 1,
+          "price": 85.0
+        },
+        {
+          "item": "maslo-slivochnoe-72",
+          "pick": 1,
+          "qty": 1,
+          "price": 195.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 113,
+      "at": [
+        15,
+        50
+      ],
+      "person": "h3",
+      "lines": [
+        {
+          "item": "pasta-tomatnaya",
+          "pick": 1,
+          "qty": 1,
+          "price": 130.0
+        },
+        {
+          "item": "yajca-kurinye",
+          "pick": 1,
+          "qty": 10,
+          "price": 13.0
+        },
+        {
+          "item": "limonad-dyushes",
+          "pick": 1,
+          "qty": 3,
+          "price": 85.0
+        },
+        {
+          "item": "malina",
+          "pick": 1,
+          "qty": 1,
+          "price": 290.0
+        },
+        {
+          "item": "kartofel",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 34.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 112,
+      "at": [
+        16,
+        0
+      ],
+      "person": "h3",
+      "lines": [
+        {
+          "item": "pasta-zubnaya",
+          "pick": 1,
+          "qty": 1,
+          "price": 165.0
+        },
+        {
+          "item": "blinchiki-s-myasom",
+          "pick": 1,
+          "qty": 1,
+          "price": 240.0
+        },
+        {
+          "item": "ryazhenka",
+          "pick": 1,
+          "qty": 1,
+          "price": 78.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 110,
+      "at": [
+        12,
+        40
+      ],
+      "person": "h3",
+      "lines": [
+        {
+          "item": "yabloki-zelyonye",
+          "pick": 1,
+          "qty": 1,
+          "price": 110.0
+        },
+        {
+          "item": "kazy",
+          "pick": 1,
+          "qty": 3,
+          "price": 1450.0
+        },
+        {
+          "item": "moloko-2-5",
+          "pick": 1,
+          "qty": 2,
+          "price": 89.0
+        },
+        {
+          "item": "gorchica-russkaya",
+          "pick": 1,
+          "qty": 1,
+          "price": 65.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 109,
+      "at": [
+        14,
+        10
+      ],
+      "person": "h5",
+      "lines": [
+        {
+          "item": "chechevica-zelyonaya",
+          "pick": 1,
+          "qty": 1,
+          "price": 165.0
+        },
+        {
+          "item": "baget",
+          "pick": 1,
+          "qty": 2,
+          "price": 65.0
+        },
+        {
+          "item": "blinchiki-s-myasom",
+          "pick": 1,
+          "qty": 1,
+          "price": 240.0
+        },
+        {
+          "item": "brokkoli",
+          "pick": 1,
+          "qty": 1,
+          "price": 210.0
+        },
+        {
+          "item": "majonez",
+          "pick": 1,
+          "qty": 1,
+          "price": 145.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 108,
+      "at": [
+        13,
+        40
+      ],
+      "person": "h8",
+      "lines": [
+        {
+          "item": "sredstvo-dlya-posudy",
+          "pick": 1,
+          "qty": 1,
+          "price": 145.0
+        },
+        {
+          "item": "gorchica-russkaya",
+          "pick": 1,
+          "qty": 1,
+          "price": 65.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 107,
+      "at": [
+        11,
+        0
+      ],
+      "person": "h3",
+      "lines": [
+        {
+          "item": "kabachki",
+          "pick": 1,
+          "qty": 1,
+          "price": 75.0
+        },
+        {
+          "item": "stejk-lososya",
+          "pick": 1,
+          "qty": 2,
+          "price": 1090.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 106,
+      "at": [
+        11,
+        10
+      ],
+      "person": "h4",
+      "lines": [
+        {
+          "item": "hleb-bezdrozhzhevoj",
+          "pick": 1,
+          "qty": 2,
+          "price": 95.0
+        },
+        {
+          "item": "klubnika",
+          "pick": 1,
+          "qty": 3,
+          "price": 340.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 105,
+      "at": [
+        13,
+        10
+      ],
+      "person": "h2",
+      "lines": [
+        {
+          "item": "gauda",
+          "pick": 1,
+          "qty": 1,
+          "price": 520.0
+        },
+        {
+          "item": "pechenye-shokoladnoe",
+          "pick": 1,
+          "qty": 2,
+          "price": 145.0
+        },
+        {
+          "item": "kotlety-kurinye",
+          "pick": 1,
+          "qty": 1,
+          "price": 260.0
+        },
+        {
+          "item": "mors-klyukvennyj",
+          "pick": 1,
+          "qty": 1,
+          "price": 130.0
+        },
+        {
+          "item": "kolbasa-servelat",
+          "pick": 1,
+          "qty": 1,
+          "price": 620.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 104,
+      "at": [
+        10,
+        10
+      ],
+      "person": "h6",
+      "lines": [
+        {
+          "item": "masliny",
+          "pick": 1,
+          "qty": 2,
+          "price": 185.0
+        },
+        {
+          "item": "perec-chyornyj-molotyj",
+          "pick": 1,
+          "qty": 1,
+          "price": 65.0
+        },
+        {
+          "item": "hmeli-suneli",
+          "pick": 1,
+          "qty": 1,
+          "price": 60.0
+        },
+        {
+          "item": "blinchiki-s-myasom",
+          "pick": 1,
+          "qty": 2,
+          "price": 240.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 103,
+      "at": [
+        18,
+        40
+      ],
+      "person": "h6",
+      "lines": [
+        {
+          "item": "pakety-dlya-musora",
+          "pick": 1,
+          "qty": 2,
+          "price": 95.0
+        },
+        {
+          "item": "mango",
+          "pick": 1,
+          "qty": 1,
+          "price": 210.0
+        },
+        {
+          "item": "sous-soevyj",
+          "pick": 1,
+          "qty": 1,
+          "price": 165.0
+        },
+        {
+          "item": "pechenye-shokoladnoe",
+          "pick": 1,
+          "qty": 2,
+          "price": 145.0
+        },
+        {
+          "item": "hleb-bezdrozhzhevoj",
+          "pick": 1,
+          "qty": 1,
+          "price": 95.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 102,
+      "at": [
+        15,
+        0
+      ],
+      "person": "h7",
+      "lines": [
+        {
+          "item": "chaj-zelyonyj",
+          "pick": 1,
+          "qty": 1,
+          "price": 285.0
+        },
+        {
+          "item": "yabloki-zelyonye",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 110.0
+        },
+        {
+          "item": "apelsiny",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 155.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 100,
+      "at": [
+        19,
+        20
+      ],
+      "person": "h3",
+      "lines": [
+        {
+          "item": "shampun",
+          "pick": 1,
+          "qty": 2,
+          "price": 320.0
+        },
+        {
+          "item": "kola",
+          "pick": 1,
+          "qty": 2,
+          "price": 90.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 98,
+      "at": [
+        13,
+        10
+      ],
+      "person": "h9",
+      "lines": [
+        {
+          "item": "dynya",
+          "pick": 1,
+          "qty": 2,
+          "price": 240.0
+        },
+        {
+          "item": "hurma",
+          "pick": 1,
+          "qty": 1,
+          "price": 185.0
+        },
+        {
+          "item": "lecho",
+          "pick": 1,
+          "qty": 1,
+          "price": 175.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 97,
+      "at": [
+        11,
+        30
+      ],
+      "person": "h7",
+      "lines": [
+        {
+          "item": "konfety-korovka",
+          "pick": 1,
+          "qty": 3,
+          "price": 260.0
+        },
+        {
+          "item": "krevetki",
+          "pick": 1,
+          "qty": 3,
+          "price": 690.0
+        },
+        {
+          "item": "voda-negazirovannaya",
+          "pick": 1,
+          "qty": 1,
+          "price": 45.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 95,
+      "at": [
+        18,
+        30
+      ],
+      "person": "h6",
+      "lines": [
+        {
+          "item": "maslo-podsolnechnoe",
+          "pick": 1,
+          "qty": 2,
+          "price": 165.0
+        },
+        {
+          "item": "forel-ohlazhdyonnaya",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 980.0
+        },
+        {
+          "item": "brynza",
+          "pick": 1,
+          "qty": 2,
+          "price": 320.0
+        },
+        {
+          "item": "chipsy",
+          "pick": 1,
+          "qty": 1,
+          "price": 85.0
+        },
+        {
+          "item": "chaj-zelyonyj",
+          "pick": 1,
+          "qty": 1,
+          "price": 285.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 94,
+      "at": [
+        17,
+        0
+      ],
+      "person": "h6",
+      "lines": [
+        {
+          "item": "banany",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 130.0
+        },
+        {
+          "item": "forel-ohlazhdyonnaya",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 980.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 93,
+      "at": [
+        16,
+        50
+      ],
+      "person": "h1",
+      "lines": [
+        {
+          "item": "kakao-poroshok",
+          "pick": 1,
+          "qty": 1,
+          "price": 195.0
+        },
+        {
+          "item": "yajca-kurinye",
+          "pick": 1,
+          "qty": 10,
+          "price": 13.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 92,
+      "at": [
+        14,
+        50
+      ],
+      "person": "h5",
+      "lines": [
+        {
+          "item": "ris-basmati",
+          "pick": 1,
+          "qty": 1,
+          "price": 285.0
+        },
+        {
+          "item": "spagetti",
+          "pick": 1,
+          "qty": 3,
+          "price": 95.0
+        },
+        {
+          "item": "morozhenoe-fruktovyj-lyod",
+          "pick": 1,
+          "qty": 1,
+          "price": 45.0
+        },
+        {
+          "item": "moloko-toplyonoe",
+          "pick": 1,
+          "qty": 2,
+          "price": 105.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 91,
+      "at": [
+        17,
+        30
+      ],
+      "person": "h2",
+      "lines": [
+        {
+          "item": "limony",
+          "pick": 1,
+          "qty": 3,
+          "price": 210.0
+        },
+        {
+          "item": "yajca-kurinye",
+          "pick": 1,
+          "qty": 10,
+          "price": 13.0
+        },
+        {
+          "item": "slivki-33",
+          "pick": 1,
+          "qty": 1,
+          "price": 180.0
+        },
+        {
+          "item": "moloko-3-2",
+          "pick": 1,
+          "qty": 3,
+          "price": 96.0
+        },
+        {
+          "item": "nut",
+          "pick": 1,
+          "qty": 1,
+          "price": 180.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 89,
+      "at": [
+        12,
+        20
+      ],
+      "person": "h6",
+      "lines": [
+        {
+          "item": "arbuz",
+          "pick": 1,
+          "qty": 2,
+          "price": 45.0
+        },
+        {
+          "item": "brokkoli",
+          "pick": 1,
+          "qty": 3,
+          "price": 210.0
+        },
+        {
+          "item": "sok-multifrukt",
+          "pick": 1,
+          "qty": 1,
+          "price": 145.0
+        },
+        {
+          "item": "suluguni",
+          "pick": 1,
+          "qty": 2,
+          "price": 460.0
+        },
+        {
+          "item": "ogurcy-dlinnoplodnye",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 120.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 88,
+      "at": [
+        15,
+        50
+      ],
+      "person": "h8",
+      "lines": [
+        {
+          "item": "ketchup-tomatnyj",
+          "pick": 1,
+          "qty": 3,
+          "price": 110.0
+        },
+        {
+          "item": "maslo-slivochnoe-82",
+          "pick": 1,
+          "qty": 1,
+          "price": 240.0
+        },
+        {
+          "item": "tunec-konservirovannyj",
+          "pick": 1,
+          "qty": 1,
+          "price": 195.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 87,
+      "at": [
+        14,
+        0
+      ],
+      "person": "h1",
+      "lines": [
+        {
+          "item": "svyokla",
+          "pick": 1,
+          "qty": 1,
+          "price": 35.0
+        },
+        {
+          "item": "ryazhenka",
+          "pick": 1,
+          "qty": 1,
+          "price": 78.0
+        },
+        {
+          "item": "granat",
+          "pick": 1,
+          "qty": 1,
+          "price": 260.0
+        },
+        {
+          "item": "ukrop",
+          "pick": 1,
+          "qty": 1,
+          "price": 20.0
+        },
+        {
+          "item": "kofe-rastvorimyj",
+          "pick": 1,
+          "qty": 1,
+          "price": 480.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 86,
+      "at": [
+        13,
+        0
+      ],
+      "person": "h3",
+      "lines": [
+        {
+          "item": "chiabatta",
+          "pick": 1,
+          "qty": 1,
+          "price": 90.0
+        },
+        {
+          "item": "limonad-tarhun",
+          "pick": 1,
+          "qty": 1,
+          "price": 85.0
+        },
+        {
+          "item": "chaj-holodnyj",
+          "pick": 1,
+          "qty": 3,
+          "price": 105.0
+        },
+        {
+          "item": "korica-molotaya",
+          "pick": 1,
+          "qty": 3,
+          "price": 55.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 83,
+      "at": [
+        12,
+        50
+      ],
+      "person": "h4",
+      "lines": [
+        {
+          "item": "vermishel",
+          "pick": 1,
+          "qty": 1,
+          "price": 68.0
+        },
+        {
+          "item": "hleb-rzhanoj",
+          "pick": 1,
+          "qty": 1,
+          "price": 55.0
+        },
+        {
+          "item": "losos-ohlazhdyonnyj",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 1950.0
+        },
+        {
+          "item": "hmeli-suneli",
+          "pick": 1,
+          "qty": 1,
+          "price": 60.0
+        },
+        {
+          "item": "mango",
+          "pick": 1,
+          "qty": 1,
+          "price": 210.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 82,
+      "at": [
+        12,
+        50
+      ],
+      "person": "h8",
+      "lines": [
+        {
+          "item": "jogurt-grecheskij",
+          "pick": 1,
+          "qty": 2,
+          "price": 110.0
+        },
+        {
+          "item": "chiabatta",
+          "pick": 1,
+          "qty": 1,
+          "price": 90.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 81,
+      "at": [
+        10,
+        30
+      ],
+      "person": "h6",
+      "lines": [
+        {
+          "item": "suluguni",
+          "pick": 1,
+          "qty": 3,
+          "price": 460.0
+        },
+        {
+          "item": "luk-krasnyj",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 45.0
+        },
+        {
+          "item": "salyami",
+          "pick": 1,
+          "qty": 1,
+          "price": 480.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 79,
+      "at": [
+        14,
+        20
+      ],
+      "person": "h9",
+      "lines": [
+        {
+          "item": "lepyoshka-tandyrnaya",
+          "pick": 1,
+          "qty": 2,
+          "price": 35.0
+        },
+        {
+          "item": "chaj-chyornyj",
+          "pick": 1,
+          "qty": 3,
+          "price": 265.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 78,
+      "at": [
+        19,
+        10
+      ],
+      "person": "h3",
+      "lines": [
+        {
+          "item": "mors-klyukvennyj",
+          "pick": 1,
+          "qty": 1,
+          "price": 130.0
+        },
+        {
+          "item": "redis",
+          "pick": 1,
+          "qty": 2,
+          "price": 60.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 76,
+      "at": [
+        19,
+        0
+      ],
+      "person": "h3",
+      "lines": [
+        {
+          "item": "gorchica-russkaya",
+          "pick": 1,
+          "qty": 1,
+          "price": 65.0
+        },
+        {
+          "item": "sahar-pesok",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 95.0
+        },
+        {
+          "item": "baklazhany",
+          "pick": 1,
+          "qty": 1,
+          "price": 95.0
+        },
+        {
+          "item": "hleb-zernovoj",
+          "pick": 1,
+          "qty": 1,
+          "price": 85.0
+        },
+        {
+          "item": "losos-ohlazhdyonnyj",
+          "pick": 1,
+          "qty": 1,
+          "price": 1950.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 75,
+      "at": [
+        16,
+        0
+      ],
+      "person": "h2",
+      "lines": [
+        {
+          "item": "kivi",
+          "pick": 1,
+          "qty": 1,
+          "price": 175.0
+        },
+        {
+          "item": "krevetki",
+          "pick": 1,
+          "qty": 3,
+          "price": 690.0
+        },
+        {
+          "item": "kapusta-cvetnaya",
+          "pick": 1,
+          "qty": 1,
+          "price": 145.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 74,
+      "at": [
+        13,
+        20
+      ],
+      "person": "h3",
+      "lines": [
+        {
+          "item": "luk-repchatyj",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 30.0
+        },
+        {
+          "item": "ukrop",
+          "pick": 1,
+          "qty": 1,
+          "price": 20.0
+        },
+        {
+          "item": "shokolad-tyomnyj",
+          "pick": 1,
+          "qty": 1,
+          "price": 120.0
+        },
+        {
+          "item": "malina",
+          "pick": 1,
+          "qty": 3,
+          "price": 290.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 72,
+      "at": [
+        10,
+        10
+      ],
+      "person": "h2",
+      "lines": [
+        {
+          "item": "petrushka",
+          "pick": 1,
+          "qty": 1,
+          "price": 20.0
+        },
+        {
+          "item": "ovsyanye-hlopya",
+          "pick": 1,
+          "qty": 1,
+          "price": 85.0
+        },
+        {
+          "item": "nektar-persikovyj",
+          "pick": 1,
+          "qty": 1,
+          "price": 140.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 70,
+      "at": [
+        11,
+        0
+      ],
+      "person": "h5",
+      "lines": [
+        {
+          "item": "fanta",
+          "pick": 1,
+          "qty": 1,
+          "price": 90.0
+        },
+        {
+          "item": "baklazhany",
+          "pick": 1,
+          "qty": 3,
+          "price": 95.0
+        },
+        {
+          "item": "chechevica-zelyonaya",
+          "pick": 1,
+          "qty": 2,
+          "price": 165.0
+        },
+        {
+          "item": "sous-soevyj",
+          "pick": 1,
+          "qty": 1,
+          "price": 165.0
+        },
+        {
+          "item": "hleb-bezdrozhzhevoj",
+          "pick": 1,
+          "qty": 1,
+          "price": 95.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 67,
+      "at": [
+        11,
+        10
+      ],
+      "person": "h5",
+      "lines": [
+        {
+          "item": "hinkali",
+          "pick": 1,
+          "qty": 1,
+          "price": 320.0
+        },
+        {
+          "item": "lavash-armyanskij",
+          "pick": 1,
+          "qty": 3,
+          "price": 45.0
+        },
+        {
+          "item": "redis",
+          "pick": 1,
+          "qty": 3,
+          "price": 60.0
+        },
+        {
+          "item": "maslo-slivochnoe-82",
+          "pick": 1,
+          "qty": 1,
+          "price": 240.0
+        },
+        {
+          "item": "kola",
+          "pick": 1,
+          "qty": 1,
+          "price": 90.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 66,
+      "at": [
+        15,
+        20
+      ],
+      "person": "h4",
+      "lines": [
+        {
+          "item": "shokolad-molochnyj",
+          "pick": 1,
+          "qty": 1,
+          "price": 110.0
+        },
+        {
+          "item": "mango",
+          "pick": 1,
+          "qty": 2,
+          "price": 210.0
+        },
+        {
+          "item": "ovsyanye-hlopya",
+          "pick": 1,
+          "qty": 2,
+          "price": 85.0
+        },
+        {
+          "item": "krevetki",
+          "pick": 1,
+          "qty": 2,
+          "price": 690.0
+        },
+        {
+          "item": "vareniki-s-tvorogom",
+          "pick": 1,
+          "qty": 1,
+          "price": 195.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 64,
+      "at": [
+        11,
+        20
+      ],
+      "person": "h8",
+      "lines": [
+        {
+          "item": "vermishel",
+          "pick": 1,
+          "qty": 1,
+          "price": 68.0
+        },
+        {
+          "item": "apelsiny",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 155.0
+        },
+        {
+          "item": "sok-multifrukt",
+          "pick": 1,
+          "qty": 1,
+          "price": 145.0
+        },
+        {
+          "item": "hinkali",
+          "pick": 1,
+          "qty": 1,
+          "price": 320.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 63,
+      "at": [
+        13,
+        50
+      ],
+      "person": "h5",
+      "lines": [
+        {
+          "item": "hleb-zernovoj",
+          "pick": 1,
+          "qty": 1,
+          "price": 85.0
+        },
+        {
+          "item": "grechka",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 145.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 59,
+      "at": [
+        16,
+        50
+      ],
+      "person": "h3",
+      "lines": [
+        {
+          "item": "sok-yablochnyj",
+          "pick": 1,
+          "qty": 1,
+          "price": 145.0
+        },
+        {
+          "item": "kofe-rastvorimyj",
+          "pick": 1,
+          "qty": 1,
+          "price": 480.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 58,
+      "at": [
+        15,
+        0
+      ],
+      "person": "h5",
+      "lines": [
+        {
+          "item": "limonad-tarhun",
+          "pick": 1,
+          "qty": 1,
+          "price": 85.0
+        },
+        {
+          "item": "mocarella",
+          "pick": 1,
+          "qty": 1,
+          "price": 285.0
+        },
+        {
+          "item": "klubnika",
+          "pick": 1,
+          "qty": 1,
+          "price": 340.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 57,
+      "at": [
+        14,
+        40
+      ],
+      "person": "h2",
+      "lines": [
+        {
+          "item": "kefir-3-2",
+          "pick": 1,
+          "qty": 1,
+          "price": 95.0
+        },
+        {
+          "item": "kapusta-cvetnaya",
+          "pick": 1,
+          "qty": 1,
+          "price": 145.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 56,
+      "at": [
+        17,
+        20
+      ],
+      "person": "h8",
+      "lines": [
+        {
+          "item": "ogurcy-dlinnoplodnye",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 120.0
+        },
+        {
+          "item": "bulochka-s-koricej",
+          "pick": 1,
+          "qty": 1,
+          "price": 55.0
+        },
+        {
+          "item": "maslo-slivochnoe-72",
+          "pick": 1,
+          "qty": 1,
+          "price": 195.0
+        },
+        {
+          "item": "maslo-toplyonoe",
+          "pick": 1,
+          "qty": 1,
+          "price": 590.0
+        },
+        {
+          "item": "ris-basmati",
+          "pick": 1,
+          "qty": 3,
+          "price": 285.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 55,
+      "at": [
+        15,
+        0
+      ],
+      "person": "h2",
+      "lines": [
+        {
+          "item": "kotlety-kurinye",
+          "pick": 1,
+          "qty": 2,
+          "price": 260.0
+        },
+        {
+          "item": "tvorog-9",
+          "pick": 1,
+          "qty": 3,
+          "price": 195.0
+        },
+        {
+          "item": "dynya",
+          "pick": 1,
+          "qty": 2,
+          "price": 240.0
+        },
+        {
+          "item": "krevetki",
+          "pick": 1,
+          "qty": 1,
+          "price": 690.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 54,
+      "at": [
+        15,
+        50
+      ],
+      "person": "h8",
+      "lines": [
+        {
+          "item": "tunec-konservirovannyj",
+          "pick": 1,
+          "qty": 1,
+          "price": 195.0
+        },
+        {
+          "item": "shokolad-molochnyj",
+          "pick": 1,
+          "qty": 1,
+          "price": 110.0
+        },
+        {
+          "item": "parmezan",
+          "pick": 1,
+          "qty": 1,
+          "price": 690.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 52,
+      "at": [
+        17,
+        30
+      ],
+      "person": "h2",
+      "lines": [
+        {
+          "item": "vetchina",
+          "pick": 1,
+          "qty": 3,
+          "price": 340.0
+        },
+        {
+          "item": "lepyoshka-tandyrnaya",
+          "pick": 1,
+          "qty": 2,
+          "price": 35.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 51,
+      "at": [
+        13,
+        30
+      ],
+      "person": "h3",
+      "lines": [
+        {
+          "item": "slivki-33",
+          "pick": 1,
+          "qty": 2,
+          "price": 180.0
+        },
+        {
+          "item": "avokado",
+          "pick": 1,
+          "qty": 1,
+          "price": 145.0
+        },
+        {
+          "item": "popkorn",
+          "pick": 1,
+          "qty": 2,
+          "price": 75.0
+        },
+        {
+          "item": "kompot-iz-suhofruktov",
+          "pick": 1,
+          "qty": 2,
+          "price": 110.0
+        },
+        {
+          "item": "dynya",
+          "pick": 1,
+          "qty": 1,
+          "price": 240.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 50,
+      "at": [
+        12,
+        10
+      ],
+      "person": "h4",
+      "lines": [
+        {
+          "item": "perec-chili",
+          "pick": 1,
+          "qty": 1,
+          "price": 65.0
+        },
+        {
+          "item": "moloko-2-5",
+          "pick": 1,
+          "qty": 1,
+          "price": 89.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 49,
+      "at": [
+        12,
+        30
+      ],
+      "person": "h9",
+      "lines": [
+        {
+          "item": "gorchica-russkaya",
+          "pick": 1,
+          "qty": 1,
+          "price": 65.0
+        },
+        {
+          "item": "maslo-olivkovoe",
+          "pick": 1,
+          "qty": 1,
+          "price": 890.0
+        },
+        {
+          "item": "moloko-toplyonoe",
+          "pick": 1,
+          "qty": 1,
+          "price": 105.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 47,
+      "at": [
+        15,
+        0
+      ],
+      "person": "h4",
+      "lines": [
+        {
+          "item": "sredstvo-dlya-posudy",
+          "pick": 1,
+          "qty": 2,
+          "price": 145.0
+        },
+        {
+          "item": "sol-povarennaya",
+          "pick": 1,
+          "qty": 3,
+          "price": 25.0
+        },
+        {
+          "item": "maslo-slivochnoe-82",
+          "pick": 1,
+          "qty": 1,
+          "price": 240.0
+        },
+        {
+          "item": "balyk-govyazhij",
+          "pick": 1,
+          "qty": 1,
+          "price": 890.0
+        },
+        {
+          "item": "yabloki-zelyonye",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 110.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 46,
+      "at": [
+        14,
+        20
+      ],
+      "person": "h2",
+      "lines": [
+        {
+          "item": "chaj-chyornyj",
+          "pick": 1,
+          "qty": 1,
+          "price": 265.0
+        },
+        {
+          "item": "konfety-korovka",
+          "pick": 1,
+          "qty": 1,
+          "price": 260.0
+        },
+        {
+          "item": "apelsiny",
+          "pick": 1,
+          "qty": 1,
+          "price": 155.0
+        },
+        {
+          "item": "yajca-perepelinye",
+          "pick": 1,
+          "qty": 3,
+          "price": 110.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 45,
+      "at": [
+        15,
+        0
+      ],
+      "person": "h9",
+      "lines": [
+        {
+          "item": "shpinat",
+          "pick": 1,
+          "qty": 1,
+          "price": 45.0
+        },
+        {
+          "item": "bulochka-s-makom",
+          "pick": 1,
+          "qty": 2,
+          "price": 48.0
+        },
+        {
+          "item": "pripava-dlya-plova",
+          "pick": 1,
+          "qty": 2,
+          "price": 75.0
+        },
+        {
+          "item": "kola",
+          "pick": 1,
+          "qty": 2,
+          "price": 90.0
+        },
+        {
+          "item": "moloko-toplyonoe",
+          "pick": 1,
+          "qty": 1,
+          "price": 105.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 44,
+      "at": [
+        18,
+        20
+      ],
+      "person": "h9",
+      "lines": [
+        {
+          "item": "sok-multifrukt",
+          "pick": 1,
+          "qty": 2,
+          "price": 145.0
+        },
+        {
+          "item": "kefir-3-2",
+          "pick": 1,
+          "qty": 2,
+          "price": 95.0
+        },
+        {
+          "item": "brynza",
+          "pick": 1,
+          "qty": 1,
+          "price": 320.0
+        },
+        {
+          "item": "konfety-korovka",
+          "pick": 1,
+          "qty": 1,
+          "price": 260.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 43,
+      "at": [
+        11,
+        10
+      ],
+      "person": "h4",
+      "lines": [
+        {
+          "item": "ogurcy-marinovannye",
+          "pick": 1,
+          "qty": 2,
+          "price": 195.0
+        },
+        {
+          "item": "krevetki",
+          "pick": 1,
+          "qty": 1,
+          "price": 690.0
+        },
+        {
+          "item": "pelmeni-domashnie",
+          "pick": 1,
+          "qty": 1,
+          "price": 480.0
+        },
+        {
+          "item": "mocarella",
+          "pick": 1,
+          "qty": 1,
+          "price": 285.0
+        },
+        {
+          "item": "shokolad-molochnyj",
+          "pick": 1,
+          "qty": 3,
+          "price": 110.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 42,
+      "at": [
+        10,
+        50
+      ],
+      "person": "h5",
+      "lines": [
+        {
+          "item": "pakety-dlya-musora",
+          "pick": 1,
+          "qty": 2,
+          "price": 95.0
+        },
+        {
+          "item": "konfety-shokoladnye",
+          "pick": 1,
+          "qty": 1,
+          "price": 380.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 40,
+      "at": [
+        19,
+        20
+      ],
+      "person": "h5",
+      "lines": [
+        {
+          "item": "ryazhenka",
+          "pick": 1,
+          "qty": 1,
+          "price": 78.0
+        },
+        {
+          "item": "yabloki-krasnye",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 120.0
+        },
+        {
+          "item": "hleb-zernovoj",
+          "pick": 1,
+          "qty": 1,
+          "price": 85.0
+        },
+        {
+          "item": "banany",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 130.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 39,
+      "at": [
+        16,
+        30
+      ],
+      "person": "h4",
+      "lines": [
+        {
+          "item": "kefir-3-2",
+          "pick": 1,
+          "qty": 1,
+          "price": 95.0
+        },
+        {
+          "item": "kapusta-belokochannaya",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 32.0
+        },
+        {
+          "item": "mango",
+          "pick": 1,
+          "qty": 1,
+          "price": 210.0
+        },
+        {
+          "item": "vetchina",
+          "pick": 1,
+          "qty": 2,
+          "price": 340.0
+        },
+        {
+          "item": "konfety-shokoladnye",
+          "pick": 1,
+          "qty": 2,
+          "price": 380.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 38,
+      "at": [
+        18,
+        30
+      ],
+      "person": "h8",
+      "lines": [
+        {
+          "item": "hleb-zernovoj",
+          "pick": 1,
+          "qty": 3,
+          "price": 85.0
+        },
+        {
+          "item": "baton-nareznoj",
+          "pick": 1,
+          "qty": 1,
+          "price": 42.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 36,
+      "at": [
+        9,
+        40
+      ],
+      "person": "h9",
+      "lines": [
+        {
+          "item": "korica-molotaya",
+          "pick": 1,
+          "qty": 1,
+          "price": 55.0
+        },
+        {
+          "item": "ananas",
+          "pick": 1,
+          "qty": 1,
+          "price": 420.0
+        },
+        {
+          "item": "jogurt-grecheskij",
+          "pick": 1,
+          "qty": 1,
+          "price": 110.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 34,
+      "at": [
+        18,
+        40
+      ],
+      "person": "h1",
+      "lines": [
+        {
+          "item": "vermishel",
+          "pick": 1,
+          "qty": 1,
+          "price": 68.0
+        },
+        {
+          "item": "lepyoshka-tandyrnaya",
+          "pick": 1,
+          "qty": 2,
+          "price": 35.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 33,
+      "at": [
+        17,
+        30
+      ],
+      "person": "h6",
+      "lines": [
+        {
+          "item": "pasta-tomatnaya",
+          "pick": 1,
+          "qty": 3,
+          "price": 130.0
+        },
+        {
+          "item": "lavrovyj-list",
+          "pick": 1,
+          "qty": 1,
+          "price": 35.0
+        },
+        {
+          "item": "moloko-2-5",
+          "pick": 1,
+          "qty": 1,
+          "price": 89.0
+        },
+        {
+          "item": "losos-ohlazhdyonnyj",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 1950.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 32,
+      "at": [
+        16,
+        0
+      ],
+      "person": "h4",
+      "lines": [
+        {
+          "item": "shokolad-tyomnyj",
+          "pick": 1,
+          "qty": 1,
+          "price": 120.0
+        },
+        {
+          "item": "tvorog-9",
+          "pick": 1,
+          "qty": 1,
+          "price": 195.0
+        },
+        {
+          "item": "hleb-rzhanoj",
+          "pick": 1,
+          "qty": 3,
+          "price": 55.0
+        },
+        {
+          "item": "vareniki-s-vishnej",
+          "pick": 1,
+          "qty": 3,
+          "price": 210.0
+        },
+        {
+          "item": "jogurt-klubnichnyj",
+          "pick": 1,
+          "qty": 1,
+          "price": 85.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 31,
+      "at": [
+        15,
+        30
+      ],
+      "person": "h8",
+      "lines": [
+        {
+          "item": "shampun",
+          "pick": 1,
+          "qty": 1,
+          "price": 320.0
+        },
+        {
+          "item": "pasta-zubnaya",
+          "pick": 1,
+          "qty": 1,
+          "price": 165.0
+        },
+        {
+          "item": "ketchup-tomatnyj",
+          "pick": 1,
+          "qty": 1,
+          "price": 110.0
+        },
+        {
+          "item": "morozhenoe-fruktovyj-lyod",
+          "pick": 1,
+          "qty": 1,
+          "price": 45.0
+        },
+        {
+          "item": "salat-listovoj",
+          "pick": 1,
+          "qty": 1,
+          "price": 55.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 30,
+      "at": [
+        18,
+        30
+      ],
+      "person": "h4",
+      "lines": [
+        {
+          "item": "hleb-zernovoj",
+          "pick": 1,
+          "qty": 3,
+          "price": 85.0
+        },
+        {
+          "item": "balyk-govyazhij",
+          "pick": 1,
+          "qty": 1,
+          "price": 890.0
+        },
+        {
+          "item": "grudka-kopchyonaya",
+          "pick": 1,
+          "qty": 3,
+          "price": 390.0
+        },
+        {
+          "item": "halva-podsolnechnaya",
+          "pick": 1,
+          "qty": 3,
+          "price": 220.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 29,
+      "at": [
+        15,
+        10
+      ],
+      "person": "h4",
+      "lines": [
+        {
+          "item": "luk-krasnyj",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 45.0
+        },
+        {
+          "item": "kvas-hlebnyj",
+          "pick": 1,
+          "qty": 3,
+          "price": 95.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 28,
+      "at": [
+        15,
+        50
+      ],
+      "person": "h7",
+      "lines": [
+        {
+          "item": "brokkoli",
+          "pick": 1,
+          "qty": 2,
+          "price": 210.0
+        },
+        {
+          "item": "hleb-bezdrozhzhevoj",
+          "pick": 1,
+          "qty": 3,
+          "price": 95.0
+        },
+        {
+          "item": "moloko-3-2",
+          "pick": 1,
+          "qty": 1,
+          "price": 96.0
+        },
+        {
+          "item": "tunec-konservirovannyj",
+          "pick": 1,
+          "qty": 1,
+          "price": 195.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 27,
+      "at": [
+        15,
+        20
+      ],
+      "person": "h8",
+      "lines": [
+        {
+          "item": "parmezan",
+          "pick": 1,
+          "qty": 1,
+          "price": 690.0
+        },
+        {
+          "item": "hleb-bezdrozhzhevoj",
+          "pick": 1,
+          "qty": 2,
+          "price": 95.0
+        },
+        {
+          "item": "salyami",
+          "pick": 1,
+          "qty": 1,
+          "price": 480.0
+        },
+        {
+          "item": "nektar-persikovyj",
+          "pick": 1,
+          "qty": 3,
+          "price": 140.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 26,
+      "at": [
+        9,
+        0
+      ],
+      "person": "h3",
+      "lines": [
+        {
+          "item": "vinograd-belyj",
+          "pick": 1,
+          "qty": 3,
+          "price": 195.0
+        },
+        {
+          "item": "banany",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 130.0
+        },
+        {
+          "item": "kolbasa-doktorskaya",
+          "pick": 1,
+          "qty": 2,
+          "price": 520.0
+        },
+        {
+          "item": "greckij-oreh",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 960.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 24,
+      "at": [
+        16,
+        50
+      ],
+      "person": "h1",
+      "lines": [
+        {
+          "item": "baget",
+          "pick": 1,
+          "qty": 3,
+          "price": 65.0
+        },
+        {
+          "item": "tykva",
+          "pick": 1,
+          "qty": 1,
+          "price": 45.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 23,
+      "at": [
+        18,
+        50
+      ],
+      "person": "h8",
+      "lines": [
+        {
+          "item": "kakao-poroshok",
+          "pick": 1,
+          "qty": 1,
+          "price": 195.0
+        },
+        {
+          "item": "chak-chak",
+          "pick": 1,
+          "qty": 1,
+          "price": 290.0
+        },
+        {
+          "item": "mocarella",
+          "pick": 1,
+          "qty": 1,
+          "price": 285.0
+        },
+        {
+          "item": "vermishel",
+          "pick": 1,
+          "qty": 1,
+          "price": 68.0
+        },
+        {
+          "item": "hurma",
+          "pick": 1,
+          "qty": 1,
+          "price": 185.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 22,
+      "at": [
+        13,
+        10
+      ],
+      "person": "h6",
+      "lines": [
+        {
+          "item": "maslo-toplyonoe",
+          "pick": 1,
+          "qty": 1,
+          "price": 590.0
+        },
+        {
+          "item": "ogurcy-marinovannye",
+          "pick": 1,
+          "qty": 1,
+          "price": 195.0
+        },
+        {
+          "item": "morozhenoe-fruktovyj-lyod",
+          "pick": 1,
+          "qty": 1,
+          "price": 45.0
+        },
+        {
+          "item": "redis",
+          "pick": 1,
+          "qty": 1,
+          "price": 60.0
+        },
+        {
+          "item": "pasta-tomatnaya",
+          "pick": 1,
+          "qty": 1,
+          "price": 130.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 21,
+      "at": [
+        16,
+        0
+      ],
+      "person": "h6",
+      "lines": [
+        {
+          "item": "vareniki-s-tvorogom",
+          "pick": 1,
+          "qty": 1,
+          "price": 195.0
+        },
+        {
+          "item": "kapusta-cvetnaya",
+          "pick": 1,
+          "qty": 1,
+          "price": 145.0
+        },
+        {
+          "item": "lavrovyj-list",
+          "pick": 1,
+          "qty": 2,
+          "price": 35.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 19,
+      "at": [
+        19,
+        20
+      ],
+      "person": "h8",
+      "lines": [
+        {
+          "item": "manty",
+          "pick": 1,
+          "qty": 1,
+          "price": 290.0
+        },
+        {
+          "item": "pechenye-yubilejnoe",
+          "pick": 1,
+          "qty": 1,
+          "price": 95.0
+        },
+        {
+          "item": "uksus-yablochnyj",
+          "pick": 1,
+          "qty": 1,
+          "price": 95.0
+        },
+        {
+          "item": "sprajt",
+          "pick": 1,
+          "qty": 2,
+          "price": 100.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 18,
+      "at": [
+        14,
+        20
+      ],
+      "person": "h7",
+      "lines": [
+        {
+          "item": "lepyoshka-tandyrnaya",
+          "pick": 1,
+          "qty": 1,
+          "price": 35.0
+        },
+        {
+          "item": "chak-chak",
+          "pick": 1,
+          "qty": 1,
+          "price": 290.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 17,
+      "at": [
+        19,
+        20
+      ],
+      "person": "h1",
+      "lines": [
+        {
+          "item": "mango",
+          "pick": 1,
+          "qty": 1,
+          "price": 210.0
+        },
+        {
+          "item": "uksus-yablochnyj",
+          "pick": 1,
+          "qty": 3,
+          "price": 95.0
+        },
+        {
+          "item": "moloko-3-2",
+          "pick": 1,
+          "qty": 1,
+          "price": 96.0
+        },
+        {
+          "item": "sredstvo-dlya-styokol",
+          "pick": 1,
+          "qty": 2,
+          "price": 165.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 16,
+      "at": [
+        16,
+        20
+      ],
+      "person": "h2",
+      "lines": [
+        {
+          "item": "konfety-shokoladnye",
+          "pick": 1,
+          "qty": 3,
+          "price": 380.0
+        },
+        {
+          "item": "chaj-chyornyj",
+          "pick": 1,
+          "qty": 2,
+          "price": 265.0
+        },
+        {
+          "item": "moloko-2-5",
+          "pick": 1,
+          "qty": 1,
+          "price": 89.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 15,
+      "at": [
+        11,
+        10
+      ],
+      "person": "h1",
+      "lines": [
+        {
+          "item": "hleb-borodinskij",
+          "pick": 1,
+          "qty": 1,
+          "price": 68.0
+        },
+        {
+          "item": "baklazhany",
+          "pick": 1,
+          "qty": 1,
+          "price": 95.0
+        },
+        {
+          "item": "morozhenoe-fruktovyj-lyod",
+          "pick": 1,
+          "qty": 1,
+          "price": 45.0
+        },
+        {
+          "item": "vermishel",
+          "pick": 1,
+          "qty": 2,
+          "price": 68.0
+        },
+        {
+          "item": "apelsiny",
+          "pick": 1,
+          "qty": 1,
+          "price": 155.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 14,
+      "at": [
+        10,
+        0
+      ],
+      "person": "h8",
+      "lines": [
+        {
+          "item": "perec-krasnyj-molotyj",
+          "pick": 1,
+          "qty": 3,
+          "price": 55.0
+        },
+        {
+          "item": "kazy",
+          "pick": 1,
+          "qty": 3,
+          "price": 1450.0
+        },
+        {
+          "item": "redis",
+          "pick": 1,
+          "qty": 1,
+          "price": 60.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 12,
+      "at": [
+        19,
+        40
+      ],
+      "person": "h8",
+      "lines": [
+        {
+          "item": "bumaga-tualetnaya",
+          "pick": 1,
+          "qty": 1,
+          "price": 220.0
+        },
+        {
+          "item": "kakao-poroshok",
+          "pick": 1,
+          "qty": 1,
+          "price": 195.0
+        },
+        {
+          "item": "hurma",
+          "pick": 1,
+          "qty": 1,
+          "price": 185.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 11,
+      "at": [
+        18,
+        20
+      ],
+      "person": "h1",
+      "lines": [
+        {
+          "item": "lavash-armyanskij",
+          "pick": 1,
+          "qty": 1,
+          "price": 45.0
+        },
+        {
+          "item": "baklazhany",
+          "pick": 1,
+          "qty": 2,
+          "price": 95.0
+        },
+        {
+          "item": "slivki-33",
+          "pick": 1,
+          "qty": 3,
+          "price": 180.0
+        },
+        {
+          "item": "kotlety-kurinye",
+          "pick": 1,
+          "qty": 2,
+          "price": 260.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 10,
+      "at": [
+        9,
+        40
+      ],
+      "person": "h9",
+      "lines": [
+        {
+          "item": "masliny",
+          "pick": 1,
+          "qty": 1,
+          "price": 185.0
+        },
+        {
+          "item": "kola",
+          "pick": 1,
+          "qty": 3,
+          "price": 90.0
+        },
+        {
+          "item": "gorbusha",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 690.0
+        },
+        {
+          "item": "kapusta-belokochannaya",
+          "pick": 1,
+          "qty": 0.5,
+          "price": 32.0
+        },
+        {
+          "item": "kolbasa-doktorskaya",
+          "pick": 1,
+          "qty": 1,
+          "price": 520.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 9,
+      "at": [
+        19,
+        30
+      ],
+      "person": "h4",
+      "lines": [
+        {
+          "item": "pakety-dlya-musora",
+          "pick": 1,
+          "qty": 2,
+          "price": 95.0
+        },
+        {
+          "item": "avokado",
+          "pick": 1,
+          "qty": 2,
+          "price": 145.0
+        },
+        {
+          "item": "brokkoli",
+          "pick": 1,
+          "qty": 3,
+          "price": 210.0
+        },
+        {
+          "item": "chaj-holodnyj",
+          "pick": 1,
+          "qty": 2,
+          "price": 105.0
+        },
+        {
+          "item": "sahar-pesok",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 95.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 7,
+      "at": [
+        10,
+        50
+      ],
+      "person": "h8",
+      "lines": [
+        {
+          "item": "redis",
+          "pick": 1,
+          "qty": 1,
+          "price": 60.0
+        },
+        {
+          "item": "greckij-oreh",
+          "pick": 1,
+          "qty": 1,
+          "price": 960.0
+        },
+        {
+          "item": "kvas-hlebnyj",
+          "pick": 1,
+          "qty": 3,
+          "price": 95.0
+        },
+        {
+          "item": "tunec-konservirovannyj",
+          "pick": 1,
+          "qty": 2,
+          "price": 195.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 6,
+      "at": [
+        15,
+        50
+      ],
+      "person": "h2",
+      "lines": [
+        {
+          "item": "kapusta-cvetnaya",
+          "pick": 1,
+          "qty": 1,
+          "price": 145.0
+        },
+        {
+          "item": "maslo-slivochnoe-82",
+          "pick": 1,
+          "qty": 3,
+          "price": 240.0
+        },
+        {
+          "item": "perec-krasnyj-molotyj",
+          "pick": 1,
+          "qty": 1,
+          "price": 55.0
+        },
+        {
+          "item": "sok-beryozovyj",
+          "pick": 1,
+          "qty": 3,
+          "price": 120.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 5,
+      "at": [
+        18,
+        0
+      ],
+      "person": "h5",
+      "lines": [
+        {
+          "item": "kapusta-cvetnaya",
+          "pick": 1,
+          "qty": 1,
+          "price": 145.0
+        },
+        {
+          "item": "mango",
+          "pick": 1,
+          "qty": 1,
+          "price": 210.0
+        },
+        {
+          "item": "dynya",
+          "pick": 1,
+          "qty": 1,
+          "price": 240.0
+        },
+        {
+          "item": "bulochka-s-koricej",
+          "pick": 1,
+          "qty": 2,
+          "price": 55.0
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 3,
+      "at": [
+        10,
+        50
+      ],
+      "person": "h5",
+      "lines": [
+        {
+          "item": "pastila",
+          "pick": 1,
+          "qty": 1,
+          "price": 165.0
+        },
+        {
+          "item": "maslo-podsolnechnoe",
+          "pick": 1,
+          "qty": 1,
+          "price": 165.0
+        },
+        {
+          "item": "pomidory-rozovye",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 165.0
+        },
+        {
+          "item": "ketchup-tomatnyj",
+          "pick": 1,
+          "qty": 1,
+          "price": 110.0
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 2,
+      "at": [
+        14,
+        0
+      ],
+      "person": "h6",
+      "lines": [
+        {
+          "item": "morozhenoe-plombir",
+          "pick": 1,
+          "qty": 1,
+          "price": 75.0
+        },
+        {
+          "item": "sprajt",
+          "pick": 1,
+          "qty": 1,
+          "price": 100.0
+        },
+        {
+          "item": "sok-multifrukt",
+          "pick": 1,
+          "qty": 3,
+          "price": 145.0
+        },
+        {
+          "item": "ris-dlinnozyornyj",
+          "pick": 1,
+          "qty": 1.5,
+          "price": 145.0
+        }
+      ],
+      "paid": "cash"
+    }
+  ]
+}

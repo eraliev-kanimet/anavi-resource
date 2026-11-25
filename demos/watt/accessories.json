@@ -1,0 +1,318 @@
+{
+  "shelves": [
+    {
+      "slug": "podklyuchenie",
+      "section": "krupnaya-tehnika",
+      "name": {
+        "ru": "Подключение и установка",
+        "en": "Connection and installation",
+        "ar": "التوصيل والتركيب"
+      }
+    },
+    {
+      "slug": "uhod-za-tehnikoy",
+      "section": "kuhnya",
+      "name": {
+        "ru": "Уход за техникой",
+        "en": "Appliance care",
+        "ar": "العناية بالأجهزة"
+      }
+    },
+    {
+      "slug": "raskhodniki",
+      "section": "uborka-i-klimat",
+      "name": {
+        "ru": "Расходные материалы",
+        "en": "Consumables",
+        "ar": "المستلزمات الاستهلاكية"
+      }
+    }
+  ],
+  "products": [
+    {
+      "shelf": "podklyuchenie",
+      "slug": "shlang-zalivnoy-3-m",
+      "sku": "AC-1001",
+      "price": 450,
+      "stock": 40,
+      "name": {
+        "ru": "Шланг заливной для стиральной машины, 3 м",
+        "en": "Inlet hose for a washing machine, 3 m",
+        "ar": "خرطوم تعبئة للغسالة، 3 م"
+      },
+      "summary": {
+        "ru": "Армированный, с прокладками, гайки 3/4 дюйма. Штатного полутораметрового хватает не всегда.",
+        "en": "Reinforced, with gaskets, 3/4 inch nuts. The stock 1.5 m hose is not always long enough.",
+        "ar": "مقوّى مع حلقات إحكام، صواميل 3/4 بوصة. الخرطوم الأصلي بطول 1.5 م لا يكفي دائماً."
+      },
+      "for": [
+        "stiralnye-mashiny",
+        "posudomoechnye-mashiny"
+      ]
+    },
+    {
+      "shelf": "podklyuchenie",
+      "slug": "shlang-slivnoy-2-m",
+      "sku": "AC-1002",
+      "price": 320,
+      "stock": 40,
+      "name": {
+        "ru": "Шланг сливной удлинительный, 2 м",
+        "en": "Drain hose extension, 2 m",
+        "ar": "وصلة خرطوم تصريف، 2 م"
+      },
+      "summary": {
+        "ru": "С соединителем и двумя хомутами. Нужен, если канализация дальше метра от машины.",
+        "en": "With a coupling and two clamps. Needed when the drain is more than a metre away.",
+        "ar": "مع وصلة ومشبكين. يلزم إذا كان المصرف أبعد من متر عن الجهاز."
+      },
+      "for": [
+        "stiralnye-mashiny",
+        "posudomoechnye-mashiny"
+      ]
+    },
+    {
+      "shelf": "podklyuchenie",
+      "slug": "antivibratsionnye-podstavki",
+      "sku": "AC-1003",
+      "price": 390,
+      "stock": 60,
+      "name": {
+        "ru": "Антивибрационные подставки, 4 шт.",
+        "en": "Anti-vibration pads, set of 4",
+        "ar": "قواعد مانعة للاهتزاز، 4 قطع"
+      },
+      "summary": {
+        "ru": "Резиновые, под ножки стиральной машины. Гасят шум на отжиме и не дают машине уходить по плитке.",
+        "en": "Rubber, under the feet of a washing machine. Quieter spin, and the machine stays put on tiles.",
+        "ar": "مطاطية توضع تحت أرجل الغسالة. تقلل الضجيج عند العصر وتمنع انزلاق الغسالة على البلاط."
+      },
+      "for": [
+        "stiralnye-mashiny"
+      ]
+    },
+    {
+      "shelf": "podklyuchenie",
+      "slug": "kabel-pvs-3x4-3-m",
+      "sku": "AC-1010",
+      "price": 780,
+      "stock": 30,
+      "name": {
+        "ru": "Кабель ПВС 3×4 для духового шкафа и плиты, 3 м",
+        "en": "Power cable 3×4 mm² for an oven or a cooker, 3 m",
+        "ar": "كابل كهرباء 3×4 مم² للفرن أو الموقد، 3 م"
+      },
+      "summary": {
+        "ru": "Встраиваемую технику продают без шнура. Сечение четыре квадрата держит до 7 кВт.",
+        "en": "Built-in appliances come without a cord. A 4 mm² core carries up to 7 kW.",
+        "ar": "الأجهزة المدمجة تباع بلا سلك. مقطع 4 مم² يتحمل حتى 7 كيلوواط."
+      },
+      "for": [
+        "duhovye-shkafy",
+        "plity"
+      ]
+    },
+    {
+      "shelf": "podklyuchenie",
+      "slug": "rozetka-silovaya-32a",
+      "sku": "AC-1011",
+      "price": 560,
+      "stock": 30,
+      "name": {
+        "ru": "Розетка силовая с вилкой, 32 А",
+        "en": "Power socket with plug, 32 A",
+        "ar": "مقبس قدرة مع قابس، 32 أمبير"
+      },
+      "summary": {
+        "ru": "Комплект для плиты и духового шкафа: розетка накладная и вилка под кабель.",
+        "en": "A set for a cooker or an oven: a surface socket and a plug for the cable.",
+        "ar": "طقم للموقد والفرن: مقبس خارجي وقابس للكابل."
+      },
+      "for": [
+        "duhovye-shkafy",
+        "plity"
+      ]
+    },
+    {
+      "shelf": "podklyuchenie",
+      "slug": "kronshteyn-dlya-mikrovolnovki",
+      "sku": "AC-1020",
+      "price": 1250,
+      "stock": 18,
+      "name": {
+        "ru": "Кронштейн настенный для микроволновой печи",
+        "en": "Wall bracket for a microwave oven",
+        "ar": "حامل جداري لفرن الميكروويف"
+      },
+      "summary": {
+        "ru": "Раздвижной, до 35 кг. Освобождает столешницу на маленькой кухне.",
+        "en": "Extendable, up to 35 kg. Frees the worktop in a small kitchen.",
+        "ar": "قابل للتمديد، حتى 35 كغ. يحرر سطح العمل في المطبخ الصغير."
+      },
+      "for": [
+        "mikrovolnovye-pechi"
+      ]
+    },
+    {
+      "shelf": "uhod-za-tehnikoy",
+      "slug": "sredstvo-ot-nakipi-250-ml",
+      "sku": "AC-2001",
+      "price": 340,
+      "stock": 80,
+      "name": {
+        "ru": "Средство от накипи для чайников и кофемашин, 250 мл",
+        "en": "Descaler for kettles and coffee machines, 250 ml",
+        "ar": "مزيل الترسبات للغلايات وآلات القهوة، 250 مل"
+      },
+      "summary": {
+        "ru": "Хватает на пять обработок. При бишкекской воде — раз в месяц.",
+        "en": "Enough for five treatments. With Bishkek water, once a month.",
+        "ar": "يكفي لخمس مرات. مع مياه بيشكيك يستخدم مرة في الشهر."
+      },
+      "for": [
+        "chayniki",
+        "kofemashiny"
+      ]
+    },
+    {
+      "shelf": "uhod-za-tehnikoy",
+      "slug": "tabletki-dlya-posudomoechnoy-60",
+      "sku": "AC-2002",
+      "price": 1180,
+      "stock": 50,
+      "name": {
+        "ru": "Таблетки для посудомоечной машины, 60 шт.",
+        "en": "Dishwasher tablets, 60 pcs",
+        "ar": "أقراص لغسالة الصحون، 60 قرصاً"
+      },
+      "summary": {
+        "ru": "Всё в одном: моющее, ополаскиватель и соль. На два месяца при одной загрузке в день.",
+        "en": "All in one: detergent, rinse aid and salt. Two months at one load a day.",
+        "ar": "الكل في واحد: منظف ومساعد شطف وملح. تكفي شهرين بمعدل دورة يومياً."
+      },
+      "for": [
+        "posudomoechnye-mashiny"
+      ]
+    },
+    {
+      "shelf": "uhod-za-tehnikoy",
+      "slug": "sol-dlya-posudomoechnoy-1-5-kg",
+      "sku": "AC-2003",
+      "price": 290,
+      "stock": 50,
+      "name": {
+        "ru": "Соль для посудомоечной машины, 1,5 кг",
+        "en": "Dishwasher salt, 1.5 kg",
+        "ar": "ملح لغسالة الصحون، 1.5 كغ"
+      },
+      "summary": {
+        "ru": "Смягчает воду и бережёт нагреватель. Засыпают до первого запуска.",
+        "en": "Softens the water and spares the heater. Filled before the first run.",
+        "ar": "يليّن الماء ويحمي السخان. يُضاف قبل التشغيل الأول."
+      },
+      "for": [
+        "posudomoechnye-mashiny"
+      ]
+    },
+    {
+      "shelf": "uhod-za-tehnikoy",
+      "slug": "ochistitel-duhovki-500-ml",
+      "sku": "AC-2004",
+      "price": 420,
+      "stock": 40,
+      "name": {
+        "ru": "Очиститель для духовых шкафов, 500 мл",
+        "en": "Oven cleaner, 500 ml",
+        "ar": "منظف للأفران، 500 مل"
+      },
+      "summary": {
+        "ru": "Гель для пригоревшего жира. Для шкафов без пиролиза.",
+        "en": "A gel for burnt-on grease. For ovens without pyrolysis.",
+        "ar": "جل للدهون المحترقة. للأفران بدون تنظيف حراري."
+      },
+      "for": [
+        "duhovye-shkafy"
+      ]
+    },
+    {
+      "shelf": "uhod-za-tehnikoy",
+      "slug": "pitcher-dlya-moloka-350-ml",
+      "sku": "AC-2005",
+      "price": 890,
+      "stock": 25,
+      "name": {
+        "ru": "Питчер для молока, 350 мл",
+        "en": "Milk pitcher, 350 ml",
+        "ar": "إبريق حليب، 350 مل"
+      },
+      "summary": {
+        "ru": "Нержавеющая сталь, носик под латте-арт. Без него капучинатор взбивает в чашку.",
+        "en": "Stainless steel, a spout for latte art. Without one the steam wand froths into a cup.",
+        "ar": "فولاذ مقاوم للصدأ بفوهة لفن اللاتيه."
+      },
+      "for": [
+        "kofemashiny"
+      ]
+    },
+    {
+      "shelf": "raskhodniki",
+      "slug": "meshki-dlya-pylesosa-5-sht",
+      "sku": "AC-3001",
+      "price": 520,
+      "stock": 70,
+      "name": {
+        "ru": "Мешки для пылесоса универсальные, 5 шт.",
+        "en": "Universal vacuum cleaner bags, 5 pcs",
+        "ar": "أكياس مكنسة كهربائية عامة، 5 قطع"
+      },
+      "summary": {
+        "ru": "Синтетические, с переходником под большинство моделей.",
+        "en": "Synthetic, with an adapter for most models.",
+        "ar": "صناعية مع محوّل يناسب معظم الموديلات."
+      },
+      "for": [
+        "pylesosy"
+      ]
+    },
+    {
+      "shelf": "raskhodniki",
+      "slug": "hepa-filtr-universalnyy",
+      "sku": "AC-3002",
+      "price": 760,
+      "stock": 35,
+      "name": {
+        "ru": "HEPA-фильтр для пылесоса, универсальный",
+        "en": "HEPA filter for a vacuum cleaner, universal",
+        "ar": "فلتر HEPA للمكنسة الكهربائية، عام"
+      },
+      "summary": {
+        "ru": "Меняют раз в полгода; с забитым фильтром падает тяга.",
+        "en": "Replaced every six months; a clogged filter costs suction.",
+        "ar": "يُستبدل كل ستة أشهر؛ الفلتر المسدود يضعف الشفط."
+      },
+      "for": [
+        "pylesosy"
+      ]
+    },
+    {
+      "shelf": "raskhodniki",
+      "slug": "ochistitel-konditsionera-500-ml",
+      "sku": "AC-3003",
+      "price": 480,
+      "stock": 30,
+      "name": {
+        "ru": "Очиститель кондиционера пенный, 500 мл",
+        "en": "Foam cleaner for an air conditioner, 500 ml",
+        "ar": "منظف رغوي لمكيف الهواء، 500 مل"
+      },
+      "summary": {
+        "ru": "Для внутреннего блока: убирает запах перед сезоном.",
+        "en": "For the indoor unit: takes the smell away before the season.",
+        "ar": "للوحدة الداخلية: يزيل الرائحة قبل الموسم."
+      },
+      "for": [
+        "konditsionery"
+      ]
+    }
+  ]
+}

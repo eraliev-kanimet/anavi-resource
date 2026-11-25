@@ -1,0 +1,1852 @@
+{
+  "shelf": "kofemashiny",
+  "slug": "kofevarka-korting-kcm-1001-ex-783792",
+  "product": {
+    "id": "783792",
+    "article": "180611",
+    "slug": "kofevarka-korting-kcm-1001-ex-783792",
+    "hasSmartInstallments": false,
+    "isActive": true,
+    "name": {
+      "default": "Korting KCM 1001 EX",
+      "full": "Кофеварка Korting KCM 1001 EX",
+      "pseudo": null,
+      "spare": null,
+      "fullWithoutSection": "Korting KCM 1001 EX",
+      "section": "Кофеварка",
+      "__typename": "ProductName"
+    },
+    "price": {
+      "default": 12990,
+      "marketing": null,
+      "old": null,
+      "__typename": "ProductPrice"
+    },
+    "benefit": null,
+    "specifications": {
+      "short": [
+        {
+          "name": "Тип",
+          "value": "рожковая",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Используемый кофе",
+          "value": "молотый",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Потребляемая мощность",
+          "value": "1350 Вт",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Максимальное давление",
+          "value": "20 бар",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Объем резервуара для воды",
+          "value": "1.2 л",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "__typename": "ProductV2Specifications"
+    },
+    "labels": [
+      {
+        "name": "Бонусы Спасибо",
+        "type": "sberspasibo",
+        "items": [
+          {
+            "description": "",
+            "name": "Этот товар можно оплатить бонусами Спасибо от СберБанка",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Рассрочка",
+        "type": "deferred_payment",
+        "items": [
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-6",
+            "url": "/kofevarka-korting-kcm-1001-ex-783792/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-12",
+            "url": "/kofevarka-korting-kcm-1001-ex-783792/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-18",
+            "url": "/kofevarka-korting-kcm-1001-ex-783792/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-24",
+            "url": "/kofevarka-korting-kcm-1001-ex-783792/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      }
+    ],
+    "labelsV2": [
+      {
+        "id": "8",
+        "name": "Бонусы Спасибо",
+        "code": "sberspasibo",
+        "mainColor": "#0C9C0C",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#0C9C0C",
+        "altTextColor": "#FFFFFF",
+        "borderAndTextColor": "#0C9C0C",
+        "items": [
+          {
+            "id": "20061",
+            "text": "Этот товар можно оплатить бонусами Спасибо от СберБанка ",
+            "buttonText": "Подробнее",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      }
+    ],
+    "status": {
+      "id": "IN_STOCK",
+      "name": "В наличии",
+      "type": "POSITIVE",
+      "__typename": "ProductStatus"
+    },
+    "brand": {
+      "code": "korting",
+      "id": "47549",
+      "name": "Korting",
+      "src": "https://cdn1.technopark.ru/technopark/photos_resized/section_brand_300_100/300_100/47549/1_47549.png",
+      "slug": "korting",
+      "sections": [
+        {
+          "name": "Мясорубки Korting",
+          "url": "/myasorubki/korting/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3116987752/technopark/photos_resized/product/120_120/771250/1_771250.jpg?timestamp=2024-12-12_12-21-17",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Чайники электрические Korting",
+          "url": "/chayniki/korting/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/4143473430/technopark/photos_resized/product/120_120/766258/1_766258.jpg?timestamp=2024-11-06_09-21-54",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3301835156/technopark/photos_resized/product/120_120/766258/2_766258.jpg?timestamp=2024-11-06_09-21-41",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1521128503/technopark/photos_resized/product/120_120/766258/3_766258.jpg?timestamp=2024-11-06_09-21-40",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3030709531/technopark/photos_resized/product/120_120/766258/4_766258.jpg?timestamp=2024-11-06_09-21-40",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3282290061/technopark/photos_resized/product/120_120/766258/5_766258.jpg?timestamp=2024-11-06_09-21-40",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/853474214/technopark/photos_resized/product/120_120/766258/6_766258.jpg?timestamp=2024-11-06_09-21-40",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Вытяжки Korting",
+          "url": "/vytyazhki/korting/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2628935577/technopark/photos_resized/product/120_120/230841/1_230841.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1976695468/technopark/photos_resized/product/120_120/230841/2_230841.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Кухонные комбайны Korting",
+          "url": "/kuhonnye-kombayny/korting/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1738089723/technopark/photos_resized/product/120_120/766167/1_766167.jpg?timestamp=2024-11-05_11-13-03",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1437550201/technopark/photos_resized/product/120_120/766167/2_766167.jpg?timestamp=2024-11-05_11-12-56",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/513942642/technopark/photos_resized/product/120_120/766167/3_766167.jpg?timestamp=2024-11-05_11-13-07",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2369521974/technopark/photos_resized/product/120_120/766167/4_766167.jpg?timestamp=2024-11-05_11-12-52",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/324574357/technopark/photos_resized/product/120_120/766167/5_766167.jpg?timestamp=2024-11-05_11-12-52",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1664247834/technopark/photos_resized/product/120_120/766167/6_766167.jpg?timestamp=2024-11-05_11-12-51",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1891509669/technopark/photos_resized/product/120_120/766167/7_766167.jpg?timestamp=2024-11-05_11-13-10",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4156653895/technopark/photos_resized/product/120_120/766167/8_766167.jpg?timestamp=2024-11-05_11-13-05",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1858654461/technopark/photos_resized/product/120_120/766167/9_766167.jpg?timestamp=2024-11-05_11-13-06",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Вытяжки встраиваемые Korting",
+          "url": "/vstraivaemye-vytyazhki/korting/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/472104590/technopark/photos_resized/product/120_120/831800/1_831800.jpg?timestamp=2026-05-22_12-17-21",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1797557784/technopark/photos_resized/product/120_120/831800/2_831800.jpg?timestamp=2026-05-22_12-17-21",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Грили Korting",
+          "url": "/grili/korting/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/227982387/technopark/photos_resized/product/120_120/771090/1_771090.jpg?timestamp=2024-12-11_10-36-00",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/441845056/technopark/photos_resized/product/120_120/771090/2_771090.jpg?timestamp=2024-12-11_10-36-00",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/132544736/technopark/photos_resized/product/120_120/771090/3_771090.jpg?timestamp=2024-12-11_10-36-18",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/751512355/technopark/photos_resized/product/120_120/771090/4_771090.jpg?timestamp=2024-12-11_10-36-05",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2056359077/technopark/photos_resized/product/120_120/771090/5_771090.jpg?timestamp=2024-12-11_10-36-00",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1951007895/technopark/photos_resized/product/120_120/771090/6_771090.jpg?timestamp=2024-12-11_10-36-01",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Мультипекари Korting",
+          "url": "/sendvichnitsi/korting/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3921891571/technopark/photos_resized/product/120_120/770949/1_770949.jpg?timestamp=2024-12-10_09-50-47",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2327990766/technopark/photos_resized/product/120_120/770949/2_770949.jpg?timestamp=2024-12-10_09-51-05",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1892286793/technopark/photos_resized/product/120_120/770949/3_770949.jpg?timestamp=2024-12-10_09-50-49",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4199488844/technopark/photos_resized/product/120_120/770949/4_770949.jpg?timestamp=2024-12-10_09-51-19",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2159187261/technopark/photos_resized/product/120_120/770949/5_770949.jpg?timestamp=2024-12-10_09-50-51",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4040712626/technopark/photos_resized/product/120_120/770949/6_770949.jpg?timestamp=2024-12-10_09-50-51",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2540842062/technopark/photos_resized/product/120_120/770949/7_770949.jpg?timestamp=2024-12-10_09-50-49",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Кофемашины Korting",
+          "url": "/kofemashiny/korting/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1869054709/technopark/photos_resized/product/120_120/783907/1_783907.jpg?timestamp=2025-03-17_10-41-57",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2759360517/technopark/photos_resized/product/120_120/783907/2_783907.jpg?timestamp=2025-03-17_10-42-11",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2024225670/technopark/photos_resized/product/120_120/783907/3_783907.jpg?timestamp=2025-03-17_10-41-57",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2410834923/technopark/photos_resized/product/120_120/783907/4_783907.jpg?timestamp=2025-03-17_10-41-56",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2916011054/technopark/photos_resized/product/120_120/783907/5_783907.jpg?timestamp=2025-03-17_10-42-12",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/408990307/technopark/photos_resized/product/120_120/783907/6_783907.jpg?timestamp=2025-03-17_10-41-57",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2296360946/technopark/photos_resized/product/120_120/783907/7_783907.jpg?timestamp=2025-03-17_10-41-56",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3033922927/technopark/photos_resized/product/120_120/783907/8_783907.jpg?timestamp=2025-03-17_10-42-10",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3548360851/technopark/photos_resized/product/120_120/783907/9_783907.jpg?timestamp=2025-03-17_10-42-11",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2114491816/technopark/photos_resized/product/120_120/783907/10_783907.jpg?timestamp=2025-03-17_10-42-26",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4077385113/technopark/photos_resized/product/120_120/783907/11_783907.jpg?timestamp=2025-03-17_10-42-15",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/393826406/technopark/photos_resized/product/120_120/783907/12_783907.jpg?timestamp=2025-03-17_10-42-23",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1618895088/technopark/photos_resized/product/120_120/783907/13_783907.jpg?timestamp=2025-03-17_10-42-22",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4185338186/technopark/photos_resized/product/120_120/783907/14_783907.jpg?timestamp=2025-03-17_10-42-23",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Стиральные машины с сушкой Korting",
+          "url": "/stiralno-sushilnye-mashiny/korting/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3623515327/technopark/photos_resized/product/120_120/822890/0_822890.jpg?timestamp=2026-03-02_21-12-31",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1195731246/technopark/photos_resized/product/120_120/822890/1_822890.jpg?timestamp=2026-03-02_21-12-32",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2681611873/technopark/photos_resized/product/120_120/822890/2_822890.jpg?timestamp=2026-03-02_21-12-32",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        }
+      ],
+      "__typename": "Brand"
+    },
+    "section": {
+      "slug": "kofevarki-i-kofemashiny",
+      "id": "904",
+      "name": "Кофеварки",
+      "parents": [
+        {
+          "id": "900",
+          "name": "Для кухни",
+          "depth": 1,
+          "__typename": "SectionTreeItem"
+        },
+        {
+          "id": "904",
+          "name": "Кофеварки",
+          "depth": 2,
+          "__typename": "SectionTreeItem"
+        }
+      ],
+      "__typename": "Section"
+    },
+    "media": {
+      "gallery": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/783792/1_783792.jpg?timestamp=2025-03-14_16-45-50",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/783792/1_783792.jpg?timestamp=2025-03-14_16-46-10",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/783792/2_783792.jpg?timestamp=2025-03-14_16-45-50",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/783792/2_783792.jpg?timestamp=2025-03-14_16-46-08",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/783792/3_783792.jpg?timestamp=2025-03-14_16-45-51",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/783792/3_783792.jpg?timestamp=2025-03-14_16-46-11",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/783792/4_783792.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/783792/4_783792.jpg?timestamp=2025-03-14_16-46-06",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/783792/5_783792.jpg?timestamp=2025-03-14_16-45-50",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/783792/5_783792.jpg",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "interior": [],
+      "video": [],
+      "vkVideo": {
+        "path": "https://vkvideo.ru/video_ext.php?oid=-72424652&id=456240196&hd=4&hash=74a9460f301a626a",
+        "height": 900,
+        "width": 1600,
+        "__typename": "Video"
+      },
+      "view3d": [],
+      "listing": {
+        "default": [
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/783792/1_783792.jpg?timestamp=2025-03-14_16-45-55",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/783792/2_783792.jpg?timestamp=2025-03-14_16-45-55",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/783792/3_783792.jpg?timestamp=2025-03-14_16-45-56",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/783792/4_783792.jpg?timestamp=2025-03-14_16-45-54",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/783792/5_783792.jpg?timestamp=2025-03-14_16-45-54",
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "ProductListing"
+      },
+      "__typename": "ProductV2Media"
+    },
+    "modifications": {
+      "bigBrother": null,
+      "groups": [
+        {
+          "name": "Цвет",
+          "items": [
+            {
+              "value": "белый",
+              "product": {
+                "slug": "kofevarka-korting-kcm-1003-ew-783890",
+                "article": "180616",
+                "name": {
+                  "default": "Korting KCM 1003 EW",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "IN_STOCK",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/783890/1_783890.jpg?timestamp=2025-03-17_08-22-35",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/783890/2_783890.jpg?timestamp=2025-03-17_08-22-38",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/783890/3_783890.jpg?timestamp=2025-03-17_08-22-36",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            },
+            {
+              "value": "красный",
+              "product": {
+                "slug": "kofevarka-korting-kcm-1004-er-766220",
+                "article": "175637",
+                "name": {
+                  "default": "Korting KCM 1004 ER",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "NOT_AVAILABLE",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/766220/1_766220.jpg?timestamp=2024-11-05_16-38-37",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/766220/2_766220.jpg?timestamp=2024-11-05_16-38-35",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/766220/3_766220.jpg?timestamp=2024-11-05_16-38-35",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            },
+            {
+              "value": "серебристый",
+              "product": {
+                "slug": "kofevarka-korting-kcm-1001-ex-783792",
+                "article": "180611",
+                "name": {
+                  "default": "Korting KCM 1001 EX",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "IN_STOCK",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/783792/1_783792.jpg?timestamp=2025-03-14_16-45-55",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/783792/2_783792.jpg?timestamp=2025-03-14_16-45-55",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/783792/3_783792.jpg?timestamp=2025-03-14_16-45-56",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/783792/4_783792.jpg?timestamp=2025-03-14_16-45-54",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/783792/5_783792.jpg?timestamp=2025-03-14_16-45-54",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            },
+            {
+              "value": "чёрный",
+              "product": {
+                "slug": "kofevarka-korting-kcm-1002-en-811784",
+                "article": "180613",
+                "name": {
+                  "default": "Korting KCM 1002 EN",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "IN_STOCK",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/811784/1_811784.jpg?timestamp=2025-12-02_19-09-46",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/811784/2_811784.jpg?timestamp=2025-12-02_19-09-46",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/811784/3_811784.jpg?timestamp=2025-12-02_19-09-57",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/811784/4_811784.jpg?timestamp=2025-12-02_19-09-44",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/811784/5_811784.jpg?timestamp=2025-12-02_19-09-45",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/811784/6_811784.jpg?timestamp=2025-12-02_19-09-59",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/811784/7_811784.jpg?timestamp=2025-12-02_19-09-57",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/811784/8_811784.jpg?timestamp=2025-12-02_19-09-45",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/811784/9_811784.jpg?timestamp=2025-12-02_19-10-08",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/811784/10_811784.jpg?timestamp=2025-12-02_19-10-09",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/811784/11_811784.jpg?timestamp=2025-12-02_19-09-57",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/811784/12_811784.jpg?timestamp=2025-12-02_19-10-09",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/811784/13_811784.jpg?timestamp=2025-12-02_19-09-58",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            }
+          ],
+          "__typename": "ProductV2ModificationGroup"
+        }
+      ],
+      "__typename": "ProductModifications"
+    },
+    "description": {
+      "hasDescription": true,
+      "type": "DEFAULT",
+      "__typename": "ProductDescription"
+    },
+    "collection": {
+      "id": "783792",
+      "products": {
+        "pagination": {
+          "total": 0,
+          "__typename": "Pagination"
+        },
+        "__typename": "ProductV2Pagination"
+      },
+      "__typename": "ProductCollection"
+    },
+    "similar": {
+      "pagination": {
+        "total": 31,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "related": {
+      "pagination": {
+        "total": 20,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "accessories": [
+      {
+        "products": {
+          "pagination": {
+            "total": 1,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 17,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 16,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 11,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 1,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 2,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 10,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 2,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 5,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 14,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      }
+    ],
+    "rating": {
+      "average": 0,
+      "canRate": false,
+      "total": {
+        "all": 0,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 0,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "reviews": {
+      "total": 0,
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "bestCredit": {
+      "monthPayment": 542,
+      "type": "DEFERRED_PAYMENT",
+      "__typename": "ProductBestCredit"
+    },
+    "isSpare": false,
+    "isService": false,
+    "isVipService": false,
+    "isGiftBonusCard": false,
+    "canBuy": true,
+    "canPayOnline": true,
+    "canRequestPrice": false,
+    "canShowPrice": true,
+    "canSubscribe": false,
+    "needPrepaymentForDelivery": false,
+    "needPrepaymentForPreorder": false,
+    "isSberSpasiboPayAvailable": true,
+    "isYandexPayAllowed": false,
+    "yandexSplit": {
+      "payments": [
+        {
+          "amount": 0,
+          "date": "2026-08-17T09:03:42+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1088,
+          "date": "2026-08-31T09:03:42+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1082,
+          "date": "2026-09-14T09:03:42+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1082,
+          "date": "2026-09-28T09:03:42+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1082,
+          "date": "2026-10-12T09:03:42+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1082,
+          "date": "2026-10-26T09:03:42+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1082,
+          "date": "2026-11-09T09:03:42+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1082,
+          "date": "2026-11-23T09:03:42+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1082,
+          "date": "2026-12-07T09:03:42+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1082,
+          "date": "2026-12-21T09:03:42+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1082,
+          "date": "2027-01-04T09:03:42+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1082,
+          "date": "2027-01-18T09:03:42+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 1082,
+          "date": "2027-02-01T09:03:42+0300",
+          "__typename": "YandexSplitPayment"
+        }
+      ],
+      "firstPayment": 0,
+      "restPayment": 12990,
+      "description": "https://yandex.ru/support/split/",
+      "maxAmount": 295000,
+      "__typename": "YandexSplit"
+    },
+    "seo": {
+      "description": "Кофеварка Korting KCM 1001 EX: купить в интернет-магазине Технопарк с расширенной гарантией и бесплатной доставкой по РФ. Подробные характеристики товара с отзывами реальных покупателей.",
+      "text": "Вы можете купить кофеварку Korting KCM 1001 EX с доставкой по Москве по низкой цене. В интернет-магазине Technopark.ru осуществляется продажа кофеварки Korting KCM 1001 EX на выгодных условиях.",
+      "textHidden": "",
+      "title": "Кофеварка Korting KCM 1001 EX - купить в Москве в интернет-магазине Технопарк",
+      "__typename": "SeoData"
+    },
+    "breadcrumbs": [
+      {
+        "name": "Главная",
+        "url": "/",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Техника для кухни",
+        "url": "/dlya-kuhni/",
+        "options": [
+          {
+            "name": "Центр инноваций",
+            "url": "/tovary-iz-budushchego/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Смартфоны и гаджеты",
+            "url": "/smartfony-i-gadzhety/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Компьютеры и ноутбуки",
+            "url": "/kompyutery-i-noutbuki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Климатическая техника",
+            "url": "/klimaticheskaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Крупная бытовая техника",
+            "url": "/krupnaya-bytovaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Бытовая техника для дома",
+            "url": "/dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для красоты и здоровья",
+            "url": "/krasota-i-zdorovye/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Спортивные товары",
+            "url": "/trenazhery-dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Телевизоры Аудио Hi-Fi",
+            "url": "/audio-video-foto/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для сада, дома и ремонта",
+            "url": "/dlya-sada-doma-i-remonta/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посуда",
+            "url": "/posuda/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Детские товары",
+            "url": "/detskie-tovary/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для гейминга",
+            "url": "/gaming/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Плоттеры и услуги розницы",
+            "url": "//",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Запасные части",
+            "url": "/zapasnie-chasti/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Кофеварки",
+        "url": "/kofevarki-i-kofemashiny/",
+        "options": [
+          {
+            "name": "Аэрогрили",
+            "url": "/aerogrili/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Микроволновые печи",
+            "url": "/mikrovolnovye-pechi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мультиварки",
+            "url": "/multivarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мини-печи",
+            "url": "/mini-pechi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мультишефы BORK",
+            "url": "/multishefy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Миксеры и кухонные машины",
+            "url": "/miksery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрогрили",
+            "url": "/grili/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Уличные грили барбекю",
+            "url": "/ulichnye-grili-barbeku/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Фритюрницы",
+            "url": "/frityurnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Хлебопечки",
+            "url": "/hlebopechki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Пароварки",
+            "url": "/parovarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Настольные плиты",
+            "url": "/induktsionnye-paneli/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мороженицы",
+            "url": "/morozhenitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вакуумные упаковщики (вакууматоры)",
+            "url": "/vakuumnaya-upakovka/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Су виды",
+            "url": "/su-vidy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрические сковороды и воки",
+            "url": "/elektricheskie-skovorody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Автоматические кофемашины",
+            "url": "/kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кофейные станции",
+            "url": "/kofeynye-stantsii/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Капсульные кофемашины",
+            "url": "/kapsulnye-kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Гейзерные кофеварки для дома",
+            "url": "/gejzernye-kofevarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кофемолки",
+            "url": "/kofemolki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вспениватели молока",
+            "url": "/vspenivateli-moloka/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для приготовления кофе",
+            "url": "/prigotovlenie-kofe/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрические чайники",
+            "url": "/chayniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Соковыжималки",
+            "url": "/sokovyzhimalki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Термопоты",
+            "url": "/termopoty/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Декантеры",
+            "url": "/dekantery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кулеры для воды",
+            "url": "/kulery-dlya-vody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Льдогенераторы",
+            "url": "/ledogeneratory/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Системы газации напитков",
+            "url": "/sistema-gazatsii-napitkov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мясорубки",
+            "url": "/myasorubki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Блендеры",
+            "url": "/blendery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные комбайны",
+            "url": "/kuhonnye-kombayny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные измельчители (чопперы)",
+            "url": "/kukhonnye-izmelchiteli/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Ломтерезки",
+            "url": "/lomterezki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Овощерезки",
+            "url": "/elektroterka/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Тостеры",
+            "url": "/tostery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вафельницы",
+            "url": "/vafelnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мультипекари",
+            "url": "/sendvichnitsi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Яйцеварки",
+            "url": "/yaycevarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Блинницы",
+            "url": "/blinnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Йогуртницы",
+            "url": "/yogurtnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Фильтры для воды под мойку",
+            "url": "/filtry-kuvshiny-dlya-ochistki-vody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Фильтры-кувшины для воды",
+            "url": "/filtry-kuvshiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для очистки воды",
+            "url": "/dlya-ochistki-vody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные весы",
+            "url": "/kuhonnye-vesy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Дегидраторы",
+            "url": "/sushki-dlya-ovoschey/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для кухни",
+            "url": "/aksessuary-dlya-kuhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мойки для кухни",
+            "url": "/moyki-dlya-kukhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрошашлычницы",
+            "url": "/shashlychnitsa/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Кофеварки Korting",
+        "url": "/kofevarki-i-kofemashiny/korting/",
+        "options": [
+          {
+            "name": "BORK",
+            "url": "/kofevarki-i-kofemashiny/bork/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Smeg",
+            "url": "/kofevarki-i-kofemashiny/smeg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Endever",
+            "url": "/kofevarki-i-kofemashiny/endever/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Wacaco",
+            "url": "/kofevarki-i-kofemashiny/wacaco/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Delonghi",
+            "url": "/kofevarki-i-kofemashiny/delonghi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Brayer",
+            "url": "/kofevarki-i-kofemashiny/brayer/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "La Pavoni",
+            "url": "/kofevarki-i-kofemashiny/la_pavoni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Maunfeld",
+            "url": "/kofevarki-i-kofemashiny/maunfeld/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "KitchenAid",
+            "url": "/kofevarki-i-kofemashiny/kitchenaid/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Zigmund Shtain",
+            "url": "/kofevarki-i-kofemashiny/zigmund_shtain/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Polaris",
+            "url": "/kofevarki-i-kofemashiny/polaris/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Beko",
+            "url": "/kofevarki-i-kofemashiny/beko/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Buydeem",
+            "url": "/kofevarki-i-kofemashiny/buydeem/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "REDMOND",
+            "url": "/kofevarki-i-kofemashiny/redmond/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Krups",
+            "url": "/kofevarki-i-kofemashiny/krups/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "VES",
+            "url": "/kofevarki-i-kofemashiny/ves/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Libhof",
+            "url": "/kofevarki-i-kofemashiny/libhof/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "WMF",
+            "url": "/kofevarki-i-kofemashiny/wmf/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Korting KCM 1001 EX",
+        "url": "kofevarka-korting-kcm-1001-ex-783792",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      }
+    ],
+    "isArchive": false,
+    "__typename": "ProductV2",
+    "isSberPayOneClickAllowed": false,
+    "isTinkoffPayOneClickAllowed": false,
+    "bonus": null
+  },
+  "details": {
+    "description": "<style> *{box-sizing:border-box;outline:0}body{font-family:'DINPro Technopark',Arial;font-size:14px;font-weight:400;font-display:swap;margin:0;overflow-x:hidden;position:relative;min-height:95vh;-webkit-tap-highlight-color:transparent}body.lock-scroll{overflow:hidden;position:fixed;right:0;left:0;bottom:0}@media (min-width:1192px){body.lock-scroll{position:relative}}@media screen and (max-device-width:480px){body{-webkit-text-size-adjust:none}}.label-for-seo{width:100%}.label-for-seo__span{display:none}a{color:#0093c4;text-decoration:none}.is-visible{display:block!important}.is-hidden{display:none!important}.is-visually-hidden{opacity:0!important;visibility:hidden!important;pointer-events:none!important}.is-link{color:#0093c4}.no-wrap{white-space:nowrap}.container{margin:auto;width:100%}@media (min-width:960px){.container{width:calc(100% - 48px)}}@media (min-width:1482px){.container{max-width:1397px}}.is-overflow-hidden{overflow:hidden}.is-mobile-not{display:none!important}@media (min-width:960px){.is-mobile-not{display:block!important}}@media (min-width:960px){.is-mobile-only{display:none!important}}@media (max-width:959px){.hide-phone{display:none}}@media (min-width:960px) and (max-width:1481px){.hide-tablet{display:none}}.is-hidden{display:none!important}.nowrap-text{white-space:nowrap}.textcenter{text-align:center}ul.list{margin:0;padding:6px 0 18px}@media (min-width:960px){ul.list{padding:6px 0 24px}}ul.list li{font-family:'DINPro Technopark',Arial;font-size:15px;font-weight:400;font-display:swap;color:#fff;line-height:20px;list-style:none;margin:0;padding-left:9px;position:relative}@media (min-width:960px){ul.list li{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:400;font-display:swap;line-height:21px;padding-left:26px}}ul.list>li:before{background-color:#fff;border-radius:50%;content:\"\";display:block;height:3px;left:0;position:absolute;top:10px;width:3px}@media (min-width:960px){ul.list>li:before{border-radius:0;height:1px;width:13px}}ul.list>li>ul{padding:6px 0 6px 15px}@media (min-width:960px){ul.list>li>ul{padding:3px 0 3px 4px}}ul.list>li>ul>li:before{background-color:rgba(255,255,255,.5)}ul.list>li>ul>li>ul{padding:6px 0 0 15px}@media (min-width:960px){ul.list>li>ul>li>ul{padding:3px 0 0 4px}}ul.list>li>ul>li>ul>li:before{background-color:rgba(255,255,255,.2)}ol.list{margin:0;padding:6px 0 18px;counter-reset:list1}@media (min-width:960px){ol.list{padding:6px 0 24px}}ol.list li{font-family:'DINPro Technopark',Arial;font-size:15px;font-weight:400;font-display:swap;color:#fff;line-height:20px;list-style:none;margin:0;padding-left:9px;position:relative}@media (min-width:960px){ol.list li{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:400;font-display:swap;line-height:21px;padding-left:26px}}ol.list>li{padding-left:24px}ol.list>li:before{counter-increment:list1;content:counter(list1) \". \";left:0;position:absolute}ol.list>li>ol{counter-reset:list2;padding:6px 0}@media (min-width:960px){ol.list>li>ol{padding:3px 0}}ol.list>li>ol>li{padding-left:42px}ol.list>li>ol>li:before{counter-increment:list2;content:counter(list1) \".\" counter(list2) \". \"}ol.list>li>ol>li>ol{counter-reset:list3}ol.list>li>ol>li>ol>li:before{counter-increment:list3;content:counter(list1) \".\" counter(list2) \".\" counter(list3) \". \"}ol.list--compact{padding:0}.list--line-interval li:not(:last-child){margin-bottom:1em}input::-ms-clear{display:none}input::-webkit-clear-button{display:none}@media (max-width:767px){.footer{padding-bottom:66px}}.page-container{margin:auto;padding:0 18px;width:100%}@media (min-width:960px){.page-container{padding:0 24px;width:100%}}@media (min-width:1482px){.page-container{width:1481px}}@media (min-width:960px){.page-container--extra-padding{padding:0 42px}}.default-container{width:100%;max-width:1481px;margin:auto;padding:0 12px}@media (min-width:960px){.default-container{padding:0 24px}}button,input,select,textarea{font-family:inherit;font-size:100%;margin:0}textarea{resize:none;overflow:auto}form{margin:0}button{color:inherit}dd,dl,dt{margin:0;padding:0}input[type=search]{-webkit-appearance:none}input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration,input[type=search]::-webkit-search-results-button,input[type=search]::-webkit-search-results-decoration{display:none}input:invalid{box-shadow:none}textarea:invalid{box-shadow:none}svg *{pointer-events:none}.product__desc{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:300;font-display:swap;color:#878787;display:none}.product__desc b{font-family:'DINPro Technopark',Arial;font-size:20px;font-weight:400;font-display:swap;color:#fff}.dyson-v10-picking,.dyson-v10-properties,.dyson-v10-wrapper,.dyson-v10-wrapper .dyson-v10__list span{color:#fff;padding:0 12px}@media (max-width:1154px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:170px}}@media (max-width:1100px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:270px}}@media (max-width:960px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:27px}}.dyson-v10-first-row li.dyson-v10-item{max-width:calc(100% / 3 - 10);padding-right:5px}@media (max-width:959px){.dyson-v10-first-row{flex-direction:column;align-items:flex-start}.dyson-v10-first-row li.dyson-v10-item{max-width:none}}@media (min-width:960px) and (max-width:1303px){.dyson-v10-first-row{flex-direction:column;align-items:flex-start}.dyson-v10-first-row li.dyson-v10-item{max-width:none}}.dyson-v10-chapter{text-align:center!important}.dyson-v10__list li.dyson-v10__list-item{background-size:contain;background-position:left} </style> <p>Кофеварка Korting KCM 1001 EX отличается компактными размерами. При ширине всего 15 см она скрывает мощную помпу с давлением 20 бар. Это устройство предназначено для приготовления традиционных кофейных напитков, таких как латте, капучино и эспрессо. </p>    <h2>Особенности</h2>  <ul class=\"list\">  <li><b>Управление</b><br/>  Интуитивно понятный цветной сенсорный экран позволяет легко выбирать напитки и настраивать размеры порций одним касанием</li>    <li><b>Подогрев чашек</b><br/>  Встроенная платформа для подогрева чашек способствует лучшему раскрытию вкуса и аромата кофе за счёт поддержания оптимальной температуры напитка</li>    <li><b>Удобная конструкция</b><br/>  Стабильное положение на поверхности обеспечивают противоскользящие ножки, а съёмный поддон позволяет, при необходимости, использовать более крупные чашки</li>    <li><b>Комплектация</b><br/>  Кофеварка укомплектована металлическим рожком с двумя фильтрами для приготовления одной или двух чашек и насадкой-капучинатором для создания густой и стойкой молочной пены. В комплект также входят мерная ложка и уплотнитель для кофе</li>    </ul>  ",
+    "descriptionType": "DEFAULT",
+    "descriptionBarcode": "4607934312351",
+    "descriptionBrand": "Korting",
+    "specifications": {
+      "short": [
+        {
+          "name": "Тип",
+          "value": "рожковая",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Используемый кофе",
+          "value": "молотый",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Потребляемая мощность",
+          "value": "1350 Вт",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Максимальное давление",
+          "value": "20 бар",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Объем резервуара для воды",
+          "value": "1.2 л",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "barcode": "4607934312351",
+      "country": "Китай",
+      "full": [
+        {
+          "name": "Основные характеристики",
+          "list": [
+            {
+              "name": "Тип",
+              "value": "рожковая",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Установка",
+              "value": "отдельностоящая",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Используемый кофе",
+              "value": "молотый",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Потребляемая мощность",
+              "value": "1350 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальное давление",
+              "value": "20 бар",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Съемный контейнер для воды",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Объем резервуара для воды",
+              "value": "1.2 л",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип нагревателя",
+              "value": "термоблок",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Капучинатор",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Управление",
+          "list": [
+            {
+              "name": "Управление",
+              "value": "электронное, сенсорное, поворотное",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дисплей",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип дисплея",
+              "value": "LCD",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Регулировка температуры кофе",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество температурных режимов",
+              "value": "3",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Приготовление напитка",
+          "list": [
+            {
+              "name": "Приготовление эспрессо",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Режим приготовления эспрессо",
+              "value": "полуавтоматический",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Возможность приготовления капучино",
+              "value": "есть",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Режим приготовления капучино",
+              "value": "ручной",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Молочная пена",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Одновременное приготовление двух чашек",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество индивидуальных программ",
+              "value": "1",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Функции и режимы",
+          "list": [
+            {
+              "name": "Подогрев чашек",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Горячая вода",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автоматическая декальцинация",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автоматическое отключение",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Особенности",
+          "list": [
+            {
+              "name": "Регулировка положения трубки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Трубка подачи пара",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Съемный лоток для сбора капель",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Противокапельная система",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дополнительная информация",
+              "value": "защита от перегрева",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Индикация",
+          "list": [
+            {
+              "name": "Индикация включения",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикатор необходимости очистки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Корпус",
+          "list": [
+            {
+              "name": "Материал корпуса",
+              "value": "нержавеющая сталь",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет",
+              "value": "серебристый",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал рожка",
+              "value": "металл",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал ручки",
+              "value": "пластик",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Подставка для хранения чашек",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Прорезиненные ножки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Комплектация",
+          "list": [
+            {
+              "name": "Фильтр для холдера",
+              "value": "в комплекте",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество фильтров для холдера",
+              "value": "2",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Мерная ложечка",
+              "value": "в комплекте",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Темпер для кофе",
+              "value": "в комплекте",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Инструкция",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Питание",
+          "list": [
+            {
+              "name": "Длина сетевого шнура",
+              "value": "0.95 м",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Напряжение",
+              "value": "220-240 В",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автоматическое переключение напряжения",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Размеры и вес",
+          "list": [
+            {
+              "name": "Высота",
+              "value": "31 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ширина",
+              "value": "14 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Глубина",
+              "value": "30.5 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вес",
+              "value": "3.15 кг",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        }
+      ],
+      "grossWeight": "2",
+      "netWeight": "2",
+      "height": "0.36",
+      "instructionUrl": "https://storage.yandexcloud.net/technopark.instructions/783792/instruction/instrukciya-kofevarka-korting-kcm-1001-ex-783792.pdf",
+      "length": "0.35",
+      "schemeUrl": null,
+      "warranty": "12",
+      "width": "0.2",
+      "__typename": "ProductV2Specifications"
+    },
+    "certificates": ["https://www.technopark.ru/bipublic/Cert/IG0G144JCG5I90.pdf"],
+    "isManufacturerCountry": false,
+    "isSellerWarranty": false,
+    "reviews": {
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "total": 0,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "rating": {
+      "average": 0,
+      "canRate": false,
+      "total": {
+        "all": 0,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 0,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "isLoading": false
+  },
+  "shots": [
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/783792/1_783792.jpg?timestamp=2025-03-14_16-46-10",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/783792/1_783792.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/783792/1_783792.jpg?timestamp=2025-03-14_16-45-50"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/783792/2_783792.jpg?timestamp=2025-03-14_16-46-08",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/783792/2_783792.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/783792/2_783792.jpg?timestamp=2025-03-14_16-45-50"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/783792/3_783792.jpg?timestamp=2025-03-14_16-46-11",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/783792/3_783792.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/783792/3_783792.jpg?timestamp=2025-03-14_16-45-51"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/783792/4_783792.jpg?timestamp=2025-03-14_16-46-06",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/783792/4_783792.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/783792/4_783792.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/783792/5_783792.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/783792/5_783792.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/783792/5_783792.jpg?timestamp=2025-03-14_16-45-50"
+    ]
+  ],
+  "photos": [
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/kofevarka-korting-kcm-1001-ex-783792-1.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/kofevarka-korting-kcm-1001-ex-783792-2.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/kofevarka-korting-kcm-1001-ex-783792-3.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/kofevarka-korting-kcm-1001-ex-783792-4.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/kofevarka-korting-kcm-1001-ex-783792-5.jpg"
+  ]
+}

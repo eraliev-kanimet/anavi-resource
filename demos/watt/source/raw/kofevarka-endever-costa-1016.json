@@ -1,0 +1,1361 @@
+{
+  "shelf": "kofemashiny",
+  "slug": "kofevarka-endever-costa-1016",
+  "product": {
+    "id": "745275",
+    "article": "170515",
+    "slug": "kofevarka-endever-costa-1016",
+    "hasSmartInstallments": false,
+    "isActive": true,
+    "name": {
+      "default": "Endever Costa-1016",
+      "full": "Турка электрическая Endever Costa-1016",
+      "pseudo": null,
+      "spare": null,
+      "fullWithoutSection": "Турка электрическая Endever Costa-1016",
+      "section": "Кофеварка",
+      "__typename": "ProductName"
+    },
+    "price": {
+      "default": 2590,
+      "marketing": null,
+      "old": null,
+      "__typename": "ProductPrice"
+    },
+    "benefit": null,
+    "specifications": {
+      "short": [
+        {
+          "name": "Тип",
+          "value": "электротурка",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Используемый кофе",
+          "value": "молотый",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Потребляемая мощность",
+          "value": "600 Вт",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Объем резервуара для воды",
+          "value": "0.3 л",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Количество порций",
+          "value": "4",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "__typename": "ProductV2Specifications"
+    },
+    "labels": [
+      {
+        "name": "Бонусы Спасибо",
+        "type": "sberspasibo",
+        "items": [
+          {
+            "description": "",
+            "name": "Этот товар можно оплатить бонусами Спасибо от СберБанка",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Кредит",
+        "type": "credit",
+        "items": [
+          {
+            "description": "",
+            "name": "Кредит с переплатой 1% в месяц",
+            "url": "/kofevarka-endever-costa-1016/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      }
+    ],
+    "labelsV2": [
+      {
+        "id": "8",
+        "name": "Бонусы Спасибо",
+        "code": "sberspasibo",
+        "mainColor": "#0C9C0C",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#0C9C0C",
+        "altTextColor": "#FFFFFF",
+        "borderAndTextColor": "#0C9C0C",
+        "items": [
+          {
+            "id": "20048",
+            "text": "Этот товар можно оплатить бонусами Спасибо от СберБанка ",
+            "buttonText": "Подробнее",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      }
+    ],
+    "status": {
+      "id": "IN_STOCK",
+      "name": "В наличии",
+      "type": "POSITIVE",
+      "__typename": "ProductStatus"
+    },
+    "brand": {
+      "code": "endever",
+      "id": "73318",
+      "name": "Endever",
+      "src": "https://cdn1.technopark.ru/technopark/photos_resized/section_brand_300_100/300_100/73318/1_73318.png",
+      "slug": "endever",
+      "sections": [
+        {
+          "name": "Утюги Endever",
+          "url": "/utyugi/endever/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3466303321/technopark/photos_resized/product/120_120/639745/1_639745.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1469236963/technopark/photos_resized/product/120_120/639745/2_639745.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3388363584/technopark/photos_resized/product/120_120/639745/3_639745.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3203490774/technopark/photos_resized/product/120_120/639745/4_639745.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/546698869/technopark/photos_resized/product/120_120/639745/5_639745.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Блинницы Endever",
+          "url": "/blinnitsy/endever/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/807878100/technopark/photos_resized/product/120_120/831819/1_831819.jpg?timestamp=2026-05-22_14-16-15",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3645151457/technopark/photos_resized/product/120_120/831819/2_831819.jpg?timestamp=2026-05-22_14-16-15",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1193282882/technopark/photos_resized/product/120_120/831819/3_831819.jpg?timestamp=2026-05-22_14-16-15",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Соковыжималки Endever",
+          "url": "/sokovyzhimalki/endever/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/505598376/technopark/photos_resized/product/120_120/628177/1_628177.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Мультиварки Endever",
+          "url": "/multivarki/endever/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/296319826/technopark/photos_resized/product/120_120/313119/1_313119.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2292198120/technopark/photos_resized/product/120_120/313119/2_313119.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2971985550/technopark/photos_resized/product/120_120/313119/3_313119.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1096577786/technopark/photos_resized/product/120_120/313119/4_313119.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3629458240/technopark/photos_resized/product/120_120/313119/5_313119.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/718204374/technopark/photos_resized/product/120_120/313119/6_313119.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3191669899/technopark/photos_resized/product/120_120/313119/7_313119.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1722698692/technopark/photos_resized/product/120_120/313119/8_313119.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1417646443/technopark/photos_resized/product/120_120/313119/9_313119.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1501899148/technopark/photos_resized/product/120_120/313119/10_313119.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2751923487/technopark/photos_resized/product/120_120/313119/11_313119.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3563975056/technopark/photos_resized/product/120_120/313119/12_313119.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3540006281/technopark/photos_resized/product/120_120/313119/13_313119.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Вафельницы Endever",
+          "url": "/vafelnitsy/endever/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3579769742/technopark/photos_resized/product/120_120/617731/1_617731.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3526571927/technopark/photos_resized/product/120_120/617731/2_617731.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1280811572/technopark/photos_resized/product/120_120/617731/3_617731.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2771650305/technopark/photos_resized/product/120_120/617731/4_617731.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Мини-печи Endever",
+          "url": "/mini-pechi/endever/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2448209041/technopark/photos_resized/product/120_120/301882/1_301882.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/888125366/technopark/photos_resized/product/120_120/301882/2_301882.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3626169405/technopark/photos_resized/product/120_120/301882/3_301882.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1139312416/technopark/photos_resized/product/120_120/301882/4_301882.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/532866165/technopark/photos_resized/product/120_120/301882/5_301882.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/908891409/technopark/photos_resized/product/120_120/301882/6_301882.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3672233626/technopark/photos_resized/product/120_120/301882/7_301882.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1757795555/technopark/photos_resized/product/120_120/301882/8_301882.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2823291058/technopark/photos_resized/product/120_120/301882/9_301882.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3716944515/technopark/photos_resized/product/120_120/301882/10_301882.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3746508836/technopark/photos_resized/product/120_120/301882/11_301882.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2861244949/technopark/photos_resized/product/120_120/301882/12_301882.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Мультипекари Endever",
+          "url": "/sendvichnitsi/endever/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2052117681/technopark/photos_resized/product/120_120/732854/1_732854.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2039897161/technopark/photos_resized/product/120_120/732854/2_732854.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3911795160/technopark/photos_resized/product/120_120/732854/3_732854.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2653843790/technopark/photos_resized/product/120_120/732854/4_732854.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/244411615/technopark/photos_resized/product/120_120/732854/5_732854.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1326150186/technopark/photos_resized/product/120_120/732854/6_732854.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Электрошашлычницы Endever",
+          "url": "/shashlychnitsa/endever/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1230939150/technopark/photos_resized/product/120_120/266121/1_266121.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3610915245/technopark/photos_resized/product/120_120/266121/2_266121.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3495425460/technopark/photos_resized/product/120_120/266121/3_266121.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3348581575/technopark/photos_resized/product/120_120/266121/4_266121.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3971620612/technopark/photos_resized/product/120_120/266121/5_266121.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1046058136/technopark/photos_resized/product/120_120/266121/6_266121.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Кухонные измельчители Endever",
+          "url": "/kukhonnye-izmelchiteli/endever/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2912288980/technopark/photos_resized/product/120_120/691631/1_691631.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1026104645/technopark/photos_resized/product/120_120/691631/2_691631.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/977590620/technopark/photos_resized/product/120_120/691631/3_691631.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        }
+      ],
+      "__typename": "Brand"
+    },
+    "section": {
+      "slug": "kofevarki-i-kofemashiny",
+      "id": "904",
+      "name": "Кофеварки",
+      "parents": [
+        {
+          "id": "900",
+          "name": "Для кухни",
+          "depth": 1,
+          "__typename": "SectionTreeItem"
+        },
+        {
+          "id": "904",
+          "name": "Кофеварки",
+          "depth": 2,
+          "__typename": "SectionTreeItem"
+        }
+      ],
+      "__typename": "Section"
+    },
+    "media": {
+      "gallery": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/745275/1_745275.jpg?timestamp=2024-06-26_16-41-56",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/745275/2_745275.jpg?timestamp=2024-06-26_16-41-56",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/745275/3_745275.jpg?timestamp=2024-06-26_16-41-56",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/745275/4_745275.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "interior": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior/1000_1000/745275/1_745275.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "video": [],
+      "vkVideo": null,
+      "view3d": [],
+      "listing": {
+        "default": [
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/745275/1_745275.jpg?timestamp=2024-06-26_16-42-00",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/745275/2_745275.jpg?timestamp=2024-06-26_16-42-00",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/745275/3_745275.jpg?timestamp=2024-06-26_16-42-00",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/745275/4_745275.jpg?timestamp=2024-06-26_16-42-00",
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "ProductListing"
+      },
+      "__typename": "ProductV2Media"
+    },
+    "modifications": {
+      "bigBrother": null,
+      "groups": [],
+      "__typename": "ProductModifications"
+    },
+    "description": {
+      "hasDescription": false,
+      "type": "DEFAULT",
+      "__typename": "ProductDescription"
+    },
+    "collection": {
+      "id": "745275",
+      "products": {
+        "pagination": {
+          "total": 0,
+          "__typename": "Pagination"
+        },
+        "__typename": "ProductV2Pagination"
+      },
+      "__typename": "ProductCollection"
+    },
+    "similar": {
+      "pagination": {
+        "total": 30,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "related": {
+      "pagination": {
+        "total": 20,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "accessories": [],
+    "rating": {
+      "average": 0,
+      "canRate": false,
+      "total": {
+        "all": 0,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 0,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "reviews": {
+      "total": 0,
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "bestCredit": {
+      "monthPayment": 85,
+      "type": "CREDIT",
+      "__typename": "ProductBestCredit"
+    },
+    "isSpare": false,
+    "isService": false,
+    "isVipService": false,
+    "isGiftBonusCard": false,
+    "canBuy": true,
+    "canPayOnline": true,
+    "canRequestPrice": false,
+    "canShowPrice": true,
+    "canSubscribe": false,
+    "needPrepaymentForDelivery": false,
+    "needPrepaymentForPreorder": false,
+    "isSberSpasiboPayAvailable": true,
+    "isYandexPayAllowed": false,
+    "yandexSplit": {
+      "payments": [
+        {
+          "amount": 0,
+          "date": "2026-08-17T09:03:37+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 225,
+          "date": "2026-08-31T09:03:37+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 215,
+          "date": "2026-09-14T09:03:37+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 215,
+          "date": "2026-09-28T09:03:37+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 215,
+          "date": "2026-10-12T09:03:37+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 215,
+          "date": "2026-10-26T09:03:37+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 215,
+          "date": "2026-11-09T09:03:37+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 215,
+          "date": "2026-11-23T09:03:37+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 215,
+          "date": "2026-12-07T09:03:37+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 215,
+          "date": "2026-12-21T09:03:37+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 215,
+          "date": "2027-01-04T09:03:37+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 215,
+          "date": "2027-01-18T09:03:37+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 215,
+          "date": "2027-02-01T09:03:37+0300",
+          "__typename": "YandexSplitPayment"
+        }
+      ],
+      "firstPayment": 0,
+      "restPayment": 2590,
+      "description": "https://yandex.ru/support/split/",
+      "maxAmount": 295000,
+      "__typename": "YandexSplit"
+    },
+    "seo": {
+      "description": "Турка электрическая Endever Costa-1016: купить в интернет-магазине Технопарк с расширенной гарантией и бесплатной доставкой по РФ. Подробные характеристики товара с отзывами реальных покупателей.",
+      "text": "Вы можете купить кофеварку Endever Costa-1016 с доставкой по Москве по низкой цене. В интернет-магазине Technopark.ru осуществляется продажа кофеварки Endever Costa-1016 на выгодных условиях.",
+      "textHidden": "",
+      "title": "Турка электрическая Endever Costa-1016 - купить в Москве в интернет-магазине Технопарк",
+      "__typename": "SeoData"
+    },
+    "breadcrumbs": [
+      {
+        "name": "Главная",
+        "url": "/",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Техника для кухни",
+        "url": "/dlya-kuhni/",
+        "options": [
+          {
+            "name": "Центр инноваций",
+            "url": "/tovary-iz-budushchego/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Смартфоны и гаджеты",
+            "url": "/smartfony-i-gadzhety/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Компьютеры и ноутбуки",
+            "url": "/kompyutery-i-noutbuki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Климатическая техника",
+            "url": "/klimaticheskaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Крупная бытовая техника",
+            "url": "/krupnaya-bytovaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Бытовая техника для дома",
+            "url": "/dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для красоты и здоровья",
+            "url": "/krasota-i-zdorovye/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Спортивные товары",
+            "url": "/trenazhery-dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Телевизоры Аудио Hi-Fi",
+            "url": "/audio-video-foto/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для сада, дома и ремонта",
+            "url": "/dlya-sada-doma-i-remonta/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посуда",
+            "url": "/posuda/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Детские товары",
+            "url": "/detskie-tovary/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для гейминга",
+            "url": "/gaming/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Плоттеры и услуги розницы",
+            "url": "//",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Запасные части",
+            "url": "/zapasnie-chasti/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Кофеварки",
+        "url": "/kofevarki-i-kofemashiny/",
+        "options": [
+          {
+            "name": "Аэрогрили",
+            "url": "/aerogrili/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Микроволновые печи",
+            "url": "/mikrovolnovye-pechi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мультиварки",
+            "url": "/multivarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мини-печи",
+            "url": "/mini-pechi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мультишефы BORK",
+            "url": "/multishefy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Миксеры и кухонные машины",
+            "url": "/miksery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрогрили",
+            "url": "/grili/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Уличные грили барбекю",
+            "url": "/ulichnye-grili-barbeku/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Фритюрницы",
+            "url": "/frityurnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Хлебопечки",
+            "url": "/hlebopechki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Пароварки",
+            "url": "/parovarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Настольные плиты",
+            "url": "/induktsionnye-paneli/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мороженицы",
+            "url": "/morozhenitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вакуумные упаковщики (вакууматоры)",
+            "url": "/vakuumnaya-upakovka/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Су виды",
+            "url": "/su-vidy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрические сковороды и воки",
+            "url": "/elektricheskie-skovorody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Автоматические кофемашины",
+            "url": "/kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кофейные станции",
+            "url": "/kofeynye-stantsii/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Капсульные кофемашины",
+            "url": "/kapsulnye-kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Гейзерные кофеварки для дома",
+            "url": "/gejzernye-kofevarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кофемолки",
+            "url": "/kofemolki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вспениватели молока",
+            "url": "/vspenivateli-moloka/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для приготовления кофе",
+            "url": "/prigotovlenie-kofe/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрические чайники",
+            "url": "/chayniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Соковыжималки",
+            "url": "/sokovyzhimalki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Термопоты",
+            "url": "/termopoty/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Декантеры",
+            "url": "/dekantery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кулеры для воды",
+            "url": "/kulery-dlya-vody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Льдогенераторы",
+            "url": "/ledogeneratory/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Системы газации напитков",
+            "url": "/sistema-gazatsii-napitkov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мясорубки",
+            "url": "/myasorubki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Блендеры",
+            "url": "/blendery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные комбайны",
+            "url": "/kuhonnye-kombayny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные измельчители (чопперы)",
+            "url": "/kukhonnye-izmelchiteli/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Ломтерезки",
+            "url": "/lomterezki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Овощерезки",
+            "url": "/elektroterka/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Тостеры",
+            "url": "/tostery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вафельницы",
+            "url": "/vafelnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мультипекари",
+            "url": "/sendvichnitsi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Яйцеварки",
+            "url": "/yaycevarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Блинницы",
+            "url": "/blinnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Йогуртницы",
+            "url": "/yogurtnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Фильтры для воды под мойку",
+            "url": "/filtry-kuvshiny-dlya-ochistki-vody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Фильтры-кувшины для воды",
+            "url": "/filtry-kuvshiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для очистки воды",
+            "url": "/dlya-ochistki-vody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные весы",
+            "url": "/kuhonnye-vesy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Дегидраторы",
+            "url": "/sushki-dlya-ovoschey/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для кухни",
+            "url": "/aksessuary-dlya-kuhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мойки для кухни",
+            "url": "/moyki-dlya-kukhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрошашлычницы",
+            "url": "/shashlychnitsa/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Кофеварки Endever",
+        "url": "/kofevarki-i-kofemashiny/endever/",
+        "options": [
+          {
+            "name": "BORK",
+            "url": "/kofevarki-i-kofemashiny/bork/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Smeg",
+            "url": "/kofevarki-i-kofemashiny/smeg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Wacaco",
+            "url": "/kofevarki-i-kofemashiny/wacaco/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Delonghi",
+            "url": "/kofevarki-i-kofemashiny/delonghi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Brayer",
+            "url": "/kofevarki-i-kofemashiny/brayer/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Korting",
+            "url": "/kofevarki-i-kofemashiny/korting/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "La Pavoni",
+            "url": "/kofevarki-i-kofemashiny/la_pavoni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Maunfeld",
+            "url": "/kofevarki-i-kofemashiny/maunfeld/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "KitchenAid",
+            "url": "/kofevarki-i-kofemashiny/kitchenaid/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Zigmund Shtain",
+            "url": "/kofevarki-i-kofemashiny/zigmund_shtain/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Polaris",
+            "url": "/kofevarki-i-kofemashiny/polaris/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Beko",
+            "url": "/kofevarki-i-kofemashiny/beko/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Buydeem",
+            "url": "/kofevarki-i-kofemashiny/buydeem/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "REDMOND",
+            "url": "/kofevarki-i-kofemashiny/redmond/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Krups",
+            "url": "/kofevarki-i-kofemashiny/krups/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "VES",
+            "url": "/kofevarki-i-kofemashiny/ves/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Libhof",
+            "url": "/kofevarki-i-kofemashiny/libhof/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "WMF",
+            "url": "/kofevarki-i-kofemashiny/wmf/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Турка электрическая Endever Costa-1016",
+        "url": "kofevarka-endever-costa-1016",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      }
+    ],
+    "isArchive": false,
+    "__typename": "ProductV2",
+    "isSberPayOneClickAllowed": false,
+    "isTinkoffPayOneClickAllowed": false,
+    "bonus": null
+  },
+  "details": {
+    "description": "",
+    "descriptionType": "DEFAULT",
+    "descriptionBarcode": "4610198700314",
+    "descriptionBrand": "Endever",
+    "specifications": {
+      "short": [
+        {
+          "name": "Тип",
+          "value": "электротурка",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Используемый кофе",
+          "value": "молотый",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Потребляемая мощность",
+          "value": "600 Вт",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Объем резервуара для воды",
+          "value": "0.3 л",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Количество порций",
+          "value": "4",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "barcode": "4610198700314",
+      "country": "Китай",
+      "full": [
+        {
+          "name": "Основные характеристики",
+          "list": [
+            {
+              "name": "Тип",
+              "value": "электротурка",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Установка",
+              "value": "отдельностоящая",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Используемый кофе",
+              "value": "молотый",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Потребляемая мощность",
+              "value": "600 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Объем резервуара для воды",
+              "value": "0.3 л",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество порций",
+              "value": "4",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Управление",
+          "list": [
+            {
+              "name": "Управление",
+              "value": "электронное, сенсорное",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дисплей",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип дисплея",
+              "value": "LCD",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Особенности",
+          "list": [
+            {
+              "name": "Съемный резервуар для кофе",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дополнительная информация",
+              "value": "можно использовать для кипячения воды и подогрева молока, двухсторонняя турка",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Индикация",
+          "list": [
+            {
+              "name": "Индикация включения",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Корпус",
+          "list": [
+            {
+              "name": "Материал корпуса",
+              "value": "пластик",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет",
+              "value": "чёрный",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал кувшина для кофе",
+              "value": "нержавеющая сталь",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Комплектация",
+          "list": [
+            {
+              "name": "Инструкция",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Питание",
+          "list": [
+            {
+              "name": "Длина сетевого шнура",
+              "value": "0.7 м",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Напряжение",
+              "value": "220 В",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Размеры и вес",
+          "list": [
+            {
+              "name": "Высота",
+              "value": "23 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ширина",
+              "value": "12.8 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Глубина",
+              "value": "18.5 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вес",
+              "value": "0.68 кг",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        }
+      ],
+      "grossWeight": "0.7",
+      "netWeight": "0.68",
+      "height": "0.25",
+      "instructionUrl": "https://storage.yandexcloud.net/technopark.instructions/745275/instruction/instrukciya-kofevarka-endever-costa-1016.pdf",
+      "length": "0.16",
+      "schemeUrl": null,
+      "warranty": "18",
+      "width": "0.16",
+      "__typename": "ProductV2Specifications"
+    },
+    "certificates": [
+      "https://www.technopark.ru/bipublic/Cert/1408H011319VFG.pdf",
+      "https://www.technopark.ru/bipublic/Cert/1408H113NFG032.pdf",
+      "https://www.technopark.ru/bipublic/Cert/IG0G15BK78ORI7.pdf"
+    ],
+    "isManufacturerCountry": false,
+    "isSellerWarranty": false,
+    "reviews": {
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "total": 0,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "rating": {
+      "average": 0,
+      "canRate": false,
+      "total": {
+        "all": 0,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 0,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "isLoading": false
+  },
+  "shots": [
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/745275/1_745275.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/745275/1_745275.jpg?timestamp=2024-06-26_16-41-56"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/745275/2_745275.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/745275/2_745275.jpg?timestamp=2024-06-26_16-41-56"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/745275/3_745275.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/745275/3_745275.jpg?timestamp=2024-06-26_16-41-56"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/745275/4_745275.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/745275/4_745275.jpg"
+    ]
+  ],
+  "photos": [
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/kofevarka-endever-costa-1016-1.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/kofevarka-endever-costa-1016-2.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/kofevarka-endever-costa-1016-3.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/kofevarka-endever-costa-1016-4.jpg"
+  ]
+}

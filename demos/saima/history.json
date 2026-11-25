@@ -1,0 +1,1252 @@
+{
+  "people": [
+    {
+      "key": "h1",
+      "name": "Бермет Асанова",
+      "phone": "+996 778 312 419"
+    },
+    {
+      "key": "h2",
+      "name": "Нургуль Сатыбалдиева",
+      "phone": "+996 790 339 471"
+    },
+    {
+      "key": "h3",
+      "name": "Айнура Мамбетова",
+      "phone": "+996 732 703 808"
+    },
+    {
+      "key": "h4",
+      "name": "Гулзат Кенжебаева",
+      "phone": "+996 707 381 300"
+    },
+    {
+      "key": "h5",
+      "name": "Аида Шамшиева",
+      "phone": "+996 794 382 654"
+    },
+    {
+      "key": "h6",
+      "name": "Калыйкан Токтосунова",
+      "phone": "+996 737 516 693"
+    }
+  ],
+  "sales": [
+    {
+      "days": 178,
+      "at": [
+        12,
+        40
+      ],
+      "person": "h3",
+      "lines": [
+        {
+          "item": "palto",
+          "pick": 2,
+          "qty": 6
+        },
+        {
+          "item": "kostyum-trikotazh",
+          "pick": 1,
+          "qty": 13
+        },
+        {
+          "item": "yubka-midi",
+          "pick": 5,
+          "qty": 7
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 170,
+      "at": [
+        19,
+        10
+      ],
+      "person": "h4",
+      "lines": [
+        {
+          "item": "bomber",
+          "pick": 1,
+          "qty": 11
+        },
+        {
+          "item": "futbolka-black",
+          "pick": 5,
+          "qty": 19
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 165,
+      "at": [
+        11,
+        40
+      ],
+      "person": "h3",
+      "lines": [
+        {
+          "item": "svitshot-sand",
+          "pick": 1,
+          "qty": 9
+        },
+        {
+          "item": "top-bazovyj",
+          "pick": 6,
+          "qty": 8
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 162,
+      "at": [
+        16,
+        0
+      ],
+      "person": "h1",
+      "lines": [
+        {
+          "item": "svitshot-indigo",
+          "pick": 6,
+          "qty": 10
+        },
+        {
+          "item": "bryuki-palacco",
+          "pick": 1,
+          "qty": 12
+        },
+        {
+          "item": "svitshot-sand",
+          "pick": 3,
+          "qty": 16
+        }
+      ],
+      "paid": "transfer",
+      "sewn": true
+    },
+    {
+      "days": 160,
+      "at": [
+        9,
+        10
+      ],
+      "person": "h2",
+      "lines": [
+        {
+          "item": "dzhinsy-mom-black",
+          "pick": 2,
+          "qty": 10
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 152,
+      "at": [
+        19,
+        10
+      ],
+      "person": "h4",
+      "lines": [
+        {
+          "item": "trench-black",
+          "pick": 3,
+          "qty": 12
+        },
+        {
+          "item": "futbolka",
+          "pick": 2,
+          "qty": 8
+        },
+        {
+          "item": "kostyum-len",
+          "pick": 6,
+          "qty": 22
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 150,
+      "at": [
+        12,
+        30
+      ],
+      "person": "h5",
+      "lines": [
+        {
+          "item": "yubka-karandash",
+          "pick": 1,
+          "qty": 18
+        },
+        {
+          "item": "plate-lnyanoe",
+          "pick": 6,
+          "qty": 10
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 148,
+      "at": [
+        19,
+        20
+      ],
+      "person": "h6",
+      "lines": [
+        {
+          "item": "longsliv",
+          "pick": 2,
+          "qty": 17
+        },
+        {
+          "item": "sarafan",
+          "pick": 7,
+          "qty": 13
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 145,
+      "at": [
+        16,
+        10
+      ],
+      "person": "h1",
+      "lines": [
+        {
+          "item": "plate-lnyanoe",
+          "pick": 7,
+          "qty": 25
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 142,
+      "at": [
+        14,
+        50
+      ],
+      "person": "h5",
+      "lines": [
+        {
+          "item": "trench-black",
+          "pick": 6,
+          "qty": 23
+        },
+        {
+          "item": "bluza-poplin",
+          "pick": 4,
+          "qty": 14
+        },
+        {
+          "item": "bomber",
+          "pick": 5,
+          "qty": 17
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 138,
+      "at": [
+        17,
+        50
+      ],
+      "person": "h1",
+      "lines": [
+        {
+          "item": "plate-midi-poyas",
+          "pick": 1,
+          "qty": 25
+        },
+        {
+          "item": "kostyum-bryuki",
+          "pick": 1,
+          "qty": 9
+        }
+      ],
+      "paid": "transfer",
+      "sewn": true
+    },
+    {
+      "days": 136,
+      "at": [
+        15,
+        20
+      ],
+      "person": "h3",
+      "lines": [
+        {
+          "item": "zhaket",
+          "pick": 1,
+          "qty": 22
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 130,
+      "at": [
+        12,
+        40
+      ],
+      "person": "h3",
+      "lines": [
+        {
+          "item": "zhilet-udlinennyj",
+          "pick": 1,
+          "qty": 16
+        },
+        {
+          "item": "kostyum-yubka",
+          "pick": 4,
+          "qty": 12
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 128,
+      "at": [
+        14,
+        40
+      ],
+      "person": "h2",
+      "lines": [
+        {
+          "item": "zhaket",
+          "pick": 5,
+          "qty": 12
+        },
+        {
+          "item": "dzhemper",
+          "pick": 2,
+          "qty": 20
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 125,
+      "at": [
+        18,
+        30
+      ],
+      "person": "h3",
+      "lines": [
+        {
+          "item": "plash-lnyanoj",
+          "pick": 6,
+          "qty": 12
+        },
+        {
+          "item": "kardigan",
+          "pick": 2,
+          "qty": 13
+        },
+        {
+          "item": "rubashka-len",
+          "pick": 3,
+          "qty": 19
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 114,
+      "at": [
+        10,
+        30
+      ],
+      "person": "h1",
+      "lines": [
+        {
+          "item": "kardigan",
+          "pick": 6,
+          "qty": 19
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 113,
+      "at": [
+        11,
+        30
+      ],
+      "person": "h4",
+      "lines": [
+        {
+          "item": "bluza-shelk",
+          "pick": 4,
+          "qty": 14
+        },
+        {
+          "item": "yubka-karandash",
+          "pick": 3,
+          "qty": 16
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 112,
+      "at": [
+        17,
+        20
+      ],
+      "person": "h6",
+      "lines": [
+        {
+          "item": "plate-midi-poyas-indigo",
+          "pick": 6,
+          "qty": 19
+        },
+        {
+          "item": "kostyum-trikotazh",
+          "pick": 1,
+          "qty": 10
+        },
+        {
+          "item": "dzhinsy-mom",
+          "pick": 4,
+          "qty": 11
+        }
+      ],
+      "paid": "transfer",
+      "sewn": true
+    },
+    {
+      "days": 111,
+      "at": [
+        15,
+        20
+      ],
+      "person": "h6",
+      "lines": [
+        {
+          "item": "rubashka-oversize",
+          "pick": 3,
+          "qty": 17
+        },
+        {
+          "item": "trench-black",
+          "pick": 3,
+          "qty": 15
+        },
+        {
+          "item": "bryuki-palacco",
+          "pick": 5,
+          "qty": 13
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 109,
+      "at": [
+        12,
+        20
+      ],
+      "person": "h4",
+      "lines": [
+        {
+          "item": "plate-lnyanoe",
+          "pick": 2,
+          "qty": 10
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 107,
+      "at": [
+        14,
+        10
+      ],
+      "person": "h5",
+      "lines": [
+        {
+          "item": "yubka-midi",
+          "pick": 4,
+          "qty": 17
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 105,
+      "at": [
+        13,
+        0
+      ],
+      "person": "h2",
+      "lines": [
+        {
+          "item": "plate-lnyanoe",
+          "pick": 7,
+          "qty": 20
+        },
+        {
+          "item": "yubka-midi",
+          "pick": 1,
+          "qty": 16
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 103,
+      "at": [
+        12,
+        30
+      ],
+      "person": "h2",
+      "lines": [
+        {
+          "item": "sarafan",
+          "pick": 3,
+          "qty": 11
+        },
+        {
+          "item": "svitshot",
+          "pick": 6,
+          "qty": 11
+        },
+        {
+          "item": "yubka-midi",
+          "pick": 1,
+          "qty": 9
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 100,
+      "at": [
+        15,
+        0
+      ],
+      "person": "h1",
+      "lines": [
+        {
+          "item": "plate-midi-poyas-black",
+          "pick": 7,
+          "qty": 22
+        },
+        {
+          "item": "futbolka-black",
+          "pick": 1,
+          "qty": 7
+        },
+        {
+          "item": "shorty",
+          "pick": 6,
+          "qty": 20
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 96,
+      "at": [
+        18,
+        0
+      ],
+      "person": "h2",
+      "lines": [
+        {
+          "item": "bomber",
+          "pick": 2,
+          "qty": 12
+        },
+        {
+          "item": "hudi",
+          "pick": 2,
+          "qty": 18
+        }
+      ],
+      "paid": "transfer",
+      "sewn": true
+    },
+    {
+      "days": 95,
+      "at": [
+        10,
+        10
+      ],
+      "person": "h4",
+      "lines": [
+        {
+          "item": "plate-trikotazh",
+          "pick": 6,
+          "qty": 11
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 92,
+      "at": [
+        18,
+        0
+      ],
+      "person": "h2",
+      "lines": [
+        {
+          "item": "rubashka-len",
+          "pick": 7,
+          "qty": 13
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 82,
+      "at": [
+        9,
+        50
+      ],
+      "person": "h1",
+      "lines": [
+        {
+          "item": "bomber",
+          "pick": 3,
+          "qty": 18
+        },
+        {
+          "item": "futbolka-black",
+          "pick": 3,
+          "qty": 10
+        },
+        {
+          "item": "plate-lnyanoe",
+          "pick": 4,
+          "qty": 17
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 80,
+      "at": [
+        14,
+        30
+      ],
+      "person": "h2",
+      "lines": [
+        {
+          "item": "zhaket-sand",
+          "pick": 2,
+          "qty": 12
+        },
+        {
+          "item": "kostyum-trikotazh",
+          "pick": 5,
+          "qty": 6
+        },
+        {
+          "item": "bluza-volan",
+          "pick": 7,
+          "qty": 24
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 76,
+      "at": [
+        17,
+        10
+      ],
+      "person": "h4",
+      "lines": [
+        {
+          "item": "plate-midi-poyas-black",
+          "pick": 3,
+          "qty": 22
+        },
+        {
+          "item": "bomber",
+          "pick": 6,
+          "qty": 22
+        },
+        {
+          "item": "trench-black",
+          "pick": 6,
+          "qty": 10
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 72,
+      "at": [
+        11,
+        10
+      ],
+      "person": "h3",
+      "lines": [
+        {
+          "item": "bomber",
+          "pick": 5,
+          "qty": 10
+        },
+        {
+          "item": "bomber",
+          "pick": 2,
+          "qty": 9
+        },
+        {
+          "item": "zhaket",
+          "pick": 1,
+          "qty": 6
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 66,
+      "at": [
+        18,
+        40
+      ],
+      "person": "h1",
+      "lines": [
+        {
+          "item": "sarafan",
+          "pick": 2,
+          "qty": 25
+        }
+      ],
+      "paid": "transfer",
+      "sewn": true
+    },
+    {
+      "days": 61,
+      "at": [
+        10,
+        50
+      ],
+      "person": "h5",
+      "lines": [
+        {
+          "item": "rubashka-oversize-white",
+          "pick": 1,
+          "qty": 22
+        },
+        {
+          "item": "kostyum-yubka",
+          "pick": 2,
+          "qty": 25
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 57,
+      "at": [
+        11,
+        0
+      ],
+      "person": "h2",
+      "lines": [
+        {
+          "item": "futbolka",
+          "pick": 4,
+          "qty": 13
+        },
+        {
+          "item": "futbolka-black",
+          "pick": 1,
+          "qty": 16
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 53,
+      "at": [
+        10,
+        10
+      ],
+      "person": "h4",
+      "lines": [
+        {
+          "item": "futbolka-black",
+          "pick": 5,
+          "qty": 22
+        },
+        {
+          "item": "bryuki-palacco",
+          "pick": 3,
+          "qty": 8
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 49,
+      "at": [
+        16,
+        0
+      ],
+      "person": "h4",
+      "lines": [
+        {
+          "item": "bomber",
+          "pick": 5,
+          "qty": 7
+        },
+        {
+          "item": "rubashka-oversize-white",
+          "pick": 6,
+          "qty": 25
+        },
+        {
+          "item": "zhilet-udlinennyj",
+          "pick": 3,
+          "qty": 15
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 47,
+      "at": [
+        14,
+        50
+      ],
+      "person": "h2",
+      "lines": [
+        {
+          "item": "palto",
+          "pick": 5,
+          "qty": 14
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 40,
+      "at": [
+        12,
+        15
+      ],
+      "person": "",
+      "lines": [
+        {
+          "item": "yubka-midi",
+          "pick": 1,
+          "qty": 1
+        }
+      ],
+      "paid": "cash",
+      "hall": 1
+    },
+    {
+      "days": 39,
+      "at": [
+        10,
+        0
+      ],
+      "person": "h2",
+      "lines": [
+        {
+          "item": "plate-midi-poyas-black",
+          "pick": 5,
+          "qty": 25
+        },
+        {
+          "item": "dzhinsy-mom",
+          "pick": 2,
+          "qty": 14
+        },
+        {
+          "item": "bluza-poplin",
+          "pick": 1,
+          "qty": 9
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 37,
+      "at": [
+        15,
+        40
+      ],
+      "person": "h1",
+      "lines": [
+        {
+          "item": "svitshot-sand",
+          "pick": 6,
+          "qty": 8
+        },
+        {
+          "item": "bluza-shelk-black",
+          "pick": 1,
+          "qty": 14
+        },
+        {
+          "item": "plate-midi-poyas-black",
+          "pick": 7,
+          "qty": 9
+        }
+      ],
+      "paid": "transfer",
+      "sewn": true
+    },
+    {
+      "days": 36,
+      "at": [
+        13,
+        0
+      ],
+      "person": "h4",
+      "lines": [
+        {
+          "item": "trench",
+          "pick": 6,
+          "qty": 15
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 33,
+      "at": [
+        16,
+        40
+      ],
+      "person": "h1",
+      "lines": [
+        {
+          "item": "trench-black",
+          "pick": 3,
+          "qty": 1
+        }
+      ],
+      "paid": "cash",
+      "hall": 1,
+      "exchange": {
+        "after": 3,
+        "pick": 4
+      }
+    },
+    {
+      "days": 31,
+      "at": [
+        9,
+        10
+      ],
+      "person": "h3",
+      "lines": [
+        {
+          "item": "futbolka",
+          "pick": 6,
+          "qty": 18
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 29,
+      "at": [
+        14,
+        20
+      ],
+      "person": "h5",
+      "lines": [
+        {
+          "item": "plate-midi-poyas-indigo",
+          "pick": 6,
+          "qty": 9
+        },
+        {
+          "item": "plate-midi-poyas-indigo",
+          "pick": 4,
+          "qty": 7
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 27,
+      "at": [
+        11,
+        5
+      ],
+      "person": "",
+      "lines": [
+        {
+          "item": "futbolka-black",
+          "pick": 5,
+          "qty": 2
+        }
+      ],
+      "paid": "cash",
+      "hall": 2
+    },
+    {
+      "days": 22,
+      "at": [
+        19,
+        30
+      ],
+      "person": "h5",
+      "lines": [
+        {
+          "item": "palto",
+          "pick": 5,
+          "qty": 14
+        },
+        {
+          "item": "shorty",
+          "pick": 5,
+          "qty": 24
+        },
+        {
+          "item": "bluza-poplin",
+          "pick": 1,
+          "qty": 9
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 21,
+      "at": [
+        18,
+        20
+      ],
+      "person": "h2",
+      "lines": [
+        {
+          "item": "zhaket",
+          "pick": 1,
+          "qty": 1
+        }
+      ],
+      "paid": "transfer",
+      "hall": 2,
+      "certificate": {
+        "amount": 3000,
+        "days": 9
+      }
+    },
+    {
+      "days": 20,
+      "at": [
+        13,
+        30
+      ],
+      "person": "h4",
+      "lines": [
+        {
+          "item": "yubka-karandash",
+          "pick": 5,
+          "qty": 7
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 18,
+      "at": [
+        11,
+        50
+      ],
+      "person": "h5",
+      "lines": [
+        {
+          "item": "bryuki-palacco-sand",
+          "pick": 6,
+          "qty": 16
+        },
+        {
+          "item": "svitshot",
+          "pick": 2,
+          "qty": 22
+        },
+        {
+          "item": "kostyum-trikotazh",
+          "pick": 6,
+          "qty": 24
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 13,
+      "at": [
+        15,
+        10
+      ],
+      "person": "h1",
+      "lines": [
+        {
+          "item": "rubashka-len",
+          "pick": 6,
+          "qty": 24
+        },
+        {
+          "item": "plate-rubashka",
+          "pick": 3,
+          "qty": 11
+        },
+        {
+          "item": "bluza-volan",
+          "pick": 2,
+          "qty": 6
+        }
+      ],
+      "paid": "transfer",
+      "sewn": true
+    },
+    {
+      "days": 12,
+      "at": [
+        13,
+        30
+      ],
+      "person": "",
+      "lines": [
+        {
+          "item": "yubka-karandash",
+          "pick": 3,
+          "qty": 1
+        },
+        {
+          "item": "futbolka-black",
+          "pick": 5,
+          "qty": 1
+        }
+      ],
+      "paid": "cash",
+      "hall": 2
+    },
+    {
+      "days": 10,
+      "at": [
+        10,
+        10
+      ],
+      "person": "h6",
+      "lines": [
+        {
+          "item": "plate-lnyanoe",
+          "pick": 1,
+          "qty": 16
+        },
+        {
+          "item": "trench-black",
+          "pick": 6,
+          "qty": 25
+        }
+      ],
+      "paid": "transfer"
+    },
+    {
+      "days": 6,
+      "at": [
+        9,
+        40
+      ],
+      "person": "h6",
+      "lines": [
+        {
+          "item": "yubka-karandash",
+          "pick": 1,
+          "qty": 16
+        },
+        {
+          "item": "longsliv",
+          "pick": 5,
+          "qty": 8
+        },
+        {
+          "item": "plate-trikotazh",
+          "pick": 4,
+          "qty": 20
+        }
+      ],
+      "paid": "cash"
+    },
+    {
+      "days": 6,
+      "at": [
+        15,
+        0
+      ],
+      "person": "",
+      "lines": [
+        {
+          "item": "bomber",
+          "pick": 5,
+          "qty": 1
+        }
+      ],
+      "paid": "cash",
+      "hall": 1
+    },
+    {
+      "days": 2,
+      "at": [
+        13,
+        20
+      ],
+      "person": "h5",
+      "lines": [
+        {
+          "item": "plate-midi-poyas-indigo",
+          "pick": 1,
+          "qty": 24
+        },
+        {
+          "item": "yubka-karandash",
+          "pick": 3,
+          "qty": 11
+        }
+      ],
+      "paid": "transfer"
+    }
+  ],
+  "floor": {
+    "reprice": [
+      {
+        "days": 34,
+        "items": [
+          "trench-black"
+        ],
+        "percent": -20,
+        "undo": 14
+      }
+    ],
+    "recounts": [
+      {
+        "days": 16,
+        "hall": 2,
+        "lines": [
+          {
+            "item": "futbolka-black",
+            "pick": 4,
+            "delta": 1
+          },
+          {
+            "item": "futbolka-black",
+            "pick": 5,
+            "delta": -1
+          }
+        ]
+      }
+    ]
+  }
+}

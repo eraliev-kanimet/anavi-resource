@@ -1,0 +1,1833 @@
+{
+  "shelf": "konditsionery",
+  "slug": "konditsioner-hisense-ap-09cr4gkws00-790254",
+  "product": {
+    "id": "790254",
+    "article": "182812",
+    "slug": "konditsioner-hisense-ap-09cr4gkws00-790254",
+    "hasSmartInstallments": false,
+    "isActive": true,
+    "name": {
+      "default": "Hisense AP-09CR4GKWS00",
+      "full": "Кондиционер Hisense AP-09CR4GKWS00",
+      "pseudo": null,
+      "spare": null,
+      "fullWithoutSection": "Hisense AP-09CR4GKWS00",
+      "section": "Кондиционер",
+      "__typename": "ProductName"
+    },
+    "price": {
+      "default": 28790,
+      "marketing": null,
+      "old": null,
+      "__typename": "ProductPrice"
+    },
+    "benefit": null,
+    "specifications": {
+      "short": [
+        {
+          "name": "Тип",
+          "value": "мобильный кондиционер",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Площадь помещения",
+          "value": "17 кв.м",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Мощность в режиме охлаждения",
+          "value": "2.49 кВт",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "__typename": "ProductV2Specifications"
+    },
+    "labels": [
+      {
+        "name": "Бонусы Спасибо",
+        "type": "sberspasibo",
+        "items": [
+          {
+            "description": "",
+            "name": "Этот товар можно оплатить бонусами Спасибо от СберБанка",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Акция",
+        "type": "special_offer",
+        "items": [
+          {
+            "description": "",
+            "name": "5 000 бонусов за покупки",
+            "url": "/action/5-000-bonusov-za-pokupki/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Рассрочка",
+        "type": "deferred_payment",
+        "items": [
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-18",
+            "url": "/konditsioner-hisense-ap-09cr4gkws00-790254/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-12",
+            "url": "/konditsioner-hisense-ap-09cr4gkws00-790254/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-6",
+            "url": "/konditsioner-hisense-ap-09cr4gkws00-790254/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      }
+    ],
+    "labelsV2": [
+      {
+        "id": "8",
+        "name": "Бонусы Спасибо",
+        "code": "sberspasibo",
+        "mainColor": "#0C9C0C",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#0C9C0C",
+        "altTextColor": "#FFFFFF",
+        "borderAndTextColor": "#0C9C0C",
+        "items": [
+          {
+            "id": "5589",
+            "text": "Этот товар можно оплатить бонусами Спасибо от СберБанка ",
+            "buttonText": "Подробнее",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      }
+    ],
+    "status": {
+      "id": "IN_STOCK",
+      "name": "В наличии",
+      "type": "POSITIVE",
+      "__typename": "ProductStatus"
+    },
+    "brand": {
+      "code": "hisense",
+      "id": "61153",
+      "name": "Hisense",
+      "src": "https://cdn1.technopark.ru/technopark/photos_resized/section_brand_300_100/300_100/61153/1_61153.png",
+      "slug": "hisense",
+      "sections": [
+        {
+          "name": "Стиральные машины Hisense",
+          "url": "/stiralnye-mashiny/hisense/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3881741907/technopark/photos_resized/product/120_120/812482/1_812482.jpg?timestamp=2025-12-09_10-16-28",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2119696361/technopark/photos_resized/product/120_120/812482/2_812482.jpg?timestamp=2025-12-09_10-16-28",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1612778161/technopark/photos_resized/product/120_120/812482/3_812482.jpg?timestamp=2025-12-09_10-16-29",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2421792453/technopark/photos_resized/product/120_120/812482/4_812482.jpg?timestamp=2025-12-09_10-16-28",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/156290943/technopark/photos_resized/product/120_120/812482/5_812482.jpg?timestamp=2025-12-09_10-16-28",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2739109801/technopark/photos_resized/product/120_120/812482/6_812482.jpg?timestamp=2025-12-09_10-16-36",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3561246527/technopark/photos_resized/product/120_120/812482/7_812482.jpg?timestamp=2025-12-09_10-16-37",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/977939987/technopark/photos_resized/product/120_120/812482/8_812482.jpg?timestamp=2025-12-09_10-16-37",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1919319245/technopark/photos_resized/product/120_120/812482/9_812482.jpg?timestamp=2025-12-09_10-16-44",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4112111663/technopark/photos_resized/product/120_120/812482/10_812482.jpg?timestamp=2025-12-09_10-16-45",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1296899717/technopark/photos_resized/product/120_120/812482/11_812482.jpg?timestamp=2025-12-09_10-16-37",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/291995088/technopark/photos_resized/product/120_120/812482/12_812482.jpg?timestamp=2025-12-09_10-16-38",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/90262619/technopark/photos_resized/product/120_120/812482/13_812482.jpg?timestamp=2025-12-09_10-16-44",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3959613806/technopark/photos_resized/product/120_120/812482/14_812482.jpg?timestamp=2025-12-09_10-16-44",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/468713774/technopark/photos_resized/product/120_120/812482/15_812482.jpg?timestamp=2025-12-09_10-16-51",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4239365124/technopark/photos_resized/product/120_120/812482/16_812482.jpg?timestamp=2025-12-09_10-16-46",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Аэрогрили Hisense",
+          "url": "/aerogrili/hisense/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/296010740/technopark/photos_resized/product/120_120/829113/1_829113.jpg?timestamp=2026-04-27_09-30-46",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4129091315/technopark/photos_resized/product/120_120/829113/2_829113.jpg?timestamp=2026-04-27_09-30-46",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1722020706/technopark/photos_resized/product/120_120/829113/3_829113.jpg?timestamp=2026-04-27_09-30-46",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/107248263/technopark/photos_resized/product/120_120/829113/4_829113.jpg?timestamp=2026-04-27_09-30-46",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2622233576/technopark/photos_resized/product/120_120/829113/5_829113.jpg?timestamp=2026-04-27_09-30-50",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2090463990/technopark/photos_resized/product/120_120/829113/6_829113.jpg?timestamp=2026-04-27_09-30-50",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1902332433/technopark/photos_resized/product/120_120/829113/7_829113.jpg?timestamp=2026-04-27_09-30-46",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2339052214/technopark/photos_resized/product/120_120/829113/8_829113.jpg?timestamp=2026-04-27_09-30-49",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4234947104/technopark/photos_resized/product/120_120/829113/9_829113.jpg?timestamp=2026-04-27_09-30-49",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1701149594/technopark/photos_resized/product/120_120/829113/10_829113.jpg?timestamp=2026-04-27_09-30-49",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Музыкальные центры Hisense",
+          "url": "/muzykalnye-tsentry/hisense/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1582048853/technopark/photos_resized/product/120_120/799899/1_799899.jpg?timestamp=2025-08-14_09-50-10",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1819952343/technopark/photos_resized/product/120_120/799899/2_799899.jpg?timestamp=2025-08-14_09-50-16",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1233952550/technopark/photos_resized/product/120_120/799899/3_799899.jpg?timestamp=2025-08-14_09-50-10",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3094625779/technopark/photos_resized/product/120_120/799899/4_799899.jpg?timestamp=2025-08-14_09-50-25",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1049341872/technopark/photos_resized/product/120_120/799899/5_799899.jpg?timestamp=2025-08-14_09-50-09",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2922689057/technopark/photos_resized/product/120_120/799899/6_799899.jpg?timestamp=2025-08-14_09-50-09",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/561867849/technopark/photos_resized/product/120_120/799899/7_799899.jpg?timestamp=2025-08-14_09-50-24",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2190712278/technopark/photos_resized/product/120_120/799899/8_799899.jpg?timestamp=2025-08-14_09-50-22",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/485951605/technopark/photos_resized/product/120_120/799899/9_799899.jpg?timestamp=2025-08-14_09-50-22",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Саундбары и звуковые панели Hisense",
+          "url": "/domashnie-kinoteatry/hisense/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3855723488/technopark/photos_resized/product/120_120/692719/1_692719.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/212995797/technopark/photos_resized/product/120_120/692719/2_692719.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3804000249/technopark/photos_resized/product/120_120/692719/3_692719.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2075475523/technopark/photos_resized/product/120_120/692719/4_692719.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2386769100/technopark/photos_resized/product/120_120/692719/5_692719.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/460502950/technopark/photos_resized/product/120_120/692719/6_692719.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4042410097/technopark/photos_resized/product/120_120/692719/7_692719.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3101563567/technopark/photos_resized/product/120_120/692719/8_692719.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/519842141/technopark/photos_resized/product/120_120/692719/9_692719.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Холодильники встраиваемые Hisense",
+          "url": "/vstraivaemye-holodilniki/hisense/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/104113972/technopark/photos_resized/product/120_120/834701/1_834701.jpg?timestamp=2026-06-24_12-31-30",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1899206562/technopark/photos_resized/product/120_120/834701/2_834701.jpg?timestamp=2026-06-24_12-31-30",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2538197138/technopark/photos_resized/product/120_120/834701/3_834701.jpg?timestamp=2026-06-24_12-31-23",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3604205159/technopark/photos_resized/product/120_120/834701/4_834701.jpg?timestamp=2026-06-24_12-31-23",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/954052427/technopark/photos_resized/product/120_120/834701/5_834701.jpg?timestamp=2026-06-24_12-31-23",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3608257616/technopark/photos_resized/product/120_120/834701/6_834701.jpg?timestamp=2026-06-24_12-31-31",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3763265540/technopark/photos_resized/product/120_120/834701/7_834701.jpg?timestamp=2026-06-24_12-31-23",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2715090673/technopark/photos_resized/product/120_120/834701/8_834701.jpg?timestamp=2026-06-24_12-31-23",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3825341640/technopark/photos_resized/product/120_120/834701/9_834701.jpg?timestamp=2026-06-24_12-31-27",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/62536143/technopark/photos_resized/product/120_120/834701/10_834701.jpg?timestamp=2026-06-24_12-31-27",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1669181482/technopark/photos_resized/product/120_120/834701/11_834701.jpg?timestamp=2026-06-24_12-31-27",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1678799923/technopark/photos_resized/product/120_120/834701/12_834701.jpg?timestamp=2026-06-24_12-31-27",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1310258666/technopark/photos_resized/product/120_120/834701/13_834701.jpg?timestamp=2026-06-24_12-31-31",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/343572668/technopark/photos_resized/product/120_120/834701/14_834701.jpg?timestamp=2026-06-24_12-31-27",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Посудомоечные машины встраиваемые Hisense",
+          "url": "/vstraivaemye-posudomoechnye-mashiny/hisense/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2047882995/technopark/photos_resized/product/120_120/835962/1_835962.jpg?timestamp=2026-07-03_16-01-06",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3642123939/technopark/photos_resized/product/120_120/835962/2_835962.jpg?timestamp=2026-07-03_16-01-07",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2105406186/technopark/photos_resized/product/120_120/835962/3_835962.jpg?timestamp=2026-07-03_16-01-08",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2351934822/technopark/photos_resized/product/120_120/835962/4_835962.png?timestamp=2026-07-03_16-01-08",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/175817340/technopark/photos_resized/product/120_120/835962/5_835962.jpg?timestamp=2026-07-03_16-01-09",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/228313967/technopark/photos_resized/product/120_120/835962/6_835962.jpg?timestamp=2026-07-03_16-01-09",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Аксессуары для кондиционеров Hisense",
+          "url": "/filtry-dlya-klimata/hisense/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2776407314/technopark/photos_resized/product/120_120/634930/1_634930.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Проекторы Hisense",
+          "url": "/proektory/hisense/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1697546006/technopark/photos_resized/product/120_120/783285/1_783285.jpg?timestamp=2025-03-10_16-36-51",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2190889489/technopark/photos_resized/product/120_120/783285/2_783285.jpg?timestamp=2025-03-10_16-36-51",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1868479429/technopark/photos_resized/product/120_120/783285/3_783285.jpg?timestamp=2025-03-10_16-37-04",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2069400142/technopark/photos_resized/product/120_120/783285/4_783285.jpg?timestamp=2025-03-10_16-36-52",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3797015540/technopark/photos_resized/product/120_120/783285/5_783285.jpg?timestamp=2025-03-10_16-36-51",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2505501538/technopark/photos_resized/product/120_120/783285/6_783285.jpg?timestamp=2025-03-10_16-36-52",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2296813250/technopark/photos_resized/product/120_120/783285/7_783285.jpg?timestamp=2025-03-10_16-37-05",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4138750546/technopark/photos_resized/product/120_120/783285/8_783285.jpg?timestamp=2025-03-10_16-37-08",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3517305665/technopark/photos_resized/product/120_120/783285/9_783285.jpg?timestamp=2025-03-10_16-37-17",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/408521555/technopark/photos_resized/product/120_120/783285/10_783285.jpg?timestamp=2025-03-10_16-37-05",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4292978260/technopark/photos_resized/product/120_120/783285/11_783285.jpg?timestamp=2025-03-10_16-37-05",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2795693015/technopark/photos_resized/product/120_120/783285/12_783285.jpg?timestamp=2025-03-10_16-37-18",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Осушители Hisense",
+          "url": "/osushiteli/hisense/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3607039686/technopark/photos_resized/product/120_120/734227/1_734227.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/826745793/technopark/photos_resized/product/120_120/734227/2_734227.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1367386660/technopark/photos_resized/product/120_120/734227/3_734227.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3213806344/technopark/photos_resized/product/120_120/734227/4_734227.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1178604375/technopark/photos_resized/product/120_120/734227/5_734227.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        }
+      ],
+      "__typename": "Brand"
+    },
+    "section": {
+      "slug": "konditsionery",
+      "id": "880",
+      "name": "Все кондиционеры",
+      "parents": [
+        {
+          "id": "878",
+          "name": "Климат",
+          "depth": 1,
+          "__typename": "SectionTreeItem"
+        },
+        {
+          "id": "880",
+          "name": "Все кондиционеры",
+          "depth": 2,
+          "__typename": "SectionTreeItem"
+        }
+      ],
+      "__typename": "Section"
+    },
+    "media": {
+      "gallery": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/790254/1_790254.jpg?timestamp=2025-05-21_11-01-51",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/790254/2_790254.jpg?timestamp=2025-05-21_11-01-51",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/790254/3_790254.jpg?timestamp=2025-05-21_11-01-51",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/790254/4_790254.jpg?timestamp=2025-05-21_11-01-51",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/790254/5_790254.jpg?timestamp=2025-05-21_11-02-03",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/790254/6_790254.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/790254/7_790254.jpg?timestamp=2025-05-21_11-02-03",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/790254/8_790254.jpg?timestamp=2025-05-21_11-02-05",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/790254/9_790254.jpg?timestamp=2025-05-21_11-02-03",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "interior": [],
+      "video": [],
+      "vkVideo": null,
+      "view3d": [],
+      "listing": {
+        "default": [
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/790254/1_790254.jpg?timestamp=2025-05-21_11-01-54",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/790254/2_790254.jpg?timestamp=2025-05-21_11-01-55",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/790254/3_790254.jpg?timestamp=2025-05-21_11-01-55",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/790254/4_790254.jpg?timestamp=2025-05-21_11-01-55",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/790254/5_790254.jpg?timestamp=2025-05-21_11-02-08",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/790254/6_790254.jpg?timestamp=2025-05-21_11-01-54",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/790254/7_790254.jpg?timestamp=2025-05-21_11-02-07",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/790254/8_790254.jpg?timestamp=2025-05-21_11-02-11",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/790254/9_790254.jpg?timestamp=2025-05-21_11-02-07",
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "ProductListing"
+      },
+      "__typename": "ProductV2Media"
+    },
+    "modifications": {
+      "bigBrother": null,
+      "groups": [
+        {
+          "name": "Обслуживаемая площадь",
+          "items": [
+            {
+              "value": "14",
+              "product": {
+                "slug": "konditsioner-hisense-ap-07cr4gkws00",
+                "article": "136892",
+                "name": {
+                  "default": "Hisense AP-07CR4GKWS00",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "IN_STOCK",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/558702/1_558702.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/558702/2_558702.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/558702/3_558702.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/558702/4_558702.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/558702/5_558702.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/558702/6_558702.jpg",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/558702/7_558702.jpg",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            },
+            {
+              "value": "17",
+              "product": {
+                "slug": "konditsioner-hisense-ap-09cr4gkws00-790254",
+                "article": "182812",
+                "name": {
+                  "default": "Hisense AP-09CR4GKWS00",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "IN_STOCK",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/790254/1_790254.jpg?timestamp=2025-05-21_11-01-54",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/790254/2_790254.jpg?timestamp=2025-05-21_11-01-55",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/790254/3_790254.jpg?timestamp=2025-05-21_11-01-55",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/790254/4_790254.jpg?timestamp=2025-05-21_11-01-55",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/790254/5_790254.jpg?timestamp=2025-05-21_11-02-08",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/790254/6_790254.jpg?timestamp=2025-05-21_11-01-54",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/790254/7_790254.jpg?timestamp=2025-05-21_11-02-07",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/790254/8_790254.jpg?timestamp=2025-05-21_11-02-11",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/790254/9_790254.jpg?timestamp=2025-05-21_11-02-07",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            }
+          ],
+          "__typename": "ProductV2ModificationGroup"
+        }
+      ],
+      "__typename": "ProductModifications"
+    },
+    "description": {
+      "hasDescription": true,
+      "type": "DEFAULT",
+      "__typename": "ProductDescription"
+    },
+    "collection": {
+      "id": "790254",
+      "products": {
+        "pagination": {
+          "total": 0,
+          "__typename": "Pagination"
+        },
+        "__typename": "ProductV2Pagination"
+      },
+      "__typename": "ProductCollection"
+    },
+    "similar": {
+      "pagination": {
+        "total": 20,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "related": {
+      "pagination": {
+        "total": 19,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "accessories": [
+      {
+        "products": {
+          "pagination": {
+            "total": 1,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      }
+    ],
+    "rating": {
+      "average": 5,
+      "canRate": false,
+      "total": {
+        "all": 1,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 1,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "reviews": {
+      "total": 1,
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "bestCredit": {
+      "monthPayment": 1600,
+      "type": "DEFERRED_PAYMENT",
+      "__typename": "ProductBestCredit"
+    },
+    "isSpare": false,
+    "isService": false,
+    "isVipService": false,
+    "isGiftBonusCard": false,
+    "canBuy": true,
+    "canPayOnline": true,
+    "canRequestPrice": false,
+    "canShowPrice": true,
+    "canSubscribe": false,
+    "needPrepaymentForDelivery": false,
+    "needPrepaymentForPreorder": false,
+    "isSberSpasiboPayAvailable": true,
+    "isYandexPayAllowed": false,
+    "yandexSplit": {
+      "payments": [
+        {
+          "amount": 0,
+          "date": "2026-08-17T09:05:58+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2401,
+          "date": "2026-08-31T09:05:58+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2399,
+          "date": "2026-09-14T09:05:58+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2399,
+          "date": "2026-09-28T09:05:58+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2399,
+          "date": "2026-10-12T09:05:58+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2399,
+          "date": "2026-10-26T09:05:58+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2399,
+          "date": "2026-11-09T09:05:58+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2399,
+          "date": "2026-11-23T09:05:58+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2399,
+          "date": "2026-12-07T09:05:58+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2399,
+          "date": "2026-12-21T09:05:58+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2399,
+          "date": "2027-01-04T09:05:58+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2399,
+          "date": "2027-01-18T09:05:58+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2399,
+          "date": "2027-02-01T09:05:58+0300",
+          "__typename": "YandexSplitPayment"
+        }
+      ],
+      "firstPayment": 0,
+      "restPayment": 28790,
+      "description": "https://yandex.ru/support/split/",
+      "maxAmount": 295000,
+      "__typename": "YandexSplit"
+    },
+    "seo": {
+      "description": "Кондиционер Hisense AP-09CR4GKWS00: купить в интернет-магазине Технопарк с расширенной гарантией и бесплатной доставкой по РФ. Подробные характеристики товара с отзывами реальных покупателей.",
+      "text": "Вы можете купить кондиционер Hisense AP-09CR4GKWS00 с доставкой по Москве по низкой цене. В интернет-магазине Technopark.ru осуществляется продажа кондиционера Hisense AP-09CR4GKWS00 на выгодных условиях.",
+      "textHidden": "",
+      "title": "Кондиционер Hisense AP-09CR4GKWS00 - купить в Москве в интернет-магазине Технопарк",
+      "__typename": "SeoData"
+    },
+    "breadcrumbs": [
+      {
+        "name": "Главная",
+        "url": "/",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Климатическая техника",
+        "url": "/klimaticheskaya-tehnika/",
+        "options": [
+          {
+            "name": "Центр инноваций",
+            "url": "/tovary-iz-budushchego/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Смартфоны и гаджеты",
+            "url": "/smartfony-i-gadzhety/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Компьютеры и ноутбуки",
+            "url": "/kompyutery-i-noutbuki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Крупная бытовая техника",
+            "url": "/krupnaya-bytovaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Техника для кухни",
+            "url": "/dlya-kuhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Бытовая техника для дома",
+            "url": "/dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для красоты и здоровья",
+            "url": "/krasota-i-zdorovye/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Спортивные товары",
+            "url": "/trenazhery-dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Телевизоры Аудио Hi-Fi",
+            "url": "/audio-video-foto/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для сада, дома и ремонта",
+            "url": "/dlya-sada-doma-i-remonta/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посуда",
+            "url": "/posuda/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Детские товары",
+            "url": "/detskie-tovary/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для гейминга",
+            "url": "/gaming/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Плоттеры и услуги розницы",
+            "url": "//",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Запасные части",
+            "url": "/zapasnie-chasti/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Кондиционеры",
+        "url": "/konditsionery/",
+        "options": [
+          {
+            "name": "Вентиляторы",
+            "url": "/ventilyatory/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мульти сплит-системы",
+            "url": "/multisplit-sistemy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Водонагреватели",
+            "url": "/vodonagrevateli/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Очиститель воздуха для квартиры и дома",
+            "url": "/ochistiteli-vozduha/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Увлажнители воздуха",
+            "url": "/uvlazhniteli-vozduha/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мойки воздуха",
+            "url": "/moyki-vozduha/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Ионизаторы воздуха",
+            "url": "/ionizatory-vozdukha/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Осушители воздуха",
+            "url": "/osushiteli/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрические обогреватели",
+            "url": "/obogrevateli-i-teplovye-zavesy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Тепловые пушки",
+            "url": "/teplovye-pushki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрические тепловые завесы",
+            "url": "/teplovye-zavesy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Камины",
+            "url": "/elektrokaminy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Метеостанции",
+            "url": "/tsifrovye-meteostantsii/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для очистителей воздуха",
+            "url": "/aksessuary-dlya-ochistiteley-vozduha/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для увлажнителей",
+            "url": "/aksessuary-dlya-uvlazhniteley/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для обогревателей",
+            "url": "/aksessuar-dlya-obogrevateley/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для электрокаминов ",
+            "url": "/aksessuary-dlya-elektrokaminov-/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для вентиляторов",
+            "url": "/aksessuary-dlya-ventilyatorov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для кондиционеров",
+            "url": "/filtry-dlya-klimata/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Кондиционеры Hisense",
+        "url": "/konditsionery/hisense/",
+        "options": [
+          {
+            "name": "QYRON",
+            "url": "/konditsionery/qyron/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "ROYAL Clima",
+            "url": "/konditsionery/royal_clima/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Haier",
+            "url": "/konditsionery/haier/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Funai",
+            "url": "/konditsionery/funai/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Loriot",
+            "url": "/konditsionery/loriot/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Midea",
+            "url": "/konditsionery/midea/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "LG",
+            "url": "/konditsionery/lg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Electrolux",
+            "url": "/konditsionery/electrolux/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Ishimatsu",
+            "url": "/konditsionery/ishimatsu/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Ballu",
+            "url": "/konditsionery/ballu/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "AQUA",
+            "url": "/konditsionery/aqua/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Panasonic",
+            "url": "/konditsionery/panasonic/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Casarte",
+            "url": "/konditsionery/casarte/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Mitsubishi Electric",
+            "url": "/konditsionery/mitsubishi_electric/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Pioneer",
+            "url": "/konditsionery/pioneer/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Aurum",
+            "url": "/konditsionery/aurum/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Breeon",
+            "url": "/konditsionery/breeon/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Akai",
+            "url": "/konditsionery/akai/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "AURUS",
+            "url": "/konditsionery/aurus/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Kentatsu",
+            "url": "/konditsionery/kentatsu/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "IGC",
+            "url": "/konditsionery/igc/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Hitachi",
+            "url": "/konditsionery/hitachi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Viomi",
+            "url": "/konditsionery/viomi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Suzuki",
+            "url": "/konditsionery/suzuki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "TCL",
+            "url": "/konditsionery/tcl/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Daikin",
+            "url": "/konditsionery/daikin/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "DAICHI",
+            "url": "/konditsionery/daichi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Samsung",
+            "url": "/konditsionery/samsung/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Dantex",
+            "url": "/konditsionery/dantex/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Bosch",
+            "url": "/konditsionery/bosch/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Mitsubishi Heavy Industries",
+            "url": "/konditsionery/mitsubishi_heavy_industries/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Shivaki",
+            "url": "/konditsionery/shivaki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Primera",
+            "url": "/konditsionery/primera/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "HitAir",
+            "url": "/konditsionery/hitair/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Evapolar",
+            "url": "/konditsionery/evapolar/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Abion",
+            "url": "/konditsionery/abion/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Toshiba",
+            "url": "/konditsionery/toshiba/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Mitsubishi",
+            "url": "/konditsionery/mitsubishi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Zanussi",
+            "url": "/konditsionery/zanussi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Fujiplus",
+            "url": "/konditsionery/fujiplus/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Hisense AP-09CR4GKWS00",
+        "url": "konditsioner-hisense-ap-09cr4gkws00-790254",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      }
+    ],
+    "isArchive": false,
+    "__typename": "ProductV2",
+    "isSberPayOneClickAllowed": false,
+    "isTinkoffPayOneClickAllowed": false,
+    "bonus": null
+  },
+  "details": {
+    "description": "<style> *{box-sizing:border-box;outline:0}body{font-family:'DINPro Technopark',Arial;font-size:14px;font-weight:400;font-display:swap;margin:0;overflow-x:hidden;position:relative;min-height:95vh;-webkit-tap-highlight-color:transparent}body.lock-scroll{overflow:hidden;position:fixed;right:0;left:0;bottom:0}@media (min-width:1192px){body.lock-scroll{position:relative}}@media screen and (max-device-width:480px){body{-webkit-text-size-adjust:none}}.label-for-seo{width:100%}.label-for-seo__span{display:none}a{color:#0093c4;text-decoration:none}.is-visible{display:block!important}.is-hidden{display:none!important}.is-visually-hidden{opacity:0!important;visibility:hidden!important;pointer-events:none!important}.is-link{color:#0093c4}.no-wrap{white-space:nowrap}.container{margin:auto;width:100%}@media (min-width:960px){.container{width:calc(100% - 48px)}}@media (min-width:1482px){.container{max-width:1397px}}.is-overflow-hidden{overflow:hidden}.is-mobile-not{display:none!important}@media (min-width:960px){.is-mobile-not{display:block!important}}@media (min-width:960px){.is-mobile-only{display:none!important}}@media (max-width:959px){.hide-phone{display:none}}@media (min-width:960px) and (max-width:1481px){.hide-tablet{display:none}}.is-hidden{display:none!important}.nowrap-text{white-space:nowrap}.textcenter{text-align:center}ul.list{margin:0;padding:6px 0 18px}@media (min-width:960px){ul.list{padding:6px 0 24px}}ul.list li{font-family:'DINPro Technopark',Arial;font-size:15px;font-weight:400;font-display:swap;color:#fff;line-height:20px;list-style:none;margin:0;padding-left:9px;position:relative}@media (min-width:960px){ul.list li{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:400;font-display:swap;line-height:21px;padding-left:26px}}ul.list>li:before{background-color:#fff;border-radius:50%;content:\"\";display:block;height:3px;left:0;position:absolute;top:10px;width:3px}@media (min-width:960px){ul.list>li:before{border-radius:0;height:1px;width:13px}}ul.list>li>ul{padding:6px 0 6px 15px}@media (min-width:960px){ul.list>li>ul{padding:3px 0 3px 4px}}ul.list>li>ul>li:before{background-color:rgba(255,255,255,.5)}ul.list>li>ul>li>ul{padding:6px 0 0 15px}@media (min-width:960px){ul.list>li>ul>li>ul{padding:3px 0 0 4px}}ul.list>li>ul>li>ul>li:before{background-color:rgba(255,255,255,.2)}ol.list{margin:0;padding:6px 0 18px;counter-reset:list1}@media (min-width:960px){ol.list{padding:6px 0 24px}}ol.list li{font-family:'DINPro Technopark',Arial;font-size:15px;font-weight:400;font-display:swap;color:#fff;line-height:20px;list-style:none;margin:0;padding-left:9px;position:relative}@media (min-width:960px){ol.list li{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:400;font-display:swap;line-height:21px;padding-left:26px}}ol.list>li{padding-left:24px}ol.list>li:before{counter-increment:list1;content:counter(list1) \". \";left:0;position:absolute}ol.list>li>ol{counter-reset:list2;padding:6px 0}@media (min-width:960px){ol.list>li>ol{padding:3px 0}}ol.list>li>ol>li{padding-left:42px}ol.list>li>ol>li:before{counter-increment:list2;content:counter(list1) \".\" counter(list2) \". \"}ol.list>li>ol>li>ol{counter-reset:list3}ol.list>li>ol>li>ol>li:before{counter-increment:list3;content:counter(list1) \".\" counter(list2) \".\" counter(list3) \". \"}ol.list--compact{padding:0}.list--line-interval li:not(:last-child){margin-bottom:1em}input::-ms-clear{display:none}input::-webkit-clear-button{display:none}@media (max-width:767px){.footer{padding-bottom:66px}}.page-container{margin:auto;padding:0 18px;width:100%}@media (min-width:960px){.page-container{padding:0 24px;width:100%}}@media (min-width:1482px){.page-container{width:1481px}}@media (min-width:960px){.page-container--extra-padding{padding:0 42px}}.default-container{width:100%;max-width:1481px;margin:auto;padding:0 12px}@media (min-width:960px){.default-container{padding:0 24px}}button,input,select,textarea{font-family:inherit;font-size:100%;margin:0}textarea{resize:none;overflow:auto}form{margin:0}button{color:inherit}dd,dl,dt{margin:0;padding:0}input[type=search]{-webkit-appearance:none}input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration,input[type=search]::-webkit-search-results-button,input[type=search]::-webkit-search-results-decoration{display:none}input:invalid{box-shadow:none}textarea:invalid{box-shadow:none}svg *{pointer-events:none}.product__desc{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:300;font-display:swap;color:#878787;display:none}.product__desc b{font-family:'DINPro Technopark',Arial;font-size:20px;font-weight:400;font-display:swap;color:#fff}.dyson-v10-picking,.dyson-v10-properties,.dyson-v10-wrapper,.dyson-v10-wrapper .dyson-v10__list span{color:#fff;padding:0 12px}@media (max-width:1154px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:170px}}@media (max-width:1100px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:270px}}@media (max-width:960px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:27px}}.dyson-v10-first-row li.dyson-v10-item{max-width:calc(100% / 3 - 10);padding-right:5px}@media (max-width:959px){.dyson-v10-first-row{flex-direction:column;align-items:flex-start}.dyson-v10-first-row li.dyson-v10-item{max-width:none}}@media (min-width:960px) and (max-width:1303px){.dyson-v10-first-row{flex-direction:column;align-items:flex-start}.dyson-v10-first-row li.dyson-v10-item{max-width:none}}.dyson-v10-chapter{text-align:center!important}.dyson-v10__list li.dyson-v10__list-item{background-size:contain;background-position:left} </style> <p>Современный дизайн и компактные размеры делают мобильный кондиционер Hisense AP-09CR4GKWS00 идеальным решением для любого помещения. Стильный корпус в белом цвете гармонично впишется в любой интерьер, а продуманная конструкция позволяет легко перемещать устройство при необходимости. Комплектация включает все необходимые аксессуары для установки и эксплуатации.</p>  <h2>Особенности</h2>  <ul class=\"list\">  <li><b>Удобное управление</b><br/>  Функциональное оснащение включает предустановленные режимы работы: Sleep, Smart, Super, Dimmer, I Feel. Система управления реализована через удобный пульт ДУ, который позволяет настраивать все функции без необходимости подходить к устройству. Кондиционер оснащён тремя скоростями вращения вентилятора, что позволяет выбрать оптимальный уровень шума и интенсивности воздушного потока</li>  <li><b>Надёжность и качество</b><br/>  Надёжность и качество подтверждаются многолетним опытом компании Hisense в производстве климатической техники. Строгий контроль качества на всех этапах производства гарантирует длительный срок службы и стабильную работу устройства</li>  <li><b>Энергоэффективность класса «А»</b><br/>  Энергоэффективность класса «А» обеспечивает экономичное потребление электроэнергии при максимальной производительности. Кондиционер способен эффективно охлаждать помещение площадью до 17 квадратных метров, что делает его отличным выбором для спальни, гостиной, кабинета или небольшой квартиры</li>  </ul>",
+    "descriptionType": "DEFAULT",
+    "descriptionBarcode": "6926597712635",
+    "descriptionBrand": "Hisense",
+    "specifications": {
+      "short": [
+        {
+          "name": "Тип",
+          "value": "мобильный кондиционер",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Площадь помещения",
+          "value": "17 кв.м",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Мощность в режиме охлаждения",
+          "value": "2.49 кВт",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "barcode": "6926597712635",
+      "country": "Китай",
+      "full": [
+        {
+          "name": "Основные характеристики",
+          "list": [
+            {
+              "name": "Тип",
+              "value": "мобильный кондиционер",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Размещение внутреннего блока",
+              "value": "напольный",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Площадь помещения",
+              "value": "17 кв.м",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип хладагента",
+              "value": "R-290",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Серия",
+              "value": "W-series",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Производительность",
+          "list": [
+            {
+              "name": "Мощность в режиме охлаждения",
+              "value": "2.49 кВт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Расход воздуха внутреннего блока",
+              "value": "320 м3/ч",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Осушение",
+              "value": "1.2 л/ч",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Основные режимы",
+          "list": [
+            {
+              "name": "Охлаждение",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Осушение воздуха",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вентиляция",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ночной режим",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Функции",
+          "list": [
+            {
+              "name": "Таймер включения",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Таймер выключения",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Авторестарт",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Самодиагностика неисправностей",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Регулировка воздушного потока",
+          "list": [
+            {
+              "name": "Количество скоростей",
+              "value": "3",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автоматическое распределение воздушных потоков",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Регулировка силы воздушного потока",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Управление направлением воздушного потока (вверх/вниз)",
+              "value": "ручное",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Уровень шума",
+          "list": [
+            {
+              "name": "Максимальный уровень шума внутреннего блока",
+              "value": "52 дБ",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Фильтрация",
+          "list": [
+            {
+              "name": "Фильтр грубой очистки (сетчатый)",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Особенности",
+          "list": [
+            {
+              "name": "Тепловой насос",
+              "value": "нет",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Датчики",
+              "value": "температуры",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Поддержание температуры в месте нахождения пульта",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автоматическое испарение конденсата",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автоматическое отключение при заполнении емкости конденсатом",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Управление",
+          "list": [
+            {
+              "name": "Управление",
+              "value": "электронное, сенсорное",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Пульт ДУ",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Дисплей",
+          "list": [
+            {
+              "name": "Тип дисплея",
+              "value": "цифровой",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Расположение дисплея",
+              "value": "корпус, пульт",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Индикация",
+          "list": [
+            {
+              "name": "Индикация включения",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация режима работы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация температуры",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация неисправности",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Звуковые сигналы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дополнительная индикация",
+              "value": "заполнения ёмкости для конденсата",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Электропитание",
+          "list": [
+            {
+              "name": "Потребляемая мощность при охлаждении",
+              "value": "950 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Класс энергоэффективности",
+              "value": "A",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Рабочий ток при охлаждении",
+              "value": "4.5 A",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Рабочее напряжение",
+              "value": "220-240 B",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Рабочая частота",
+              "value": "50 Гц",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Степень защиты",
+              "value": "IPX1",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Корпус",
+          "list": [
+            {
+              "name": "Цвет",
+              "value": "белый",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Емкость для конденсата",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Колеса для транспортировки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Комплектация",
+          "list": [
+            {
+              "name": "Пульт ДУ",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Набор аксессуаров для монтажа",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Гибкий воздушный шланг",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Насадка для установки шланга в окно",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Инструкция",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Размеры и вес",
+          "list": [
+            {
+              "name": "Высота",
+              "value": "67 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ширина",
+              "value": "30 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Глубина",
+              "value": "33 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вес",
+              "value": "24.5 кг",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        }
+      ],
+      "grossWeight": "28.5",
+      "netWeight": "24.5",
+      "height": "0.86",
+      "instructionUrl": "https://storage.yandexcloud.net/technopark.instructions/790254/instruction/instrukciya-konditsioner-hisense-ap-09cr4gkws00-790254.pdf",
+      "length": "0.39",
+      "schemeUrl": null,
+      "warranty": "36",
+      "width": "0.35",
+      "__typename": "ProductV2Specifications"
+    },
+    "certificates": ["https://www.technopark.ru/bipublic/Cert/1408H01DJHTEIO.pdf"],
+    "isManufacturerCountry": false,
+    "isSellerWarranty": false,
+    "reviews": {
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "total": 1,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "rating": {
+      "average": 5,
+      "canRate": false,
+      "total": {
+        "all": 1,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 1,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "isLoading": false
+  },
+  "shots": [
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/790254/1_790254.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/790254/1_790254.jpg?timestamp=2025-05-21_11-01-51"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/790254/2_790254.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/790254/2_790254.jpg?timestamp=2025-05-21_11-01-51"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/790254/3_790254.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/790254/3_790254.jpg?timestamp=2025-05-21_11-01-51"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/790254/4_790254.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/790254/4_790254.jpg?timestamp=2025-05-21_11-01-51"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/790254/5_790254.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/790254/5_790254.jpg?timestamp=2025-05-21_11-02-03"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/790254/6_790254.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/790254/6_790254.jpg"
+    ]
+  ],
+  "photos": [
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/konditsioner-hisense-ap-09cr4gkws00-790254-1.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/konditsioner-hisense-ap-09cr4gkws00-790254-2.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/konditsioner-hisense-ap-09cr4gkws00-790254-3.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/konditsioner-hisense-ap-09cr4gkws00-790254-4.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/konditsioner-hisense-ap-09cr4gkws00-790254-5.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/konditsioner-hisense-ap-09cr4gkws00-790254-6.jpg"
+  ]
+}

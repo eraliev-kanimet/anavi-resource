@@ -1,0 +1,2257 @@
+{
+  "shelf": "konditsionery",
+  "slug": "konditsioner-haier-hsu-12hqj103r3-w-quantum-827930",
+  "product": {
+    "id": "827930",
+    "article": "196010",
+    "slug": "konditsioner-haier-hsu-12hqj103r3-w-quantum-827930",
+    "hasSmartInstallments": false,
+    "isActive": true,
+    "name": {
+      "default": "Haier HSU-12HQJ103R3-W Quantum",
+      "full": "Кондиционер Haier HSU-12HQJ103R3-W Quantum",
+      "pseudo": null,
+      "spare": null,
+      "fullWithoutSection": "Haier HSU-12HQJ103R3-W Quantum",
+      "section": "Кондиционер",
+      "__typename": "ProductName"
+    },
+    "price": {
+      "default": 39700,
+      "marketing": null,
+      "old": null,
+      "__typename": "ProductPrice"
+    },
+    "benefit": null,
+    "specifications": {
+      "short": [
+        {
+          "name": "Тип",
+          "value": "сплит-система",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Площадь помещения",
+          "value": "35 кв.м",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Мощность в режиме охлаждения",
+          "value": "3.2 кВт",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Мощность в режиме обогрева",
+          "value": "3.2 кВт",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "__typename": "ProductV2Specifications"
+    },
+    "labels": [
+      {
+        "name": "Бонусы Спасибо",
+        "type": "sberspasibo",
+        "items": [
+          {
+            "description": "",
+            "name": "Этот товар можно оплатить бонусами Спасибо от СберБанка",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Акция",
+        "type": "special_offer",
+        "items": [
+          {
+            "description": "",
+            "name": "5 000 бонусов за покупки",
+            "url": "/action/5-000-bonusov-za-pokupki/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Рассрочка",
+        "type": "deferred_payment",
+        "items": [
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-6",
+            "url": "/konditsioner-haier-hsu-12hqj103r3-w-quantum-827930/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-12",
+            "url": "/konditsioner-haier-hsu-12hqj103r3-w-quantum-827930/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-18",
+            "url": "/konditsioner-haier-hsu-12hqj103r3-w-quantum-827930/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-24",
+            "url": "/konditsioner-haier-hsu-12hqj103r3-w-quantum-827930/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      }
+    ],
+    "labelsV2": [
+      {
+        "id": "8",
+        "name": "Бонусы Спасибо",
+        "code": "sberspasibo",
+        "mainColor": "#0C9C0C",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#0C9C0C",
+        "altTextColor": "#FFFFFF",
+        "borderAndTextColor": "#0C9C0C",
+        "items": [
+          {
+            "id": "5780",
+            "text": "Этот товар можно оплатить бонусами Спасибо от СберБанка ",
+            "buttonText": "Подробнее",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      }
+    ],
+    "status": {
+      "id": "IN_STOCK",
+      "name": "В наличии",
+      "type": "POSITIVE",
+      "__typename": "ProductStatus"
+    },
+    "brand": {
+      "code": "haier",
+      "id": "105452",
+      "name": "Haier",
+      "src": "https://cdn1.technopark.ru/technopark/photos_resized/section_brand_300_100/300_100/105452/1_105452.png",
+      "slug": "haier",
+      "sections": [
+        {
+          "name": "Все водонагреватели Haier",
+          "url": "/vodonagrevateli/haier/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/430400410/technopark/photos_resized/product/120_120/825855/1_825855.jpg?timestamp=2026-03-27_13-57-25",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2277766713/technopark/photos_resized/product/120_120/825855/2_825855.jpg?timestamp=2026-03-27_13-57-25",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Фены Haier",
+          "url": "/feny-i-pribory-dlya-ukladki/haier/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2528132825/technopark/photos_resized/product/120_120/810393/1_810393.jpg?timestamp=2025-11-18_16-01-26",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2973894631/technopark/photos_resized/product/120_120/810393/2_810393.jpg?timestamp=2025-11-18_16-01-38",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2410352536/technopark/photos_resized/product/120_120/810393/3_810393.jpg?timestamp=2025-11-18_16-01-28",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4172037902/technopark/photos_resized/product/120_120/810393/4_810393.jpg?timestamp=2025-11-18_16-01-28",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4290902807/technopark/photos_resized/product/120_120/810393/5_810393.jpg?timestamp=2025-11-18_16-01-27",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2436514541/technopark/photos_resized/product/120_120/810393/6_810393.jpg?timestamp=2025-11-18_16-01-32",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1598842571/technopark/photos_resized/product/120_120/810393/7_810393.jpg?timestamp=2025-11-18_16-01-39",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Все пылесосы Haier",
+          "url": "/pylesosy/haier/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/276807266/technopark/photos_resized/product/120_120/810359/1_810359.jpg?timestamp=2025-11-18_12-31-40",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1378035823/technopark/photos_resized/product/120_120/810359/2_810359.jpg?timestamp=2025-11-18_12-31-44",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2160108531/technopark/photos_resized/product/120_120/810359/3_810359.jpg?timestamp=2025-11-18_12-31-40",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3320967655/technopark/photos_resized/product/120_120/810359/4_810359.jpg?timestamp=2025-11-18_12-31-47",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/995290529/technopark/photos_resized/product/120_120/810359/5_810359.jpg?timestamp=2025-11-18_12-31-43",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Утюги Haier",
+          "url": "/utyugi/haier/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/4233085574/technopark/photos_resized/product/120_120/797416/1_797416.jpg?timestamp=2025-07-21_19-45-47",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1699124028/technopark/photos_resized/product/120_120/797416/2_797416.jpg?timestamp=2025-07-21_19-45-47",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1647007525/technopark/photos_resized/product/120_120/797416/3_797416.jpg?timestamp=2025-07-21_19-45-47",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2503870280/technopark/photos_resized/product/120_120/797416/4_797416.jpg?timestamp=2025-07-21_19-45-46",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2336813584/technopark/photos_resized/product/120_120/797416/5_797416.jpg?timestamp=2025-07-21_19-45-47",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Телевизоры Haier",
+          "url": "/televizory/haier/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2466073002/technopark/photos_resized/product/120_120/828809/1_828809.jpg?timestamp=2026-04-22_12-25-23",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1571733398/technopark/photos_resized/product/120_120/828809/2_828809.jpg?timestamp=2026-04-22_12-25-26",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/695142392/technopark/photos_resized/product/120_120/828809/3_828809.jpg?timestamp=2026-04-22_12-25-22",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1583888238/technopark/photos_resized/product/120_120/828809/4_828809.jpg?timestamp=2026-04-22_12-25-23",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2509278643/technopark/photos_resized/product/120_120/828809/5_828809.jpg?timestamp=2026-04-22_12-25-23",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3470207743/technopark/photos_resized/product/120_120/828809/6_828809.jpg?timestamp=2026-04-22_12-25-22",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Винные шкафы Haier",
+          "url": "/vinnye-shkafy/haier/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1730790430/technopark/photos_resized/product/120_120/806210/1_806210.jpg?timestamp=2025-10-14_17-08-27",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/390279313/technopark/photos_resized/product/120_120/806210/2_806210.jpg?timestamp=2025-10-14_17-08-28",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1615069191/technopark/photos_resized/product/120_120/806210/3_806210.jpg?timestamp=2025-10-14_17-08-28",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3290467756/technopark/photos_resized/product/120_120/806210/4_806210.jpg?timestamp=2025-10-14_17-08-40",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2387239211/technopark/photos_resized/product/120_120/806210/5_806210.jpg?timestamp=2025-10-14_17-08-28",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2281450752/technopark/photos_resized/product/120_120/806210/6_806210.jpg?timestamp=2025-10-14_17-08-29",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3187422472/technopark/photos_resized/product/120_120/806210/7_806210.jpg?timestamp=2025-10-14_17-08-41",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3405448606/technopark/photos_resized/product/120_120/806210/8_806210.jpg?timestamp=2025-10-14_17-08-42",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3276622261/technopark/photos_resized/product/120_120/806210/9_806210.jpg?timestamp=2025-10-14_17-08-41",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Гладильные системы Haier",
+          "url": "/gladilnye-sistemy/haier/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1935831083/technopark/photos_resized/product/120_120/797380/1_797380.jpg?timestamp=2025-07-21_18-49-38",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/329644494/technopark/photos_resized/product/120_120/797380/2_797380.jpg?timestamp=2025-07-21_18-49-38",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3935082940/technopark/photos_resized/product/120_120/797380/3_797380.jpg?timestamp=2025-07-21_18-49-52",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3932889489/technopark/photos_resized/product/120_120/797380/4_797380.jpg?timestamp=2025-07-21_18-49-39",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1947186226/technopark/photos_resized/product/120_120/797380/5_797380.jpg?timestamp=2025-07-21_18-49-40",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/73744573/technopark/photos_resized/product/120_120/797380/6_797380.jpg?timestamp=2025-07-21_18-49-38",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Выпрямители для волос Haier",
+          "url": "/utuzhki-dlya-volos/haier/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1457617097/technopark/photos_resized/product/120_120/798257/1_798257.jpg?timestamp=2025-07-30_12-27-50",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/568739935/technopark/photos_resized/product/120_120/798257/2_798257.jpg?timestamp=2025-07-30_12-27-50",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1092731322/technopark/photos_resized/product/120_120/798257/3_798257.jpg?timestamp=2025-07-30_12-27-50",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/908521772/technopark/photos_resized/product/120_120/798257/4_798257.jpg?timestamp=2025-07-30_12-27-50",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2736222790/technopark/photos_resized/product/120_120/798257/5_798257.jpg?timestamp=2025-07-30_12-28-07",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2975421902/technopark/photos_resized/product/120_120/798257/6_798257.jpg?timestamp=2025-07-30_12-27-50",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Мульти сплит-системы Haier",
+          "url": "/multisplit-sistemy/haier/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2228649404/technopark/photos_resized/product/120_120/651401/1_651401.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3826381913/technopark/photos_resized/product/120_120/651401/2_651401.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4090580266/technopark/photos_resized/product/120_120/651401/3_651401.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1792547984/technopark/photos_resized/product/120_120/651401/4_651401.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2467742927/technopark/photos_resized/product/120_120/651401/5_651401.jpg",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2978863911/technopark/photos_resized/product/120_120/651401/6_651401.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        }
+      ],
+      "__typename": "Brand"
+    },
+    "section": {
+      "slug": "konditsionery",
+      "id": "880",
+      "name": "Все кондиционеры",
+      "parents": [
+        {
+          "id": "878",
+          "name": "Климат",
+          "depth": 1,
+          "__typename": "SectionTreeItem"
+        },
+        {
+          "id": "880",
+          "name": "Все кондиционеры",
+          "depth": 2,
+          "__typename": "SectionTreeItem"
+        }
+      ],
+      "__typename": "Section"
+    },
+    "media": {
+      "gallery": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/827930/1_827930.jpg?timestamp=2026-04-15_13-45-27",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/827930/2_827930.jpg?timestamp=2026-04-15_13-45-31",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/827930/3_827930.jpg?timestamp=2026-04-15_13-45-27",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/827930/4_827930.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/827930/5_827930.jpg",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/827930/6_827930.jpg?timestamp=2026-04-15_13-45-27",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/827930/7_827930.jpg?timestamp=2026-04-15_13-45-31",
+            "__typename": "Image"
+          },
+          "large": null,
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "interior": [],
+      "video": [],
+      "vkVideo": null,
+      "view3d": [],
+      "listing": {
+        "default": [
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/827930/1_827930.jpg?timestamp=2026-04-15_13-45-28",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/827930/2_827930.jpg?timestamp=2026-04-15_13-45-31",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/827930/3_827930.jpg?timestamp=2026-04-15_13-45-28",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/827930/4_827930.jpg?timestamp=2026-04-15_13-45-28",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/827930/5_827930.jpg?timestamp=2026-04-15_13-45-28",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/827930/6_827930.jpg?timestamp=2026-04-15_13-45-28",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/827930/7_827930.jpg?timestamp=2026-04-15_13-45-31",
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "ProductListing"
+      },
+      "__typename": "ProductV2Media"
+    },
+    "modifications": {
+      "bigBrother": {
+        "id": "827943",
+        "article": "196031",
+        "benefit": null,
+        "name": {
+          "default": "Haier HSU-18HQJ103R3-W Quantum",
+          "pseudo": null,
+          "fullWithoutSection": "Haier HSU-18HQJ103R3-W Quantum",
+          "full": "Кондиционер Haier HSU-18HQJ103R3-W Quantum",
+          "section": "Кондиционер",
+          "__typename": "ProductName"
+        },
+        "slug": "konditsioner-haier-hsu-18hqj103r3-w-quantum-827943",
+        "price": {
+          "default": 57890,
+          "marketing": null,
+          "old": null,
+          "__typename": "ProductPrice"
+        },
+        "media": {
+          "listing": {
+            "default": [
+              {
+                "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/827943/1_827943.jpg?timestamp=2026-04-15_13-45-49",
+                "__typename": "Image"
+              },
+              {
+                "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/827943/2_827943.jpg?timestamp=2026-04-15_13-45-52",
+                "__typename": "Image"
+              },
+              {
+                "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/827943/3_827943.jpg?timestamp=2026-04-15_13-45-49",
+                "__typename": "Image"
+              },
+              {
+                "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/827943/4_827943.jpg?timestamp=2026-04-15_13-45-49",
+                "__typename": "Image"
+              },
+              {
+                "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/827943/5_827943.jpg?timestamp=2026-04-15_13-45-49",
+                "__typename": "Image"
+              },
+              {
+                "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/827943/6_827943.jpg?timestamp=2026-04-15_13-45-52",
+                "__typename": "Image"
+              },
+              {
+                "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/827943/7_827943.jpg?timestamp=2026-04-15_13-45-49",
+                "__typename": "Image"
+              }
+            ],
+            "transparent": [],
+            "__typename": "ProductListing"
+          },
+          "__typename": "ProductV2Media"
+        },
+        "labelsV2": [
+          {
+            "name": "Бонусы Спасибо",
+            "code": "sberspasibo",
+            "mainColor": "#0C9C0C",
+            "mainTextColor": "#FFFFFF",
+            "altColor": "#0C9C0C",
+            "altTextColor": "#FFFFFF",
+            "borderAndTextColor": "#0C9C0C",
+            "items": [
+              {
+                "text": "Этот товар можно оплатить бонусами Спасибо от СберБанка ",
+                "buttonText": "Подробнее",
+                "url": "/support/pay/#sber",
+                "__typename": "ProductLabelTextAndButtonItem"
+              }
+            ],
+            "__typename": "ProductLabelV2"
+          }
+        ],
+        "canBuy": true,
+        "canRequestPrice": false,
+        "canSubscribe": false,
+        "isArchive": false,
+        "isService": false,
+        "isVipService": false,
+        "canShowPrice": true,
+        "status": {
+          "id": "IN_STOCK",
+          "name": "В наличии",
+          "type": "POSITIVE",
+          "__typename": "ProductStatus"
+        },
+        "__typename": "ProductV2",
+        "yandexSplit": {
+          "payments": [
+            {
+              "amount": 0,
+              "__typename": "YandexSplitPayment"
+            },
+            {
+              "amount": 4826,
+              "__typename": "YandexSplitPayment"
+            },
+            {
+              "amount": 4824,
+              "__typename": "YandexSplitPayment"
+            },
+            {
+              "amount": 4824,
+              "__typename": "YandexSplitPayment"
+            },
+            {
+              "amount": 4824,
+              "__typename": "YandexSplitPayment"
+            },
+            {
+              "amount": 4824,
+              "__typename": "YandexSplitPayment"
+            },
+            {
+              "amount": 4824,
+              "__typename": "YandexSplitPayment"
+            },
+            {
+              "amount": 4824,
+              "__typename": "YandexSplitPayment"
+            },
+            {
+              "amount": 4824,
+              "__typename": "YandexSplitPayment"
+            },
+            {
+              "amount": 4824,
+              "__typename": "YandexSplitPayment"
+            },
+            {
+              "amount": 4824,
+              "__typename": "YandexSplitPayment"
+            },
+            {
+              "amount": 4824,
+              "__typename": "YandexSplitPayment"
+            },
+            {
+              "amount": 4824,
+              "__typename": "YandexSplitPayment"
+            }
+          ],
+          "__typename": "YandexSplit"
+        },
+        "brand": {
+          "id": "105452",
+          "name": "Haier",
+          "__typename": "Brand"
+        }
+      },
+      "groups": [
+        {
+          "name": "Обслуживаемая площадь",
+          "items": [
+            {
+              "value": "20",
+              "product": {
+                "slug": "konditsioner-haier-hsu-07hqj103r3-w-quantum-828190",
+                "article": "195994",
+                "name": {
+                  "default": "Haier HSU-07HQJ103R3-W Quantum",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "IN_STOCK",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/828190/1_828190.jpg?timestamp=2026-04-15_14-09-16",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/828190/2_828190.jpg?timestamp=2026-04-15_14-09-20",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/828190/3_828190.jpg?timestamp=2026-04-15_14-09-17",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/828190/4_828190.jpg?timestamp=2026-04-15_14-09-17",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/828190/5_828190.jpg?timestamp=2026-04-15_14-09-17",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/828190/6_828190.jpg?timestamp=2026-04-15_14-09-17",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/828190/7_828190.jpg?timestamp=2026-04-15_14-09-20",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            },
+            {
+              "value": "25",
+              "product": {
+                "slug": "konditsioner-haier-hsu-09hqj103r3-w-quantum-828172",
+                "article": "196000",
+                "name": {
+                  "default": "Haier HSU-09HQJ103R3-W Quantum",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "IN_STOCK",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/828172/1_828172.jpg?timestamp=2026-04-15_13-28-00",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/828172/2_828172.jpg?timestamp=2026-04-15_13-28-03",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/828172/3_828172.jpg?timestamp=2026-04-15_13-28-00",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/828172/4_828172.jpg?timestamp=2026-04-15_13-28-00",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/828172/5_828172.jpg?timestamp=2026-04-15_13-28-00",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/828172/6_828172.jpg?timestamp=2026-04-15_13-28-00",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/828172/7_828172.jpg?timestamp=2026-04-15_13-28-03",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            },
+            {
+              "value": "35",
+              "product": {
+                "slug": "konditsioner-haier-hsu-12hqj103r3-w-quantum-827930",
+                "article": "196010",
+                "name": {
+                  "default": "Haier HSU-12HQJ103R3-W Quantum",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "IN_STOCK",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/827930/1_827930.jpg?timestamp=2026-04-15_13-45-28",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/827930/2_827930.jpg?timestamp=2026-04-15_13-45-31",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/827930/3_827930.jpg?timestamp=2026-04-15_13-45-28",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/827930/4_827930.jpg?timestamp=2026-04-15_13-45-28",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/827930/5_827930.jpg?timestamp=2026-04-15_13-45-28",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/827930/6_827930.jpg?timestamp=2026-04-15_13-45-28",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/827930/7_827930.jpg?timestamp=2026-04-15_13-45-31",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            },
+            {
+              "value": "50",
+              "product": {
+                "slug": "konditsioner-haier-hsu-18hqj103r3-w-quantum-827943",
+                "article": "196031",
+                "name": {
+                  "default": "Haier HSU-18HQJ103R3-W Quantum",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "IN_STOCK",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/827943/1_827943.jpg?timestamp=2026-04-15_13-45-49",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/827943/2_827943.jpg?timestamp=2026-04-15_13-45-52",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/827943/3_827943.jpg?timestamp=2026-04-15_13-45-49",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/827943/4_827943.jpg?timestamp=2026-04-15_13-45-49",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/827943/5_827943.jpg?timestamp=2026-04-15_13-45-49",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/827943/6_827943.jpg?timestamp=2026-04-15_13-45-52",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/827943/7_827943.jpg?timestamp=2026-04-15_13-45-49",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            },
+            {
+              "value": "70",
+              "product": {
+                "slug": "konditsioner-haier-hsu-24hqj103r3-w-quantum-834169",
+                "article": "198730",
+                "name": {
+                  "default": "Haier HSU-24HQJ103R3-W Quantum",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "IN_STOCK",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/834169/1_834169.jpg?timestamp=2026-06-19_15-57-37",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/834169/2_834169.jpg?timestamp=2026-06-19_15-58-00",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/834169/3_834169.jpg?timestamp=2026-06-19_15-57-57",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/834169/4_834169.jpg?timestamp=2026-06-19_15-58-06",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/834169/5_834169.jpg?timestamp=2026-06-19_15-58-10",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/834169/6_834169.jpg?timestamp=2026-06-19_15-58-14",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/834169/7_834169.jpg?timestamp=2026-06-19_15-58-18",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/834169/8_834169.jpg?timestamp=2026-06-19_15-58-21",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/834169/9_834169.jpg?timestamp=2026-06-19_15-58-25",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            }
+          ],
+          "__typename": "ProductV2ModificationGroup"
+        },
+        {
+          "name": "Цвет",
+          "items": [
+            {
+              "value": "белый",
+              "product": {
+                "slug": "konditsioner-haier-hsu-12hqj103r3-w-quantum-827930",
+                "article": "196010",
+                "name": {
+                  "default": "Haier HSU-12HQJ103R3-W Quantum",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "IN_STOCK",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/827930/1_827930.jpg?timestamp=2026-04-15_13-45-28",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/827930/2_827930.jpg?timestamp=2026-04-15_13-45-31",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/827930/3_827930.jpg?timestamp=2026-04-15_13-45-28",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/827930/4_827930.jpg?timestamp=2026-04-15_13-45-28",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/827930/5_827930.jpg?timestamp=2026-04-15_13-45-28",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/827930/6_827930.jpg?timestamp=2026-04-15_13-45-28",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/827930/7_827930.jpg?timestamp=2026-04-15_13-45-31",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            },
+            {
+              "value": "чёрный",
+              "product": {
+                "slug": "konditsioner-haier-hsu-12hqj103r3-b-quantum-829498",
+                "article": "196007",
+                "name": {
+                  "default": "Haier HSU-12HQJ103R3-B Quantum",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "IN_STOCK",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/829498/1_829498.jpg?timestamp=2026-04-30_15-24-23",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/829498/2_829498.jpg?timestamp=2026-04-30_15-24-23",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/829498/3_829498.jpg?timestamp=2026-04-30_15-24-22",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/829498/4_829498.jpg?timestamp=2026-04-30_15-24-23",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/829498/5_829498.jpg?timestamp=2026-04-30_15-24-23",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            }
+          ],
+          "__typename": "ProductV2ModificationGroup"
+        }
+      ],
+      "__typename": "ProductModifications"
+    },
+    "description": {
+      "hasDescription": true,
+      "type": "DEFAULT",
+      "__typename": "ProductDescription"
+    },
+    "collection": {
+      "id": "827930",
+      "products": {
+        "pagination": {
+          "total": 0,
+          "__typename": "Pagination"
+        },
+        "__typename": "ProductV2Pagination"
+      },
+      "__typename": "ProductCollection"
+    },
+    "similar": {
+      "pagination": {
+        "total": 20,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "related": {
+      "pagination": {
+        "total": 20,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "accessories": [
+      {
+        "products": {
+          "pagination": {
+            "total": 3,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      }
+    ],
+    "rating": {
+      "average": 0,
+      "canRate": false,
+      "total": {
+        "all": 0,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 0,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "reviews": {
+      "total": 0,
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "bestCredit": {
+      "monthPayment": 1655,
+      "type": "DEFERRED_PAYMENT",
+      "__typename": "ProductBestCredit"
+    },
+    "isSpare": false,
+    "isService": false,
+    "isVipService": false,
+    "isGiftBonusCard": false,
+    "canBuy": true,
+    "canPayOnline": true,
+    "canRequestPrice": false,
+    "canShowPrice": true,
+    "canSubscribe": false,
+    "needPrepaymentForDelivery": false,
+    "needPrepaymentForPreorder": false,
+    "isSberSpasiboPayAvailable": true,
+    "isYandexPayAllowed": false,
+    "yandexSplit": {
+      "payments": [
+        {
+          "amount": 0,
+          "date": "2026-08-17T09:05:59+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 3312,
+          "date": "2026-08-31T09:05:59+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 3308,
+          "date": "2026-09-14T09:05:59+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 3308,
+          "date": "2026-09-28T09:05:59+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 3308,
+          "date": "2026-10-12T09:05:59+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 3308,
+          "date": "2026-10-26T09:05:59+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 3308,
+          "date": "2026-11-09T09:05:59+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 3308,
+          "date": "2026-11-23T09:05:59+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 3308,
+          "date": "2026-12-07T09:05:59+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 3308,
+          "date": "2026-12-21T09:05:59+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 3308,
+          "date": "2027-01-04T09:05:59+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 3308,
+          "date": "2027-01-18T09:05:59+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 3308,
+          "date": "2027-02-01T09:05:59+0300",
+          "__typename": "YandexSplitPayment"
+        }
+      ],
+      "firstPayment": 0,
+      "restPayment": 39700,
+      "description": "https://yandex.ru/support/split/",
+      "maxAmount": 295000,
+      "__typename": "YandexSplit"
+    },
+    "seo": {
+      "description": "Кондиционер Haier HSU-12HQJ103R3-W Quantum: купить в интернет-магазине Технопарк с расширенной гарантией и бесплатной доставкой по РФ. Подробные характеристики товара с отзывами реальных покупателей.",
+      "text": "Вы можете купить кондиционер Haier HSU-12HQJ103R3-W Quantum с доставкой по Москве по низкой цене. В интернет-магазине Technopark.ru осуществляется продажа кондиционера Haier HSU-12HQJ103R3-W Quantum на выгодных условиях.",
+      "textHidden": "",
+      "title": "Кондиционер Haier HSU-12HQJ103R3-W Quantum - купить в Москве в интернет-магазине Технопарк",
+      "__typename": "SeoData"
+    },
+    "breadcrumbs": [
+      {
+        "name": "Главная",
+        "url": "/",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Климатическая техника",
+        "url": "/klimaticheskaya-tehnika/",
+        "options": [
+          {
+            "name": "Центр инноваций",
+            "url": "/tovary-iz-budushchego/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Смартфоны и гаджеты",
+            "url": "/smartfony-i-gadzhety/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Компьютеры и ноутбуки",
+            "url": "/kompyutery-i-noutbuki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Крупная бытовая техника",
+            "url": "/krupnaya-bytovaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Техника для кухни",
+            "url": "/dlya-kuhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Бытовая техника для дома",
+            "url": "/dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для красоты и здоровья",
+            "url": "/krasota-i-zdorovye/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Спортивные товары",
+            "url": "/trenazhery-dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Телевизоры Аудио Hi-Fi",
+            "url": "/audio-video-foto/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для сада, дома и ремонта",
+            "url": "/dlya-sada-doma-i-remonta/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посуда",
+            "url": "/posuda/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Детские товары",
+            "url": "/detskie-tovary/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для гейминга",
+            "url": "/gaming/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Плоттеры и услуги розницы",
+            "url": "//",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Запасные части",
+            "url": "/zapasnie-chasti/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Кондиционеры",
+        "url": "/konditsionery/",
+        "options": [
+          {
+            "name": "Вентиляторы",
+            "url": "/ventilyatory/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мульти сплит-системы",
+            "url": "/multisplit-sistemy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Водонагреватели",
+            "url": "/vodonagrevateli/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Очиститель воздуха для квартиры и дома",
+            "url": "/ochistiteli-vozduha/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Увлажнители воздуха",
+            "url": "/uvlazhniteli-vozduha/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мойки воздуха",
+            "url": "/moyki-vozduha/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Ионизаторы воздуха",
+            "url": "/ionizatory-vozdukha/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Осушители воздуха",
+            "url": "/osushiteli/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрические обогреватели",
+            "url": "/obogrevateli-i-teplovye-zavesy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Тепловые пушки",
+            "url": "/teplovye-pushki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрические тепловые завесы",
+            "url": "/teplovye-zavesy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Камины",
+            "url": "/elektrokaminy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Метеостанции",
+            "url": "/tsifrovye-meteostantsii/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для очистителей воздуха",
+            "url": "/aksessuary-dlya-ochistiteley-vozduha/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для увлажнителей",
+            "url": "/aksessuary-dlya-uvlazhniteley/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для обогревателей",
+            "url": "/aksessuar-dlya-obogrevateley/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для электрокаминов ",
+            "url": "/aksessuary-dlya-elektrokaminov-/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для вентиляторов",
+            "url": "/aksessuary-dlya-ventilyatorov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для кондиционеров",
+            "url": "/filtry-dlya-klimata/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Кондиционеры Haier",
+        "url": "/konditsionery/haier/",
+        "options": [
+          {
+            "name": "QYRON",
+            "url": "/konditsionery/qyron/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Hisense",
+            "url": "/konditsionery/hisense/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "ROYAL Clima",
+            "url": "/konditsionery/royal_clima/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Funai",
+            "url": "/konditsionery/funai/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Loriot",
+            "url": "/konditsionery/loriot/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Midea",
+            "url": "/konditsionery/midea/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "LG",
+            "url": "/konditsionery/lg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Electrolux",
+            "url": "/konditsionery/electrolux/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Ishimatsu",
+            "url": "/konditsionery/ishimatsu/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Ballu",
+            "url": "/konditsionery/ballu/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "AQUA",
+            "url": "/konditsionery/aqua/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Panasonic",
+            "url": "/konditsionery/panasonic/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Casarte",
+            "url": "/konditsionery/casarte/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Mitsubishi Electric",
+            "url": "/konditsionery/mitsubishi_electric/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Pioneer",
+            "url": "/konditsionery/pioneer/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Aurum",
+            "url": "/konditsionery/aurum/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Breeon",
+            "url": "/konditsionery/breeon/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Akai",
+            "url": "/konditsionery/akai/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "AURUS",
+            "url": "/konditsionery/aurus/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Kentatsu",
+            "url": "/konditsionery/kentatsu/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "IGC",
+            "url": "/konditsionery/igc/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Hitachi",
+            "url": "/konditsionery/hitachi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Viomi",
+            "url": "/konditsionery/viomi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Suzuki",
+            "url": "/konditsionery/suzuki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "TCL",
+            "url": "/konditsionery/tcl/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Daikin",
+            "url": "/konditsionery/daikin/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "DAICHI",
+            "url": "/konditsionery/daichi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Samsung",
+            "url": "/konditsionery/samsung/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Dantex",
+            "url": "/konditsionery/dantex/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Bosch",
+            "url": "/konditsionery/bosch/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Mitsubishi Heavy Industries",
+            "url": "/konditsionery/mitsubishi_heavy_industries/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Shivaki",
+            "url": "/konditsionery/shivaki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Primera",
+            "url": "/konditsionery/primera/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "HitAir",
+            "url": "/konditsionery/hitair/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Evapolar",
+            "url": "/konditsionery/evapolar/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Abion",
+            "url": "/konditsionery/abion/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Toshiba",
+            "url": "/konditsionery/toshiba/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Mitsubishi",
+            "url": "/konditsionery/mitsubishi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Zanussi",
+            "url": "/konditsionery/zanussi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Fujiplus",
+            "url": "/konditsionery/fujiplus/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Haier HSU-12HQJ103R3-W Quantum",
+        "url": "konditsioner-haier-hsu-12hqj103r3-w-quantum-827930",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      }
+    ],
+    "isArchive": false,
+    "__typename": "ProductV2",
+    "isSberPayOneClickAllowed": false,
+    "isTinkoffPayOneClickAllowed": false,
+    "bonus": null
+  },
+  "details": {
+    "description": "<style> *{box-sizing:border-box;outline:0}body{font-family:'DINPro Technopark',Arial;font-size:14px;font-weight:400;font-display:swap;margin:0;overflow-x:hidden;position:relative;min-height:95vh;-webkit-tap-highlight-color:transparent}body.lock-scroll{overflow:hidden;position:fixed;right:0;left:0;bottom:0}@media (min-width:1192px){body.lock-scroll{position:relative}}@media screen and (max-device-width:480px){body{-webkit-text-size-adjust:none}}.label-for-seo{width:100%}.label-for-seo__span{display:none}a{color:#0093c4;text-decoration:none}.is-visible{display:block!important}.is-hidden{display:none!important}.is-visually-hidden{opacity:0!important;visibility:hidden!important;pointer-events:none!important}.is-link{color:#0093c4}.no-wrap{white-space:nowrap}.container{margin:auto;width:100%}@media (min-width:960px){.container{width:calc(100% - 48px)}}@media (min-width:1482px){.container{max-width:1397px}}.is-overflow-hidden{overflow:hidden}.is-mobile-not{display:none!important}@media (min-width:960px){.is-mobile-not{display:block!important}}@media (min-width:960px){.is-mobile-only{display:none!important}}@media (max-width:959px){.hide-phone{display:none}}@media (min-width:960px) and (max-width:1481px){.hide-tablet{display:none}}.is-hidden{display:none!important}.nowrap-text{white-space:nowrap}.textcenter{text-align:center}ul.list{margin:0;padding:6px 0 18px}@media (min-width:960px){ul.list{padding:6px 0 24px}}ul.list li{font-family:'DINPro Technopark',Arial;font-size:15px;font-weight:400;font-display:swap;color:#fff;line-height:20px;list-style:none;margin:0;padding-left:9px;position:relative}@media (min-width:960px){ul.list li{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:400;font-display:swap;line-height:21px;padding-left:26px}}ul.list>li:before{background-color:#fff;border-radius:50%;content:\"\";display:block;height:3px;left:0;position:absolute;top:10px;width:3px}@media (min-width:960px){ul.list>li:before{border-radius:0;height:1px;width:13px}}ul.list>li>ul{padding:6px 0 6px 15px}@media (min-width:960px){ul.list>li>ul{padding:3px 0 3px 4px}}ul.list>li>ul>li:before{background-color:rgba(255,255,255,.5)}ul.list>li>ul>li>ul{padding:6px 0 0 15px}@media (min-width:960px){ul.list>li>ul>li>ul{padding:3px 0 0 4px}}ul.list>li>ul>li>ul>li:before{background-color:rgba(255,255,255,.2)}ol.list{margin:0;padding:6px 0 18px;counter-reset:list1}@media (min-width:960px){ol.list{padding:6px 0 24px}}ol.list li{font-family:'DINPro Technopark',Arial;font-size:15px;font-weight:400;font-display:swap;color:#fff;line-height:20px;list-style:none;margin:0;padding-left:9px;position:relative}@media (min-width:960px){ol.list li{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:400;font-display:swap;line-height:21px;padding-left:26px}}ol.list>li{padding-left:24px}ol.list>li:before{counter-increment:list1;content:counter(list1) \". \";left:0;position:absolute}ol.list>li>ol{counter-reset:list2;padding:6px 0}@media (min-width:960px){ol.list>li>ol{padding:3px 0}}ol.list>li>ol>li{padding-left:42px}ol.list>li>ol>li:before{counter-increment:list2;content:counter(list1) \".\" counter(list2) \". \"}ol.list>li>ol>li>ol{counter-reset:list3}ol.list>li>ol>li>ol>li:before{counter-increment:list3;content:counter(list1) \".\" counter(list2) \".\" counter(list3) \". \"}ol.list--compact{padding:0}.list--line-interval li:not(:last-child){margin-bottom:1em}input::-ms-clear{display:none}input::-webkit-clear-button{display:none}@media (max-width:767px){.footer{padding-bottom:66px}}.page-container{margin:auto;padding:0 18px;width:100%}@media (min-width:960px){.page-container{padding:0 24px;width:100%}}@media (min-width:1482px){.page-container{width:1481px}}@media (min-width:960px){.page-container--extra-padding{padding:0 42px}}.default-container{width:100%;max-width:1481px;margin:auto;padding:0 12px}@media (min-width:960px){.default-container{padding:0 24px}}button,input,select,textarea{font-family:inherit;font-size:100%;margin:0}textarea{resize:none;overflow:auto}form{margin:0}button{color:inherit}dd,dl,dt{margin:0;padding:0}input[type=search]{-webkit-appearance:none}input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration,input[type=search]::-webkit-search-results-button,input[type=search]::-webkit-search-results-decoration{display:none}input:invalid{box-shadow:none}textarea:invalid{box-shadow:none}svg *{pointer-events:none}.product__desc{font-family:'DINPro Technopark',Arial;font-size:16px;font-weight:300;font-display:swap;color:#878787;display:none}.product__desc b{font-family:'DINPro Technopark',Arial;font-size:20px;font-weight:400;font-display:swap;color:#fff}.dyson-v10-picking,.dyson-v10-properties,.dyson-v10-wrapper,.dyson-v10-wrapper .dyson-v10__list span{color:#fff;padding:0 12px}@media (max-width:1154px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:170px}}@media (max-width:1100px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:270px}}@media (max-width:960px){.dyson-v10-picking .dyson-v10-properties1,.dyson-v10-properties .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10-properties1,.dyson-v10-wrapper .dyson-v10__list span .dyson-v10-properties1{margin-top:27px}}.dyson-v10-first-row li.dyson-v10-item{max-width:calc(100% / 3 - 10);padding-right:5px}@media (max-width:959px){.dyson-v10-first-row{flex-direction:column;align-items:flex-start}.dyson-v10-first-row li.dyson-v10-item{max-width:none}}@media (min-width:960px) and (max-width:1303px){.dyson-v10-first-row{flex-direction:column;align-items:flex-start}.dyson-v10-first-row li.dyson-v10-item{max-width:none}}.dyson-v10-chapter{text-align:center!important}.dyson-v10__list li.dyson-v10__list-item{background-size:contain;background-position:left} </style> <p>Haier Quantum — это настенный бытовой кондиционер белого цвета, имеющий компактные размеры и высокую производительность. Внутренний блок обладает скрытым LED дисплеем, на котором отображаются актуальные данные о работе. Есть функции таймера, самодиагностики, авторестарта.</p>  <h2>Особенности</h2>  <ul class=\"list\">    <li><b>Комфортный сон</b><br/>  Специальная программа автоматически контролирует температуру воздуха в помещении для создания наиболее благоприятных условий для сна. Постепенное повышение температуры в течение первых двух часов при охлаждении, с последующим поддержанием температуры на протяжении 6 часов, позволяет удерживать комфортный микроклимат во время вашего отдыха. При обогреве температура, наоборот, снижается на несколько градусов, а после завершения программы, автоматически отключает сплит-систему</li>  <li><b>24-часовой таймер</b><br/>  Работа по таймеру позволяет автоматически поддерживать заданные параметры воздуха в помещении</li>  <li><b>Скрытый LED-дисплей</b><br/>  Когда кондиционер выключен, LED-дисплей становится невидимым, сливаясь с лицевой панелью. Дисплей выдаёт всю основную информацию - заданную и текущую температуру, активный режим</li>  <li><b>Авторестарт</b><br/>  После выключения/включения устройство начинает работать по ранее заданным настройкам</li>  <li><b>Спиральный воздушный поток</b><br/>  Благодаря особому спиральному дизайну формируется восходящий поток. Таким образом холодный воздух не попадает на человека, а распределение температуры в помещении становится более равномерным</li>  <li><b>Регулирование горизонтальных жалюзи</b><br/>  Механическое регулирование горизонтальных жалюзи упрощает направление воздушного потока без дополнительных настроек</li>  <li><b>Антикоррозийное покрытие</b><br/>  Антикоррозийное покрытие Blue Fin продлевает срок службы наружного блока и поддерживает высокую эффективность теплообмена</li>  <li><b>Wi-Fi управление</b><br/>  Сплит-система оснащена встроенным Wi-Fi модулем и поддержкой голосового управления Яндекс Алиса, она позволяет легко управлять микроклиматом удалённо через приложение Evo или интеграции умного дома</li>    </ul>",
+    "descriptionType": "DEFAULT",
+    "descriptionBarcode": "2401100093516",
+    "descriptionBrand": "Haier",
+    "specifications": {
+      "short": [
+        {
+          "name": "Тип",
+          "value": "сплит-система",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Площадь помещения",
+          "value": "35 кв.м",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Мощность в режиме охлаждения",
+          "value": "3.2 кВт",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Мощность в режиме обогрева",
+          "value": "3.2 кВт",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "barcode": "2401100093516",
+      "country": "Китай",
+      "full": [
+        {
+          "name": "Основные характеристики",
+          "list": [
+            {
+              "name": "Тип",
+              "value": "сплит-система",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Размещение внутреннего блока",
+              "value": "настенный",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Площадь помещения",
+              "value": "35 кв.м",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип хладагента",
+              "value": "R-32",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Серия",
+              "value": "Quantum",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Производительность",
+          "list": [
+            {
+              "name": "Мощность в режиме охлаждения",
+              "value": "3.2 кВт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Мощность в режиме обогрева",
+              "value": "3.2 кВт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Расход воздуха внутреннего блока",
+              "value": "600 м3/ч",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Основные режимы",
+          "list": [
+            {
+              "name": "Охлаждение",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Обогрев",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Осушение воздуха",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автоматический режим",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вентиляция",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ночной режим",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тихий режим",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Функции",
+          "list": [
+            {
+              "name": "Таймер включения",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Таймер выключения",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Авторестарт",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Теплый пуск",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Обогрев при низких температурах",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Самоочистка",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Самодиагностика неисправностей",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Блокировка пульта ДУ",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Турбо режим",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Регулировка воздушного потока",
+          "list": [
+            {
+              "name": "Количество скоростей",
+              "value": "3",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автоматическое распределение воздушных потоков",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Регулировка силы воздушного потока",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Управление направлением воздушного потока (вверх/вниз)",
+              "value": "с пульта",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Управление направлением воздушного потока (влево/вправо)",
+              "value": "ручное",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Уровень шума",
+          "list": [
+            {
+              "name": "Максимальный уровень шума внутреннего блока",
+              "value": "39 дБ",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальный уровень шума внешнего блока",
+              "value": "51 дБ",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Фильтрация",
+          "list": [
+            {
+              "name": "Фильтр грубой очистки (сетчатый)",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Особенности",
+          "list": [
+            {
+              "name": "Тепловой насос",
+              "value": "нет",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Датчики",
+              "value": "температуры",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Защита от обмерзания наружного блока",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дополнительная информация",
+              "value": "покрытие теплообменника Blue Fin, спиральный воздушный поток",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Управление",
+          "list": [
+            {
+              "name": "Управление",
+              "value": "электронное, кнопочное",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Пульт ДУ",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Управление со смартфона",
+              "value": "да, подключение через Wi-Fi модуль",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Wi-Fi модуль",
+              "value": "встроенный",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Поддержка приложений",
+              "value": "Evo",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Голосовой ассистент",
+              "value": "Алиса",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Дисплей",
+          "list": [
+            {
+              "name": "Тип дисплея",
+              "value": "LED",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Расположение дисплея",
+              "value": "корпус, пульт",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Индикация",
+          "list": [
+            {
+              "name": "Индикация включения",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация режима работы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация температуры",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация неисправности",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Звуковые сигналы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Температурный режим работы",
+          "list": [
+            {
+              "name": "Минимальная рабочая температура при охлаждении",
+              "value": "18 °C",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная рабочая температура при охлаждении",
+              "value": "43 °C",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Минимальная рабочая температура при обогреве",
+              "value": "-7 °C",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная рабочая температура при обогреве",
+              "value": "24 °C",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Фреоновые магистрали",
+          "list": [
+            {
+              "name": "Максимальный перепад высоты магистрали",
+              "value": "10 м",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Максимальная длина магистрали",
+              "value": "15 м",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Диаметр жидкостной трубы",
+              "value": "6.35 мм",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Диаметр газовой трубы",
+              "value": "9.52 мм",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Электропитание",
+          "list": [
+            {
+              "name": "Потребляемая мощность при охлаждении",
+              "value": "1225 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Потребляемая мощность при обогреве",
+              "value": "995 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Класс энергоэффективности",
+              "value": "D",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Рабочий ток при охлаждении",
+              "value": "5.3 A",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Рабочий ток при обогреве",
+              "value": "4.3 A",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Рабочее напряжение",
+              "value": "230 B",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Рабочая частота",
+              "value": "50 Гц",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Корпус",
+          "list": [
+            {
+              "name": "Цвет",
+              "value": "белый",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет внешнего блока",
+              "value": "белый",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Антикоррозийное покрытие",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Комплектация",
+          "list": [
+            {
+              "name": "Пульт ДУ",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Набор аксессуаров для монтажа",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Заглушка",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дренажная трубка",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Инструкция",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Размеры и вес",
+          "list": [
+            {
+              "name": "Высота внутреннего блока",
+              "value": "29 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ширина внутреннего блока",
+              "value": "80.5 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Глубина внутреннего блока",
+              "value": "20 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вес внутреннего блока",
+              "value": "8.7 кг",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Высота внешнего блока",
+              "value": "46.3 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ширина внешнего блока",
+              "value": "66 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Глубина внешнего блока",
+              "value": "24.5 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вес внешнего блока",
+              "value": "24.1 кг",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        }
+      ],
+      "grossWeight": "36.6",
+      "netWeight": "32.8",
+      "height": "0.5",
+      "instructionUrl": "https://storage.yandexcloud.net/technopark.instructions/827930/instruction/instrukciya-konditsioner-haier-hsu-12hqj103r3-w-quantum-827930.pdf",
+      "length": "0.87",
+      "schemeUrl": null,
+      "warranty": "36",
+      "width": "0.48",
+      "__typename": "ProductV2Specifications"
+    },
+    "certificates": ["https://www.technopark.ru/bipublic/Cert/IG0G14CJ380T4B.pdf"],
+    "isManufacturerCountry": false,
+    "isSellerWarranty": false,
+    "reviews": {
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "total": 0,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "rating": {
+      "average": 0,
+      "canRate": false,
+      "total": {
+        "all": 0,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 0,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "isLoading": false
+  },
+  "shots": [
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/827930/1_827930.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/827930/1_827930.jpg?timestamp=2026-04-15_13-45-27"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/827930/2_827930.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/827930/2_827930.jpg?timestamp=2026-04-15_13-45-31"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/827930/3_827930.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/827930/3_827930.jpg?timestamp=2026-04-15_13-45-27"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/827930/4_827930.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/827930/4_827930.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/827930/5_827930.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/827930/5_827930.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/827930/6_827930.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/827930/6_827930.jpg?timestamp=2026-04-15_13-45-27"
+    ]
+  ],
+  "photos": [
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/konditsioner-haier-hsu-12hqj103r3-w-quantum-827930-1.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/konditsioner-haier-hsu-12hqj103r3-w-quantum-827930-2.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/konditsioner-haier-hsu-12hqj103r3-w-quantum-827930-3.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/konditsioner-haier-hsu-12hqj103r3-w-quantum-827930-4.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/konditsioner-haier-hsu-12hqj103r3-w-quantum-827930-5.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/konditsioner-haier-hsu-12hqj103r3-w-quantum-827930-6.jpg"
+  ]
+}

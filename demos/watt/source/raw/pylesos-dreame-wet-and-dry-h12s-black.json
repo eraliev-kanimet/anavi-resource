@@ -1,0 +1,1896 @@
+{
+  "shelf": "pylesosy",
+  "slug": "pylesos-dreame-wet-and-dry-h12s-black",
+  "product": {
+    "id": "733030",
+    "article": "168534",
+    "slug": "pylesos-dreame-wet-and-dry-h12s-black",
+    "hasSmartInstallments": false,
+    "isActive": true,
+    "name": {
+      "default": "Dreame Wet and Dry H12S Black (HHR30B)",
+      "full": "Вертикальный моющий пылесос Dreame Wet and Dry H12S Black (HHR30B)",
+      "pseudo": null,
+      "spare": null,
+      "fullWithoutSection": "Вертикальный моющий пылесос Dreame Wet and Dry H12S Black (HHR30B)",
+      "section": "Пылесос",
+      "__typename": "ProductName"
+    },
+    "price": {
+      "default": 25990,
+      "marketing": null,
+      "old": 37990,
+      "__typename": "ProductPrice"
+    },
+    "benefit": 12000,
+    "specifications": {
+      "short": [
+        {
+          "name": "Тип",
+          "value": "вертикальный",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Уборка",
+          "value": "сухая и влажная",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Мощность всасывания",
+          "value": "16000 Pa",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Пылесборник",
+          "value": "контейнер",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Количество насадок",
+          "value": "1",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "__typename": "ProductV2Specifications"
+    },
+    "labels": [
+      {
+        "name": "Бонусы Спасибо",
+        "type": "sberspasibo",
+        "items": [
+          {
+            "description": "",
+            "name": "Этот товар можно оплатить бонусами Спасибо от СберБанка",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Акция",
+        "type": "special_offer",
+        "items": [
+          {
+            "description": "",
+            "name": "Dreame — технологии комфорта с выгодой до 40%",
+            "url": "/action/dreame-tekhnologii-komforta-s-vygodoy-do-40/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Техника и электроника",
+            "url": "/action/vygodnaya-tsena/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      },
+      {
+        "name": "Рассрочка",
+        "type": "deferred_payment",
+        "items": [
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-6",
+            "url": "/pylesos-dreame-wet-and-dry-h12s-black/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-12",
+            "url": "/pylesos-dreame-wet-and-dry-h12s-black/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-18",
+            "url": "/pylesos-dreame-wet-and-dry-h12s-black/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-24",
+            "url": "/pylesos-dreame-wet-and-dry-h12s-black/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      }
+    ],
+    "labelsV2": [
+      {
+        "id": "8",
+        "name": "Бонусы Спасибо",
+        "code": "sberspasibo",
+        "mainColor": "#0C9C0C",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#0C9C0C",
+        "altTextColor": "#FFFFFF",
+        "borderAndTextColor": "#0C9C0C",
+        "items": [
+          {
+            "id": "12358",
+            "text": "Этот товар можно оплатить бонусами Спасибо от СберБанка ",
+            "buttonText": "Подробнее",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      },
+      {
+        "id": "5",
+        "name": "Выгода",
+        "code": "vygoda",
+        "mainColor": "#fd9600",
+        "mainTextColor": "#ffffff",
+        "altColor": "#fd9600",
+        "altTextColor": "#ffffff",
+        "borderAndTextColor": "#fd9600",
+        "items": [
+          {
+            "id": "76",
+            "text": "Выгода до 40%",
+            "buttonText": "Подробнее",
+            "url": "/action/dreame-tekhnologii-komforta-s-vygodoy-do-40/",
+            "__typename": "ProductLabelTextAndButtonItem"
+          },
+          {
+            "id": "932",
+            "text": "Выгодное предложение",
+            "buttonText": "Подробнее",
+            "url": "/action/vygodnaya-tsena/",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      }
+    ],
+    "status": {
+      "id": "IN_STOCK",
+      "name": "В наличии",
+      "type": "POSITIVE",
+      "__typename": "ProductStatus"
+    },
+    "brand": {
+      "code": "dreame",
+      "id": "290910",
+      "name": "Dreame",
+      "src": "https://cdn1.technopark.ru/technopark/photos_resized/section_brand_300_100/300_100/290910/1_290910.png",
+      "slug": "dreame",
+      "sections": [
+        {
+          "name": "Очистители воздуха Dreame",
+          "url": "/ochistiteli-vozduha/dreame/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3739660685/technopark/photos_resized/product/120_120/833543/1_833543.jpg?timestamp=2026-06-11_14-30-19",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1043552403/technopark/photos_resized/product/120_120/833543/2_833543.jpg?timestamp=2026-06-11_14-30-19",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3189848168/technopark/photos_resized/product/120_120/833543/3_833543.jpg?timestamp=2026-06-11_14-30-19",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1228171269/technopark/photos_resized/product/120_120/833543/4_833543.jpg?timestamp=2026-06-11_14-30-19",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3374713086/technopark/photos_resized/product/120_120/833543/5_833543.jpg?timestamp=2026-06-11_14-30-19",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Стиральные машины Dreame",
+          "url": "/stiralnye-mashiny/dreame/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3572027295/technopark/photos_resized/product/120_120/838376/1_838376.jpg?timestamp=2026-07-23_14-34-09",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2864581391/technopark/photos_resized/product/120_120/838376/2_838376.jpg?timestamp=2026-07-23_14-34-14",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1306631717/technopark/photos_resized/product/120_120/838376/3_838376.jpg?timestamp=2026-07-23_14-34-09",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/521172290/technopark/photos_resized/product/120_120/838376/4_838376.jpg?timestamp=2026-07-23_14-34-09",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2750414601/technopark/photos_resized/product/120_120/838376/5_838376.jpg?timestamp=2026-07-23_14-34-10",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/757471168/technopark/photos_resized/product/120_120/838376/6_838376.jpg?timestamp=2026-07-23_14-34-12",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Все аксессуары Dreame",
+          "url": "/aksessuary-krupnaya-bytovaya-tehnika/dreame/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1624879704/technopark/photos_resized/product/120_120/839906/1_839906.jpg?timestamp=2026-08-03_17-42-14",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2396509044/technopark/photos_resized/product/120_120/839906/2_839906.jpg?timestamp=2026-08-03_17-42-14",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4033261513/technopark/photos_resized/product/120_120/839906/3_839906.jpg?timestamp=2026-08-03_17-42-14",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2986127676/technopark/photos_resized/product/120_120/839906/4_839906.jpg?timestamp=2026-08-03_17-42-14",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Аксессуары для пылесосов Dreame",
+          "url": "/aksessuary-k-pylesosam/dreame/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1387447752/technopark/photos_resized/product/120_120/743893/1_743893.jpg?timestamp=2024-06-20_16-53-52",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/846548013/technopark/photos_resized/product/120_120/743893/2_743893.jpg?timestamp=2024-06-20_16-53-53",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Косметологические аппараты Dreame",
+          "url": "/pribor-dlya-ochistki-litsa/dreame/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1203536326/technopark/photos_resized/product/120_120/822672/1_822672.jpg?timestamp=2026-03-02_11-08-56",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1087456735/technopark/photos_resized/product/120_120/822672/2_822672.jpg?timestamp=2026-03-02_11-08-55",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2933859571/technopark/photos_resized/product/120_120/822672/3_822672.jpg?timestamp=2026-03-02_11-08-55",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1305232661/technopark/photos_resized/product/120_120/822672/4_822672.jpg?timestamp=2026-03-02_11-09-04",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2762989600/technopark/photos_resized/product/120_120/822672/5_822672.jpg?timestamp=2026-03-02_11-09-04",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/817606992/technopark/photos_resized/product/120_120/822672/6_822672.jpg?timestamp=2026-03-02_11-08-55",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3654816869/technopark/photos_resized/product/120_120/822672/7_822672.jpg?timestamp=2026-03-02_11-08-55",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1566652543/technopark/photos_resized/product/120_120/822672/8_822672.jpg?timestamp=2026-03-02_11-09-03",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2680714916/technopark/photos_resized/product/120_120/822672/9_822672.jpg?timestamp=2026-03-02_11-09-11",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/986412419/technopark/photos_resized/product/120_120/822672/10_822672.jpg?timestamp=2026-03-02_11-09-04",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2747409465/technopark/photos_resized/product/120_120/822672/11_822672.jpg?timestamp=2026-03-02_11-09-04",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Стайлеры Dreame",
+          "url": "/pribory-dlya-ukladki/dreame/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2523506914/technopark/photos_resized/product/120_120/759617/1_759617.jpg?timestamp=2025-10-23_11-25-05",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/459720915/technopark/photos_resized/product/120_120/759617/2_759617.jpg?timestamp=2025-10-23_11-24-54",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/589328002/technopark/photos_resized/product/120_120/759617/3_759617.jpg?timestamp=2025-10-23_11-24-56",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1103443451/technopark/photos_resized/product/120_120/759617/4_759617.jpg?timestamp=2025-10-23_11-23-59",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1970981124/technopark/photos_resized/product/120_120/759617/5_759617.jpg?timestamp=2025-10-23_11-24-52",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1029086170/technopark/photos_resized/product/120_120/759617/6_759617.jpg?timestamp=2025-10-23_11-24-57",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1681124874/technopark/photos_resized/product/120_120/759617/7_759617.jpg?timestamp=2025-10-23_11-23-59",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2793216252/technopark/photos_resized/product/120_120/759617/8_759617.jpg?timestamp=2025-10-23_11-23-58",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/918685037/technopark/photos_resized/product/120_120/759617/9_759617.jpg?timestamp=2025-10-23_11-23-58",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/322231964/technopark/photos_resized/product/120_120/759617/10_759617.jpg?timestamp=2025-10-23_11-23-59",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3639235602/technopark/photos_resized/product/120_120/759617/11_759617.jpg?timestamp=2025-10-23_11-26-21",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3393440695/technopark/photos_resized/product/120_120/759617/12_759617.jpg?timestamp=2025-10-23_11-24-56",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3838195420/technopark/photos_resized/product/120_120/759617/13_759617.jpg?timestamp=2025-10-23_11-24-11",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/379351092/technopark/photos_resized/product/120_120/759617/14_759617.jpg?timestamp=2025-10-23_11-25-09",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1637564578/technopark/photos_resized/product/120_120/759617/15_759617.jpg?timestamp=2025-10-23_11-25-09",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/180901872/technopark/photos_resized/product/120_120/759617/16_759617.jpg?timestamp=2025-10-23_11-24-11",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4170322200/technopark/photos_resized/product/120_120/759617/17_759617.jpg?timestamp=2025-10-23_11-25-09",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2110744422/technopark/photos_resized/product/120_120/759617/18_759617.jpg?timestamp=2025-10-23_11-24-11",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Газонокосилки Dreame",
+          "url": "/gazonokosilki/dreame/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2242132108/technopark/photos_resized/product/120_120/830924/1_830924.jpg?timestamp=2026-05-13_10-15-29",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3228750517/technopark/photos_resized/product/120_120/830924/2_830924.jpg?timestamp=2026-05-13_10-15-34",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2194275477/technopark/photos_resized/product/120_120/830924/3_830924.jpg?timestamp=2026-05-13_10-15-29",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/481126710/technopark/photos_resized/product/120_120/830924/4_830924.jpg?timestamp=2026-05-13_10-15-29",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4123970563/technopark/photos_resized/product/120_120/830924/5_830924.jpg?timestamp=2026-05-13_10-15-29",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1806326176/technopark/photos_resized/product/120_120/830924/6_830924.jpg?timestamp=2026-05-13_10-15-29",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Аксессуары для садовой техники Dreame",
+          "url": "/aksessuary-dlya-sadovoy-tekhniki/dreame/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3962296228/technopark/photos_resized/product/120_120/833841/1_833841.jpg?timestamp=2026-06-16_15-25-17",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Аксессуары для фенов и стайлеров Dreame",
+          "url": "/aksessuary-dlya-fenov-i-stajlerov/dreame/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1400476164/technopark/photos_resized/product/120_120/824483/1_824483.jpg?timestamp=2026-03-16_11-23-34",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        }
+      ],
+      "__typename": "Brand"
+    },
+    "section": {
+      "slug": "pylesosy",
+      "id": "893",
+      "name": "Все пылесосы",
+      "parents": [
+        {
+          "id": "892",
+          "name": "Для дома",
+          "depth": 1,
+          "__typename": "SectionTreeItem"
+        },
+        {
+          "id": "893",
+          "name": "Все пылесосы",
+          "depth": 2,
+          "__typename": "SectionTreeItem"
+        }
+      ],
+      "__typename": "Section"
+    },
+    "media": {
+      "gallery": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/733030/1_733030.jpg?timestamp=2025-08-06_14-54-47",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/733030/1_733030.jpg?timestamp=2025-08-06_14-55-25",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/733030/2_733030.jpg?timestamp=2025-08-06_14-54-48",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/733030/2_733030.jpg?timestamp=2025-08-06_14-55-31",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/733030/3_733030.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/733030/3_733030.jpg",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/733030/4_733030.jpg?timestamp=2025-08-06_14-55-03",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/733030/4_733030.jpg?timestamp=2025-08-06_14-55-31",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/733030/5_733030.jpg?timestamp=2025-08-06_14-54-47",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/733030/5_733030.jpg?timestamp=2025-08-06_14-55-31",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/733030/6_733030.jpg?timestamp=2025-08-06_14-55-15",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/733030/6_733030.jpg?timestamp=2025-08-06_14-55-31",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/733030/7_733030.jpg?timestamp=2025-08-06_14-54-48",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/733030/7_733030.jpg?timestamp=2025-08-06_14-55-36",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/733030/8_733030.jpg?timestamp=2025-08-06_14-55-00",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/733030/8_733030.jpg?timestamp=2025-08-06_14-55-40",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/733030/9_733030.jpg?timestamp=2025-08-06_14-55-05",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/733030/9_733030.jpg?timestamp=2025-08-06_14-55-39",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/733030/10_733030.jpg?timestamp=2025-08-06_14-55-01",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/733030/10_733030.jpg?timestamp=2025-08-06_14-55-37",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/733030/11_733030.jpg?timestamp=2025-08-06_14-55-16",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/733030/11_733030.jpg?timestamp=2025-08-06_14-55-32",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/733030/12_733030.jpg?timestamp=2025-08-06_14-55-01",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/733030/12_733030.jpg?timestamp=2025-08-06_14-55-36",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/733030/13_733030.jpg?timestamp=2025-08-06_14-55-17",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/733030/13_733030.jpg?timestamp=2025-08-06_14-55-43",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/733030/14_733030.jpg?timestamp=2025-08-06_14-55-15",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/733030/14_733030.jpg?timestamp=2025-08-06_14-55-43",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "interior": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior/1000_1000/733030/1_733030.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_interior_zoom/2500_2500/733030/1_733030.jpg",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "video": [],
+      "vkVideo": null,
+      "view3d": [],
+      "listing": {
+        "default": [
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/733030/1_733030.jpg?timestamp=2025-08-06_14-54-52",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/733030/2_733030.jpg?timestamp=2025-08-06_14-54-53",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/733030/3_733030.jpg?timestamp=2025-08-06_14-54-51",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/733030/4_733030.jpg?timestamp=2025-08-06_14-55-07",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/733030/5_733030.jpg?timestamp=2025-08-06_14-54-52",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/733030/6_733030.jpg?timestamp=2025-08-06_14-55-19",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/733030/7_733030.jpg?timestamp=2025-08-06_14-54-52",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/733030/8_733030.jpg?timestamp=2025-08-06_14-55-06",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/733030/9_733030.jpg?timestamp=2025-08-06_14-55-10",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/733030/10_733030.jpg?timestamp=2025-08-06_14-55-05",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/733030/11_733030.jpg?timestamp=2025-08-06_14-55-20",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/733030/12_733030.jpg?timestamp=2025-08-06_14-55-05",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/733030/13_733030.jpg?timestamp=2025-08-06_14-55-21",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/733030/14_733030.jpg?timestamp=2025-08-06_14-55-19",
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "ProductListing"
+      },
+      "__typename": "ProductV2Media"
+    },
+    "modifications": {
+      "bigBrother": null,
+      "groups": [],
+      "__typename": "ProductModifications"
+    },
+    "description": {
+      "hasDescription": false,
+      "type": "DEFAULT",
+      "__typename": "ProductDescription"
+    },
+    "collection": {
+      "id": "733030",
+      "products": {
+        "pagination": {
+          "total": 0,
+          "__typename": "Pagination"
+        },
+        "__typename": "ProductV2Pagination"
+      },
+      "__typename": "ProductCollection"
+    },
+    "similar": {
+      "pagination": {
+        "total": 24,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "related": {
+      "pagination": {
+        "total": 19,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "accessories": [
+      {
+        "products": {
+          "pagination": {
+            "total": 8,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 15,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      }
+    ],
+    "rating": {
+      "average": 5,
+      "canRate": false,
+      "total": {
+        "all": 6,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 6,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "reviews": {
+      "total": 6,
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "totalRecommendations": 1,
+      "__typename": "ProductReviews"
+    },
+    "bestCredit": {
+      "monthPayment": 1083,
+      "type": "DEFERRED_PAYMENT",
+      "__typename": "ProductBestCredit"
+    },
+    "isSpare": false,
+    "isService": false,
+    "isVipService": false,
+    "isGiftBonusCard": false,
+    "canBuy": true,
+    "canPayOnline": true,
+    "canRequestPrice": false,
+    "canShowPrice": true,
+    "canSubscribe": false,
+    "needPrepaymentForDelivery": false,
+    "needPrepaymentForPreorder": false,
+    "isSberSpasiboPayAvailable": true,
+    "isYandexPayAllowed": false,
+    "yandexSplit": {
+      "payments": [
+        {
+          "amount": 0,
+          "date": "2026-08-17T09:05:30+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2175,
+          "date": "2026-08-31T09:05:30+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2165,
+          "date": "2026-09-14T09:05:30+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2165,
+          "date": "2026-09-28T09:05:30+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2165,
+          "date": "2026-10-12T09:05:30+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2165,
+          "date": "2026-10-26T09:05:30+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2165,
+          "date": "2026-11-09T09:05:30+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2165,
+          "date": "2026-11-23T09:05:30+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2165,
+          "date": "2026-12-07T09:05:30+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2165,
+          "date": "2026-12-21T09:05:30+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2165,
+          "date": "2027-01-04T09:05:30+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2165,
+          "date": "2027-01-18T09:05:30+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2165,
+          "date": "2027-02-01T09:05:30+0300",
+          "__typename": "YandexSplitPayment"
+        }
+      ],
+      "firstPayment": 0,
+      "restPayment": 25990,
+      "description": "https://yandex.ru/support/split/",
+      "maxAmount": 295000,
+      "__typename": "YandexSplit"
+    },
+    "seo": {
+      "description": "Вертикальный моющий пылесос Dreame Wet and Dry H12S Black (HHR30B): купить в интернет-магазине Технопарк с расширенной гарантией и бесплатной доставкой по РФ. Подробные характеристики товара с отзывами реальных покупателей.",
+      "text": "Вы можете купить пылесос Dreame Wet and Dry H12S Black (HHR30B) с доставкой по Москве по низкой цене. В интернет-магазине Technopark.ru осуществляется продажа пылесоса Dreame Wet and Dry H12S Black (HHR30B) на выгодных условиях.",
+      "textHidden": "",
+      "title": "Вертикальный моющий пылесос Dreame Wet and Dry H12S Black (HHR30B) - купить в Москве в интернет-магазине Технопарк",
+      "__typename": "SeoData"
+    },
+    "breadcrumbs": [
+      {
+        "name": "Главная",
+        "url": "/",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Бытовая техника для дома",
+        "url": "/dlya-doma/",
+        "options": [
+          {
+            "name": "Центр инноваций",
+            "url": "/tovary-iz-budushchego/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Смартфоны и гаджеты",
+            "url": "/smartfony-i-gadzhety/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Компьютеры и ноутбуки",
+            "url": "/kompyutery-i-noutbuki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Климатическая техника",
+            "url": "/klimaticheskaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Крупная бытовая техника",
+            "url": "/krupnaya-bytovaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Техника для кухни",
+            "url": "/dlya-kuhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для красоты и здоровья",
+            "url": "/krasota-i-zdorovye/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Спортивные товары",
+            "url": "/trenazhery-dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Телевизоры Аудио Hi-Fi",
+            "url": "/audio-video-foto/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для сада, дома и ремонта",
+            "url": "/dlya-sada-doma-i-remonta/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посуда",
+            "url": "/posuda/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Детские товары",
+            "url": "/detskie-tovary/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для гейминга",
+            "url": "/gaming/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Плоттеры и услуги розницы",
+            "url": "//",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Запасные части",
+            "url": "/zapasnie-chasti/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Пылесосы",
+        "url": "/pylesosy/",
+        "options": [
+          {
+            "name": "Роботы-пылесосы",
+            "url": "/roboty-pylesosy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вертикальные пылесосы",
+            "url": "/vertikalnye-pylesosy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Стеклоочистители и роботы для мытья окон",
+            "url": "/moyschiki-okon/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Пароочистители",
+            "url": "/paroochistiteli/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Утюги",
+            "url": "/utyugi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вертикальные отпариватели",
+            "url": "/otparivateli-dlya-odezhdy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Гладильные системы",
+            "url": "/gladilnye-sistemy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Гладильные прессы",
+            "url": "/gladilnye-pressy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Швейные машинки",
+            "url": "/shveynye-mashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Оверлоки",
+            "url": "/overloki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Машинки для удаления катышков",
+            "url": "/mashinki-dlya-udaleniya-katyshkov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Гладильные доски",
+            "url": "/gladilnye-doski/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Полотенцесушители",
+            "url": "/polotentsesushiteli/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мыльницы",
+            "url": "/mylnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Стаканы для зубных щеток",
+            "url": "/stakany-dlya-zubnykh-shchetok/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Дозаторы для жидкого мыла",
+            "url": "/dozatory-dlya-zhidkogo-myla/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Органайзеры для раковины",
+            "url": "/organayzery-dlya-rakoviny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Органайзеры и полочки для душа",
+            "url": "/organayzery-i-polochki-dlya-dusha/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для ванной комнаты",
+            "url": "/aksessuary-dlya-vannoy-komnaty/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Контейнеры для хранения ватных палочек",
+            "url": "/konteynery-dlya-khraneniya-vatnykh-palochek/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Держатели для туалетной бумаги",
+            "url": "/derzhateli-dlya-tualetnoy-bumagi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Ершики для унитаза",
+            "url": "/yershiki-dlya-unitaza/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Фильтры для слива",
+            "url": "/filtry-dlya-sliva/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вёдра",
+            "url": "/vyedra/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вёдра для мусора",
+            "url": "/vedra-dlya-musora/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Щётки и губки для мытья посуды",
+            "url": "/shchyetki-dlya-mytya-posudy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Швабры и щётки",
+            "url": "/shvabry-i-shchyetki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Салфетки из микрофибры",
+            "url": "/salfetki-iz-mikrofibry/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Сушилки для обуви",
+            "url": "/sushilki-dlya-obuvi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Домашние сушилки для белья в квартире",
+            "url": "/sushilki-dlya-belya/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Корзины для белья",
+            "url": "/korziny-dlya-belya/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Коллекционные фигуры",
+            "url": "/kollektsionnye-figury/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Ароматы и диффузоры для дома",
+            "url": "/aromadispenser/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Сейфы и системы хранения",
+            "url": "/tovary-dlya-khraneniya/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для интерьера",
+            "url": "/tovary-dlya-interera/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Пледы",
+            "url": "/pledy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Органайзеры для хранения",
+            "url": "/organayzery-dlya-khraneniya/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для пылесосов",
+            "url": "/aksessuary-k-pylesosam/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для пароочистителей",
+            "url": "/aksessuary-k-paroochistitelam/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для моющих аппаратов",
+            "url": "/aksessuary-k-moyuschim-apparatam/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для утюгов и отпаривателей",
+            "url": "/aksessuary-k-utyugam/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для гладильных прессов",
+            "url": "/aksessuary-dlya-gladilnykh-pressov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Столы",
+            "url": "/stoly/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Стулья",
+            "url": "/stulya/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кресла",
+            "url": "/kresla/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Текстиль",
+            "url": "/tekstil/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для гардероба",
+            "url": "/akssesuary-dlya-garderoba/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары из кожи",
+            "url": "/aksessuary-iz-kozhi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Сумки",
+            "url": "/sumki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Чемоданы",
+            "url": "/chemodany/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вешалки",
+            "url": "/veshalka/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электронные подарочные карты",
+            "url": "/podarochnye-karty/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Пластиковые подарочные карты",
+            "url": "/podarochnye-karty-classic/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Пакеты",
+            "url": "/pakety/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Подложки для раковины",
+            "url": "/podlozhki-dlya-rakoviny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Зонты",
+            "url": "/zonty/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Горшки и кашпо",
+            "url": "/gorshki-i-kashpo/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электронные биде",
+            "url": "/elektronnye-bide/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Ковры",
+            "url": "/kovry/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Пылесосы Dreame",
+        "url": "/pylesosy/dreame/",
+        "options": [
+          {
+            "name": "BORK",
+            "url": "/pylesosy/bork/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Dyson",
+            "url": "/pylesosy/dyson/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "iRobot",
+            "url": "/pylesosy/irobot/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Miele",
+            "url": "/pylesosy/miele/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Karcher",
+            "url": "/pylesosy/karcher/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Polaris",
+            "url": "/pylesosy/polaris/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Kitfort",
+            "url": "/pylesosy/kitfort/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Roborock",
+            "url": "/pylesosy/roborock/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Trouver",
+            "url": "/pylesosy/trouver/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Xiaomi",
+            "url": "/pylesosy/xiaomi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Samsung",
+            "url": "/pylesosy/samsung/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Tefal",
+            "url": "/pylesosy/tefal/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Atvel",
+            "url": "/pylesosy/atvel/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Tineco",
+            "url": "/pylesosy/tineco/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "LG",
+            "url": "/pylesosy/lg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Libhof",
+            "url": "/pylesosy/libhof/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "QYRON",
+            "url": "/pylesosy/qyron/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Endever",
+            "url": "/pylesosy/endever/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Hyundai",
+            "url": "/pylesosy/hyundai/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Ecovacs",
+            "url": "/pylesosy/ecovacs/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Hobot",
+            "url": "/pylesosy/hobot/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Jimmy",
+            "url": "/pylesosy/jimmy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "HOTO",
+            "url": "/pylesosy/hoto/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Midea",
+            "url": "/pylesosy/midea/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "DOFFLER",
+            "url": "/pylesosy/doffler/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Kuppersbusch",
+            "url": "/pylesosy/kuppersbusch/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Eufy",
+            "url": "/pylesosy/eufy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Bosch",
+            "url": "/pylesosy/bosch/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Clatronic",
+            "url": "/pylesosy/clatronic/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "ProfiCare",
+            "url": "/pylesosy/proficare/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "iBoto",
+            "url": "/pylesosy/iboto/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Thomson",
+            "url": "/pylesosy/thomson/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Viomi",
+            "url": "/pylesosy/viomi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Smartmi",
+            "url": "/pylesosy/smartmi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Xbot",
+            "url": "/pylesosy/xbot/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Taurus",
+            "url": "/pylesosy/taurus/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Rowenta",
+            "url": "/pylesosy/rowenta/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Honor Choice",
+            "url": "/pylesosy/honor_choice/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "MIE",
+            "url": "/pylesosy/mie/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Brayer",
+            "url": "/pylesosy/brayer/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Haier",
+            "url": "/pylesosy/haier/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Tuarex",
+            "url": "/pylesosy/tuarex/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "DJI",
+            "url": "/pylesosy/dji/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Вертикальный моющий пылесос Dreame Wet and Dry H12S Black (HHR30B)",
+        "url": "pylesos-dreame-wet-and-dry-h12s-black",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      }
+    ],
+    "isArchive": false,
+    "__typename": "ProductV2",
+    "isSberPayOneClickAllowed": false,
+    "isTinkoffPayOneClickAllowed": false,
+    "bonus": null
+  },
+  "details": {
+    "description": "",
+    "descriptionType": "DEFAULT",
+    "descriptionBarcode": "6976233672106",
+    "descriptionBrand": "Dreame",
+    "specifications": {
+      "short": [
+        {
+          "name": "Тип",
+          "value": "вертикальный",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Уборка",
+          "value": "сухая и влажная",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Мощность всасывания",
+          "value": "16000 Pa",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Пылесборник",
+          "value": "контейнер",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Количество насадок",
+          "value": "1",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "barcode": "6976233672106",
+      "country": "Китай",
+      "full": [
+        {
+          "name": "Основные характеристики",
+          "list": [
+            {
+              "name": "Тип",
+              "value": "вертикальный",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Уборка",
+              "value": "сухая и влажная",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Потребляемая мощность",
+              "value": "300 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Мощность всасывания",
+              "value": "16000 Pa",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Пылесборник",
+              "value": "контейнер",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Объeм резервуара для воды",
+              "value": "0.9 л",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Объем резервуара для использованной воды",
+              "value": "0.7 л",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Уровень шума",
+              "value": "76 дБ",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Управление",
+          "list": [
+            {
+              "name": "Тип управления",
+              "value": "электронный",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Регулятор мощности",
+              "value": "на рукоятке",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дисплей",
+              "value": "цифровой, символьный",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Фильтрация воздуха",
+          "list": [
+            {
+              "name": "Фильтр тонкой очистки",
+              "value": "HEPA",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Система очистки фильтра",
+              "value": "ручная",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Насадки",
+          "list": [
+            {
+              "name": "Количество насадок",
+              "value": "1",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Электрощетка",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Режимы работы",
+          "list": [
+            {
+              "name": "Количество режимов работы",
+              "value": "3",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Режимы работы",
+              "value": "автоматический, турбо, впитывание влаги",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Голосовые оповещения",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Функция всасывания жидкости",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Ориентация в пространстве",
+          "list": [
+            {
+              "name": "Датчики и сенсоры",
+              "value": "датчик загрязнения",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Индикация",
+          "list": [
+            {
+              "name": "Индикация включения",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация режима работы",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикатор уровня зарядки аккумулятора",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Индикация зарядки",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Дополнительные характеристики",
+          "list": [
+            {
+              "name": "Самодиагностика неисправностей",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Парковка",
+              "value": "вертикальная",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дополнительная информация",
+              "value": "автоматическая очистка щётки на зарядной станции",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Комплектация",
+          "list": [
+            {
+              "name": "Подставка-зарядное устройство",
+              "value": "в комплекте",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Дополнительная комплектация",
+              "value": "запасная роликовая щётка, держатель для аксессуаров, сменный фильтр, чистящая щётка",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Инструкция",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Корпус",
+          "list": [
+            {
+              "name": "Цвет",
+              "value": "чёрный",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал корпуса",
+              "value": "пластик",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Питание",
+          "list": [
+            {
+              "name": "Источник питания",
+              "value": "аккумулятор",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Емкость аккумулятора",
+              "value": "4000 мАч",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Время работы от аккумулятора",
+              "value": "35 мин",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Время зарядки аккумулятора",
+              "value": "4 ч",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Размеры и вес",
+          "list": [
+            {
+              "name": "Вес",
+              "value": "4.8 кг",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        }
+      ],
+      "grossWeight": "8.64",
+      "netWeight": "4.9",
+      "height": "0.29",
+      "instructionUrl": "https://storage.yandexcloud.net/technopark.instructions/733030/instruction/instrukciya-pylesos-dreame-wet-and-dry-h12s-black.pdf",
+      "length": "0.32",
+      "schemeUrl": null,
+      "warranty": "12",
+      "width": "0.7",
+      "__typename": "ProductV2Specifications"
+    },
+    "certificates": ["https://www.technopark.ru/bipublic/Cert/I00HH3J2NJ7AF6.pdf"],
+    "isManufacturerCountry": false,
+    "isSellerWarranty": false,
+    "reviews": {
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "total": 6,
+      "totalRecommendations": 1,
+      "__typename": "ProductReviews"
+    },
+    "rating": {
+      "average": 5,
+      "canRate": false,
+      "total": {
+        "all": 6,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 6,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "isLoading": false
+  },
+  "shots": [
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/733030/1_733030.jpg?timestamp=2025-08-06_14-55-25",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/733030/1_733030.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/733030/1_733030.jpg?timestamp=2025-08-06_14-54-47"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/733030/2_733030.jpg?timestamp=2025-08-06_14-55-31",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/733030/2_733030.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/733030/2_733030.jpg?timestamp=2025-08-06_14-54-48"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/733030/3_733030.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/733030/3_733030.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/733030/3_733030.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/733030/4_733030.jpg?timestamp=2025-08-06_14-55-31",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/733030/4_733030.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/733030/4_733030.jpg?timestamp=2025-08-06_14-55-03"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/733030/5_733030.jpg?timestamp=2025-08-06_14-55-31",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/733030/5_733030.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/733030/5_733030.jpg?timestamp=2025-08-06_14-54-47"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/733030/6_733030.jpg?timestamp=2025-08-06_14-55-31",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/733030/6_733030.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/733030/6_733030.jpg?timestamp=2025-08-06_14-55-15"
+    ]
+  ],
+  "photos": [
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/pylesos-dreame-wet-and-dry-h12s-black-1.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/pylesos-dreame-wet-and-dry-h12s-black-2.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/pylesos-dreame-wet-and-dry-h12s-black-3.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/pylesos-dreame-wet-and-dry-h12s-black-4.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/pylesos-dreame-wet-and-dry-h12s-black-5.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/pylesos-dreame-wet-and-dry-h12s-black-6.jpg"
+  ]
+}

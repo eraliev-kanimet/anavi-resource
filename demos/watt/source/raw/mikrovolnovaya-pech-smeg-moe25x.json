@@ -1,0 +1,1622 @@
+{
+  "shelf": "mikrovolnovye-pechi",
+  "slug": "mikrovolnovaya-pech-smeg-moe25x",
+  "product": {
+    "id": "130720",
+    "article": "87270",
+    "slug": "mikrovolnovaya-pech-smeg-moe25x",
+    "hasSmartInstallments": false,
+    "isActive": true,
+    "name": {
+      "default": "Smeg MOE25X",
+      "full": "Микроволновая печь Smeg MOE25X",
+      "pseudo": null,
+      "spare": null,
+      "fullWithoutSection": "Smeg MOE25X",
+      "section": "Микроволновая печь",
+      "__typename": "ProductName"
+    },
+    "price": {
+      "default": 29990,
+      "marketing": null,
+      "old": null,
+      "__typename": "ProductPrice"
+    },
+    "benefit": null,
+    "specifications": {
+      "short": [
+        {
+          "name": "Мощность микроволн",
+          "value": "900 Вт",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Мощность гриля",
+          "value": "1000 Вт",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Внутренний объем",
+          "value": "25 л",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Диаметр поворотного столика",
+          "value": "31.5 см",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Тип управления",
+          "value": "электромеханическое",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "__typename": "ProductV2Specifications"
+    },
+    "labels": [
+      {
+        "name": "Рассрочка",
+        "type": "deferred_payment",
+        "items": [
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-6",
+            "url": "/mikrovolnovaya-pech-smeg-moe25x/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-12",
+            "url": "/mikrovolnovaya-pech-smeg-moe25x/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-18",
+            "url": "/mikrovolnovaya-pech-smeg-moe25x/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          },
+          {
+            "description": "",
+            "name": "Рассрочка без переплаты 0-0-24",
+            "url": "/mikrovolnovaya-pech-smeg-moe25x/v-rassrochku-ili-credit/",
+            "__typename": "ProductLabelItem"
+          }
+        ],
+        "__typename": "ProductLabel"
+      }
+    ],
+    "labelsV2": [
+      {
+        "id": "8",
+        "name": "Бонусы Спасибо",
+        "code": "sberspasibo",
+        "mainColor": "#0C9C0C",
+        "mainTextColor": "#FFFFFF",
+        "altColor": "#0C9C0C",
+        "altTextColor": "#FFFFFF",
+        "borderAndTextColor": "#0C9C0C",
+        "items": [
+          {
+            "id": "20589",
+            "text": "Этот товар можно оплатить бонусами Спасибо от СберБанка ",
+            "buttonText": "Подробнее",
+            "url": "/support/pay/#sber",
+            "__typename": "ProductLabelTextAndButtonItem"
+          }
+        ],
+        "__typename": "ProductLabelV2"
+      }
+    ],
+    "status": {
+      "id": "IN_STOCK",
+      "name": "В наличии",
+      "type": "POSITIVE",
+      "__typename": "ProductStatus"
+    },
+    "brand": {
+      "code": "smeg",
+      "id": "40283",
+      "name": "Smeg",
+      "src": "https://cdn1.technopark.ru/technopark/photos_resized/section_brand_300_100/300_100/40283/1_40283.png",
+      "slug": "smeg",
+      "sections": [
+        {
+          "name": "Мойки для кухни Smeg",
+          "url": "/moyki-dlya-kukhni/smeg/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/4185680820/technopark/photos_resized/product/120_120/667198/1_667198.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Морозильные камеры встраиваемые Smeg",
+          "url": "/vstraivaemye-morozilnye-kamery/smeg/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2373564139/technopark/photos_resized/product/120_120/805403/1_805403.jpg?timestamp=2025-10-07_16-29-21",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2489485226/technopark/photos_resized/product/120_120/805403/2_805403.jpg?timestamp=2025-10-07_16-29-26",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/342943569/technopark/photos_resized/product/120_120/805403/3_805403.jpg?timestamp=2025-10-07_16-29-19",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Стиральные машины встраиваемые Smeg",
+          "url": "/vstraivaemye-stiralnye-mashiny/smeg/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1237067717/technopark/photos_resized/product/120_120/279583/1_279583.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Сушильные машины Smeg",
+          "url": "/sushilnye-mashiny/smeg/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2688767296/technopark/photos_resized/product/120_120/764867/1_764867.jpg?timestamp=2024-10-25_15-30-37",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3611583958/technopark/photos_resized/product/120_120/764867/2_764867.jpg?timestamp=2024-10-25_15-30-38",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Вспениватели молока Smeg",
+          "url": "/vspenivateli-moloka/smeg/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3421485576/technopark/photos_resized/product/120_120/826062/1_826062.jpg?timestamp=2026-04-05_13-32-45",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2971928956/technopark/photos_resized/product/120_120/826062/2_826062.jpg?timestamp=2026-04-05_13-32-45",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1788890595/technopark/photos_resized/product/120_120/826062/3_826062.jpg?timestamp=2026-04-05_13-32-46",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2210654422/technopark/photos_resized/product/120_120/826062/4_826062.jpg?timestamp=2026-04-05_13-32-46",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/497515893/technopark/photos_resized/product/120_120/826062/5_826062.jpg?timestamp=2026-04-05_13-32-47",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/743937807/technopark/photos_resized/product/120_120/826062/6_826062.jpg?timestamp=2026-04-05_13-32-47",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3756624771/technopark/photos_resized/product/120_120/826062/7_826062.jpg?timestamp=2026-04-05_13-32-48",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1189141049/technopark/photos_resized/product/120_120/826062/8_826062.jpg?timestamp=2026-04-05_13-32-48",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Все аксессуары Smeg",
+          "url": "/aksessuary-krupnaya-bytovaya-tehnika/smeg/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/3415141281/technopark/photos_resized/product/120_120/669091/1_669091.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Кофемашины Smeg",
+          "url": "/kofemashiny/smeg/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1301295926/technopark/photos_resized/product/120_120/767000/1_767000.jpg?timestamp=2024-11-11_16-30-09",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1723687157/technopark/photos_resized/product/120_120/767000/2_767000.jpg?timestamp=2024-11-11_16-29-56",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3556026005/technopark/photos_resized/product/120_120/767000/3_767000.jpg?timestamp=2024-11-11_16-30-08",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/820496243/technopark/photos_resized/product/120_120/767000/4_767000.jpg?timestamp=2024-11-11_16-29-50",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1314307022/technopark/photos_resized/product/120_120/767000/5_767000.jpg?timestamp=2024-11-11_16-29-51",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/297422947/technopark/photos_resized/product/120_120/767000/6_767000.jpg?timestamp=2024-11-11_16-29-55",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1205925861/technopark/photos_resized/product/120_120/767000/7_767000.jpg?timestamp=2024-11-11_16-29-50",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1407633006/technopark/photos_resized/product/120_120/767000/8_767000.jpg?timestamp=2024-11-11_16-30-02",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Настольные плиты Smeg",
+          "url": "/induktsionnye-paneli/smeg/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/1027243513/technopark/photos_resized/product/120_120/759560/1_759560.jpg?timestamp=2024-09-17_11-50-07",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4139960100/technopark/photos_resized/product/120_120/759560/2_759560.jpg?timestamp=2024-09-17_11-50-06",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/3543407829/technopark/photos_resized/product/120_120/759560/3_759560.jpg?timestamp=2024-09-17_11-50-07",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/4277452206/technopark/photos_resized/product/120_120/759560/4_759560.jpg?timestamp=2024-09-17_11-50-20",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2754817091/technopark/photos_resized/product/120_120/759560/5_759560.jpg?timestamp=2024-09-17_11-50-07",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1245531503/technopark/photos_resized/product/120_120/759560/6_759560.jpg?timestamp=2024-09-17_11-50-07",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/1850449983/technopark/photos_resized/product/120_120/759560/7_759560.jpg?timestamp=2024-09-17_11-50-19",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/505500848/technopark/photos_resized/product/120_120/759560/8_759560.jpg?timestamp=2024-09-17_11-50-18",
+              "__typename": "Image"
+            },
+            {
+              "src": "https://cdn1.technopark.ru/2267546890/technopark/photos_resized/product/120_120/759560/9_759560.jpg?timestamp=2024-09-17_11-50-18",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        },
+        {
+          "name": "Стиральные машины с сушкой Smeg",
+          "url": "/stiralno-sushilnye-mashiny/smeg/",
+          "images": [
+            {
+              "src": "https://cdn1.technopark.ru/2192328427/technopark/photos_resized/product/120_120/277826/1_277826.jpg",
+              "__typename": "Image"
+            }
+          ],
+          "__typename": "SectionOfBrand"
+        }
+      ],
+      "__typename": "Brand"
+    },
+    "section": {
+      "slug": "mikrovolnovye-pechi",
+      "id": "906",
+      "name": "Микроволновые печи",
+      "parents": [
+        {
+          "id": "900",
+          "name": "Для кухни",
+          "depth": 1,
+          "__typename": "SectionTreeItem"
+        },
+        {
+          "id": "906",
+          "name": "Микроволновые печи",
+          "depth": 2,
+          "__typename": "SectionTreeItem"
+        }
+      ],
+      "__typename": "Section"
+    },
+    "media": {
+      "gallery": [
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/130720/1_130720.jpg?timestamp=2025-07-08_11-45-32",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/130720/1_130720.jpg?timestamp=2025-07-08_11-46-14",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/130720/2_130720.jpg?timestamp=2025-07-08_11-45-33",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/130720/2_130720.jpg?timestamp=2025-07-08_11-45-55",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/130720/3_130720.jpg?timestamp=2025-07-08_11-45-33",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/130720/3_130720.jpg",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/130720/4_130720.jpg?timestamp=2025-07-08_11-45-32",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/130720/4_130720.jpg?timestamp=2025-07-08_11-46-03",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/130720/5_130720.jpg",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/130720/5_130720.jpg?timestamp=2025-07-08_11-46-07",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/130720/6_130720.jpg?timestamp=2025-07-08_11-45-47",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/130720/6_130720.jpg?timestamp=2025-07-08_11-46-08",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/130720/7_130720.jpg?timestamp=2025-07-08_11-45-47",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/130720/7_130720.jpg?timestamp=2025-07-08_11-46-06",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        },
+        {
+          "medium": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/130720/8_130720.jpg?timestamp=2025-07-08_11-45-47",
+            "__typename": "Image"
+          },
+          "large": {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/130720/8_130720.jpg?timestamp=2025-07-08_11-46-11",
+            "__typename": "Image"
+          },
+          "__typename": "ProductGalleryImage"
+        }
+      ],
+      "interior": [],
+      "video": [],
+      "vkVideo": null,
+      "view3d": [],
+      "listing": {
+        "default": [
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/130720/1_130720.jpg?timestamp=2025-07-08_11-45-37",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/130720/2_130720.jpg?timestamp=2025-07-08_11-45-38",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/130720/3_130720.jpg?timestamp=2025-07-08_11-45-37",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/130720/4_130720.jpg?timestamp=2025-07-08_11-45-37",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/130720/5_130720.jpg?timestamp=2025-07-08_11-45-37",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/130720/6_130720.jpg?timestamp=2025-07-08_11-45-52",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/130720/7_130720.jpg?timestamp=2025-07-08_11-45-53",
+            "__typename": "Image"
+          },
+          {
+            "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/130720/8_130720.jpg?timestamp=2025-07-08_11-45-53",
+            "__typename": "Image"
+          }
+        ],
+        "__typename": "ProductListing"
+      },
+      "__typename": "ProductV2Media"
+    },
+    "modifications": {
+      "bigBrother": null,
+      "groups": [
+        {
+          "name": "Цвет",
+          "items": [
+            {
+              "value": "чёрный",
+              "product": {
+                "slug": "mikrovolnovaya-pech-smeg-moe25b",
+                "article": "150738",
+                "name": {
+                  "default": "Smeg MOE25B",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "IN_STOCK",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/651370/1_651370.jpg?timestamp=2025-07-17_08-11-58",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/651370/2_651370.jpg?timestamp=2025-07-17_08-11-41",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/651370/3_651370.jpg?timestamp=2025-07-17_08-11-40",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/651370/4_651370.jpg?timestamp=2025-07-17_08-11-57",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/651370/5_651370.jpg?timestamp=2025-07-17_08-11-41",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/651370/6_651370.jpg?timestamp=2025-07-17_08-11-39",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/651370/7_651370.jpg?timestamp=2025-07-17_08-11-39",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/651370/8_651370.jpg?timestamp=2025-07-17_08-11-56",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            },
+            {
+              "value": "нержавеющая сталь",
+              "product": {
+                "slug": "mikrovolnovaya-pech-smeg-moe25x",
+                "article": "87270",
+                "name": {
+                  "default": "Smeg MOE25X",
+                  "__typename": "ProductName"
+                },
+                "status": {
+                  "id": "IN_STOCK",
+                  "__typename": "ProductStatus"
+                },
+                "media": {
+                  "listing": {
+                    "default": [
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/130720/1_130720.jpg?timestamp=2025-07-08_11-45-37",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/130720/2_130720.jpg?timestamp=2025-07-08_11-45-38",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/130720/3_130720.jpg?timestamp=2025-07-08_11-45-37",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/130720/4_130720.jpg?timestamp=2025-07-08_11-45-37",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/130720/5_130720.jpg?timestamp=2025-07-08_11-45-37",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/130720/6_130720.jpg?timestamp=2025-07-08_11-45-52",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/130720/7_130720.jpg?timestamp=2025-07-08_11-45-53",
+                        "__typename": "Image"
+                      },
+                      {
+                        "src": "https://cdn1.technopark.ru/technopark/photos_resized/product/248_248/130720/8_130720.jpg?timestamp=2025-07-08_11-45-53",
+                        "__typename": "Image"
+                      }
+                    ],
+                    "__typename": "ProductListing"
+                  },
+                  "__typename": "ProductV2Media"
+                },
+                "__typename": "ProductV2"
+              },
+              "__typename": "ProductV2ModificationGroupItem"
+            }
+          ],
+          "__typename": "ProductV2ModificationGroup"
+        }
+      ],
+      "__typename": "ProductModifications"
+    },
+    "description": {
+      "hasDescription": false,
+      "type": "DEFAULT",
+      "__typename": "ProductDescription"
+    },
+    "collection": {
+      "id": "130720",
+      "products": {
+        "pagination": {
+          "total": 0,
+          "__typename": "Pagination"
+        },
+        "__typename": "ProductV2Pagination"
+      },
+      "__typename": "ProductCollection"
+    },
+    "similar": {
+      "pagination": {
+        "total": 23,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "related": {
+      "pagination": {
+        "total": 20,
+        "__typename": "Pagination"
+      },
+      "__typename": "ProductV2Pagination"
+    },
+    "accessories": [
+      {
+        "products": {
+          "pagination": {
+            "total": 1,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 5,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 5,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      },
+      {
+        "products": {
+          "pagination": {
+            "total": 19,
+            "__typename": "Pagination"
+          },
+          "__typename": "ProductV2Pagination"
+        },
+        "__typename": "ProductV2AccessoriesGroup"
+      }
+    ],
+    "rating": {
+      "average": 5,
+      "canRate": false,
+      "total": {
+        "all": 9,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 9,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "reviews": {
+      "total": 9,
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "bestCredit": {
+      "monthPayment": 1250,
+      "type": "DEFERRED_PAYMENT",
+      "__typename": "ProductBestCredit"
+    },
+    "isSpare": false,
+    "isService": false,
+    "isVipService": false,
+    "isGiftBonusCard": false,
+    "canBuy": true,
+    "canPayOnline": true,
+    "canRequestPrice": false,
+    "canShowPrice": true,
+    "canSubscribe": false,
+    "needPrepaymentForDelivery": false,
+    "needPrepaymentForPreorder": false,
+    "isSberSpasiboPayAvailable": true,
+    "isYandexPayAllowed": false,
+    "yandexSplit": {
+      "payments": [
+        {
+          "amount": 0,
+          "date": "2026-08-17T09:02:31+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2501,
+          "date": "2026-08-31T09:02:31+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2499,
+          "date": "2026-09-14T09:02:31+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2499,
+          "date": "2026-09-28T09:02:31+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2499,
+          "date": "2026-10-12T09:02:31+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2499,
+          "date": "2026-10-26T09:02:31+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2499,
+          "date": "2026-11-09T09:02:31+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2499,
+          "date": "2026-11-23T09:02:31+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2499,
+          "date": "2026-12-07T09:02:31+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2499,
+          "date": "2026-12-21T09:02:31+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2499,
+          "date": "2027-01-04T09:02:31+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2499,
+          "date": "2027-01-18T09:02:31+0300",
+          "__typename": "YandexSplitPayment"
+        },
+        {
+          "amount": 2499,
+          "date": "2027-02-01T09:02:31+0300",
+          "__typename": "YandexSplitPayment"
+        }
+      ],
+      "firstPayment": 0,
+      "restPayment": 29990,
+      "description": "https://yandex.ru/support/split/",
+      "maxAmount": 295000,
+      "__typename": "YandexSplit"
+    },
+    "seo": {
+      "description": "Микроволновая печь Smeg MOE25X: купить в интернет-магазине Технопарк с расширенной гарантией и бесплатной доставкой по РФ. Подробные характеристики товара с отзывами реальных покупателей.",
+      "text": "Вы можете купить микроволновую печь Smeg MOE25X с доставкой по Москве по низкой цене. В интернет-магазине Technopark.ru осуществляется продажа микроволновой печи Smeg MOE25X на выгодных условиях.",
+      "textHidden": "",
+      "title": "Микроволновая печь Smeg MOE25X - купить в Москве в интернет-магазине Технопарк",
+      "__typename": "SeoData"
+    },
+    "breadcrumbs": [
+      {
+        "name": "Главная",
+        "url": "/",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Техника для кухни",
+        "url": "/dlya-kuhni/",
+        "options": [
+          {
+            "name": "Центр инноваций",
+            "url": "/tovary-iz-budushchego/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Смартфоны и гаджеты",
+            "url": "/smartfony-i-gadzhety/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Компьютеры и ноутбуки",
+            "url": "/kompyutery-i-noutbuki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Климатическая техника",
+            "url": "/klimaticheskaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Крупная бытовая техника",
+            "url": "/krupnaya-bytovaya-tehnika/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Бытовая техника для дома",
+            "url": "/dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для красоты и здоровья",
+            "url": "/krasota-i-zdorovye/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Спортивные товары",
+            "url": "/trenazhery-dlya-doma/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Телевизоры Аудио Hi-Fi",
+            "url": "/audio-video-foto/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Для сада, дома и ремонта",
+            "url": "/dlya-sada-doma-i-remonta/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Посуда",
+            "url": "/posuda/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Детские товары",
+            "url": "/detskie-tovary/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для гейминга",
+            "url": "/gaming/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Плоттеры и услуги розницы",
+            "url": "//",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Запасные части",
+            "url": "/zapasnie-chasti/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Микроволновые печи",
+        "url": "/mikrovolnovye-pechi/",
+        "options": [
+          {
+            "name": "Аэрогрили",
+            "url": "/aerogrili/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мультиварки",
+            "url": "/multivarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мини-печи",
+            "url": "/mini-pechi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мультишефы BORK",
+            "url": "/multishefy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Миксеры и кухонные машины",
+            "url": "/miksery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрогрили",
+            "url": "/grili/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Уличные грили барбекю",
+            "url": "/ulichnye-grili-barbeku/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Фритюрницы",
+            "url": "/frityurnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Хлебопечки",
+            "url": "/hlebopechki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Пароварки",
+            "url": "/parovarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Настольные плиты",
+            "url": "/induktsionnye-paneli/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мороженицы",
+            "url": "/morozhenitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вакуумные упаковщики (вакууматоры)",
+            "url": "/vakuumnaya-upakovka/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Су виды",
+            "url": "/su-vidy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрические сковороды и воки",
+            "url": "/elektricheskie-skovorody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Автоматические кофемашины",
+            "url": "/kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кофеварки",
+            "url": "/kofevarki-i-kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кофейные станции",
+            "url": "/kofeynye-stantsii/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Капсульные кофемашины",
+            "url": "/kapsulnye-kofemashiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Гейзерные кофеварки для дома",
+            "url": "/gejzernye-kofevarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кофемолки",
+            "url": "/kofemolki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вспениватели молока",
+            "url": "/vspenivateli-moloka/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Товары для приготовления кофе",
+            "url": "/prigotovlenie-kofe/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрические чайники",
+            "url": "/chayniki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Соковыжималки",
+            "url": "/sokovyzhimalki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Термопоты",
+            "url": "/termopoty/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Декантеры",
+            "url": "/dekantery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кулеры для воды",
+            "url": "/kulery-dlya-vody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Льдогенераторы",
+            "url": "/ledogeneratory/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Системы газации напитков",
+            "url": "/sistema-gazatsii-napitkov/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мясорубки",
+            "url": "/myasorubki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Блендеры",
+            "url": "/blendery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные комбайны",
+            "url": "/kuhonnye-kombayny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные измельчители (чопперы)",
+            "url": "/kukhonnye-izmelchiteli/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Ломтерезки",
+            "url": "/lomterezki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Овощерезки",
+            "url": "/elektroterka/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Тостеры",
+            "url": "/tostery/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Вафельницы",
+            "url": "/vafelnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мультипекари",
+            "url": "/sendvichnitsi/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Яйцеварки",
+            "url": "/yaycevarki/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Блинницы",
+            "url": "/blinnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Йогуртницы",
+            "url": "/yogurtnitsy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Фильтры для воды под мойку",
+            "url": "/filtry-kuvshiny-dlya-ochistki-vody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Фильтры-кувшины для воды",
+            "url": "/filtry-kuvshiny/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для очистки воды",
+            "url": "/dlya-ochistki-vody/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Кухонные весы",
+            "url": "/kuhonnye-vesy/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Дегидраторы",
+            "url": "/sushki-dlya-ovoschey/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Аксессуары для кухни",
+            "url": "/aksessuary-dlya-kuhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Мойки для кухни",
+            "url": "/moyki-dlya-kukhni/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Электрошашлычницы",
+            "url": "/shashlychnitsa/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Микроволновые печи Smeg",
+        "url": "/mikrovolnovye-pechi/smeg/",
+        "options": [
+          {
+            "name": "BORK",
+            "url": "/mikrovolnovye-pechi/bork/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Hyundai",
+            "url": "/mikrovolnovye-pechi/hyundai/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Kuppersberg",
+            "url": "/mikrovolnovye-pechi/kuppersberg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Midea",
+            "url": "/mikrovolnovye-pechi/midea/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Maunfeld",
+            "url": "/mikrovolnovye-pechi/maunfeld/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "LG",
+            "url": "/mikrovolnovye-pechi/lg/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Toshiba",
+            "url": "/mikrovolnovye-pechi/toshiba/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Korting",
+            "url": "/mikrovolnovye-pechi/korting/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Samsung",
+            "url": "/mikrovolnovye-pechi/samsung/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Sharp",
+            "url": "/mikrovolnovye-pechi/sharp/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Gorenje",
+            "url": "/mikrovolnovye-pechi/gorenje/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Bosch",
+            "url": "/mikrovolnovye-pechi/bosch/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Horizont",
+            "url": "/mikrovolnovye-pechi/horizont/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Panasonic",
+            "url": "/mikrovolnovye-pechi/panasonic/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Brayer",
+            "url": "/mikrovolnovye-pechi/brayer/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Ardo",
+            "url": "/mikrovolnovye-pechi/ardo/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Rondell",
+            "url": "/mikrovolnovye-pechi/rondell/",
+            "__typename": "BreadcrumbsItemOption"
+          },
+          {
+            "name": "Libhof",
+            "url": "/mikrovolnovye-pechi/libhof/",
+            "__typename": "BreadcrumbsItemOption"
+          }
+        ],
+        "__typename": "BreadcrumbsItem"
+      },
+      {
+        "name": "Smeg MOE25X",
+        "url": "mikrovolnovaya-pech-smeg-moe25x",
+        "options": [],
+        "__typename": "BreadcrumbsItem"
+      }
+    ],
+    "isArchive": false,
+    "__typename": "ProductV2",
+    "isSberPayOneClickAllowed": false,
+    "isTinkoffPayOneClickAllowed": false,
+    "bonus": null
+  },
+  "details": {
+    "description": "",
+    "descriptionType": "DEFAULT",
+    "descriptionBarcode": "8017709237431",
+    "descriptionBrand": "Smeg",
+    "specifications": {
+      "short": [
+        {
+          "name": "Мощность микроволн",
+          "value": "900 Вт",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Мощность гриля",
+          "value": "1000 Вт",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Внутренний объем",
+          "value": "25 л",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Диаметр поворотного столика",
+          "value": "31.5 см",
+          "__typename": "ProductSpecificationsItem"
+        },
+        {
+          "name": "Тип управления",
+          "value": "электромеханическое",
+          "__typename": "ProductSpecificationsItem"
+        }
+      ],
+      "barcode": "8017709237431",
+      "country": "Китай",
+      "full": [
+        {
+          "name": "Основные характеристики",
+          "list": [
+            {
+              "name": "Тип",
+              "value": "отдельностоящая",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Мощность микроволн",
+              "value": "900 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Мощность гриля",
+              "value": "1000 Вт",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Внутренний объем",
+              "value": "25 л",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Внутреннее покрытие камеры",
+              "value": "керамическая эмаль",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Диаметр поворотного столика",
+              "value": "31.5 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Материал поворотного столика",
+              "value": "стекло",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет",
+              "value": "нержавеющая сталь",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Цвет фурнитуры",
+              "value": "серебристый",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Управление",
+          "list": [
+            {
+              "name": "Тип управления",
+              "value": "электромеханическое",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Переключатели",
+              "value": "кнопочные, поворотные",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип дисплея",
+              "value": "LED",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Таймер",
+              "value": "таймер с акустическим сигналом",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Звуковой таймер",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Часы",
+              "value": "электронные",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Режим работы",
+          "list": [
+            {
+              "name": "Количество режимов работы",
+              "value": "4",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Режимы работы",
+              "value": "микроволны, гриль, микроволны + гриль, размораживание",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Число режимов нагрева",
+              "value": "5",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Гриль",
+              "value": "есть",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Программа размораживания",
+              "value": "по времени, по весу",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество автоматических программ",
+              "value": "10",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество уровней приготовления",
+              "value": "1",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Быстрый старт",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Безопасность",
+          "list": [
+            {
+              "name": "Блокировка панели управления",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автоматическое отключение",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Автоматическое отключение при открытой дверце",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Мощность и энергопотребление",
+          "list": [
+            {
+              "name": "Потребляемая мощность",
+              "value": "1500 Вт",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Дополнительная информация",
+          "list": [
+            {
+              "name": "Внутреннее освещение",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип освещения",
+              "value": "светодиодное (LED)",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество ламп освещения",
+              "value": "1",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Способ открывания дверцы",
+              "value": "ручка",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Тип ручки",
+              "value": "наружная",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Направление открывания дверцы",
+              "value": "влево",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Количество стекол дверцы",
+              "value": "1 шт",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Комплектация",
+          "list": [
+            {
+              "name": "Комплект поставки",
+              "value": "решётка для гриля, тарелка для пиццы",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Сетевой кабель",
+              "value": "1 м",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Инструкция",
+              "value": "да",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        },
+        {
+          "name": "Размеры и вес",
+          "list": [
+            {
+              "name": "Высота",
+              "value": "30.4 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Ширина",
+              "value": "51.4 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Глубина",
+              "value": "43.2 см",
+              "__typename": "ProductSpecificationsItem"
+            },
+            {
+              "name": "Вес",
+              "value": "15 кг",
+              "__typename": "ProductSpecificationsItem"
+            }
+          ],
+          "__typename": "ProductSpecificationsGroup"
+        }
+      ],
+      "grossWeight": "16.7",
+      "netWeight": "15",
+      "height": "0.39",
+      "instructionUrl": "https://storage.yandexcloud.net/technopark.instructions/130720/instruction/instruction-mikrovolnovaya-pech-smeg-moe25x.pdf",
+      "length": "0.59",
+      "schemeUrl": null,
+      "warranty": "24",
+      "width": "0.48",
+      "__typename": "ProductV2Specifications"
+    },
+    "certificates": ["https://www.technopark.ru/bipublic/Cert/IG0G147QKRC1HH.pdf"],
+    "isManufacturerCountry": false,
+    "isSellerWarranty": false,
+    "reviews": {
+      "canAddReview": false,
+      "canAddRatedReview": false,
+      "total": 9,
+      "totalRecommendations": 0,
+      "__typename": "ProductReviews"
+    },
+    "rating": {
+      "average": 5,
+      "canRate": false,
+      "total": {
+        "all": 9,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 9,
+        "__typename": "RatingTotal"
+      },
+      "userRating": null,
+      "__typename": "ProductRating"
+    },
+    "isLoading": false
+  },
+  "shots": [
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/130720/1_130720.jpg?timestamp=2025-07-08_11-46-14",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/130720/1_130720.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/130720/1_130720.jpg?timestamp=2025-07-08_11-45-32"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/130720/2_130720.jpg?timestamp=2025-07-08_11-45-55",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/130720/2_130720.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/130720/2_130720.jpg?timestamp=2025-07-08_11-45-33"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/130720/3_130720.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/130720/3_130720.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/130720/3_130720.jpg?timestamp=2025-07-08_11-45-33"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/130720/4_130720.jpg?timestamp=2025-07-08_11-46-03",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/130720/4_130720.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/130720/4_130720.jpg?timestamp=2025-07-08_11-45-32"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/130720/5_130720.jpg?timestamp=2025-07-08_11-46-07",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/130720/5_130720.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/130720/5_130720.jpg"
+    ],
+    [
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/130720/6_130720.jpg?timestamp=2025-07-08_11-46-08",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product_zoom/2500_2500/130720/6_130720.jpg",
+      "https://cdn1.technopark.ru/technopark/photos_resized/product/1000_1000/130720/6_130720.jpg?timestamp=2025-07-08_11-45-47"
+    ]
+  ],
+  "photos": [
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/mikrovolnovaya-pech-smeg-moe25x-1.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/mikrovolnovaya-pech-smeg-moe25x-2.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/mikrovolnovaya-pech-smeg-moe25x-3.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/mikrovolnovaya-pech-smeg-moe25x-4.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/mikrovolnovaya-pech-smeg-moe25x-5.jpg",
+    "/home/kanimet/sss/anavi/code/backend/src/db/seed/watt/import/photos/mikrovolnovaya-pech-smeg-moe25x-6.jpg"
+  ]
+}
